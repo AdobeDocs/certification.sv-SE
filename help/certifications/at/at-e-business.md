@@ -5,9 +5,9 @@ solution: Target
 role: Developer
 badge: label="Exam AD0-E406" type="positive"
 mini-toc-levels: 1
-source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
+source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
 workflow-type: tm+mt
-source-wordcount: '1420'
+source-wordcount: '1422'
 ht-degree: 0%
 
 ---
@@ -218,4 +218,4 @@ Du kan använda verifikationskoden när du schemalägger provet. Om du har en ra
 
 Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Ytterligare frågor? E-post `certif@adobe.com`.
+Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.

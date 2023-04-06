@@ -4,9 +4,9 @@ description: Lär dig förnya Adobe [!DNL Journey Optimizer] certifiering innan 
 solution: Journey Optimizer
 role: Developer
 hidefromtoc: true
-source-git-commit: f281349011de9907a1de4c35e83999f29b1d62e4
+source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
@@ -28,4 +28,4 @@ Vi är glada att kunna meddela att du nu kan förnya din certifiering via ett ny
 
 Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Ytterligare frågor? E-post `certif@adobe.com`.
+Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.
