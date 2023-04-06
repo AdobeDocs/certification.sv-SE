@@ -5,9 +5,9 @@ solution: Analytics
 role: User
 badge: label="Exam AD0-E208" type="positive"
 mini-toc-levels: 1
-source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
+source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
 workflow-type: tm+mt
-source-wordcount: '1196'
+source-wordcount: '1194'
 ht-degree: 2%
 
 ---
@@ -67,14 +67,13 @@ Du borde ha:
 
 **Information om tentamen:**
 
->* **Nivå:** Expert (1-3 års erfarenhet)
->* **Lösenpoäng:** 31/50
->* **Tid:** 120 min
->* **Leverans:** Bearbetad online (kräver kameraåtkomst) eller >testcenter
->* **Tillgängliga språk:** Engelska
->* **Kostnad:** $225 (global) / $150 (Indien)
->* **Exam-ID:** AD0-E208
-
+* **Nivå:** Expert (1-3 års erfarenhet)
+* **Lösenpoäng:** 31/50
+* **Tid:** 120 min
+* **Leverans:** Bearbetad online (kräver kameraåtkomst) eller >testcenter
+* **Tillgängliga språk:** Engelska
+* **Kostnad:** $225 (global) / $150 (Indien)
+* **Exam-ID:** AD0-E208
 
 **Självbedömning av beredskap**
 
@@ -202,4 +201,4 @@ Du kan använda verifikationskoden när du schemalägger provet. Om du har en ra
 
 Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.
+Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.

@@ -4,9 +4,9 @@ description: Lär dig förnya Adobe [!DNL Campaign Standard] certifiering innan 
 solution: Campaign Standard
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
+source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
 workflow-type: tm+mt
-source-wordcount: '1493'
+source-wordcount: '1491'
 ht-degree: 10%
 
 ---
@@ -233,6 +233,6 @@ Klicka på &quot;[!DNL Campaign Standard] Förnyelse av utvecklare - länken AD5
 
 ## Frågor
 
-Har du en fråga om certifiering av Adobe? [Kontakta oss](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.
+Har du en fråga om certifiering av Adobe? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.
 
 Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.

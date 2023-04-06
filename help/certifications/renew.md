@@ -5,9 +5,9 @@ solution: Real-time Customer Data Platform
 role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
-source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
+source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
@@ -56,4 +56,4 @@ Du kan nu förnya din certifiering antingen via kontinuerlig inlärning eller ge
 
 Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.
+Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.

@@ -6,9 +6,9 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
+source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
 workflow-type: tm+mt
-source-wordcount: '5357'
+source-wordcount: '5355'
 ht-degree: 5%
 
 ---
@@ -738,4 +738,4 @@ Det här provet är kostnadsfritt, öppet och obearbetat. Du får ta tentamen up
 
 Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.
+Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.
