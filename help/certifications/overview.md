@@ -1,8 +1,9 @@
 ---
 title: Startsida för certifiering
 description: Läs mer om [!DNL Experience Cloud] Certifiering på Adobe. Ta reda på vad certifieringen kan göra för dig.
+role: User,Developer,Data Architect
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 0%

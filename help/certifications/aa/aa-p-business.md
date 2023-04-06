@@ -2,10 +2,11 @@
 title: Yrkescertifiering för affärsanvändare
 description: Lär dig hur du blir certifierad som [!DNL Adobe Analytics] Yrkesverksamma inom affärsverksamhet.
 solution: Analytics
-role: Developer
+product: Analytics
+role: User
 badge: label="Exam AD0-E212" type="positive"
 mini-toc-levels: 1
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
 source-wordcount: '874'
 ht-degree: 3%

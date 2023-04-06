@@ -1,11 +1,12 @@
 ---
 title: Certifiering av utvecklarexpert
-description: Lär dig hur du blir certifierad som [!DNL Adobe Analytics] Utvecklarexpert.
+description: Lär dig hur du blir certifierad som [!DNL Adobe Analytics] Developer Expert.
 solution: Analytics
+product: Analytics
 role: Developer
 badge: label="Exam AD0-E209" type="positive"
 mini-toc-levels: 1
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
 source-wordcount: '1082'
 ht-degree: 2%

@@ -1,11 +1,12 @@
 ---
 title: Certifiering för utvecklare
-description: Lär dig hur du blir en certifierad expert på Adobe Business Practitioner på [!DNL Experience Manager Sites].
+description: Lär dig hur du blir en certifierad expert på Adobe Business Practitioner i [!DNL Experience Manager Sites].
 solution: Experience Manager Sites
+product: Experience Manager
 role: Developer
 badge: label="Exam AD0-E123" type="positive"
 mini-toc-levels: 1
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
 source-wordcount: '812'
 ht-degree: 2%

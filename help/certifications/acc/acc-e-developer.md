@@ -2,10 +2,11 @@
 title: Certifiering av utvecklarexpert
 description: Lär dig bli en certifierad Adobe Developer-expert på [!DNL Campaign Classic].
 solution: Campaign Classic
+product: Campaign
 role: Developer
 badge: label="Exam AD0-E330" type="positive"
 mini-toc-levels: 1
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
 source-wordcount: '1350'
 ht-degree: 8%
