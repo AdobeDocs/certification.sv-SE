@@ -5,9 +5,9 @@ solution: Advertising
 role: Developer
 badge: label="Exam AD0-E502" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
 workflow-type: tm+mt
-source-wordcount: '780'
+source-wordcount: '776'
 ht-degree: 0%
 
 ---
@@ -25,10 +25,10 @@ Du borde ha:
 
 Bekanta dig med följande verktyg och tekniker:
 
-* Program för annonstestning/felsökning (t.ex. VAST INSPECTOR, utvecklingsverktyg för Chrome)
-* Analysverktyg (t.ex. Adobe Analytics, Google Analytics)
-* Programvara för tredjepartstaggning (t.ex. Sizmek, Google tagghanterare)
-* Mediekvalitetsverktyg från tredje part (t.ex. IAS, MOAT)
+* Program för annonstestning/felsökning (VAST INSPECTOR, utvecklingsverktyg för Chrome)
+* Analysverktyg (Adobe Analytics, Google Analytics)
+* Taggningsprogram från tredje part (Sizmek, Google tagghanterare)
+* Mediekvalitetsverktyg från tredje part (IAS, MOAT)
 * Större webbläsare
 * Annonsbörser, SSP och DMP
 

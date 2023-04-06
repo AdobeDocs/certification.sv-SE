@@ -5,9 +5,9 @@ solution: Campaign Standard
 role: Developer
 badge: label="Exam AD0-E306" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
 workflow-type: tm+mt
-source-wordcount: '1300'
+source-wordcount: '1301'
 ht-degree: 10%
 
 ---
@@ -21,7 +21,7 @@ Lär dig hur du blir en certifierad Adobe Developer-expert.
 Du borde ha:
 
 * Minst två års [!DNL Campaign] programvaruupplevelse
-* Minst två års relevant erfarenhet av flerkanaliga digitala marknadsföringskampanjer och webbutveckling (t.ex. REST API)
+* Minst två års relevant erfarenhet av flerkanaliga digitala marknadsföringskampanjer och webbutveckling (till exempel REST API)
 * Möjlighet att utföra uppgifter i Adobe Campaign, t.ex. mallutveckling, tekniska arbetsflöden, schemautveckling och integreringar, samt att övervaka instansen med hjälp av kontrollpanelen
 * Arbeta i en kanalmiljö (e-post, direktreklam, mobilt och socialt)
 * Förtrogenhet med marknadsföringskampanjer som multitouch, livscykeln och reaktivering

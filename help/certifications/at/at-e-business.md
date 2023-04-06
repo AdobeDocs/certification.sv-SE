@@ -5,9 +5,9 @@ solution: Target
 role: Developer
 badge: label="Exam AD0-E406" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
 workflow-type: tm+mt
-source-wordcount: '1421'
+source-wordcount: '1420'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Du borde ha:
 * Kunskap om statistiska begrepp och dataanalys när det gäller optimering
 * Ingående kunskap om trestegsarbetsflödet (upplevelser, målgruppsanpassning, mål och inställningar, inklusive alla rapportkällor)
 * Möjlighet att omvandla resultat från aktivitetsrapportering till användbara insikter och förslag
-* En förståelse för vilken inverkan förändrade tekniker har på Target (t.ex. ITP, GDPR/CCPA, SPA).
+* En förståelse för vilken inverkan förändrade tekniker har på Target (ITP, GDPR/CCPA, SPA).
 * En förståelse för hur rekommendationsaktiviteter kan användas som en lösning
 
 Dessutom bör du känna till följande tekniker och miljöer:

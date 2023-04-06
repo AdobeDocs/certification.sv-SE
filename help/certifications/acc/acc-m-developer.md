@@ -5,9 +5,9 @@ solution: Campaign Classic
 role: Architect
 badge: label="Exam AD0-E328" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
 workflow-type: tm+mt
-source-wordcount: '1118'
+source-wordcount: '1119'
 ht-degree: 8%
 
 ---
@@ -34,7 +34,7 @@ Du borde ha:
 * Möjlighet att beskriva och visa produktfunktioner
 * Möjlighet att mappa produktfunktioner till höganvändningsfall
 * Upplevelser som stöder team före försäljningen
-* Möjlighet att erbjuda kodning på skrivbordet (t.ex. bästa praxis för produkten, rapportering m.m.)
+* Möjlighet att erbjuda kodning på datorsidan (bästa praxis för produkten, rapportering, statistik osv.)
 * Upplevelse som beskriver skillnaderna mellan distributionsmodeller
 
 >[!NOTE]

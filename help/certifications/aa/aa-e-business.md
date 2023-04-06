@@ -5,9 +5,9 @@ solution: Analytics
 role: Developer
 badge: label="Exam AD0-E208" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
 workflow-type: tm+mt
-source-wordcount: '1192'
+source-wordcount: '1194'
 ht-degree: 2%
 
 ---
@@ -67,13 +67,14 @@ Du borde ha:
 
 **Information om tentamen:**
 
-* Nivå: Expert (1-3 års erfarenhet)
-* Lösenpoäng: 31/50
-* Tid: 120 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller testcenter
-* Tillgängliga språk: Engelska
-* Kostnad: $225 (global) / $150 (Indien)
-* Exam-ID: AD0-E208
+>* **Nivå:** Expert (1-3 års erfarenhet)
+>* **Lösenpoäng:** 31/50
+>* **Tid:** 120 min
+>* **Leverans:** Bearbetad online (kräver kameraåtkomst) eller >testcenter
+>* **Tillgängliga språk:** Engelska
+>* **Kostnad:** $225 (global) / $150 (Indien)
+>* **Exam-ID:** AD0-E208
+
 
 **Självbedömning av beredskap**
 

@@ -5,9 +5,9 @@ solution: Analytics
 role: Developer
 badge: label="Exam AD0-E209" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
 workflow-type: tm+mt
-source-wordcount: '1081'
+source-wordcount: '1082'
 ht-degree: 2%
 
 ---
@@ -41,7 +41,7 @@ Verktyg:
 Miljöer:
 
 * Framtidsmiljöer för webbutveckling
-* Kunskap om mobilapplikationer (begränsningar och skillnader, t.ex. varför den är annorlunda än webben)
+* Kunskap om mobilapplikationer (begränsningar och skillnader, till exempel varför det är annorlunda än webben)
 * Den digitala marknadsföringens område
 * Minimal kunskap om backend-utvecklingsmiljöer som PC, Mac, Android/iOS (grundläggande funktioner, inte utveckling)
 

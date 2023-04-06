@@ -5,9 +5,9 @@ solution: Experience Manager Sites
 role: Developer
 badge: label="Exam AD0-E117" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
 workflow-type: tm+mt
-source-wordcount: '1593'
+source-wordcount: '1594'
 ht-degree: 7%
 
 ---
@@ -41,7 +41,7 @@ Dessutom bör du kunna utföra följande uppgifter:
 * Skapa och leverera infrastruktur-/driftsättningsdiagram
 * Identifiera informationsmodeller som ska användas med AEM program
 * Definiera säkerhetsmodeller och begrepp för autentisering och auktorisering
-* Fastställa beständighetsmodeller baserat på kundernas krav (t.ex. binär lagring, driftsättningsscenario etc.)
+* Fastställ beständighetsmodeller baserat på kundernas krav (binär lagring, driftsättningsscenario och så vidare)
 * Utforma arbetsflödesmodeller för affärsprocesser
 * Fastställa strategier för plattformsprestanda och penetration/säkerhetstestning
 * Återanvänd innehåll i flera kanaler
