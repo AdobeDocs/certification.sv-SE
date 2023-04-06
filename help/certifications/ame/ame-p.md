@@ -1,0 +1,194 @@
+---
+title: Professionell certifiering
+description: Lär dig hur du blir certifierad Adobe [!DNL Marketo Engage] Professional.
+solution: Marketo Engage
+role: Developer
+badge: label="Exam AD0-E555" type="positive"
+mini-toc-levels: 1
+source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+workflow-type: tm+mt
+source-wordcount: '1068'
+ht-degree: 0%
+
+---
+
+# Certifieringsresa för Adobe [!DNL Marketo Engage] Professional
+
+Lär dig hur du blir certifierad Adobe [!DNL Marketo] Professional.
+
+## Minimal upplevelse
+
+Du borde ha:
+
+* Ungefär 6 månaders praktisk erfarenhet
+* Förmåga att förstå de marknadsföringsbehov som uppgiftskrav innebär för att kunna använda en teknisk lösning
+* Möjlighet att bygga ett enkelt program från början till slut
+* Möjlighet att skapa en smart lista och smart kampanj
+* Kunskap om hur man skapar segmenteringar
+* En förståelse för datagranskning (rensning)
+* En förståelse för Database (How to create people, Activity Log, unsubscribe, blockeringslista, email invalid concepts)
+* Förmågan att förstå vikten av sekretesslagstiftning
+* Förståelse för e-postmarknadsföring
+
+Och du bör känna till följande verktyg och tekniker:
+
+* Adobe [!DNL Marketo Engage]
+* Excel- eller Google-blad/dokument
+
+>[!NOTE]
+>
+>Din certifiering gäller i två år från och med när du godkänns. Vi rekommenderar att du använder den nyare versionen när det är möjligt eftersom den omfattar nyare produktfunktioner.
+
+>[!BEGINTABS]
+
+>[!TAB Gör dig redo]
+
+**Målgrupp:**
+
+* Kampanjverksamhetens specialist/koordinator
+* Database Marketing Manager / Specialist / Coordinator
+* Roller för efterfrågegenerering
+* Digital Marketing Specialist
+* E-postmarknadsförare/koordinatorer
+* Evenemangsorganisatörer/koordinatorer
+* Roller för marknadsföringsautomatisering
+* Roller för marknadsföringsgenerering
+* Roller för marknadsföringskampanj
+* Roller för marknadsföringskommunikation
+* Marknadsföringsspecialist/koordinator
+* Marknadsföringsteknikens koordinator/specialist/Associate
+* Medlemmar i marknadsföringsteam
+
+**Information om tentamen:**
+
+```
+Level: Professional (0-12 months' experience)
+Passing Score: 36/55
+Time: 110 mins
+Delivery: Online proctored (requires camera access) or test center proctored
+Available languages: English
+Cost: $125 (global) / $95 (India)
+Exam ID: AD0-E555
+```
+
+**Självbedömning av beredskap**
+
+Slutför [onlineberedskapsenkät](https://scorpion.caveon.com/launchpad/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam){target="_blank"} för att se om din nuvarande upplevelse matchar den rekommenderade lägsta kandidatkvalificeringen.
+
+**Mål och omfattning för tentamen**
+
+Avsnitt 1: Bygga och hantera program (39 %)
+
+* Ange en lämplig rapporteringsstrategi för att utföra en analys utifrån ett affärsbehov/fråga
+* Analysera data för att besvara affärsfrågor
+* Identifiera konverteringsfunktioner (som ett koncept för att förstå affärsanalyser)
+* Läs i Solution Design Reference (SDR) för att se vilka data som är tillgängliga i rapporter
+* Analysera rapportdata för att sammanfatta och dra slutsatser
+* Känn igen avvikelser och avvikelser i rapporter
+
+Avsnitt 2: Byggtillgångar (19 %)
+
+* Hantera filer i Design Studio (överföra/ersätta bilder och filer).
+* Skapa/ändra ett formulär med Formulärredigeraren.
+* Skapa/redigera ett e-postmeddelande med e-postredigeraren.
+* Skapa/redigera en landningssida med Landing Page Editor.
+* Skapa/redigera ett fragment i fragmentredigeraren.
+* Skilj skillnaden mellan utkast och godkända tillgångar.
+* Skilj skillnaden mellan lokala och globala resurser.
+
+Avsnitt 3: Definiera och inrikta er på målgrupper (33 %)
+
+* Skapa/ändra smarta listor.
+* Förstå flödesstegen för Smart Campaign.
+* Lär dig att schemalägga och/eller aktivera smarta kampanjer.
+* Tolka resultaten av Smart Campaign.
+* Beskriv syftet med en segmentering och dess användning.
+* Identifiera och navigera i databasen.
+* Förklara hur du anger sekretessinställningar i Adobe [!DNL Marketo Engage].
+* Skillnaden mellan smarta listor och statiska listor.
+* Definiera systemsmarta listor.
+* Jämför och kontrastera de olika typerna av smarta kampanjer.
+* Förstå hur Smart Campaign triggar och filtrerar arbetet.
+* Differentiera de olika listimporterna.
+
+Avsnitt 4: Analysera och skapa rapporter (9 %)
+
+* Förklara standarden Adobe [!DNL Marketo Engage] rapporter och när de ska användas (e-postlänkens prestanda, e-postprestanda, landningssidans prestanda, personprestanda, programprestanda, webbsidans aktivitet osv.)
+* Sammanställ information och mätvärden på kontrollpanelen (Email Program Dashboard, Engagement Program Dashboard)
+* Jämför mätvärden för e-postinsikter
+
+>[!TAB Förbered]
+
+Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
+
+Här följer några förslag på resurser som hjälper dig att förbereda dig:
+
+**Exempelfrågor**
+
+Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer att stöta på i provet. Ingen inloggning behövs. Resultaten av exempelfrågorna lagras inte och du kan inte förutsäga dina faktiska testresultat.
+
+[Se exempelfrågor](https://scorpion.caveon.com/launchpad/ad0-e555-adobe-marketo-engage-professional-copy-nppnkv){target="_blank"}
+
+**Avsnitt 1: Bygga och hantera program**
+
+* [Förstå program](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html){target="_blank"}
+* [Om e-postprogram](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html){target="_blank"}
+* [Förstå engagemangsprogram](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.html){target="_blank"}
+* [Om händelseprogram](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/understanding-event-programs.html){target="_blank"}
+* [Förstå mina token i ett program](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.html){target="_blank"}
+* [Marketo-ordlista](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/marketo-glossary.html){target="_blank"}
+* [Förstå programmedlemskap](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.html){target="_blank"}
+
+**Avsnitt 2: Bygga resurser**
+
+* [Förstå en lokal resurs i ett program](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.html){target="_blank"}
+* [Skapa ett formulär](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/create-a-form.html){target="_blank"}
+* [Översikt över token](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.html){target="_blank"}
+* [Förstå landningssida](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.html){target="_blank"}
+
+**Avsnitt 3: Definiera och inrikta er på målgrupper**
+
+* [Om smarta kampanjer](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html){target="_blank"}
+* [Bästa praxis för smarta listor](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/best-practices-for-smart-lists.html?lang=en){target="_blank"}
+* [Skapa en segmentering](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.html){target="_blank"}
+* [Dynamiskt innehåll](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.html){target="_blank"}
+
+**Avsnitt 4: Analysera och skapa rapporter**
+
+* [Skapa en rapport i ett program](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.html){target="_blank"}
+* [Smarta listor](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.html){target="_blank"}
+* [Översikt över rapporttyp](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html){target="_blank"}
+* [Hantera rapportprenumerationer](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.html){target="_blank"}
+
+>[!TAB Bli certifierad]
+
+>[!IMPORTANT]
+>
+>Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](http://www.certmetrics.com/adobe){target="_blank"}.
+
+**Nu när du har loggat in är följande länkar direkt tillgängliga.**
+
+**Gör en certifieringstest**
+
+Adobe använder två leverantörer för att administrera proffsiga tentamina, PSI och Examity.
+
+* **PSI** erbjuder testcenter och japanska tentamina (där det finns tillgängligt)
+* **[!DNL Examity]** erbjuder ett fjärranslutet alternativ
+
+Om du vill schemalägga, schemalägga om eller avbryta din tentamen klickar du bara på valfri leverantör och följer instruktionerna på skärmen. Så enkelt är det!
+
+### Provnummer: AD0-E555
+
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E555 newtab=true"}[!BADGE Underbarhet]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E555 newtab=true"}
+
+Du kan betala för ditt certifieringsprov med hjälp av verifikation eller kreditkort. Om du vill köpa en provvoucher går du till: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}.
+
+Du kan använda verifikationskoden när du schemalägger provet. Om du har en rabatt gäller den i kassan.
+
+>[!ENDTABS]
+
+**Frågor**
+
+Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+
+Ytterligare frågor? E-post `certif@adobe.com`.

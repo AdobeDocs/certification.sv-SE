@@ -1,0 +1,172 @@
+---
+title: Förbättrad certifiering av Connector Expert
+description: Lär dig hur du blir en certifierad Adobe-certifierad expert i Adobe [!DNL Workfront] for [!DNL Experience Manager]
+solution: Workfront
+role: Developer
+badge: label="Exam AD0-E906" type="positive"
+mini-toc-levels: 1
+source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+workflow-type: tm+mt
+source-wordcount: '944'
+ht-degree: 0%
+
+---
+
+# Certifieringsresa för Adobe [!DNL Workfront] for [!DNL Experience Manager] Förbättrad Connector Expert
+
+Lär dig hur du blir en certifierad Adobe-certifierad expert.
+
+## Minimal upplevelse
+
+Du borde ha uppnått ett eller flera av följande certifikat:
+
+* AEM Assets Developer Certified Expert
+* AEM Sites Developer Certified Expert
+* [!DNL Workfront] Core Developer Certified Expert
+
+Och du borde ha:
+
+* 1+ års CMS-upplevelse
+* 1+ års AEM
+* 1+ år [!DNL Workfront] upplevelse
+* 2+ års Java/J2EE-utvecklarupplevelse
+* Samarkitekturerad minst en AEM
+* Arbeta direkt med kunderna för att ta fram skräddarsydda lösningar
+* En förståelse för taxonomier och AEM, AEM arbetsflöden, JCR, Sling, OSGi och databaser
+* Kunskap om bästa praxis inom arbetsledning
+
+>[!NOTE]
+>
+>Din certifiering gäller i två år från och med när du godkänns. Vi rekommenderar att du använder den nyare versionen när det är möjligt eftersom den omfattar nyare produktfunktioner.
+
+>[!BEGINTABS]
+
+>[!TAB Gör dig redo]
+
+**Målgrupp:**
+
+* Konsulter för partnerlösningar
+* Implementeringsspecialister
+* Integrationsspecialister
+* Utvecklare eller arkitekter
+
+**Information om tentamen:**
+
+```
+Level: Expert (1-3 years' experience)
+Passing Score: 34/55
+Time: 110 mins
+Delivery: Online proctored (requires camera access) or test center proctored
+Available languages: English
+Cost: $225 (global) / $150 (India)
+Exam ID: AD0-E906
+```
+
+**Mål och omfattning för tentamen**
+
+Avsnitt 1: Tekniska krav (25 %)
+
+* Använd [!DNL Workfront] Anpassad Forms
+* Visa dokumenthantering för ett scenario
+* Uppvisa kunskap om hur man marknadsför kod i olika miljöer
+* Identifiera hur värden skickas till ett scenario [!DNL Workfront] anpassade formulär
+* Felsöka kod på serversidan
+
+Avsnitt 2: Konfiguration (26 %)
+
+* Illustrator best practices for user management
+* Använda procedurbegrepp som krävs för att ändra befintliga arbetsflöden AEM resurser
+* Fatta beslut som krävs för att anpassa metadatamatchemat för olika resurstyper
+* Använd AEM som krävs för att driftsätta OSGi-paket, resurser, metadatamatchemat, taggning och behörigheter
+
+Avsnitt 3: Affärspraxis (21 %)
+
+* Tolka klientbehov för att rekommendera lämpliga arbetsflödesstrategier
+* Uppvisa hur man konfigurerar [!DNL Workfront] arbetsflöden för godkännande och korrektur
+* I ett scenario bör du identifiera de bästa sätten att använda korrekturläsaren, inställningarna och markeringsfunktionerna
+* Uppvisa förståelse för att spåra slutprodukter som en del av kampanjhanteringen
+* Om du utgår från ett scenario bör du identifiera de viktigaste aspekterna av ändringshantering för en [!DNL Workfront] implementering
+
+Avsnitt 4: Installation och konfigurering av koppling (28 %)
+
+* Validera krav i AEM
+* Identifiera funktionerna för den koppling som ska implementeras i ett kundanvändningsexempel
+
+>[!TAB Förbered]
+
+Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
+
+Här följer några förslag på resurser som hjälper dig att förbereda dig:
+
+**Exempelfrågor**
+
+Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer att stöta på i provet. Ingen inloggning behövs. Resultaten av exempelfrågorna lagras inte och du kan inte förutsäga dina faktiska testresultat.
+
+[Se exempelfrågor](https://scorpion.caveon.com/launchpad/ad3-e906-adobe-workfront-for-experience-manager-enhanced-connector-certified-expert-sample-questions){target="_blank"}
+
+**Avsnitt 1: Tekniska krav**
+
+* [Översikt över anpassade formulär](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-forms-overview.html){target="_blank"}
+* [Konfigurera dokumentintegreringar](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-document-integrations.html){target="_blank"}
+* [Understanding Multitenancy and Concurrent Development](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/deployment/multitenancy-concurrent-article-understand.html?lang=en){target="_blank"}
+* [Lägga till beräknade data i ett anpassat formulär med äldre formulärverktyg](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-form-builder/use-the-custom-form-builder/add-calculated-data-to-custom-form.html){target="_blank"}
+* [Adobe [!DNL Workfront] Statuswebbplats](https://experienceleague.adobe.com/docs/workfront/using/basics/tips-tricks-for-basics/understand-the-status-site.html){target="_blank"}
+* [Avancerad felsökning med utvecklingsverktyget](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/troubleshooting-and-error-handling/advanced-troubleshooting-with-the-dev-tool.html?lang=en){target="_blank"}
+
+**Avsnitt 2: Konfiguration**
+
+* [God praxis - introduktion och implementering](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html?lang=en){target="_blank"}
+* [Skapa en enskild användarprofil](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/create-an-individual-user-profile.html?lang=en){target="_blank"}
+* [Adobe [!DNL Experience Manager Assets] integrering med Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-integrations.html?lang=en){target="_blank"}
+* [Metadata och nyckelord: metadatainställning](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/metadata-and-keywords/metadata-setup.html%3Flang%3Dzh-Hant){target="_blank"}
+* [Installera [!DNL Workfront] for [!DNL Experience Manager] förbättrad koppling](https://experienceleague.adobe.com/docs/experience-manager-64/assets/integrations/workfront-connector-install.html?lang=en){target="_blank"}
+
+**Avsnitt 3: Affärspraxis**
+
+* [Utveckla en [!DNL Workfront] DAM-strategi](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.html?lang=en){target="_blank"}
+* [Skapa en godkännandeprocess för arbetsobjekt](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/approvals-milestones/create-approval-processes.html){target="_blank"}
+* [Översikt över automatiserat arbetsflöde](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/automated-workflow.html?lang=en){target="_blank"}
+* [Granska och godkänna ett korrektur](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/review-and-approve-work-for-proof/review-and-approve-a-proof.html?lang=en){target="_blank"}
+* [Spåra förlopp från projekttidslinjen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-timelines/track-work-progress-from-the-project-timeline.html?lang=en){target="_blank"}
+* [Definiera mål för Adobe [!DNL Workfront] implementering](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html?lang=en){target="_blank"}
+
+**Avsnitt 4: Installation och konfiguration av anslutning**
+
+* [Installera [!DNL Workfront] for [!DNL Experience Manager] förbättrad koppling](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-connector-install.html?lang=en){target="_blank"}
+* [[!DNL Workfront] bättre anslutningsgrunder](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/basics.html%3Flang%3Den){target="_blank"}
+* [Konfigurera [!DNL Workfront] for [!DNL Experience Manager] förbättrad koppling](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-connector-configure.html?lang=en){target="_blank"}
+* [Adobe [!DNL Experience Manager Assets] integrering med Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-integrations.html?lang=en){target="_blank"}
+
+>[!TAB Bli certifierad]
+
+>[!IMPORTANT]
+>
+>Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](http://www.certmetrics.com/adobe){target="_blank"}.
+
+**Nu när du har loggat in är följande länkar direkt tillgängliga.**
+
+**Gör en certifieringstest**
+
+Adobe använder två leverantörer för att administrera proffsiga tentamina, PSI och Examity.
+
+* **PSI** erbjuder testcenter och japanska tentamina (där det finns tillgängligt)
+* **[!DNL Examity]** erbjuder ett fjärranslutet alternativ
+
+Om du vill schemalägga, schemalägga om eller avbryta din tentamen klickar du bara på valfri leverantör och följer instruktionerna på skärmen. Så enkelt är det!
+
+### Provnummer: AD0-E906
+
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E906 newtab=true"}[!BADGE Underbarhet]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E906 newtab=true"}
+
+Du kan betala för ditt certifieringsprov med hjälp av verifikation eller kreditkort. Om du vill köpa en provvoucher går du till: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}.
+
+Du kan använda verifikationskoden när du schemalägger provet. Om du har en rabatt gäller den i kassan.
+
+>[!ENDTABS]
+
+**Frågor**
+
+Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+
+Ytterligare frågor? E-post `certif@adobe.com`.
+

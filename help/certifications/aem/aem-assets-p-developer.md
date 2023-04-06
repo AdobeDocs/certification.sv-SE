@@ -1,0 +1,186 @@
+---
+title: Professionell certifiering
+description: Lär dig hur du blir certifierad Adobe [!DNL Experience Manager] professionell.
+solution: Experience Manager Assets
+role: Developer
+badge: label="Exam AD0-E129" type="positive"
+mini-toc-levels: 1
+source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+workflow-type: tm+mt
+source-wordcount: '886'
+ht-degree: 3%
+
+---
+
+# Certifieringsresa för Adobe [!DNL Experience Manager] Assets Developer Professional
+
+Lär dig hur du blir certifierad [!DNL Experience Manager] Professional.
+
+## Minimal upplevelse
+
+Du bör känna dig trygg i att arbeta i Adobes hanterade tjänster och Adobe [!DNL Experience Manager as a Cloud Service]och kan installera Adobe [!DNL Experience Manager] miljöer och infrastruktur.
+
+Du borde ha:
+
+* 6 månader+ CMS-upplevelse
+* 6 månader+ AEM Assets
+* 6 månader+ Java-utvecklarupplevelse
+* Lokal upplevelse och molnupplevelse
+
+Dessutom bör du ha erfarenhet av följande tekniker och miljöer:
+
+* Cloud Manager
+* Adobe IO CLI
+* Git CLI
+* Verktyg för molnövergång
+* Dispatcher Converter
+* Databasuppdaterare
+* Mellanlagring och produktion av dev
+* Dev, sandlåda
+* Lokal miljö
+
+>[!NOTE]
+>
+>Din certifiering gäller i två år från och med när du godkänns. Vi rekommenderar att du använder den nyare versionen när det är möjligt eftersom den omfattar nyare produktfunktioner.
+
+>[!BEGINTABS]
+
+>[!TAB Gör dig redo]
+
+**Målgrupp:**
+
+* AEM
+* DevOps-ingenjörer
+* AEM
+* Molntekniker
+* Ansvariga för webbplatser
+* Tekniska chefer
+* Programtekniker
+* Systemingenjörer
+
+**Information om tentamen:**
+
+```
+Level: Professional (0-12 months' experience)
+Passing Score: 30/50
+Time: 100 mins
+Delivery: Online proctored (requires camera access)
+Available languages: English
+Cost: $125 (global) / $95 (India)
+Exam ID: AD0-E129
+```
+
+**Självbedömning av beredskap**
+
+Slutför [onlineberedskapsenkät](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam-copy-b9x6ey/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam){target="_blank"} för att se om din nuvarande upplevelse matchar den rekommenderade lägsta kandidatkvalificeringen.
+
+**Mål och omfattning för tentamen**
+
+Avsnitt 1: Resursarbetsflöden (24 %)
+
+* Förklara processen att anpassa OTB-arbetsflöden
+* Identifiera när man ska skapa eller anpassa resursarbetsflöden för att uppfylla kundernas behov
+* Beskriv syftet med arbetsflödesstarter och hur du konfigurerar dem
+* Differentiera mellan moln och lokala arbetsflöden
+* Beskriv hur du använder arbetsflödeskonsolen för att övervaka status och förlopp
+
+Avsnitt 2: Resursorganisation och resurskonsol (22 %)
+
+* Uppvisa hur du skapar och organiserar resurser i samlingar
+* Uppvisa hur du organiserar resurser med hjälp av taggar
+* Identifiera hur du använder OOTB-sökfilter och -aspekter
+* Beskriv hur du konfigurerar och genererar AEM
+* Beskriv hur du hanterar användarbehörigheter i resursmappar
+
+Avsnitt 3: Metadata för mediefiler (24 %)
+
+* Definiera metadatascheman
+* Bestäm hur du justerar ett lämpligt metadataram utifrån ett scenario
+* I ett scenario avgör du hur metadataprofiler kan användas för att uppfylla kraven
+* Förstå hur Cascading Metadata Schemas fungerar
+
+Avsnitt 4: Tillgångstyper (18 %)
+
+* Beskriv vilka OOTB-funktioner som är tillgängliga för tillgångstyper
+* Förklara innehållsfragment och modeller för innehållsfragment
+* Uppvisa hur och när innehållsfragmentvariationer ska användas
+
+Avsnitt 5: Funktioner och funktioner (12 %)
+
+* Beskriv vanliga användningsområden och fördelarna med att använda Brand Portal
+* Beskriv vanliga användningsområden och fördelarna med att använda Dynamic Media
+* Beskriv alternativ för att utnyttja AEM med Creative Cloud
+
+>[!TAB Förbered]
+
+Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
+
+Här följer några förslag på resurser som hjälper dig att förbereda dig:
+
+**Exempelfrågor**
+
+Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer att stöta på i provet. Ingen inloggning behövs. Resultaten av exempelfrågorna lagras inte och du kan inte förutsäga dina faktiska testresultat.
+
+[Se exempelfrågor](https://scorpion.caveon.com/launchpad/ad0-e129-adobe-experience-manager-assets-developer-professional-copy-ms27zq){target="_blank"}
+
+**Avsnitt 1: Resursarbetsflöden**
+
+* [Skapa arbetsflödesmodeller](https://experienceleague.adobe.com/docs/experience-manager-64/developing/extending-aem/extending-workflows/workflows-models.html?lang=en#sync-your-workflow-generate-a-runtime-model){target="_blank"}
+* [Användarhandbok om resurser](https://experienceleague.adobe.com/docs/experience-manager-64/assets/home.html?lang=en){target="_blank"}
+
+**Avsnitt 2: Resursorganisation och resurskonsol**
+
+* [AEM Assets videor och självstudiekurser](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=en){target="_blank"}
+* [Söka efter fasetter](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/search-facets.html?lang=en#restoring-default-search-facets){target="_blank"}
+* [Materialrapporter](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/asset-reports.html?lang=en){target="_blank"}
+
+**Avsnitt 3: Resursmetadata**
+
+* [Metadatascheman](https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/metadata-schemas.html?lang=en#default-metadata-schema-forms){target="_blank"}
+* [Förstå metadatabegrepp](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-concepts.html?lang=en){target="_blank"}
+* [Metadataprofiler](https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/metadata-profiles.html?lang=en#:~:text=Add%20a%20metadata%20profile.%20Tryck på%20eller%20klicka%20the och%20configure%20its%20properties%20in%20the%20Settings%20tab.){target="_blank"}
+
+**Avsnitt 4: Resurstyper**
+
+* [Hantera videoresurser](https://experienceleague.adobe.com/docs/experience-manager-64/assets/managing/managing-video-assets.html?lang=en#uploading-and-previewing-video-assets){target="_blank"}
+* [Modeller för innehållsfragment](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-models.html?lang=en#creating-a-content-fragment-model){target="_blank"}
+* [Variationer – redigera innehållsfragment](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-variations.html?lang=en#managing-variations){target="_blank"}
+
+**Avsnitt 5: Funktioner och funktioner**
+
+* [Översikt över [!DNL Experience Manager] Assets Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html?lang=en){target="_blank"}
+* [Filformat som stöds](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-supported-formats.html?lang=en){target="_blank"}
+* [Videoprofiler för Dynamic Media](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/video-profiles.html?lang=en){target="_blank"}
+
+>[!TAB Bli certifierad]
+
+>[!IMPORTANT]
+>
+>Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](http://www.certmetrics.com/adobe){target="_blank"}.
+
+**Nu när du har loggat in är följande länkar direkt tillgängliga.**
+
+**Gör en certifieringstest**
+
+Adobe använder två leverantörer för att administrera proffsiga tentamina, PSI och Examity.
+
+* **PSI** erbjuder testcenter och japanska tentamina (där det finns tillgängligt)
+* **[!DNL Examity]** erbjuder ett fjärranslutet alternativ
+
+Om du vill schemalägga, schemalägga om eller avbryta din tentamen klickar du bara på valfri leverantör och följer instruktionerna på skärmen. Så enkelt är det!
+
+### Provnummer: AD0-E129
+
+[!BADGE Underbarhet]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E129 newtab=true"}
+
+Du kan betala för ditt certifieringsprov med hjälp av verifikation eller kreditkort. Om du vill köpa en provvoucher går du till: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}.
+
+Du kan använda verifikationskoden när du schemalägger provet. Om du har en rabatt gäller den i kassan.
+
+>[!ENDTABS]
+
+**Frågor**
+
+Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+
+Ytterligare frågor? E-post `certif@adobe.com`.
