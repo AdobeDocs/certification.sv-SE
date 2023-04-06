@@ -5,9 +5,9 @@ solution: Advertising
 role: Developer
 badge: label="Exam AD0-E502" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '752'
+source-wordcount: '780'
 ht-degree: 0%
 
 ---
@@ -50,15 +50,13 @@ Bekanta dig med följande verktyg och tekniker:
 
 **Information om tentamen:**
 
-```
-Level: Professional (0-12 months' experience)
-Passing Score: 44/69
-Time: 138 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $125 (global) / $95 (India)
-Exam ID: AD0-E502
-```
+* Nivå: Professionell (0-12 månaders erfarenhet)
+* Lösenpoäng: 44/69
+* Tid: 138 min
+* Leverans: Bearbetad online (kräver kameraåtkomst) eller testcenter
+* Tillgängliga språk: Engelska
+* Kostnad: $125 (global) / $95 (Indien)
+* Exam-ID: AD0-E502
 
 **Mål och omfattning för tentamen**
 

@@ -6,9 +6,9 @@ role: Developer
 recommendations: disable, exclude
 badge: label="Exam AD0-E600 & AD7-E601" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '1899'
+source-wordcount: '1953'
 ht-degree: 1%
 
 ---
@@ -61,15 +61,13 @@ Provet AD0-E600 avser att verifiera färdigheter och kunskaper som omfattar grun
 
 **Information om tentamen:**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 35/50
-Time: 105 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Language: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E600
-```
+* Nivå: Expert (1-3 års erfarenhet)
+* Lösenpoäng: 35/50
+* Tid: 105 min
+* Leverans: Bearbetad online (kräver kameraåtkomst) eller testcenter
+* Språk: Engelska
+* Kostnad: $225 (global) / $150 (Indien)
+* Exam-ID: AD0-E600
 
 **Mål och omfattning för tentamen**
 
@@ -180,15 +178,13 @@ AD7-E601-provet handlar om att skapa, hantera och förstå kundprofiler, segment
 
 **Information om tentamen:**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 25/34
-Time: 51 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Language: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD7-E601
-```
+* Nivå: Expert (1-3 års erfarenhet)
+* Lösenpoäng: 25/34
+* Tid: 51 min
+* Leverans: Bearbetad online (kräver kameraåtkomst) eller testcenter
+* Språk: Engelska
+* Kostnad: $225 (global) / $150 (Indien)
+* Exam-ID: AD7-E601
 
 **Självbedömning av beredskap**
 

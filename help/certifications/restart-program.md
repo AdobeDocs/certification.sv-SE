@@ -6,9 +6,9 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 7b65bbbf68f2a53254c997f01f63cdcbbd6d7cb6
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '5197'
+source-wordcount: '5353'
 ht-degree: 5%
 
 ---
@@ -166,15 +166,14 @@ Kurserna är kostnadsfria. De behöver inte schemaläggas och de behandlas inte.
 
 **Information om tentamen:**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 23/30
-Time: 68 mins
-Delivery: On-demand / non-proctored
-Available languages: English
-Cost: FREE
-Exam ID: ADS-E826 - Adobe Audience Manager Business Practitioner expert restart
-```
+* Nivå: Expert (1-3 års erfarenhet)
+* Lösenpoäng: 23/30
+* Tid: 68 min
+* Leverans: On-demand/icke-upphandling
+* Tillgängliga språk: Engelska
+* Kostnad: KOSTNADSFRITT
+* Exam-ID: ADS-E826 - Starta om Adobe Audience Manager Business Practitioner-experten
+
 
 **Mål och tillämpningsområde för tentamen**
 
@@ -242,15 +241,13 @@ Det här provet är kostnadsfritt, öppet och obearbetat. Du får ta tentamen up
 
 **Information om tentamen:**
 
-```
-Level: Master (3-5 years' experience)
-Passing Score: 22/29
-Time: 58 mins
-Delivery: On-demand / non-proctored
-Available languages: English
-Cost: FREE
-Exam ID: ADS-E825 - Adobe Audience Manager Architect Master restart
-```
+* Nivå: Överordnad (3-5 års erfarenhet)
+* Lösenpoäng: 22/29
+* Tid: 58 min
+* Leverans: On-demand/icke-upphandling
+* Tillgängliga språk: Engelska
+* Kostnad: KOSTNADSFRITT
+* Exam-ID: ADS-E825 - Överordnad omstart av Adobe Audience Manager Architect
 
 **Tillämpningsområde och mål:**
 
@@ -344,15 +341,13 @@ Det här provet är kostnadsfritt, öppet och obearbetat. Du får ta tentamen up
 
 **Information om tentamen:**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 23/30
-Time: 60 mins
-Delivery: On-demand / non-proctored
-Available languages: English
-Cost: FREE
-Exam ID: ADS-E821 - Adobe Campaign Standard Developer expert restart
-```
+* Nivå: Expert (1-3 års erfarenhet)
+* Lösenpoäng: 23/30
+* Tid: 60 min
+* Leverans: On-demand/icke-upphandling
+* Tillgängliga språk: Engelska
+* Kostnad: KOSTNADSFRITT
+* Exam-ID: ADS-E821 - Starta om Adobe Campaign Standard Developer Expert
 
 **Tillämpningsområde och mål:**
 
@@ -452,15 +447,13 @@ Det här provet är kostnadsfritt, öppet och obearbetat. Du får ta tentamen up
 
 **Information om tentamen:**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 23/30
-Time: 60 mins
-Delivery: On-demand / non-proctored
-Available languages: English
-Cost: FREE
-Exam ID: ADS-E822 - Campaign Standard Business Practitioner expert restart
-```
+* Nivå: Expert (1-3 års erfarenhet)
+* Lösenpoäng: 23/30
+* Tid: 60 min
+* Leverans: On-demand/icke-upphandling
+* Tillgängliga språk: Engelska
+* Kostnad: KOSTNADSFRITT
+* Exam-ID: ADS-E822 - Starta om affärsverkets expert på Campaign Standarden
 
 **Tillämpningsområde och mål:**
 
@@ -527,15 +520,13 @@ Det här provet är kostnadsfritt, öppet och obearbetat. Du får ta tentamen up
 
 **Information om tentamen:**
 
-```
-Level: Expert (1-3 years' experience) and Master (3-5 years' experience)
-Passing Score: 42/55
-Time: 110 mins
-Delivery: On-demand / non-proctored
-Available languages: English
-Cost: FREE
-Exam ID: ADS-E823 - Adobe [!DNL Campaign Classic] expert and/or master restart
-```
+* Nivå: Expert (1-3 års erfarenhet) och Överordnad (3-5 års erfarenhet)
+* Lösenpoäng: 42/55
+* Tid: 110 min
+* Leverans: On-demand/icke-upphandling
+* Tillgängliga språk: Engelska
+* Kostnad: KOSTNADSFRITT
+* Exam-ID: ADS-E823 - Adobe [!DNL Campaign Classic] expertomstart och/eller överordnad omstart
 
 **Tillämpningsområde och mål**
 
@@ -634,15 +625,13 @@ Det här provet är kostnadsfritt, öppet och obearbetat. Du får ta tentamen up
 
 **Information om tentamen:**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 30/40
-Time: 80 mins
-Delivery: On-demand / non-proctored
-Available languages: English
-Cost: FREE
-Exam ID: ADS-E824 - Adobe Marketo Engage Business Practitioner expert restart
-```
+* Nivå: Expert (1-3 års erfarenhet)
+* Lösenpoäng: 30/40
+* Tid: 80 min
+* Leverans: On-demand/icke-upphandling
+* Tillgängliga språk: Engelska
+* Kostnad: KOSTNADSFRITT
+* Exam-ID: ADS-E824 - Starta om Adobe Marketo Engage Business Practitioner-experten
 
 **Tillämpningsområde och mål:**
 

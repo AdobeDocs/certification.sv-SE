@@ -5,9 +5,9 @@ solution: Campaign Classic
 role: Developer
 badge: label="Exam AD0-E327" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '1086'
+source-wordcount: '1114'
 ht-degree: 8%
 
 ---
@@ -47,15 +47,13 @@ Du borde ha:
 
 **Information om tentamen:**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 32/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E327
-```
+* Nivå: Expert (1-3 års erfarenhet)
+* Lösenpoäng: 32/50
+* Tid: 100 min
+* Leverans: Bearbetad online (kräver kameraåtkomst) eller testcenter
+* Tillgängliga språk: Engelska
+* Kostnad: $225 (global) / $150 (Indien)
+* Exam-ID: AD0-E327
 
 **Självbedömning av beredskap**
 

@@ -5,9 +5,9 @@ solution: Analytics
 role: Developer
 badge: label="Exam AD0-E208" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '1164'
+source-wordcount: '1192'
 ht-degree: 2%
 
 ---
@@ -67,15 +67,13 @@ Du borde ha:
 
 **Information om tentamen:**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 31/50
-Time: 120 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E208
-```
+* Nivå: Expert (1-3 års erfarenhet)
+* Lösenpoäng: 31/50
+* Tid: 120 min
+* Leverans: Bearbetad online (kräver kameraåtkomst) eller testcenter
+* Tillgängliga språk: Engelska
+* Kostnad: $225 (global) / $150 (Indien)
+* Exam-ID: AD0-E208
 
 **Självbedömning av beredskap**
 
@@ -112,16 +110,16 @@ Avsnitt 3: Segmentering och beräknade värden (22 %)
 Avsnitt 4: Allmän verktygsinformation och felsökning (12 %)
 
 * Analysera rapporter och identifiera problem med datakvaliteten
-* Definiera olika typer av dimensioner och parametrar som finns i [!DNL Adobe Analytics] (evar, props och events)
+* Definiera olika typer av dimensioner och parametrar som finns i [!DNL Adobe Analytics] (Vars, props och events)
 * Bestäm hur data ska hämtas in och ut från [!DNL Adobe Analytics]
 * Identifiera information från marknadsförings-URL:er
 
 Avsnitt 5: Administration (10 %)
 
-* Använd processen för att konfigurera Marketing Channel-rapporter med regler för bearbetning av marknadsföringskanal
+* Använd processen för att konfigurera [!UICONTROL Marknadsföringskanal] rapporter med [!UICONTROL Marknadsföringskanal] bearbetningsregler
 * Använd processen för att konfigurera klassificeringsimporteraren och regelbyggaren
 * Använda processen för att konfigurera en virtuell rapportserie baserat på ett befintligt segment
-* Använda administratörsgränssnittet för Data Feed Manager
+* Använd [!UICONTROL Datafeed] Administratörsgränssnitt för chef
 * Förståelse av datastyrning
 
 >[!TAB Förbered]

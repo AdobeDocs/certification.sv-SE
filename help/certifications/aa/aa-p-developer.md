@@ -5,9 +5,9 @@ solution: Analytics
 role: Developer
 badge: label="Exam AD0-E213" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '1203'
+source-wordcount: '1228'
 ht-degree: 2%
 
 ---
@@ -54,15 +54,13 @@ Upplev följande uppgifter:
 
 **Information om tentamen:**
 
-```
-Level: Professional (0-12 months' experience)
-Passing Score: 31/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access)
-Available languages: English
-Cost: $125 (global) and $950 (India)
-Exam ID: AD0-E213
-```
+* Nivå: Professionell (0-12 månaders erfarenhet)
+* Lösenpoäng: 31/50
+* Tid: 100 min
+* Leverans: Bearbetad online (kräver kameraåtkomst)
+* Tillgängliga språk: Engelska
+* Kostnad: 125 USD (globalt) och 950 USD (Indien)
+* Exam-ID: AD0-E213
 
 **Mål och omfattning för tentamen**
 

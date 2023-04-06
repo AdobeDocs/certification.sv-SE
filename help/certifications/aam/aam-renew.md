@@ -5,9 +5,9 @@ solution: Audience Manager
 role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: f281349011de9907a1de4c35e83999f29b1d62e4
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '985'
+source-wordcount: '1038'
 ht-degree: 0%
 
 ---
@@ -46,15 +46,13 @@ Du bör vara certifierad (inte utgånget) i:
 
 **Information om tentamen:**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 23/30
-Time: 68 mins
-Delivery: On-demand / non-proctored
-Available languages: English
-Cost: FREE
-Exam ID: AD5-E826 - Adobe Audience Manager Business Practitioner expert renewal
-```
+* Nivå: Expert (1-3 års erfarenhet)
+* Lösenpoäng: 23/30
+* Tid: 68 min
+* Leverans: On-demand/icke-upphandling
+* Tillgängliga språk: Engelska
+* Kostnad: KOSTNADSFRITT
+* Exam-ID: AD5-E826 - Förnyelse av expert på Adobe Audience Manager Business Practitioner
 
 **Mål och tillämpningsområde för tentamen**
 
@@ -124,15 +122,13 @@ Du bör vara certifierad (inte utgånget) i:
 
 **Information om tentamen:**
 
-```
-Level: Master (3-5 years' experience)
-Passing Score: 22/29
-Time: 58 mins
-Delivery: On-demand / non-proctored
-Available languages: English
-Cost: FREE
-Exam ID: AD5-E825 - Adobe Audience Manager Architect Master renewal
-```
+* Nivå: Överordnad (3-5 års erfarenhet)
+* Lösenpoäng: 22/29
+* Tid: 58 min
+* Leverans: On-demand/icke-upphandling
+* Tillgängliga språk: Engelska
+* Kostnad: KOSTNADSFRITT
+* Exam-ID: AD5-E825 - Överordnad förnyelse av Adobe Audience Manager Architect
 
 **Tillämpningsområde och mål:**
 

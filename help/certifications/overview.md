@@ -2,9 +2,9 @@
 title: Startsida för certifiering
 description: Läs mer om [!DNL Experience Cloud] Certifiering på Adobe. Ta reda på vad certifieringen kan göra för dig.
 mini-toc-levels: 1
-source-git-commit: 2dee616ff2304a6a92ba3edeae5e11da637bb235
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '399'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Hämta en Adobe [!DNL Experience Cloud] certifiering kan vara fördelaktig av fl
 * **Bekräfta dina färdigheter:** Adobe-certifiering visar för potentiella kunder eller arbetsgivare att du har de kunskaper och färdigheter som krävs för att använda [!DNL Experience Cloud] effektivt.
 * **Yrkesförberedande:** Adobe-certifiering kan hjälpa dig att sticka ut på en fullödig arbetsmarknad och öka dina chanser att bli anställd eller befordrad i ditt nuvarande arbete.
 * **Öka intäktspotentialen:** Certifierade individer tjänar ofta mer än sina icke-certifierade motsvarigheter, eftersom deras kvalifikationer validerar deras kunskaper och färdigheter.
-* **Tillgång till exklusiva resurser:** När du blir Adobe-certifierad får du tillgång till exklusiva resurser som utbildningsmaterial, betaversioner av programvara och supportforum som hjälper dig att hålla dig uppdaterad med den senaste programutvecklingen och trender inom branschen.
+* **Tillgång till exklusiva resurser:** När du blir Adobe-certifierad får du tillgång till exklusiva resurser. Här finns utbildningsmaterial, betaversioner av programvara och supportforum som hjälper dig att hålla dig uppdaterad med den senaste programutvecklingen och trender inom branschen.
 * **Kostnadsfria praktiska tester:** Adobe erbjuder kostnadsfria provexempel som kan hjälpa dig att förbereda dig för en provperiod för certifiering och se till att du är helt beredd att göra testet.
 * **Certifieringsförnyelser:** Adobe-certifieringar är giltiga i två år och du kan förnya din certifiering genom att antingen genomföra en ondemand-tentamen eller genomföra en uppsättning kontinuerliga utbildningsaktiviteter.
 

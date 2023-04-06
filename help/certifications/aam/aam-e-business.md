@@ -5,9 +5,9 @@ solution: Audience Manager
 role: Developer
 badge: label="Exam AD0-E457" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '1176'
+source-wordcount: '1205'
 ht-degree: 5%
 
 ---
@@ -65,15 +65,13 @@ Miljöer:
 
 **Information om tentamen:**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 36/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $225 (global) and $150 (India)
-Exam ID: AD0-E457
-```
+* Nivå: Expert (1-3 års erfarenhet)
+* Lösenpoäng: 36/50
+* Tid: 100 min
+* Leverans: Bearbetad online (kräver kameraåtkomst) eller testcenter
+* Tillgängliga språk: Engelska
+* Kostnad: $225 (global) och $150 (Indien)
+* Exam-ID: AD0-E457
 
 **Självbedömning av beredskap**
 

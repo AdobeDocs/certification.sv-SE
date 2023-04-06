@@ -5,16 +5,16 @@ solution: Analytics
 role: Developer
 badge: label="Exam AD0-E207" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '951'
-ht-degree: 4%
+source-wordcount: '963'
+ht-degree: 2%
 
 ---
 
 # Certifieringsresa för [!DNL Adobe Analytics] Arkitekt Överordnad
 
-Lär dig hur du blir en certifierad Analytics Architect-Överordnad.
+Lär dig hur du blir certifierad [!DNL Analytics] Arkitekt Överordnad.
 
 ## Minimal upplevelse
 
@@ -49,15 +49,13 @@ Dessutom ansvarar du för att omvandla verksamhetskrav till spårningsspecifikat
 
 **Information om tentamen:**
 
-```
-Level: Master (3-5 years' experience)
-Passing Score: 33/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E207
-```
+* Nivå: Överordnad (3-5 års erfarenhet)
+* Lösenpoäng: 33/50
+* Tid: 100 min
+* Leverans: Bearbetad online (kräver kameraåtkomst) eller testcenter
+* Tillgängliga språk: Engelska
+* Kostnad: $225 (global) / $150 (Indien)
+* Exam-ID: AD0-E207
 
 **Mål och omfattning för tentamen**
 
@@ -99,20 +97,20 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 **Avsnitt 1: Identifiering**
 
 * [Implementering [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
-* [Användarhandbok för Analytics-komponenter](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en){target="_blank"}
+* [[!DNL Analytics] Användarhandbok om komponenter](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en){target="_blank"}
 * [Översikt över taggar](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=en){target="_blank"}
-* [Analytics Tech Notes](https://experienceleague.adobe.com/docs/analytics/technotes/home.html?lang=en){target="_blank"}
+* [[!DNL Analytics] Tekniska anmärkningar](https://experienceleague.adobe.com/docs/analytics/technotes/home.html?lang=en){target="_blank"}
 * [Datalagerhanteraren](https://exchange.adobe.com/apps/ec/101462/data-layer-manager){target="_blank"}
 
 **Avsnitt 2: Lösningsdesign**
 
-* [Användarhandbok om Analytics Admin](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=en){target="_blank"}
-* [Användarhandbok för Analytics-komponenter](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en){target="_blank"}
-* [Användarhandbok om Analytics-verktyg](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=en){target="_blank"}
+* [[!DNL Analytics] Administrationshandbok](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=en){target="_blank"}
+* [[!DNL Analytics] Användarhandbok om komponenter](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en){target="_blank"}
+* [[!DNL Analytics] Användarhandbok om verktyg](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=en){target="_blank"}
 * [iOS SDK 4.x for Experience Cloud Solutions](https://experienceleague.adobe.com/docs/mobile-services/ios/overview.html?lang=en){target="_blank"}
-* [Användarhandbok om Analytics Import](https://experienceleague.adobe.com/docs/analytics/import/home.html?lang=en){target="_blank"}
+* [[!DNL Analytics] Användarhandbok om import](https://experienceleague.adobe.com/docs/analytics/import/home.html?lang=en){target="_blank"}
 * [Implementering [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
-* [Självstudiekurser om Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=en){target="_blank"}
+* [[!DNL Analytics] Tutorials](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=en){target="_blank"}
 * [Administrativa roller](https://helpx.adobe.com/in/enterprise/using/admin-roles.html){target="_blank"}
 * [Admin Console - översikt](https://helpx.adobe.com/in/enterprise/using/admin-console.html#Settings){target="_blank"}
 * [Hantera användare individuellt](https://helpx.adobe.com/in/enterprise/using/manage-users-individually.html){target="_blank"}
@@ -120,14 +118,14 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 **Avsnitt 3: Efter implementering**
 
 * [Implementering [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
-* [Användarhandbok för Analytics-komponenter](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en){target="_blank"}
-* [Användarhandbok om Analytics Admin](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=en){target="_blank"}
+* [[!DNL Analytics] Användarhandbok om komponenter](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en){target="_blank"}
+* [[!DNL Analytics] Administrationshandbok](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=en){target="_blank"}
 * [Det händelsestyrda datalagret](https://jimalytics.com/tag-management/the-event-driven-data-layer/){target="_blank"}
-* [Användarhandbok om Analytics Export](https://experienceleague.adobe.com/docs/analytics/export/home.html?lang=en){target="_blank"}
-* [Användarhandbok om Adobe Target Business Practitioner](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
-* [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=en){target="_blank"}
-* [Användarhandbok om Analytics Import](https://experienceleague.adobe.com/docs/analytics/import/home.html?lang=en){target="_blank"}
-* [Användarhandbok om Analytics-verktyg](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=en){target="_blank"}
+* [[!DNL Analytics] Användarhandbok om export](https://experienceleague.adobe.com/docs/analytics/export/home.html?lang=en){target="_blank"}
+* [Adobe [!DNL Target] Handbok för affärspersonalen](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
+* [Adobe [!DNL Experience Cloud] Identitetstjänst](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=en){target="_blank"}
+* [[!DNL Analytics] Användarhandbok om import](https://experienceleague.adobe.com/docs/analytics/import/home.html?lang=en){target="_blank"}
+* [[!DNL Analytics] Användarhandbok om verktyg](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=en){target="_blank"}
 * [Datainfogningsprocess](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/data-insertion-api/overview/c_data_insertion_process.md){target="_blank"}
 * [Implementera Experience Cloud på webbplatser med självstudiekursen Taggar](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html?lang=en){target="_blank"}
 

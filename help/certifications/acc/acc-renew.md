@@ -5,10 +5,10 @@ solution: Campaign Classic
 role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: f281349011de9907a1de4c35e83999f29b1d62e4
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '888'
-ht-degree: 9%
+source-wordcount: '914'
+ht-degree: 8%
 
 ---
 
@@ -48,15 +48,13 @@ Du bör vara certifierad (inte utgånget) i:
 
 **Information om tentamen**
 
-```
-Passing Score: 42/55
-Time: 110 mins
-Cost: FREE/non-proctored
-Delivery: On-demand
-Available languages: English
-Prerequisite: current (not expired) Adobe [!DNL Campaign Classic] expert and/or master certification
-Exam ID: AD5-E823
-```
+* Lösenpoäng: 42/55
+* Tid: 110 min
+* Kostnad: KOSTNADSFRITT/icke-procentrerat
+* Leverans: On-demand
+* Tillgängliga språk: Engelska
+* Krav: aktuell (inte utgången) Adobe [!DNL Campaign Classic] expertcertifiering och/eller överordnad certifiering
+* Exam-ID: AD5-E823
 
 **Tillämpningsområde och mål**
 
