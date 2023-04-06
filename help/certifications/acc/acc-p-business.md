@@ -2,10 +2,10 @@
 title: Yrkescertifiering för affärsanvändare
 description: Lär dig hur du blir en certifierad Adobe-professionell företagsledare på [!DNL Campaign Classic].
 solution: Campaign Classic
-role: Developer
+role: User
 badge: label="Exam AD0-E329" type="positive"
 mini-toc-levels: 1
-source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
+source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
 workflow-type: tm+mt
 source-wordcount: '1335'
 ht-degree: 5%
