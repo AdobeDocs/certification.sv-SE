@@ -3,9 +3,9 @@ title: Kom igång med Adobe-certifieringar
 description: Kom igång med [!DNL Experience Cloud] certifieringar. Läs mer om programmet och den här webbplatsen.
 solution: Experience Cloud
 mini-toc-levels: 1
-source-git-commit: 529ac3568da1f1cc35c93022b87c8e765205b267
+source-git-commit: 0d051bce7ef44105da136303b72fcf5cc22e7e17
 workflow-type: tm+mt
-source-wordcount: '931'
+source-wordcount: '945'
 ht-degree: 0%
 
 ---
@@ -86,9 +86,12 @@ Guiden Certification Journey är ett omfattande verktyg som ger dig all informat
 
 >[!ENDTABS]
 
+[!BADGE Bli certifierad]{type=Informative url="https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html?lang=en newtab=true"}
+
 **Frågor**
 
 Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Ytterligare frågor? E-post `certif@adobe.com`.
+Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.
+
 
