@@ -1,11 +1,11 @@
 ---
 title: Kom igång med Adobe-certifieringar
-description: Kom igång med [!DNL Experience Cloud] certifieringar. Lär dig mer om programmet och hur du navigerar på våra webbplatssidor.
+description: Kom igång med [!DNL Experience Cloud] certifieringar. Läs mer om programmet och den här webbplatsen.
 solution: Experience Cloud
 mini-toc-levels: 1
-source-git-commit: 7b65bbbf68f2a53254c997f01f63cdcbbd6d7cb6
+source-git-commit: 529ac3568da1f1cc35c93022b87c8e765205b267
 workflow-type: tm+mt
-source-wordcount: '942'
+source-wordcount: '931'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Kom igång {#getting-started}
 
-Adobe är utformade för att validera kunskapen och kompetensen hos yrkesverksamma som arbetar med våra lösningar för digital marknadsföring.
-
-Kom igång med tekniska certifieringar. Lär dig mer om programmet och hur du navigerar på våra webbplatssidor.
+Adobe är utformade för att validera kunskapen och kompetensen hos yrkesverksamma som arbetar med våra lösningar för digital marknadsföring. Använd följande flikar för att börja lära dig mer om certifieringsprogrammet.
 
 >[!BEGINTABS]
 
@@ -32,6 +30,7 @@ Lär dig skillnaden mellan de typer av prov du kommer att träffa på under din 
 | Exempelfrågor | För vissa certifieringsprov har Adobe ännu inte fullängdsprov. För dessa prov finns en representativ uppsättning exempelfrågor. |
 | Beredskapenkät | Ett beredskapsfrågeformulär är ett annat verktyg som du kan använda för att bedöma om du är redo att genomföra din certifieringstest. Frågeformuläret för beredskap innehåller bekräftande uppgifter baserade på provens mål. Genom att svara ja eller nej på varje uttalande kan du avgöra om du är redo med avseende på de huvudsakliga innehållsområdena som provet omfattar. |
 
+{style="table-layout:auto"}
 
 >[!TAB Certifieringsnivåer]
 
@@ -42,14 +41,17 @@ Dessa nivåer avspeglar en utveckling i fråga om kompetens och kunskap, där de
 | ![Professional Badge](/help/certifications/assets/professional-badge-Xsmall.png) | **Professionella certifieringar** validera att en kandidat har en grundläggande förståelse för Adobe digitala marknadsföringslösningar. Certifieringsprovet omfattar grundläggande begrepp och funktioner i Adobe [!DNL Experience Cloud]. |
 | --------- | ------- |
 
+{style="table-layout:auto"}
 
 | ![Expert Badge](/help/certifications/assets/expert-badge-Xsmall.png) | **Expertcertifieringar** för yrkesverksamma som har en mer avancerad förståelse för Adobe digitala marknadsföringslösningar. Certifieringsprovet omfattar mer komplexa begrepp och funktioner i Adobe [!DNL Experience Cloud], inklusive implementering och felsökning. |
 | ------- | ------- |
 
+{style="table-layout:auto"}
 
 | ![Överordnad Badge](/help/certifications/assets/master-badge-Xsmall.png) | **Överordnad certifieringar** är till för yrkesverksamma som har en djupgående förståelse för Adobe digitala marknadsföringslösningar och har visat sig ha expertis på flera områden i Adobe [!DNL Experience Cloud]. Certifieringsprovet omfattar avancerade ämnen och scenarier, inklusive komplexa integreringar, anpassningar och felsökning. |
 | ------- | ------- |
 
+{style="table-layout:auto"}
 
 >[!TAB Jobbroller]
 
@@ -58,11 +60,17 @@ Adobe certifieringstester är anpassade till tre olika jobbroller. Läs informat
 | ![Business Practitioner Badge](/help/certifications/assets/business_practitioner_blk_small.png) | **Yrkesverksamma inom affärsverksamhet** ansvarar för att utforma, genomföra och hantera marknadsföringskampanjer med Adobe [!DNL Experience Cloud] lösningar. De bör ha en grundläggande förståelse för Adobe digitala marknadsföringslösningar, liksom för upplevelsen inom marknadsföring och reklam. Certifieringen för affärsverkare validerar deras förmåga att effektivt använda Adobe digitala marknadsföringslösningar för att uppnå affärsmålen. |
 | ------- | ------- |
 
+{style="table-layout:auto"}
+
 | ![Developer Badge](/help/certifications/assets/developer_blk_small.png) | **Utvecklare** ansvarar för att genomföra och integrera Adobe, [!DNL Experience Cloud] lösningar i en organisations teknikstack. De bör ha erfarenhet av programvaruutveckling och kompetens inom webbteknik som HTML, CSS, JavaScript och RESTful API:er. Utvecklarcertifieringen validerar deras förmåga att effektivt implementera och anpassa digitala marknadsföringslösningar från Adobe för att uppfylla verksamhetskrav. |
 | ------- | ------- |
 
+{style="table-layout:auto"}
+
 | ![Architect Badge](/help/certifications/assets/architect_blk_small.png) | **Arkitekter** ansvarar för att utforma och implementera lösningar på enterprise-nivå med Adobe [!DNL Experience Cloud] lösningar. De bör ha omfattande kunskaper om Adobe digitala marknadsföringslösningar och ha erfarenhet av programvaruarkitektur, integrering och anpassning. Arkitektcertifieringen validerar deras förmåga att utforma och implementera komplexa lösningar med hjälp av Adobe digitala marknadsföringslösningar. |
 | ------- | ------- |
+
+{style="table-layout:auto"}
 
 >[!TAB Certifieringsresa]
 
@@ -73,6 +81,8 @@ Guiden Certification Journey är ett omfattande verktyg som ger dig all informat
 | **Gör dig redo** | Avsikten är att ge en översikt över tentamen, inklusive information om den avsedda publiken, detaljer om tentamen, självbedömning av beredskapen, mål för tentamen och omfattning. I det här avsnittet får du hjälp att förstå provet och vad du kan förvänta dig när du tar det. Självbedömningen av beredskapen är särskilt användbar eftersom den gör det möjligt att fastställa din nuvarande kunskapsnivå och identifiera områden där du kan behöva fokusera dina studieinsatser. |
 | **Hämta förberett** | Här hittar du utbildning och resurser som hjälper dig att förbereda dig för tentamen. Detta avsnitt innehåller information om och länkar till studiematerial och utbildningskurser. |
 | **Bli certifierad** | Ger värdefull information om hur man registrerar sig för certifieringsprovet, inklusive information om registreringsprocessen och tillgängliga betalningsmetoder. Dessutom ger det här avsnittet även en tydlig översikt över tentamen. I det här avsnittet finns användbara resurser, till exempel en länk till Adobe Certification Prep Portal för prov som erbjuder praktiktester samt länkar till register för certifieringsprov. |
+
+{style="table-layout:auto"}
 
 >[!ENDTABS]
 
