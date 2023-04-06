@@ -5,9 +5,9 @@ solution: Advertising
 role: Developer
 badge: label="Exam AD0-E501" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 29b489ffc67674c52a978277ed1fb22bcb557a24
 workflow-type: tm+mt
-source-wordcount: '959'
+source-wordcount: '987'
 ht-degree: 0%
 
 ---
@@ -64,15 +64,13 @@ Arbeta med följande funktioner:
 
 **Information om tentamen:**
 
-```
-Level: Professional (0-12 months' experience)
-Passing Score: 35/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $125 (global) / $95 (India)
-Exam ID: AD0-E501
-```
+* Nivå: Professionell (0-12 månaders erfarenhet)
+* Lösenpoäng: 35/50
+* Tid: 100 min
+* Leverans: Bearbetad online (kräver kameraåtkomst) eller testcenter
+* Tillgängliga språk: Engelska
+* Kostnad: $125 (global) / $95 (Indien)
+* Exam-ID: AD0-E501
 
 **Självbedömning av beredskap**
 

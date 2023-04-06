@@ -5,9 +5,9 @@ solution: Analytics
 role: Developer
 badge: label="Exam AD0-E212" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 29b489ffc67674c52a978277ed1fb22bcb557a24
 workflow-type: tm+mt
-source-wordcount: '849'
+source-wordcount: '874'
 ht-degree: 3%
 
 ---
@@ -23,7 +23,7 @@ Du bör ha minst tre månaders erfarenhet av [!DNL Adobe Analytics] och följand
 * En marknadsföringsbakgrund eller kommer från en marknadsföringsroll, men kan komma från en mängd olika jobbroller.
 * En grundläggande kunskap om digitala analysvärden och dimensioner.
 * Möjlighet att använda Analytics för att skapa rapporter och besvara affärsfrågor, och förmedla resultaten.
-* Förståelse av grundläggande digitala analysbegrepp, t.ex. segmentering, rapportgenerering, standardmåttdefinitioner.
+* En förståelse för grundläggande digitala analysbegrepp som segmentering, rapportgenerering och standardmåttdefinitioner.
 
 >[!NOTE]
 >
@@ -48,15 +48,13 @@ Du bör ha minst tre månaders erfarenhet av [!DNL Adobe Analytics] och följand
 
 **Information om tentamen:**
 
-```
-Level: Professional (0-12 months' experience)
-Passing Score: 31/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access)
-Available languages: English
-Cost: $125 (global) / $95 (India)
-Exam ID: AD0-E212
-```
+* Nivå: Professionell (0-12 månaders erfarenhet)
+* Lösenpoäng: 31/50
+* Tid: 100 min
+* Leverans: Bearbetad online (kräver kameraåtkomst)
+* Tillgängliga språk: Engelska
+* Kostnad: $125 (global) / $95 (Indien)
+* Exam-ID: AD0-E212
 
 **Självbedömning av beredskap**
 
