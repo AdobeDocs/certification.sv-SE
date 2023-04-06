@@ -2,7 +2,7 @@
 title: Startsida för certifiering
 description: Läs mer om [!DNL Experience Cloud] Certifiering på Adobe. Ta reda på vad certifieringen kan göra för dig.
 mini-toc-levels: 1
-source-git-commit: aa71bfc0c0a4a8831fd2a8d49e1b3c1d4616f19c
+source-git-commit: c125ff68ecd1b982c5dd6aa6a374070c37d9973c
 workflow-type: tm+mt
 source-wordcount: '394'
 ht-degree: 0%
@@ -35,3 +35,4 @@ Hämta en Adobe [!DNL Experience Cloud] certifiering kan vara fördelaktig av fl
 Vårt certifieringsprogram är utformat för yrkesverksamma inom en rad olika områden, inklusive utvecklare, yrkesverksamma och arkitekter. Med många olika certifieringsalternativ kan du visa upp dina kunskaper och din expertis på Adobe [!DNL Experience Cloud] och imponera på kunder och arbetsgivare.
 
 Så varför vänta? Ta det första steget mot att frigöra din yrkesmässiga potential och [utforska våra certifieringsvägar idag](https://experienceleague.adobe.com/docs/certification/certification/getting-started.html?lang=en){target="_blank"}!
+
