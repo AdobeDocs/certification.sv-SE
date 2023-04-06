@@ -5,9 +5,9 @@ solution: Campaign Classic
 role: Developer
 badge: label="Exam AD0-E329" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
 workflow-type: tm+mt
-source-wordcount: '1331'
+source-wordcount: '1333'
 ht-degree: 5%
 
 ---
@@ -29,7 +29,7 @@ Du borde ha:
 * Praktisk upplevelse som skapar kanalövergripande, personaliserade arbetsflöden och skickar leveranser
 * Analysera och övervaka loggar och fel
 * Kunskap om koncept och taktik för digital marknadsföring
-* Grundläggande förståelse för automatisering, mätvärden och kampanjstrategier (funktioner för datahantering, molntjänster, godkännanden osv.)
+* Grundläggande förståelse för automatisering, mätvärden och kampanjstrategier (funktioner för datahantering, molntjänster, godkännanden och så vidare)
 * Kunskap om grundläggande relationsdatabaser och målgruppsfrågor i en kampanj
 * Upplevelse med grundläggande HTML och personalisering
 * Hantering av prenumerationstjänster (anmälan/avanmälan)

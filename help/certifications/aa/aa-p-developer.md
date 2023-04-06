@@ -5,9 +5,9 @@ solution: Analytics
 role: Developer
 badge: label="Exam AD0-E213" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
 workflow-type: tm+mt
-source-wordcount: '1228'
+source-wordcount: '1230'
 ht-degree: 2%
 
 ---
@@ -28,7 +28,7 @@ Upplev följande uppgifter:
 
 * Tolka ett SDR (Solutions Design Document) och förstå syftet med allt [!DNL Adobe Analytics] insamlade variabler
 * Understanding and work with Adobe (Experience Platform) Launch
-* Om konfiguration av baslinje [!DNL Adobe Analytics] dimensioner och händelser Sidnamn, länknamn, Activity Map, osv., men kommer att arbeta med expertutvecklare för fler kundimplementeringar - Variabelmappning ägs fortfarande av utvecklare på expertnivå
+* Om konfiguration av baslinje [!DNL Adobe Analytics] dimensioner och händelser Sidnamn, länknamn, Activity Map o.s.v., men kommer att arbeta med expertutvecklare för fler kundimplementeringar - Variabelmappning ägs fortfarande av expertnivåutvecklare
 * Skapa och konfigurera regler i Launch efter designen från en AA-expert
 * Testa och validera data som samlas in i variabler och händelser som utlöses med hjälp av webbkonsolfelsökare eller mobilappssystem som charleloggar
 * Förstå vad ett datalager är och veta hur man läser ett JavaScript-objekt

@@ -3,9 +3,9 @@ title: Bli certifierad i Adobe
 description: Lär dig certifiera dig på Adobe. Hitta alla resurser ni behöver före, under och efter det att ni blivit certifierade.
 recommendations: disable, exclude
 mini-toc-levels: 1
-source-git-commit: 7b65bbbf68f2a53254c997f01f63cdcbbd6d7cb6
+source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
 workflow-type: tm+mt
-source-wordcount: '1462'
+source-wordcount: '1464'
 ht-degree: 1%
 
 ---
@@ -182,7 +182,7 @@ Följande avsnitt och länkar fungerar endast efter att du har loggat in på [Ad
 | Snabblänkar | Beskrivning |
 | ------- | ------- | 
 | Adobe system för hantering av autentiseringsuppgifter | [Inledande inloggning på Adobe-hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} |
-| Profil | [Demografisk informationssida med plats för kontonamn, adress, företag osv. Namn kan bara uppdateras av en Adobe-administratör](https://www.certmetrics.com/adobe/candidate/demographics.aspx){target="_blank"}. |
+| Profil | [Demografisk informationssida med plats för kontonamn, adress, företag och så vidare. Namn kan bara uppdateras av en Adobe-administratör](https://www.certmetrics.com/adobe/candidate/demographics.aspx){target="_blank"}. |
 | Identifiering | [Plats för Adobe/inloggnings-ID. Börjar oftast med ADB](https://www.certmetrics.com/adobe/candidate/identification.aspx){target="_blank"} |
 | Historik | [Visa resultatrapport och provhistorik](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"} |
 | Certifieringar | [Visa alla aktuella och utgångna certifikat](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"} |

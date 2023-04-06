@@ -4,9 +4,9 @@ description: Få svar på frågor om certifieringsprogrammet Adobe. Läs mer om 
 role: Developer
 recommendations: disable, exclude
 mini-toc-levels: 1
-source-git-commit: 76a3cea2c92ac32fc20031c32e13d7b88999363c
+source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
 workflow-type: tm+mt
-source-wordcount: '1884'
+source-wordcount: '1889'
 ht-degree: 0%
 
 ---
@@ -126,7 +126,7 @@ Certifieringar erbjuds vid vissa evenemang som sponsras av Adobe.
 
 +++
 
-+++Är certifieringar knutna till specifika versioner av program (t.ex. Adobe Experience Manager 6.5)?
++++Är certifieringar knutna till specifika programversioner (t.ex. Adobe Experience Manager 6.5)?
 
 Inte direkt, nej. Men eftersom certifieringen nu måste förnyas vartannat år ser certifieringen till att du alltid har den senaste versionen av ett Adobe-program.
 
@@ -169,7 +169,7 @@ Om du vill veta mer om hur du förnyar din certifiering går du till [här](http
 
 Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe/){target="_blank"}. Där ser du när du har uppnått dina uppgifter och när de upphör att gälla. Du bör också kontrollera din profil och bekräfta att din kontakt, sekundära e-post och jobbinformation är korrekta.
 
-Du får ett e-postmeddelande en månad innan certifieringen upphör. Men om du har ändrat jobb och inte har uppdaterat din e-post kanske du inte får något meddelande. Lägg till ett sekundärt e-postmeddelande (t.ex. Gmail, Hotmail, Yahoo) på ditt CertMetrics-konto, så att du får en påminnelse om utgångsdatum för certifieringen via e-post, även om du byter företag.
+Du får ett e-postmeddelande en månad innan certifieringen upphör. Men om du har ändrat jobb och inte har uppdaterat din e-post kanske du inte får något meddelande. Lägg till en andra e-postadress (som Gmail, Hotmail, Yahoo och så vidare) i ditt CertMetrics-konto, så att du får en påminnelse om att certifieringen upphör att gälla, även om du byter företag.
 
 +++
 

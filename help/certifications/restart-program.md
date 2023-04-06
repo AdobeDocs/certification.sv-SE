@@ -6,9 +6,9 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
 workflow-type: tm+mt
-source-wordcount: '5353'
+source-wordcount: '5355'
 ht-degree: 5%
 
 ---
@@ -256,7 +256,7 @@ Avsnitt 1: Implementeringsanalys (28 %)
 * Bestäm hur ni kan vägleda och stödja implementeringen av AAM som en fristående produkt eller som en del av en molnlösning
 * Analysera alternativ för utgående destinationer och rekommendera en AAM implementeringsmetod
 * Fastställa en strategi för datainhämtning för ett affärsärende
-* Identifiera funktioner som besökarprofilens visningsprogram, taggar, RBAC osv. för att passa in i affärsmålen
+* Identifiera funktioner som besökarprofilens visningsprogram, taggar, RBAC o.s.v. för att anpassa dem efter affärsmålen
 * Bestäm hur du utformar och testar pixlar som behövs för att skapa segment och egenskaper
 
 Avsnitt 2: Solution Design och Recommendations (17 %)

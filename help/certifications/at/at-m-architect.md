@@ -5,9 +5,9 @@ solution: Target
 role: Developer
 badge: label="Exam AD0-E407" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
 workflow-type: tm+mt
-source-wordcount: '1229'
+source-wordcount: '1228'
 ht-degree: 4%
 
 ---
@@ -31,10 +31,10 @@ Dessutom bör du känna till följande tekniker och miljöer:
 
 Teknik:
 
-* Flera Adobe Experience Cloud-program (t.ex. Adobe Analytics, Adobe Campaign, Adobe Experience Manager, Adobe Experience Cloud Debugger, Target API:er)
-* JavaScript (Ajax, JQuery osv.)
-* Webbläsarbaserade felsökningsverktyg (t.ex. Chrome developer tools, VEC help), JSON för felsökningssvar från Target
-* Felsökningsverktyg för inbyggda program (t.ex. Charles Proxy, Fiddler)
+* Flera Adobe Experience Cloud-program (Adobe Analytics, Adobe Campaign, Adobe Experience Manager, Adobe Experience Cloud Debugger, Target API:er)
+* JavaScript (Ajax, JQuery och så vidare)
+* Webbläsarbaserade felsökningsverktyg (Chrome developer tools, VEC help), JSON för felsökningssvar från Target
+* Felsökningsverktyg för inbyggda program (Charles Proxy, Fiddler)
 * HTML, CSS, HTTP, XML-konfiguration
 * Inbyggda IDE för mobilutveckling, grunderna för iOS-utveckling, grunderna för Android-utveckling
 * API-verktyg som Postman
