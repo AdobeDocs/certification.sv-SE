@@ -6,10 +6,10 @@ product: Experience Manager
 role: User
 badge: label="Exam AD0-E126" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+source-git-commit: cab58fef51e04bacba47e0f9c809a7a9f011c71b
 workflow-type: tm+mt
-source-wordcount: '939'
-ht-degree: 5%
+source-wordcount: '979'
+ht-degree: 4%
 
 ---
 
@@ -72,10 +72,14 @@ Avsnitt 2: Arkitektur (22 %)
 * Identifiera var roller och behörigheter ska definieras
 * I ett scenario definierar du tillgängliga cachelagringsmetoder
 
-Avsnitt 3: Installation och implementering (13 %)
+Avsnitt 3: Affärsanalys (43 %)
 
-* Identifiera bästa AEM för att använda innehållskomponenter
-* Identifiera korrekt implementering av en funktion i ett scenario
+* I ett scenario kan du identifiera standardmoduler för AEM som åtgärdar kundaffärsproblem
+* Identifiera begrepp för innehållshantering för AEM moduler
+* Identifiera typiska projektintressenter
+* Identifiera realistiska samarbetsscenarier mellan berörda team
+* Beskriv ett korrekt tillvägagångssätt för att uppfylla affärsmålen samtidigt som du ligger inom budget och/eller omfattning
+* Identifiera sätt att koppla samman affärsmål med utvecklingsteamet
 
 Avsnitt 4: Installation och implementering (13 %)
 
