@@ -6,9 +6,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: 6beb8e647b0638540548038d9ce60cdb3398aa20
+source-git-commit: e6b4c5438263047b402fb11811ce1e1e0f353435
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: '673'
 ht-degree: 0%
 
 ---
@@ -39,8 +39,8 @@ Vi är glada att kunna meddela att du nu kan förnya din certifiering via ett ny
 
 **Information om tentamen:**
 
-* Lösenpoäng:
-* Tid: mini
+* Lösenpoäng: 25/34
+* Tid: 66 min
 * Kostnad: KOSTNADSFRITT/icke-procentrerat
 * Leverans: On-demand
 * Tillgängliga språk: Engelska
@@ -49,13 +49,51 @@ Vi är glada att kunna meddela att du nu kan förnya din certifiering via ett ny
 
 **Tillämpningsområde och mål**
 
-LÄGG TILL
+Avsnitt 1: Administration och installation av huvudsystem (26 %)
+
+* Om du anger ett Fusion-scenario som kräver att en funktion ska kapslas i en annan funktion, väljer du rätt formaterat uttryck.
+* Om det finns ett Fusion-scenario som kräver tidszonsändring, ska du skilja mellan användaren, den synliga organisationen och var det behövs att åsidosätta tidszonen.
+* Vid ett Fusion-scenario väljer du det uttryck och/eller de moduler på mappningspanelen som ska omvandla indata till utdata på rätt sätt.
+* Identifiera rätt sätt att använda Fusion Dev Tool för att felsöka exekveringsfel eller fastställa anrop och svar till tredjepartssystem.
+
+Avsnitt 2: Scenariodesign och arkitektur (47 %)
+
+* Om du anger en lista med steg väljer du rätt sekvens för att tolka JSON och konvertera till paket.
+* I ett Fusion-scenario kan du identifiera en möjlighet att förenkla designen och/eller optimera för underhåll.
+* Om en situation uppstår bör du identifiera en möjlighet att minska dataflödet genom ett scenario.
+* Förklara förändringarna i antalet åtgärder som bearbetas och visas av paketkontrollen, baserat på ett exempel på antalet paket som visas i en sökmodul och en efterföljande aggregator.
+* I ett exempel på ett fel 403:forbidden väljer du felmeddelandets ursprung korrekt och orsaken
+* Identifiera lämplig användning av referenser och samlingar i Workfront Search- och Read-moduler.
+
+Avsnitt 3: Testning och felhantering (15 %)
+
+* I ett Fusion-scenario, identifiera rätt lösning för att förhindra eller hantera en otillförlitlig tjänst.
+* Om det finns ett Fusion-scenario där nödvändiga data saknas väljer du sätt att hantera ogiltiga data.
+
+Avsnitt 4: Arbeta med API:er (12 %)
+
+* Om det finns ett system från tredje part som inte har någon dedikerad app identifierar du HTTP-appen och väljer lämplig modul.
+* Identifiera skillnaden mellan CRUD-åtgärder och andra gemensamma funktioner i REST API:er.
 
 ## Förbered
 
 Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
 
 Här följer några förslag på resurser som hjälper dig att förbereda dig:
+
+**Avsnitt 1: Administration och installation av huvudsystem**
+
+LÄGG TILL
+
+**Avsnitt 2: Scenariodesign och arkitektur**
+
+LÄGG TILL
+
+**Avsnitt 3: Testning och felhantering**
+
+LÄGG TILL
+
+**Avsnitt 4: Arbeta med API:er**
 
 LÄGG TILL
 
@@ -67,7 +105,7 @@ Klicka på länken Workfront Fusion Developer Innovation - AD5-830 nedan om du v
 
 >[!NOTE]
 >
->Det här provet är kostnadsfritt, öppet och icke-bearbetat. Du får ta tentamen upp till tre gånger. Om du inte får 75 % efter tre försök måste du vänta **30 dagar** för att försöka igen. Om du inte följer reglerna kan certifieringen återkallas.
+>Det här provet är kostnadsfritt, öppet och obearbetat. Du får ta tentamen upp till tre gånger. Om du inte lyckas efter det tredje försöket måste du vänta **30 dagar** för att försöka igen. Om du inte följer reglerna kan certifieringen återkallas.
 
 +++
 
