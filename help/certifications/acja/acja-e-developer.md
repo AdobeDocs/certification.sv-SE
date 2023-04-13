@@ -4,24 +4,41 @@ description: Lär dig hur du blir en certifierad expert Adobe i [!DNL Customer J
 role: User
 solution: Customer Journey Analytics
 product: Customer Journey Analytics
-badge: label="Exam AD0-EXXX" type="positive"
+badge: label="Exam AD0-E604" type="positive"
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
+source-git-commit: 57cdc5c07bef404b368f51fb6ffd03735ed5008c
 workflow-type: tm+mt
-source-wordcount: '510'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-
 # Certifieringsresa för Adobe [!DNL Customer Journey Analytics] Expert
 
-Lär dig hur du blir certifierad Adobe
+Lär dig hur du blir en certifierad Adobe Analytics Customer Journey Developer.
 
 ## Minimal upplevelse
 
-Du borde ha:
+Du bör ha 12-24 månaders erfarenhet i Adobe Customer Journey Analytics och kunna utföra följande uppgifter:
+
+* Läs och förstå XDM-schema (klasser)
+* Uppvisa hur välbekant plattformens gränssnitt är
+* Validera data (frågetjänst) och se dina data i en datauppsättning
+* Förstå nödvändiga administratörsbehörigheter för olika åtkomstnivåer
+* Läsa och förstå ett QA-skript
+* Definiera ett QC-skript som ska skickas till AEP-tekniker
+* Konfigurera anslutningar med primära identiteter (person-ID)
+* Konfigurera anslutningar med flera datauppsättningar
+* Konfigurera en datavy (konfiguration av mått/dimension)
+* Konfigurera CJA
+* Omforma data inom mått och mätvärden
+* Analysera arbetsytans grunder (visualiseringar, attribueringsinställningar, filter, beräknade värden)
+* Förstå datastyrning i CJA (DULE)
+* Skapa kanalstatistik eller personbaserade filter
+* Skilja ut/förstå sandlådor i AEP
+* Förstå publikation (delning)
 
 >[!NOTE]
 >
@@ -33,29 +50,49 @@ Du borde ha:
 
 **Målgrupp:**
 
+* Teknisk arkitekt
+* Technical Manager
+* Dataanalytiker
+* Dataarkitekt/ingenjör
+* Lösningsarkitekt
+* Enterprise Architect
+* Implementeringsexpert
+* Marknadsföringsteknologichef
 
 **Information om tentamen:**
 
 * Nivå: Expert (1-3 års erfarenhet)
-* Lösenpoäng:
-* Tid:
+* Lösenpoäng: 33/50
+* Tid: 100 min
 * Leverans: Bearbetad online (kräver kameraåtkomst) eller testcenter
 * Tillgängliga språk: Engelska
 * Kostnad: $225 (global) / $150 (Indien)
-
-**Självbedömning av beredskap**
-
-Slutför [onlineberedskapsenkät](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-9ts38u/ad-q-e116-readiness-questionnaire-for-adobe-aem-developer-expert-exam){target="_blank"} för att se om din nuvarande upplevelse matchar den rekommenderade lägsta kandidatkvalificeringen.
+* Exam-ID: AD0-E604
 
 **Mål och omfattning för tentamen**
 
-Avsnitt 1:
+Avsnitt 1: Anslutningar (22 %)
 
-Avsnitt 2:
+* Utforma CJA-anslutningar med lämpliga inställningar
+* Skapa CJA-anslutningar från XDM-datauppsättningar som är tillgängliga i AEP via sandlåda
 
-Avsnitt 3:
+Avsnitt 2: Datavyer (30 %)
 
-Avsnitt 4:
+* Konfigurera datavyer för rapportering och analys
+* Ändra komponenter i datavyer
+
+Avsnitt 3: Dataverifiering och felsökning (34 %)
+
+* Verifiera att data fylls i korrekt och fullständigt
+* Felsöka anslutningar och datavyer
+* Bygga eller felsöka komponenter
+* Övervaka användningen för att licensiera
+
+Avsnitt 4: Rapportering och aktivering (14 %)
+
+* Använd Analysis Workspace för att visa kundresor över flera kanaler med lämpliga visualiseringar
+* Skicka medlemmarna i ett CJA-filter till en RTCDP-publik
+* Designa och skapa filter i olika datauppsättningar
 
 >[!TAB Förbered]
 
@@ -63,21 +100,7 @@ Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och 
 
 Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
-**Avsnitt 1:**
-
-* [LÄGG TILL resurs](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/underlying-technology/introduction-dispatcher.html?lang=en){target="_blank"}
-
-**Avsnitt 2:**
-
-* [LÄGG TILL resurs](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/underlying-technology/introduction-dispatcher.html?lang=en){target="_blank"}
-
-**Avsnitt 3:**
-
-* [LÄGG TILL resurs](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/underlying-technology/introduction-dispatcher.html?lang=en){target="_blank"}
-
-**Avsnitt 4:**
-
-* [LÄGG TILL resurs](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/underlying-technology/introduction-dispatcher.html?lang=en){target="_blank"}
+_Kommer snart!_
 
 >[!TAB Bli certifierad]
 
@@ -88,16 +111,6 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 **Nu när du har loggat in är följande länkar direkt tillgängliga.**
 
-**Gör ett övningsprov**
-
-Vi rekommenderar att du gör ett test innan du börjar. Du får obegränsad tillgång till alla tillgängliga övningstester för prov på Adobe expertnivå.
-
-Våra övningstester har alla utvecklats från samma plan som direktproven. Praktiktestet hjälper dig att förstå de ämnen som tas upp i provet.
-
-Tänk på att du inte kommer att bli godkänd på certifieringstest om du godkänner ett praktiktest.
-
-Gå till [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} nu för att göra ett praktiktest.
-
 **Gör en certifieringstest**
 
 Adobe använder två leverantörer för att administrera proffsiga tentamina, PSI och Examity.
@@ -107,9 +120,9 @@ Adobe använder två leverantörer för att administrera proffsiga tentamina, PS
 
 Om du vill schemalägga, schemalägga om eller avbryta din tentamen klickar du bara på valfri leverantör och följer instruktionerna på skärmen. Så enkelt är det!
 
-### Provnummer: AD0-EXXX
+### Provnummer: AD0-E604
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E134 newtab=true"}[!BADGE Underbarhet]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E134 newtab=true"}
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E604 newtab=true"}[!BADGE Underbarhet]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E604 newtab=true"}
 
 Du kan betala för ditt certifieringsprov med hjälp av verifikation eller kreditkort. Om du vill köpa en provvoucher går du till: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
