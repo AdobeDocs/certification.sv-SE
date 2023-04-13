@@ -6,9 +6,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: e54d11bb-d563-4779-ad42-b749be64611a
-source-git-commit: 854ad532b0e4da1c021c1bb9b31099534f231673
+source-git-commit: c683a0798d29f8181a92989d6ddf2c8c46a20039
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
@@ -51,7 +51,7 @@ Du kan nu förnya din certifiering antingen via kontinuerlig inlärning eller ge
 * [Adobe [!DNL Campaign Classic]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/acc/acc-renew.html?lang=en){target="_blank"}
 * [Adobe [!DNL Campaign Standard]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/acs/acs-renew.html?lang=en){target="_blank"}
 * [Adobe [!DNL Marketo Engage]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/ame/ame-renew.html?lang=en){target="_blank"}
-* _Adobe [!DNL Workfront] Fusion Developer - kommer snart_
+* _Adobe [!DNL Workfront] - Kommer snart_
 
 ### Frågor
 
