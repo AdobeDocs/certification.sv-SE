@@ -6,9 +6,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: e6b4c5438263047b402fb11811ce1e1e0f353435
+source-git-commit: ec82b4d83d7965901150f73c53eb069289900c52
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '790'
 ht-degree: 0%
 
 ---
@@ -83,19 +83,21 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 **Avsnitt 1: Administration och installation av huvudsystem**
 
-LÄGG TILL
+* [Workfront Documentation](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - Funktioner i Adobe Workfront Fusion, Organisationer i Adobe Workfront Fusion, Moduler i Adobe Workfront Fusion, Scenarier i Adobe Workfront Fusion
 
 **Avsnitt 2: Scenariodesign och arkitektur**
 
-LÄGG TILL
+* [Optimering av Workfront Fusion-scenarier](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/design-optimization-and-testing/workfront-fusion-scenario-optimization.html?lang=en){target="_blank"} - Självstudiekurs
+* [Workfront Documentation](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - Moduler i Adobe Workfront Fusion
 
 **Avsnitt 3: Testning och felhantering**
 
-LÄGG TILL
+* [Workfront Documentation](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - Panelen Scenarioinställningar i Adobe Workfront Fusion, fel i Adobe Workfront Fusion, funktioner i Adobe Workfront Fusion
 
 **Avsnitt 4: Arbeta med API:er**
 
-LÄGG TILL
+* [Workfront Documentation](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - HTTP-moduler, anslutningar i Adobe Workfront Fusion, moduler i Adobe Workfront Fusion
+* [Adobe Workfront API](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-api/workfront-api.html?lang=en){target="_blank"}
 
 ## Förnya din certifiering
 
