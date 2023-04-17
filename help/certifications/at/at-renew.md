@@ -6,9 +6,10 @@ product: Target
 role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: abd73bc0-2283-47d8-83fd-3568bc0298d8
+source-git-commit: 47c3e20f5cc9ae2e4f51435a8720b8da78d3548d
 workflow-type: tm+mt
-source-wordcount: '500'
+source-wordcount: '506'
 ht-degree: 1%
 
 ---
@@ -54,7 +55,7 @@ I dessa fall kan du tillhandahålla en kundreferens som bekräftar att du har de
 
 **När kundreferensen har granskats meddelas du av Adobe Credential Team.**
 
-Kurserna är kostnadsfria. De behöver inte schemaläggas och de behandlas inte. Om du har flera Adobe Experience Manager Expert- och Överordnad certifieringar behöver du bara uppfylla kraven nedan så kommer alla dina AEM certifieringar att förnyas.
+Kurserna är kostnadsfria. De behöver inte schemaläggas och de behandlas inte. Om du har flera Adobe Target Expert- och Överordnad certifieringar behöver du bara uppfylla kraven nedan, och alla dina Adobe Target-certifieringar på den här nivån kommer att förnyas.
 
 [Kundreferensformulär för [!DNL Adobe Target]](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA400){target="_blank"}
 
@@ -70,7 +71,7 @@ Kurserna är kostnadsfria. De behöver inte schemaläggas och de behandlas inte.
 
 >[!NOTE]
 >
->Du kan upprepa tills du har slutfört tre aktiviteter eller fyllt i kundreferensformuläret.
+>Du kan upprepa tills du har slutfört tre aktiviteter eller slutfört två aktiviteter, plus kundens referensformulär.
 
 >[!ENDTABS]
 
