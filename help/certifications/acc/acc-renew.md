@@ -6,9 +6,10 @@ product: Campaign
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: af895356-3e6b-424f-a637-a695b916aa47
+source-git-commit: 8ea02cedced88e0efd180706c0e7f5793f056a6c
 workflow-type: tm+mt
-source-wordcount: '914'
+source-wordcount: '912'
 ht-degree: 8%
 
 ---
@@ -136,15 +137,13 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 ### Förnya din certifiering
 
->[!IMPORTANT]
->
->Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](http://www.certmetrics.com/adobe){target="_blank"}.
-
-**Nu när du har loggat in är följande länkar direkt tillgängliga.**
-
-Det här provet är kostnadsfritt, öppet och obearbetat. Du får ta tentamen upp till tre gånger. Om du inte lyckas efter det tredje försöket måste du vänta **30 dagar** för att försöka igen. Om du inte följer reglerna kan certifieringen återkallas.
+Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för hantering av autentiseringsuppgifter](http://www.certmetrics.com/adobe){target="_blank"} först. Klicka sedan på länken Campaign Classic-förnyelse - AD5-823 nedan för att förnya din certifiering.
 
 [Ta Adobe [!DNL Campaign Classic] förnyelse för Business Practitioner-, Developer and Architect-provet nu - AD5-823](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E823){target="_blank"}
+
+>[!NOTE]
+>
+>Det här provet är kostnadsfritt, öppet och obearbetat. Du får ta tentamen upp till tre gånger. Om du inte lyckas efter det tredje försöket måste du vänta **30 dagar** för att försöka igen. Om du inte följer reglerna kan certifieringen återkallas.
 
 >[!ENDTABS]
 

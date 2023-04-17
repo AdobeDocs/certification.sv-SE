@@ -6,9 +6,10 @@ product: Marketo
 role: User
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
+source-git-commit: 8ea02cedced88e0efd180706c0e7f5793f056a6c
 workflow-type: tm+mt
-source-wordcount: '1020'
+source-wordcount: '1056'
 ht-degree: 0%
 
 ---
@@ -148,13 +149,18 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Experience League - [!DNL Marketo Engage] Produktdokumentation](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=en){target="_blank"} (Arbeta med program, e-postmarknadsföring, A/B-testning)
 * [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Lägg märke till din QA-process)
 
-### Starta om certifieringen
+### Förnya din certifiering
 
-Det här provet är kostnadsfritt, öppet och obearbetat. Du får ta tentamen upp till tre gånger. Om du inte lyckas efter det tredje försöket måste du vänta **30 dagar** för att försöka igen. Om du inte följer reglerna kan certifieringen återkallas.
+Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för hantering av autentiseringsuppgifter](http://www.certmetrics.com/adobe){target="_blank"} först. Klicka sedan på länken för förnyelse av Marketo Engage Business Practitioner Expert nedan för att förnya din certifiering.
 
-[!BADGE Take the Adobe [!DNL Marketo Engage] Affärsåklagarens expert - starta om provet AD5-E824]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true&quot;}
+[!BADGE Take the Adobe [!DNL Marketo Engage] Affärsåklagarens expertförnyelseprov AD5-E824]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true&quot;}
+
+>[!NOTE]
+>
+>Det här provet är kostnadsfritt, öppet och obearbetat. Du får ta tentamen upp till tre gånger. Om du inte lyckas efter det tredje försöket måste du vänta **30 dagar** för att försöka igen. Om du inte följer reglerna kan certifieringen återkallas.
 
 >[!ENDTABS]
+
 
 ### Frågor
 

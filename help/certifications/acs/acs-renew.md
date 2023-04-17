@@ -7,7 +7,7 @@ role: User,Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 1a5882ab-a180-4c47-b3ce-c0ece57c5237
-source-git-commit: 3f19d949a22b9eb8247dfa79ffc2e56c76a707f2
+source-git-commit: 8ea02cedced88e0efd180706c0e7f5793f056a6c
 workflow-type: tm+mt
 source-wordcount: '1460'
 ht-degree: 11%
@@ -222,7 +222,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 ## Förnya din certifiering
 
-Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för hantering av autentiseringsuppgifter](http://www.certmetrics.com/adobe){target="_blank"} först. Klicka sedan på[!DNL Campaign Standard] Förnyelse av utvecklare - länken AD5-821&quot; nedan.
+Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för hantering av autentiseringsuppgifter](http://www.certmetrics.com/adobe){target="_blank"} först. Klicka sedan på [!DNL Campaign Standard] Förnyelse av utvecklare - länken AD5-821 nedan.
 
 * [[!DNL Campaign Standard] Förnyelse för utvecklare - AD5-821](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E821){target="_blank"}
 

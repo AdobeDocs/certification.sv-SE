@@ -6,9 +6,10 @@ product: Audience Manager
 role: User
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
+source-git-commit: 8ea02cedced88e0efd180706c0e7f5793f056a6c
 workflow-type: tm+mt
-source-wordcount: '1040'
+source-wordcount: '1116'
 ht-degree: 0%
 
 ---
@@ -103,9 +104,14 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 **Starta om certifieringen**
 
-Det här provet är kostnadsfritt, öppet och obearbetat. Du får ta tentamen upp till tre gånger. Om du inte lyckas efter det tredje försöket måste du vänta **30 dagar** för att försöka igen. Om du inte följer reglerna kan certifieringen återkallas.
+Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för hantering av autentiseringsuppgifter](http://www.certmetrics.com/adobe){target="_blank"} först. Om du vill förnya din certifiering klickar du på länken Adobe Audience Manager Business Practitioner Expert - AD5-E826 nedan.
 
-[!BADGE Ta en förnyelseexamen från Adobe Audience Manager Business Practitioner AD5-E826]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E826 newtab=true"}
+[!BADGE Ta en förnyelseexamen från Adobe Audience Manager Business Practitioner Expert, AD5-E826]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E826 newtab=true"}
+
+>[!NOTE]
+>
+>Det här provet är kostnadsfritt, öppet och obearbetat. Du får ta tentamen upp till tre gånger. Om du inte lyckas efter det tredje försöket måste du vänta **30 dagar** för att försöka igen. Om du inte följer reglerna kan certifieringen återkallas.
+
 
 >[!TAB Överordnad]
 
@@ -177,11 +183,16 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [AAM: Avancerade funktioner](https://solutionpartners.adobe.com/training/courses/course500092.html){target="_blank"}
 * [ Starta Utbildning och resurser](https://solutionpartners.adobe.com/training/courses/course1326130.html){target="_blank"}
 
-### Starta om certifieringen
+### Förnya din certifiering
 
-Det här provet är kostnadsfritt, öppet och obearbetat. Du får ta tentamen upp till tre gånger. Om du inte lyckas efter det tredje försöket måste du vänta **30 dagar** för att försöka igen. Om du inte följer reglerna kan certifieringen återkallas.
+Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för hantering av autentiseringsuppgifter](http://www.certmetrics.com/adobe){target="_blank"} först. Klicka sedan på länken Adobe Audience Manager Architect Överordnad förnyelse - AD5-E825 nedan för att förnya din certifiering.
 
-[!BADGE Ta en överordnad förnyelseexamen i Adobe Audience Manager Architect AD5-E825]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E825 newtab=true"}
+[!BADGE Ta en Överordnad förnyelseexamen i Adobe Audience Manager Architect AD5-E825]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E825 newtab=true"}
+
+>[!NOTE]
+>
+>Det här provet är kostnadsfritt, öppet och obearbetat. Du får ta tentamen upp till tre gånger. Om du inte lyckas efter det tredje försöket måste du vänta **30 dagar** för att försöka igen. Om du inte följer reglerna kan certifieringen återkallas.
+
 
 >[!ENDTABS]
 
