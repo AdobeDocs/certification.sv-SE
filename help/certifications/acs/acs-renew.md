@@ -7,10 +7,10 @@ role: User,Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 1a5882ab-a180-4c47-b3ce-c0ece57c5237
-source-git-commit: e6b4c5438263047b402fb11811ce1e1e0f353435
+source-git-commit: 3f19d949a22b9eb8247dfa79ffc2e56c76a707f2
 workflow-type: tm+mt
-source-wordcount: '1491'
-ht-degree: 10%
+source-wordcount: '1460'
+ht-degree: 11%
 
 ---
 
@@ -108,7 +108,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 ## Förnya din certifiering
 
-Klicka på _[!DNL Campaign Standard]Förnyelse av affärsman - länken AD5-822 nedan_. Detta dirigerar om dig till Adobe system för hantering av autentiseringsuppgifter där du kan klicka **[!UICONTROL förnya din certifiering]** till höger på skärmen och sedan söka efter [!DNL Adobe Campaign] för att se länken till förnyelseprovet.
+Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för hantering av autentiseringsuppgifter](http://www.certmetrics.com/adobe){target="_blank"} först. Klicka sedan på [!DNL Campaign Standard] Förnyelse av affärsman - länk AD5-822 nedan.
 
 * [[!DNL Campaign Standard] Förnyelse av affärsman - AD5-822](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E822){target="_blank"}
 
@@ -222,7 +222,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 ## Förnya din certifiering
 
-Klicka på &quot;[!DNL Campaign Standard] Förnyelse av utvecklare - länken AD5-821&quot; nedan. Detta dirigerar om dig till Adobe-systemet för hantering av autentiseringsuppgifter, där du klickar på&quot;Förnya din certifiering&quot; till höger på skärmen > och sedan söker efter Adobe Campaign för att se länken till förnyelseprovet.
+Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för hantering av autentiseringsuppgifter](http://www.certmetrics.com/adobe){target="_blank"} först. Klicka sedan på[!DNL Campaign Standard] Förnyelse av utvecklare - länken AD5-821&quot; nedan.
 
 * [[!DNL Campaign Standard] Förnyelse för utvecklare - AD5-821](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E821){target="_blank"}
 

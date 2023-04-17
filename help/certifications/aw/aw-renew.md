@@ -6,9 +6,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: ec82b4d83d7965901150f73c53eb069289900c52
+source-git-commit: 3f19d949a22b9eb8247dfa79ffc2e56c76a707f2
 workflow-type: tm+mt
-source-wordcount: '790'
+source-wordcount: '776'
 ht-degree: 0%
 
 ---
@@ -101,7 +101,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 ## Förnya din certifiering
 
-Klicka på länken Workfront Fusion Developer Innovation - AD5-830 nedan om du vill förnya provet. Detta dirigerar om dig till Adobe system för hantering av autentiseringsuppgifter där du kan klicka **[!UICONTROL förnya din certifiering]** till höger på skärmen och sedan söka efter [!DNL Adobe Campaign] för att se länken till förnyelseprovet.
+Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för hantering av autentiseringsuppgifter](http://www.certmetrics.com/adobe){target="_blank"} först. Klicka sedan på länken Workfront Fusion Developer Innovation - AD5-830 nedan för att förnya provet.
 
 * [Workfront Fusion Developer förnyelse - AD5-830](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E830){target="_blank"}
 
