@@ -1,12 +1,13 @@
 ---
 title: Startsida för certifiering
-description: Läs mer om [!DNL Experience Cloud] Certifiering på Adobe. Ta reda på vad certifieringen kan göra för dig.
+description: Läs mer om [!DNL Experience Cloud] Certifiering på Adobe. Ta reda på vad du kan få ut av certifieringen.
 role: User,Developer,Data Architect
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
+source-git-commit: 8050b065ca256f4bd664700756ba70d5b0a9c5ea
 workflow-type: tm+mt
 source-wordcount: '399'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -14,7 +15,7 @@ ht-degree: 0%
 
 Läs mer om certifiering på Adobe och vad certifieringen kan göra för dig.
 
-![Banderoll](/help/certifications/assets/home_banner_narrow.png)
+![Banderoll](/help/certifications/assets/home_banner_small.png)
 
 Adobe [!DNL Experience Cloud] är en serie digitala marknadsföringslösningar som gör det möjligt för företag att leverera personaliserade kundupplevelser över flera kanaler, inklusive webben, mobiler, e-post och sociala medier. [!DNL Experience Cloud] innehåller ett antal produkter, till exempel Adobe [!DNL Real-Time CDP], Adobe [!DNL Experience Manager], [!DNL Adobe Commerce], [!DNL Adobe Journey Optimizer], [!DNL Adobe Customer Analytics], med mera.
 
