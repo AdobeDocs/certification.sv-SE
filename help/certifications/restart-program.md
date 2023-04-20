@@ -6,7 +6,8 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
+source-git-commit: f1aa8e1e15924f2f79b555fbc2fbcfcd74860827
 workflow-type: tm+mt
 source-wordcount: '5355'
 ht-degree: 5%
@@ -15,7 +16,7 @@ ht-degree: 5%
 
 # Starta om din certifieringsresa genom att gå från utgången till certifierad
 
-Tidsbegränsat program **17 april 2023-20 oktober 2023**, ger dig en chans att uppdatera dina färdigheter och ligga steget före i ett snabbt föränderligt digitalt landskap.
+Tidsbegränsat program **24 april 2023-20 oktober 2023**, ger dig en chans att uppdatera dina färdigheter och ligga steget före i ett snabbt föränderligt digitalt landskap.
 
 Individer vars certifieringar löpte ut från 2020 till 23 april 2023 är berättigade till detta **kostnadsfritt** program.
 
