@@ -4,9 +4,10 @@ description: Få svar på frågor om certifieringsprogrammet Adobe. Läs mer om 
 role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
-source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
+exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
+source-git-commit: 5eb2d298a4b8e5630533c9a8e2bf513acfbbeb7b
 workflow-type: tm+mt
-source-wordcount: '1889'
+source-wordcount: '2665'
 ht-degree: 0%
 
 ---
@@ -244,6 +245,169 @@ Nej, du behöver bara uppfylla de krav som anges för lösningen. Certifieringen
 +++Måste jag granska kurserna eller kan jag börja utvärdera?
 
 Utvärderingarna bygger på kurserna i Experience League och en översyn av dem kommer att förbereda kandidater för att lyckas med dem. Det viktigaste kravet för förnyelse är dock att godkänna bedömningarna.
+
++++
+
+>[!TAB Starta om program]
+
+**Programöversikt**
+
++++Vad är Adobe program för omstart av certifiering?
+
+Adobe Certification Restart Program är ett engångsprogram som gör det möjligt för enskilda att återfå utgångna Adobe-certifieringar genom att skicka ut korta prov eller bedömningar på webben kostnadsfritt.
+
++++
+
++++Hur länge kommer omstartsprogrammet att köras?
+
+Programmet kommer att löpa i sex månader, från den 24 april till den 20 oktober 2023.
+
++++
+
++++Kommer Adobe att erbjuda den här typen av program igen i framtiden?
+
+Vi planerar för närvarande inte att erbjuda detta igen. Detta är endast ett engångserbjudande.
+
++++
+
++++Vilka certifieringsnivåer ingår i omstartsprogrammet?
+
+Det är bara expertcertifikat och Överordnad certifikat som ingår i omstartsprogrammet. Certifieringar på professionell nivå kommer att ha en förnyelsesökväg tillgänglig från juni 2023.
+
++++
+
+**Programkvalificering**
+
++++Vem är berättigad till Adobe program för certifieringsstart?
+
+Individer vars certifieringar löpte ut från 2020 till och med 23 april 2023 är berättigade till omstartsprogrammet, förutsatt att den certifiering de söker ingår i programmet (se listan över kvalificerade certifieringsprov nedan).
+
++++
+
++++ Varför släpps inte alla certifieringsprov under de år som ingår i omstartsprogrammet?\
+Examineringar som släppts före 2019 ingår inte i Restart-programmet.
+
++++
+
++++Varför är den 23 april 2023 det slutdatum då du är berättigad att starta om programmet?
+
+Eftersom det ger individer som inte kunde delta i den kostnadsfria förnyelseperioden för certifiering (som inleddes den 23 januari 2023) tillräckligt med tid för att förnya sina certifieringar.
+
++++
+
++++Vilka certifieringar ingår i Adobe Certification Restart Program?
+
+Alla aktiva Adobe-certifieringar, utom de som har gått i pension, ingår i programmet.
+
++++
+
++++Kan du visa en lista över berättigade examina per program?
+
+**Adobe Experience Manager**
+
+| Provnings-ID | Provnamn |
+| ------- | ------- |
+| AD0-E121 | [!DNL Adobe Experience Manager Sites] Affärsexpert |
+| AD0-E102 | [!DNL Adobe Experience Manager Sites] Affärsexpert |
+| AD0-E103 | [!DNL Adobe Experience Manager Sites] Developer Expert |
+| AD0-E116 | [!DNL Adobe Experience Manager Sites] Developer Expert |
+| AD0-E106 | [!DNL Adobe Experience Manager] Dev/Ops Engineer Expert |
+| AD0-E117 | [!DNL Adobe Experience Manager Sites] Arkitekt Överordnad |
+| AD0-E104 | [!DNL Adobe Experience Manager Sites] Arkitekt Överordnad |
+
+**[!DNL Adobe Analytics]**
+
+| Provnings-ID | Provnamn |
+| ------- | ------- |
+| AD0-E201 | [!DNL Adobe Analytics] Developer Expert |
+| AD0-E202 | [!DNL Adobe Analytics] Affärsexpert |
+| AD0-E200 | [!DNL Adobe Analytics] Arkitekt Överordnad |
+| AD0-E207 | [!DNL Adobe Analytics] Arkitekt Överordnad |
+
+**Adobe Audience Manager**
+
+| Provnings-ID | Provnamn |
+| ------- | ------- |
+| AD0-E454 | [!DNL Adobe Audience Manager] Arkitekt Överordnad |
+| AD0-E452 | [!DNL Adobe Audience Manager] Arkitekt Överordnad |
+| AD0-E453 | [!DNL Adobe Audience Manager] Affärsexpert |
+
+**Adobe Campaign Classic**
+
+| Provnings-ID | Provnamn |
+| ------- | ------- |
+| AD0-E300 | Adobe [!DNL Campaign Classic] Sites Business Practitioner Expert |
+| AD0-E314 | Adobe [!DNL Campaign Classic] Sites Business Practitioner Expert |
+| AD0-E318 | Adobe [!DNL Campaign Classic] Arkitekt Överordnad |
+| AD0-E303 | Adobe [!DNL Campaign Classic] Arkitekt Överordnad |
+| AD0-E312 | Adobe [!DNL Campaign Classic] Developer Expert |
+| AD0-E308 | Adobe [!DNL Campaign Classic] Developer Expert |
+
+**Adobe Campaign Standard**
+
+| Provnings-ID | Provnamn |
+| ------- | ------- |
+| AD0-E307 | Adobe [!DNL Campaign Standard] Affärsexpert |
+| AD0-E302 | Adobe [!DNL Campaign Standard] Affärsexpert |
+| AD0-E306 | Adobe [!DNL Campaign Standard] Developer Expert |
+| AD0-E301 | Adobe [!DNL Campaign Standard] Developer Expert |
+
+**Adobe[!DNL Marketo Engage]**
+
+| Provnings-ID | Provnamn |
+| ------- | ------- |
+| AD0-E552 | Adobe [!DNL Marketo Engage] Yrkesverksamma (tidigare MCE) |
+
+**Adobe Target**
+
+| Provnings-ID | Provnamn |
+| ------- | ------- |
+| AD0-E401 | [!DNL Adobe Target] Affärsexpert |
+| AD0-E402 | [!DNL Adobe Target] Arkitekt Överordnad |
+
++++
+
++++Min certifiering upphör att gälla mellan den 24 april och den 20 oktober 2023, medan det här programmet är tillgängligt. Kan jag fortsätta med omstartsprogrammet för min certifiering när det är slut?
+
+Nej. Alla sökande med aktiva certifieringar från lanseringsdatumet och senare har möjlighet att fortsätta den kontinuerliga förnyelse-stigen som vi meddelade i januari 2023.
+
+Omstartsprogrammet är avsett endast för certifiering som upphörde att gälla före den 24 april 2023, för att erbjuda certifiering till sökande som inte kunde delta i det kontinuerliga utbildningsprogrammet.
+
++++
+
+**[!DNL Marketo Engage]Solution Architect (MCSA) och Adobe Commerce**
+
++++I har gått ut [!DNL Marketo] Certified Solution Architect (MCSA). Kan jag återinföra det genom det här programmet?
+
+Kandidater med utgången [!DNL Marketo] Certifieringen av certifierad lösningsarkitektur kan fortsätta som Marketo Business Practitioner-omstarten för partiella krav på den nya [!DNL Marketo Engage] Arkitektcertifiering.
+
+Slutligt krav är att godkänna det nya [!DNL Marketo Engage] Arkitektprov. För alla certifikatinnehavare som har gått ut för MCSA kör vi en rabattkampanj på 50 % fram till 31 december 2023. Kontakta certifieringssupporten om du vill ha mer information.
+
++++
+
++++Varför är Adobe? [!DNL Commerce] Certifieringar ingår inte i Adobe Certification Restart Program?
+
+Det finns inga certifikatinnehavare som gått ut för Adobe som för närvarande erbjuds [!DNL Commerce] Certifieringar från och med den 23 april 2023. Därför är alla aktiva Adobe [!DNL Commerce] Certifierade sökande har möjlighet att förnya genom kontinuerlig inlärning [förnyelsesökväg för certifiering](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/ac/ac-renew.html?lang=en){target="_blank"}.
+
++++
+
+**Adobe-profil för autentiseringsuppgifter**
+
++++Varför ser jag _deltagande_ under historikdelen av min profil i Adobe Credential Manager?
+
+Detta markerar din behörighet till programmet för omstart av certifiering i Adobe. Kandidater som har tilldelats det här deltagandet kan uppfylla kraven för att starta om sin certifiering som har upphört att gälla i varje program.
+
++++
+
++++Jag har uppfyllt kraven och ser inte resultaten i min profilhistorik när får jag certifikatet?
+
+Certifieringen kommer att utfärdas inom 72 timmar efter det att kraven har uppfyllts. Det är viktigt att komma ihåg att detta program endast kommer att ge certifiering till berättigade sökande.
+
++++
+
++++Vad ska jag göra om min certifiering fortfarande visas som utgången även efter att jag har slutfört omstartskraven?
+
+När en certifiering har upphört att gälla kan den tyvärr inte förlängas. I sådana fall utfärdas en ny certifiering i stället för att den gamla förnyas.
 
 +++
 
