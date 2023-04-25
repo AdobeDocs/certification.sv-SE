@@ -2,10 +2,10 @@
 user-guide-title: Certifiering i Adobe
 breadcrumb-title: Certifiering i Adobe
 user-guide-description: Läs mer om [!DNL Experience Cloud] Certifiering på Adobe. Ta reda på vad du kan få ut av certifieringen.
-source-git-commit: 68474f469a64f87c17f9ab808e947ed07c2002b6
+source-git-commit: 8e1eb997b2b5187f62c72a443f9d6a848f8c7708
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 30%
+source-wordcount: '238'
+ht-degree: 26%
 
 ---
 
@@ -19,13 +19,15 @@ ht-degree: 30%
 + [Starta om program](restart-program.md)
 + [Min profil](my-profile.md)
 + [Vanliga frågor och svar](faq.md)
-+ Tekniska certifieringar {#technical-certifications}
++ Tekniska certifieringar per lösning {#technical-certifications}
    + Adobe [!DNL Advertising] {#aac}
+      + [Reklamöversikt](/help/certifications/aac/aac-overview.md)
       + Professional {#aac-professional}
          + [Affärsledare (sökning)](/help/certifications/aac/aac-search-p-business.md)
          + [Affärsman (DSP)](/help/certifications/aac/aac-dsp-p-business.md)
       + [Förnyelse](/help/certifications/aac/aac-renew.md)
    + Adobe [!DNL Analytics] {#aa}
+      + [Analysöversikt](/help/certifications/aa/aa-overview.md)
       + Professional {#aa-professional}
          + [Yrkesverksam](/help/certifications/aa/aa-p-business.md)
          + [Utvecklare](/help/certifications/aa/aa-p-developer.md)
@@ -36,9 +38,11 @@ ht-degree: 30%
          + [Arkitekt](/help/certifications/aa/aa-m-architect.md)
       + [Förnyelse](/help/certifications/aa/aa-renew.md)
    + Adobe [!DNL Customer Journey Analytics] {#acja}
+      + [Översikt över Customer Journey Analytics](/help/certifications/acja/acja-overview.md)
       + Expert {#acja-expert}
          + [Utvecklare](/help/certifications/acja/acja-e-developer.md)
    + Adobe [!DNL Audience Manager] {#aam}
+      + [Översikt över Audience Manager](/help/certifications/aam/aam-overview.md)
       + Professional {#aam-professional}
          + [Yrkesverksam](/help/certifications/aam/aam-p-business.md)
       + Expert {#aam-expert}
@@ -47,6 +51,7 @@ ht-degree: 30%
          + [Arkitekt](/help/certifications/aam/aam-m-architect.md)
       + [Förnyelse](/help/certifications/aam/aam-renew.md)
    + Adobe [!DNL Campaign Classic] {#acc}
+      + [Översikt över Campaign Classic](/help/certifications/acc/acc-overview.md)
       + Professional {#acc-professional}
          + [Yrkesverksam](/help/certifications/acc/acc-p-business.md)
          + [Utvecklare](/help/certifications/acc/acc-p-developer.md)
@@ -57,11 +62,13 @@ ht-degree: 30%
          + [Arkitekt](/help/certifications/acc/acc-m-developer.md)
       + [Förnyelse](/help/certifications/acc/acc-renew.md)
    + Adobe [!DNL Campaign Standard] {#acs}
+      + [Översikt över Campaign Standard](/help/certifications/acs/acs-overview.md)
       + Expert {#acs-expert}
          + [Yrkesverksam](/help/certifications/acs/acs-e-business.md)
          + [Utvecklare](/help/certifications/acs/acs-e-developer.md)
       + [Förnyelse](/help/certifications/acs/acs-renew.md)
    + Adobe [!DNL Commerce] {#ac}
+      + [Handelsöversikt](/help/certifications/ac/ac-overview.md)
       + Professional {#ac-professional}
          + [Yrkesverksam](/help/certifications/ac/ac-p-business.md)
          + [Utvecklare](/help/certifications/ac/ac-p-developer.md)
@@ -74,6 +81,7 @@ ht-degree: 30%
          + [Arkitekt](/help/certifications/ac/ac-m-architect.md)
       + [Förnyelse](/help/certifications/ac/ac-renew.md)
    + Adobe [!DNL Experience Manager] {#aem}
+      + [Översikt över Experience Manager](/help/certifications/aem/aem-overview.md)
       + Professional {#aem-professional}
          + [Yrkesverksam](/help/certifications/aem/aem-p-business.md)
          + [Utvecklare (platser)](/help/certifications/aem/aem-sites-p-developer.md)
@@ -87,9 +95,10 @@ ht-degree: 30%
          + [Utvecklare (Forms)](/help/certifications/aem/aem-forms-e-developer.md)
          + [Migrering av Cloud Service](/help/certifications/aem/aem-cs-e-migration.md)
       + Överordnad {#aem-master}
-         + [Arkitekt (platser)](/help/certifications/aem/aem-sites-m-archtiect.md)
+         + [Arkitekt (platser)](/help/certifications/aem/aem-sites-m-architect.md)
       + [Förnyelse](/help/certifications/aem/aem-renew.md)
    + Adobe [!DNL Marketo Engage] {#ame}
+      + [Översikt över Marketo Engage](/help/certifications/ame/ame-overview.md)
       + Professional {#ame-professional}
          + [Certifierad Professional](/help/certifications/ame/ame-p.md)
       + Expert {#ame-expert}
@@ -97,21 +106,25 @@ ht-degree: 30%
       + Överordnad {#ame-master}
          + [Arkitekt](/help/certifications/ame/ame-m-architect.md)
       + [Förnyelse](/help/certifications/ame/ame-renew.md)
-   + Adobe [!DNL Doc Cloud] {#adc}
+   + Adobe [!DNL Document Cloud] {#adc}
+      + [Översikt över Document Cloud](/help/certifications/adc/adc-overview.md)
       + Professional {#adc-professional}
          + [Yrkesverksam](/help/certifications/adc/adc-professional.md)
       + [Förnyelse](/help/certifications/adc/adc-renew.md)
    + Adobe Real-Time CDP {#rtcdp}
+      + [Real-Time CDP - översikt](/help/certifications/rtcdp/rtcdp-overview.md)
       + Professional {#rtcdp-professional}
          + [Yrkesverksam](/help/certifications/rtcdp/rtcdp-p-business.md)
       + Expert {#rtcdp-expert}
          + [Teknikassistent](/help/certifications/rtcdp/rtcdp-e-technical.md)
       + [Förnyelse](/help/certifications/rtcdp/rtcdp-renew.md)
    + Adobe [!DNL Journey Optimizer] {#ajo}
+      + [Journey Optimizer - översikt](/help/certifications/ajo/ajo-overview.md)
       + Expert {#ajo-expert}
          + [Utvecklare](/help/certifications/ajo/ajo-e-developer.md)
       + [Förnyelse](/help/certifications/ajo/ajo-renew.md)
    + Adobe [!DNL Target] {#at}
+      + [Målöversikt](/help/certifications/at/at-overview.md)
       + Professional {#at-professional}
          + [Yrkesverksam](/help/certifications/at/at-p-business.md)
       + Expert {#at-expert}
@@ -120,6 +133,7 @@ ht-degree: 30%
          + [Arkitekt](/help/certifications/at/at-m-architect.md)
       + [Förnyelse](/help/certifications/at/at-renew.md)
    + Adobe [!DNL Workfront] {#aw}
+      + [Workfront - översikt](/help/certifications/aw/aw-overview.md)
       + Professional {#aw-professional}
          + [Developer (Fusion)](/help/certifications/aw/aw-fusion-p-developer.md)
          + [Projektledare](/help/certifications/aw/aw-p-project-manager.md)
