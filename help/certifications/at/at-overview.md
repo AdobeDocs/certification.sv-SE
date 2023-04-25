@@ -2,7 +2,8 @@
 title: Översikt över målcertifiering
 description: Översikt över certifieringsalternativ för Adobe Target
 solution: Target
-source-git-commit: 8e1eb997b2b5187f62c72a443f9d6a848f8c7708
+exl-id: 6853b7c9-23df-4082-b752-026dadcb3087
+source-git-commit: 6397c96ab0ce2ecf6cd7e70bd2044e01c23ab563
 workflow-type: tm+mt
 source-wordcount: '38'
 ht-degree: 0%
@@ -24,4 +25,3 @@ ht-degree: 0%
 * [Arkitekt](/help/certifications/at/at-m-architect.md) <!--AD0-E407-->
 
 Besök [Förnya din certifiering](/help/certifications/renew.md) för att se om det finns något förnyelsealternativ för den här produkten.
-
