@@ -4,7 +4,7 @@ description: Kom igång med [!DNL Experience Cloud] certifieringar. Läs mer om 
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
-source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
+source-git-commit: 341ad8d663af57e1461494d7b612fc54df2d9037
 workflow-type: tm+mt
 source-wordcount: '943'
 ht-degree: 0%
@@ -39,7 +39,7 @@ Adobe [!DNL Experience Cloud] erbjuder tre olika certifieringsnivåer: Professio
 Dessa nivåer avspeglar en utveckling i fråga om kompetens och kunskap, där den professionella certifieringen är grundläggande certifiering, där Expert är mellannivå och Överordnad är den högsta certifieringsnivån.
 
 | ![Professional Badge](/help/certifications/assets/professional-badge-Xsmall.png) | **Professionella certifieringar** validera att en kandidat har en grundläggande förståelse för Adobe digitala marknadsföringslösningar. Certifieringsprovet omfattar grundläggande begrepp och funktioner i Adobe [!DNL Experience Cloud]. |
-| --------- | ------- |
+| ------- | ------- |
 
 {style="table-layout:auto"}
 
