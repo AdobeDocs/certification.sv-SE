@@ -4,9 +4,9 @@ description: Kom igång med [!DNL Experience Cloud] certifieringar. Läs mer om 
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
-source-git-commit: 341ad8d663af57e1461494d7b612fc54df2d9037
+source-git-commit: 6d77e4b81d05f41d398c657cce1116f73e8a7e1f
 workflow-type: tm+mt
-source-wordcount: '943'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -38,18 +38,11 @@ Adobe [!DNL Experience Cloud] erbjuder tre olika certifieringsnivåer: Professio
 
 Dessa nivåer avspeglar en utveckling i fråga om kompetens och kunskap, där den professionella certifieringen är grundläggande certifiering, där Expert är mellannivå och Överordnad är den högsta certifieringsnivån.
 
+| Badge | Beskrivning |
+| ------- | ------- |
 | ![Professional Badge](/help/certifications/assets/professional-badge-Xsmall.png) | **Professionella certifieringar** validera att en kandidat har en grundläggande förståelse för Adobe digitala marknadsföringslösningar. Certifieringsprovet omfattar grundläggande begrepp och funktioner i Adobe [!DNL Experience Cloud]. |
-| ------- | ------- |
-
-{style="table-layout:auto"}
-
 | ![Expert Badge](/help/certifications/assets/expert-badge-Xsmall.png) | **Expertcertifieringar** för yrkesverksamma som har en mer avancerad förståelse för Adobe digitala marknadsföringslösningar. Certifieringsprovet omfattar mer komplexa begrepp och funktioner i Adobe [!DNL Experience Cloud], inklusive implementering och felsökning. |
-| ------- | ------- |
-
-{style="table-layout:auto"}
-
 | ![Överordnad Badge](/help/certifications/assets/master-badge-Xsmall.png) | **Överordnad certifieringar** är till för yrkesverksamma som har en djupgående förståelse för Adobe digitala marknadsföringslösningar och har visat sig ha expertis på flera områden i Adobe [!DNL Experience Cloud]. Certifieringsprovet omfattar avancerade ämnen och scenarier, inklusive komplexa integreringar, anpassningar och felsökning. |
-| ------- | ------- |
 
 {style="table-layout:auto"}
 
@@ -57,18 +50,11 @@ Dessa nivåer avspeglar en utveckling i fråga om kompetens och kunskap, där de
 
 Adobe certifieringstester är anpassade till tre olika jobbroller. Läs informationen nedan för att hitta rätt certifiering för din karriärväg.
 
+| Logotyp | Beskrivning |
+| ------- | ------- |
 | ![Business Practitioner Badge](/help/certifications/assets/business_practitioner_blk_small.png) | **Yrkesverksamma inom affärsverksamhet** ansvarar för att utforma, genomföra och hantera marknadsföringskampanjer med Adobe [!DNL Experience Cloud] lösningar. De bör ha en grundläggande förståelse för Adobe digitala marknadsföringslösningar, liksom för upplevelsen inom marknadsföring och reklam. Certifieringen för affärsverkare validerar deras förmåga att effektivt använda Adobe digitala marknadsföringslösningar för att uppnå affärsmålen. |
-| ------- | ------- |
-
-{style="table-layout:auto"}
-
 | ![Developer Badge](/help/certifications/assets/developer_blk_small.png) | **Utvecklare** ansvarar för att genomföra och integrera Adobe, [!DNL Experience Cloud] lösningar i en organisations teknikstack. De bör ha erfarenhet av programvaruutveckling och kompetens inom webbteknik som HTML, CSS, JavaScript och RESTful API:er. Utvecklarcertifieringen validerar deras förmåga att effektivt implementera och anpassa digitala marknadsföringslösningar från Adobe för att uppfylla verksamhetskrav. |
-| ------- | ------- |
-
-{style="table-layout:auto"}
-
 | ![Architect Badge](/help/certifications/assets/architect_blk_small.png) | **Arkitekter** ansvarar för att utforma och implementera lösningar på enterprise-nivå med Adobe [!DNL Experience Cloud] lösningar. De bör ha omfattande kunskaper om Adobe digitala marknadsföringslösningar och ha erfarenhet av programvaruarkitektur, integrering och anpassning. Arkitektcertifieringen validerar deras förmåga att utforma och implementera komplexa lösningar med hjälp av Adobe digitala marknadsföringslösningar. |
-| ------- | ------- |
 
 {style="table-layout:auto"}
 
