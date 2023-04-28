@@ -3,7 +3,8 @@ title: Bli certifierad i Adobe
 description: Lär dig certifiera dig på Adobe. Hitta alla resurser ni behöver före, under och efter det att ni blivit certifierade.
 recommendations: disable, exclude
 mini-toc-levels: 1
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
+source-git-commit: 976a9a4ac83ba996c18b07c5d14602bfcc96be49
 workflow-type: tm+mt
 source-wordcount: '1464'
 ht-degree: 1%
@@ -88,9 +89,9 @@ Adobe Credential-teamet samarbetar med leverantörer för att stödja programmet
 | Leverantörsnamn | Beskrivning | Supportsida/e-post |
 | ------- | ------- | ------- |
 | Tillförlitligt | Badge Management System | [Support](https://credlyissuer.zendesk.com/hc/en-us){target="_blank"} |
-| Underbarhet | Testa leveransleverantör (endast onlinebearbetning) | support@examity.com eller 855-Examity (855-392-6489) |
-| PSI | Testa leveransleverantör för bearbetade tentamina på en plats eller på japanska | adobe.psisupport@psionline.com |
-| Xvoucher - Adobe Certification Voucher Center | Verifikationscenter för att köpa enskilda eller bulkverifikationer | support@xvoucher.com eller [Onlinehjälp](https://help.xvoucher.com/hc/en-us){target="_blank"} |
+| Underbarhet | Testa leveransleverantör (endast onlinebearbetning) | [E-post](mailto:support@examity.com){target="_blank"} eller 855-Examity (855-392-6489) |
+| PSI | Testa leveransleverantör för bearbetade tentamina på en plats eller på japanska | [E-post](mailto:adobe.psisupport@psionline.com){target="_blank"} |
+| Xvoucher - Adobe Certification Voucher Center | Verifikationscenter för att köpa enskilda eller bulkverifikationer | [E-post](mailto:support@xvoucher.com){target="_blank"} eller [Onlinehjälp](https://help.xvoucher.com/hc/en-us) |
 
 Andra leverantörsresurser:
 
