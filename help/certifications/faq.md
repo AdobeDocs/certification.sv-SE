@@ -1,6 +1,6 @@
 ---
 title: Vanliga frågor och svar
-description: Få svar på frågor om certifieringsprogrammet Adobe. Läs mer om fördelarna med certifiering, hur du registrerar dig och vem du kan kontakta.
+description: Få svar på frågor om Adobes certifieringsprogram. Läs mer om fördelarna med certifiering, hur du registrerar dig och vem du kan kontakta.
 role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
@@ -8,7 +8,7 @@ exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
 source-git-commit: 5eb2d298a4b8e5630533c9a8e2bf513acfbbeb7b
 workflow-type: tm+mt
 source-wordcount: '2665'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
