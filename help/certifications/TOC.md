@@ -4,8 +4,8 @@ breadcrumb-title: Certifiering i Adobe
 user-guide-description: Läs mer om [!DNL Experience Cloud] Certifiering på Adobe. Ta reda på vad du kan få ut av certifieringen.
 source-git-commit: 8e1eb997b2b5187f62c72a443f9d6a848f8c7708
 workflow-type: tm+mt
-source-wordcount: '238'
-ht-degree: 26%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
