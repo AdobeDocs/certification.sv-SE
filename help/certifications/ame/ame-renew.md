@@ -7,18 +7,22 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
-source-git-commit: 8ea02cedced88e0efd180706c0e7f5793f056a6c
+source-git-commit: bc3c4c4ebf3b3c34bbf21409040856a8b0dd1135
 workflow-type: tm+mt
-source-wordcount: '1056'
+source-wordcount: '1074'
 ht-degree: 0%
 
 ---
 
 # Förnya Adobe [!DNL Marketo Engage] certifiering
 
-När du har klarat en certifieringsprov gäller din certifiering i två år.
+Din Adobe-certifiering gäller i två år. Om du närmar dig den här tvåårsmärkningen är det dags att förnya din certifiering för att den ska förbli aktiv.
 
-Vi är glada att kunna meddela att du nu kan förnya din certifiering via ett nytt kostnadsfritt format. Det handlar om att använda on-demand-kurser och självstudiekurser i Experience League - du behöver bara utföra tre uppgifter för att förnya din certifiering utan kostnad. Du måste förnya din certifiering innan den upphör att gälla, annars måste du göra en fullständig tentamen för att bli certifierad igen.
+Först väljer du lämplig nivå på fliken nedan (Professional, Expert eller Överordnad). Granska sedan noggrant vad du behöver göra för att förnya din certifiering.
+
+Se till att du hinner slutföra alla krav innan certifieringen upphör.
+
+Observera att om din certifiering upphör att gälla måste du göra om certifieringsprovet, som INTE är kostnadsfritt.
 
 >[!IMPORTANT]
 >
