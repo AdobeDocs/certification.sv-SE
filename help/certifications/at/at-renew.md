@@ -7,18 +7,22 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: abd73bc0-2283-47d8-83fd-3568bc0298d8
-source-git-commit: 47c3e20f5cc9ae2e4f51435a8720b8da78d3548d
+source-git-commit: 2195a5e1511d5ad0cc84b884aebd321856afb115
 workflow-type: tm+mt
-source-wordcount: '506'
+source-wordcount: '524'
 ht-degree: 1%
 
 ---
 
 # Förnya [!DNL Adobe Target] certifiering
 
-När du har klarat en certifieringsprov gäller din certifiering i två år.
+Din Adobe-certifiering gäller i två år. Om du närmar dig den här tvåårsmärkningen är det dags att förnya din certifiering för att den ska förbli aktiv.
 
-Vi är glada att kunna meddela att du nu kan förnya din certifiering via ett nytt kostnadsfritt format. Det handlar om att använda on-demand-kurser och självstudiekurser i Experience League - du behöver bara utföra tre uppgifter för att förnya din certifiering utan kostnad. Du måste förnya din certifiering innan den upphör att gälla, annars måste du göra en fullständig tentamen för att bli certifierad igen.
+Först väljer du lämplig nivå på fliken nedan (Professional, Expert eller Överordnad). Granska sedan noggrant vad du behöver göra för att förnya din certifiering.
+
+Se till att du hinner slutföra alla krav innan certifieringen upphör.
+
+Observera att om din certifiering upphör att gälla måste du göra om certifieringsprovet, som INTE är kostnadsfritt.
 
 >[!IMPORTANT]
 >

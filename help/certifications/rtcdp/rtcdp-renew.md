@@ -6,18 +6,23 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+exl-id: 4faaca20-9d03-48b2-b3d7-0f964c63000e
+source-git-commit: 2195a5e1511d5ad0cc84b884aebd321856afb115
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
 
 # Förnya Adobe [!DNL Real-Time CDP] certifiering
 
-När du har klarat en certifieringsprov gäller din certifiering i två år.
+Din Adobe-certifiering gäller i två år. Om du närmar dig den här tvåårsmärkningen är det dags att förnya din certifiering för att den ska förbli aktiv.
 
-Vi är glada att kunna meddela att du nu kan förnya din certifiering via ett nytt kostnadsfritt format. Det handlar om att använda on-demand-kurser och självstudiekurser i Experience League - du behöver bara utföra tre uppgifter för att förnya din certifiering utan kostnad. Du måste förnya din certifiering innan den upphör att gälla, annars måste du göra en fullständig tentamen för att bli certifierad igen.
+Först väljer du lämplig nivå på fliken nedan (Professional, Expert eller Överordnad). Granska sedan noggrant vad du behöver göra för att förnya din certifiering.
+
+Se till att du hinner slutföra alla krav innan certifieringen upphör.
+
+Observera att om din certifiering upphör att gälla måste du göra om certifieringsprovet, som INTE är kostnadsfritt.
 
 >[!IMPORTANT]
 >

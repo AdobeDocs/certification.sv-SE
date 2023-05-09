@@ -6,18 +6,23 @@ product: Document Cloud
 role: User
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: d7b3688b-2ed8-4855-951b-80ac1be932eb
+source-git-commit: 2195a5e1511d5ad0cc84b884aebd321856afb115
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
 
 # Förnya Adobe [!DNL Document Cloud] certifiering
 
-När du har klarat en certifieringsprov gäller din certifiering i två år.
+Din Adobe-certifiering gäller i två år. Om du närmar dig den här tvåårsmärkningen är det dags att förnya din certifiering för att den ska förbli aktiv.
 
-Vi är glada att kunna meddela att du nu kan förnya din certifiering via ett nytt kostnadsfritt format. Det handlar om att använda on-demand-kurser och självstudiekurser i Experience League - du behöver bara utföra tre uppgifter för att förnya din certifiering utan kostnad. Du måste förnya din certifiering innan den upphör att gälla, annars måste du göra en fullständig tentamen för att bli certifierad igen.
+Först väljer du lämplig nivå på fliken nedan (Professional, Expert eller Överordnad). Granska sedan noggrant vad du behöver göra för att förnya din certifiering.
+
+Se till att du hinner slutföra alla krav innan certifieringen upphör.
+
+Observera att om din certifiering upphör att gälla måste du göra om certifieringsprovet, som INTE är kostnadsfritt.
 
 >[!IMPORTANT]
 >
