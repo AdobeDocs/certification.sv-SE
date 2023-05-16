@@ -1,12 +1,13 @@
 ---
 title: Certifiering av utvecklarexpert
 description: Lär dig hur du blir certifierad Adobe [!DNL Experience Manager Sites] Expert.
-solution: Experience Manager Sites
+solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Developer
 badge: label="Exam AD0-E134" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 4b97177a-38aa-4082-95da-1e4c9962f3c8
+source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
 workflow-type: tm+mt
 source-wordcount: '996'
 ht-degree: 3%

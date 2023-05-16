@@ -1,13 +1,13 @@
 ---
 title: Certifikatförnyelse
 description: Lär dig förnya [!DNL Campaign Classic] certifiering innan den upphör att gälla.
-solution: Campaign Classic v7
+solution: Campaign,Campaign Classic v7
 product: Campaign
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: af895356-3e6b-424f-a637-a695b916aa47
-source-git-commit: 0246f6b1118fd9d6f7f1c63a92593e5a0dda8d42
+source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
 workflow-type: tm+mt
 source-wordcount: '930'
 ht-degree: 8%
