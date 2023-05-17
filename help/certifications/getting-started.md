@@ -1,6 +1,6 @@
 ---
 title: Kom igång med Adobe-certifieringar
-description: Kom igång med [!DNL Experience Cloud] certifieringar. Läs mer om programmet och den här webbplatsen.
+description: Kom igång med  [!DNL Experience Cloud] -certifieringar. Läs mer om programmet och den här webbplatsen.
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
