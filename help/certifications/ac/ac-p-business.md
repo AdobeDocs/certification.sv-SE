@@ -6,7 +6,8 @@ product: Magento
 role: User
 badge: label="Exam AD0-E712" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
+source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
 workflow-type: tm+mt
 source-wordcount: '1096'
 ht-degree: 0%

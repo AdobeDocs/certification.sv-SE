@@ -6,7 +6,8 @@ product: Audience Manager
 role: Data Architect
 badge: label="Exam AD0-E454" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 6f87f669-f3c2-4a5c-a5f3-e3e73b93cd55
+source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
 workflow-type: tm+mt
 source-wordcount: '854'
 ht-degree: 1%

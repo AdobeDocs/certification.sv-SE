@@ -5,7 +5,8 @@ solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 393255d0-dff1-4a49-93cd-e767b9b14fc5
+source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%

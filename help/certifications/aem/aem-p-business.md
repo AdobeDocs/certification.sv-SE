@@ -6,7 +6,8 @@ product: Experience Manager
 role: User
 badge: label="Exam AD0-E126" type="positive"
 mini-toc-levels: 1
-source-git-commit: cab58fef51e04bacba47e0f9c809a7a9f011c71b
+exl-id: 83ee013f-aa37-409b-8bcb-385be6962b26
+source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
 workflow-type: tm+mt
 source-wordcount: '979'
 ht-degree: 4%

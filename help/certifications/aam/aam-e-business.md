@@ -6,7 +6,8 @@ product: Audience Manager
 role: User,Developer
 badge: label="Exam AD0-E457" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 71141d87-828c-4c28-a6e2-0e12e885e1ad
+source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
 workflow-type: tm+mt
 source-wordcount: '1207'
 ht-degree: 5%

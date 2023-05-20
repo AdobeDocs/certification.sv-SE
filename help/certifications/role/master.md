@@ -23,7 +23,7 @@ ht-degree: 31%
 
 * [Utvecklare](/help/certifications/acc/acc-m-developer.md) <!--AD0-E328-->
 
-**Handel**
+**Commerce**
 
 * [Arkitekt](/help/certifications/ac/ac-m-architect.md) <!--AD0-E718-->
 

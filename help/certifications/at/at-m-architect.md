@@ -6,7 +6,8 @@ product: Target
 role: Data Architect
 badge: label="Exam AD0-E407" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 05041fba-a1c3-491f-9f88-59498d507e61
+source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
 workflow-type: tm+mt
 source-wordcount: '1228'
 ht-degree: 4%
@@ -189,7 +190,7 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 **Avsnitt 7: Felsökning**
 
 * [[!DNL Adobe Target] Användarhandbok för yrkesverksamma](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
-* [[!DNL Adobe Target] Tutorials](https://experienceleague.adobe.com/docs/target-learn/tutorials/overview.html?lang=en){target="_blank"}
+* [[!DNL Adobe Target] Självstudiekurser](https://experienceleague.adobe.com/docs/target-learn/tutorials/overview.html?lang=en){target="_blank"}
 * [Rensa cacheminne och cookies för olika webbläsare](https://helpx.adobe.com/sign/kb/how-to-clear-Cache-Cookies-for-various-Browsers.html){target="_blank"}
 * [Exportera Experience Fragments till [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/experience-fragments-target.html?lang=en#prerequisites){target="_blank"}
 * [Löst: Varför visas min historiska publik som&quot;samla in data&quot;?](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-cloud-audiences/why-is-my-historical-audience-showing-as-quot-collecting-data/m-p/286891){target="_blank"}

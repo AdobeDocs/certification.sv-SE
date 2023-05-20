@@ -6,7 +6,8 @@ product: Magento
 role: Developer
 badge: label="Exam AD0-E717" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 5dc85678-91f9-4865-b310-3460081b19f8
+source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
 workflow-type: tm+mt
 source-wordcount: '1411'
 ht-degree: 0%
@@ -178,7 +179,7 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 
 **Avsnitt 3: Grundläggande om digital marknadsföring och e-handel**
 
-* [[!DNL Commerce] Tutorials](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/overview.html){target="_blank"}
+* [[!DNL Commerce] Självstudiekurser](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/overview.html){target="_blank"}
 * [Händelser och observatörer](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/events-and-observers.html){target="_blank"}
 * [Navigering i lager](https://docs.magento.com/user-guide/catalog/navigation-layered.html){target="_blank"}
 * [Produktattribut - översikt](https://docs.magento.com/user-guide/stores/attributes.html){target="_blank"}

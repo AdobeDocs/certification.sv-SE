@@ -6,13 +6,13 @@ role: Developer,Data Architect
 recommendations: disable, exclude
 badge: label="Exam AD0-E600 & AD7-E601" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
+source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
 workflow-type: tm+mt
 source-wordcount: '1953'
 ht-degree: 1%
 
 ---
-
 
 # Certifieringsresa för Adobe [!DNL Real-Time Customer Data Platform] Expert
 

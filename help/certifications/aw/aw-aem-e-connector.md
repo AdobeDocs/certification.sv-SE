@@ -5,7 +5,8 @@ solution: Workfront
 role: Developer
 badge: label="Exam AD0-E906" type="positive"
 mini-toc-levels: 1
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+exl-id: f00092c9-1288-447f-adcd-229cf325bc3e
+source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
 workflow-type: tm+mt
 source-wordcount: '972'
 ht-degree: 0%
@@ -167,4 +168,3 @@ Du kan använda verifikationskoden när du schemalägger provet. Om du har en ra
 Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.
-

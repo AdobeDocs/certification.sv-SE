@@ -6,7 +6,8 @@ product: Analytics
 role: User
 badge: label="Exam AD0-E212" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: ab0b2e4d-5f24-4b78-bdef-2a6b0aaa53ec
+source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
 workflow-type: tm+mt
 source-wordcount: '874'
 ht-degree: 3%

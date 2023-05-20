@@ -5,7 +5,8 @@ solution: Workfront
 role: Developer
 badge: label="Exam AD0-E903" type="positive"
 mini-toc-levels: 1
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+exl-id: 5bb372b4-6237-44f9-ac71-6093e2f0d03f
+source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
 workflow-type: tm+mt
 source-wordcount: '1626'
 ht-degree: 0%

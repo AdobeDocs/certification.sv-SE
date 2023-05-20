@@ -6,10 +6,11 @@ product: Analytics
 role: Data Architect,Developer
 badge: label="Exam AD0-E207" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
+source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
 workflow-type: tm+mt
 source-wordcount: '963'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -111,7 +112,7 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 * [iOS SDK 4.x for Experience Cloud Solutions](https://experienceleague.adobe.com/docs/mobile-services/ios/overview.html?lang=en){target="_blank"}
 * [[!DNL Analytics] Användarhandbok om import](https://experienceleague.adobe.com/docs/analytics/import/home.html?lang=en){target="_blank"}
 * [Implementering [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
-* [[!DNL Analytics] Tutorials](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=en){target="_blank"}
+* [[!DNL Analytics] Självstudiekurser](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=en){target="_blank"}
 * [Administrativa roller](https://helpx.adobe.com/in/enterprise/using/admin-roles.html){target="_blank"}
 * [Admin Console - översikt](https://helpx.adobe.com/in/enterprise/using/admin-console.html#Settings){target="_blank"}
 * [Hantera användare individuellt](https://helpx.adobe.com/in/enterprise/using/manage-users-individually.html){target="_blank"}

@@ -3,13 +3,13 @@ title: Examineringskontroll för att starta om certifieringen
 description: Läs mer om rätten att starta om ett certifieringsprogram på Adobe.
 recommendations: disable, exclude
 hidefromtoc: true
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+exl-id: 23d948de-7d3d-4ccf-a55f-51bf117a41c8
+source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
 workflow-type: tm+mt
 source-wordcount: '695'
 ht-degree: 1%
 
 ---
-
 
 # Examineringskontroll för att starta om certifieringen
 

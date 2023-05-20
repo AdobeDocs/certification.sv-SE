@@ -29,7 +29,7 @@ ht-degree: 35%
 * [Affärskommunikation](/help/certifications/acs/acs-e-business.md) <!--AD0-E307-->
 * [Utvecklare](/help/certifications/acs/acs-e-developer.md) <!--AD0-E306-->
 
-**Handel**
+**Commerce**
 
 * [Affärskommunikation](/help/certifications/ac/ac-e-business.md) <!--AD0-E708-->
 * [Utvecklare](/help/certifications/ac/ac-e-developer.md) <!--AD0-E716-->
