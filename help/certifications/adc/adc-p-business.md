@@ -8,9 +8,9 @@ badge: label="Exam AD0-D106" type="positive"
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: f17e87b65196b339c82026d3b65b57801b03355e
+source-git-commit: 06daf394510ac4b9c4d0fb0bc3de0676f1a76216
 workflow-type: tm+mt
-source-wordcount: '897'
+source-wordcount: '895'
 ht-degree: 0%
 
 ---
@@ -79,8 +79,6 @@ Avsnitt 4: Rekommenderad lösning (12 %)
 Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
 
 Här följer några förslag på resurser som hjälper dig att förbereda dig:
-
-**Avsnitt 1: Utbildning**
 
 **Avsnitt 1: Använd fallidentifiering**
 
