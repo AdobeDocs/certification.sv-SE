@@ -8,9 +8,9 @@ badge: label="Exam AD0-D106" type="positive"
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: ffe9c479418f5d7e3d900a17b2d7740474fabfcf
+source-git-commit: f17e87b65196b339c82026d3b65b57801b03355e
 workflow-type: tm+mt
-source-wordcount: '889'
+source-wordcount: '897'
 ht-degree: 0%
 
 ---
@@ -111,6 +111,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Vad är en digital signatur?](https://www.adobe.com/sign/digital-signatures.html){target="_blank"}
 * [The Total Economic Impact of Adobe Sign](https://www.adobe.com/content/dam/dx-dc/pdf/total-economic-impact-adobe-sign-ue.pdf)
 * [Förnya dokumentupplevelserna med PDF API:er som utformats för utvecklare](https://developer.adobe.com/document-services){target="_blank"}
+* [Begränsa dokumentsynlighet](https://helpx.adobe.com/sign/using/limited-document-visibility.html){target="_blank"}
 
 **Avsnitt 4: Rekommendera lösning**
 
