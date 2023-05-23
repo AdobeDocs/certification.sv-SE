@@ -8,9 +8,9 @@ badge: label="Exam AD0-D106" type="positive"
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: bad41c3fcc4529bde82b3a3742761cd24af8d3ab
+source-git-commit: ffe9c479418f5d7e3d900a17b2d7740474fabfcf
 workflow-type: tm+mt
-source-wordcount: '801'
+source-wordcount: '889'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,8 @@ Lär dig hur du blir certifierad Adobe Business Practitioner Professional.
 Du borde ha:
 
 * Minst 12 månaders erfarenhet inom Adobe Document Cloud
+* kunna identifiera och kommunicera affärsbehov
+* Möjliggör produktrådgivning om Adobe Document Cloud lösningar.
 
 >[!NOTE]
 >
@@ -135,6 +137,10 @@ Adobe använder två leverantörer för att administrera proffsiga tentamina, PS
 * **[!DNL Examity]** erbjuder ett fjärranslutet alternativ
 
 Om du vill schemalägga, schemalägga om eller avbryta din tentamen klickar du bara på valfri leverantör och följer instruktionerna på skärmen. Så enkelt är det!
+
+Profilnamnet i Adobe Credential Management System måste exakt matcha ditt Government ID. Om informationen inte är identisk eller om det inte finns någon matchning avbryts provet och du måste schemalägga om din avtalade tid utöver att betala en extra provavgift.
+
+Det går att avbryta och schemalägga om det initieras före 48 timmar före det schemalagda provbesöket. Kandidaterna måste själva ändra den här avtalade tiden.
 
 Profilnamnet i Adobe Credential Management System måste exakt matcha ditt Government ID. Om informationen inte är identisk eller om det inte finns någon matchning avbryts provet och du måste schemalägga om din avtalade tid utöver att betala en extra provavgift.
 
