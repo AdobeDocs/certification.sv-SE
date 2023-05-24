@@ -8,14 +8,14 @@ badge: label="Exam AD0-D106" type="positive"
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: 06daf394510ac4b9c4d0fb0bc3de0676f1a76216
+source-git-commit: 8019f2ab918628ff90655faa9b7a673fe1ce0811
 workflow-type: tm+mt
-source-wordcount: '895'
+source-wordcount: '894'
 ht-degree: 0%
 
 ---
 
-# Certifieringsresa för Adobe Doc Cloud Business Practitioner Professional
+# Certifieringsresa för Adobe Document Cloud Business Practitioner Professional
 
 Lär dig hur du blir certifierad Adobe Business Practitioner Professional.
 
@@ -40,7 +40,6 @@ Du borde ha:
 * Lösningskonsult
 * Affärsanalytiker
 * Försäljning
-* Utvecklare
 
 **Information om tentamen:**
 
@@ -59,7 +58,7 @@ Avsnitt 1: Använd fallidentifiering (36 %)
 * Ställ kvalificerande frågor för att identifiera Document Cloud möjligheter
 * Definiera högnivåfall för affärsbruk
 
-Avsnitt 2: Business Process Evaluation (34)
+Avsnitt 2: Affärsprocessutvärdering (34 %)
 
 * Identifiera viktiga områden för processförbättring och lösningsanpassning
 * Justera affärsmålen mot Document Cloud
