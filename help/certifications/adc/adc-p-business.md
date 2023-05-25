@@ -8,9 +8,9 @@ badge: label="Exam AD0-D106" type="positive"
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: 354d65edf298c2b633f6b04a76bcf3ccaa796a1c
+source-git-commit: 79760903d5f61edf3a7a8edb7bf49809a1a56848
 workflow-type: tm+mt
-source-wordcount: '985'
+source-wordcount: '967'
 ht-degree: 0%
 
 ---
@@ -127,15 +127,13 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 **Nu när du har loggat in är följande länkar direkt tillgängliga.**
 
-**Gör ett övningsprov**
+**Ta ett träningstest - kommer snart!**
 
 Vi rekommenderar att du gör ett test innan du börjar. Du får obegränsad tillgång till alla tillgängliga övningstester för prov på Adobe expertnivå.
 
 Våra övningstester har alla utvecklats från samma plan som direktproven. Praktiktestet hjälper dig att förstå de ämnen som tas upp i provet.
 
 Tänk på att du inte kommer att bli godkänd på certifieringstest om du godkänner ett praktiktest.
-
-Gå till [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} nu för att göra ett praktiktest.
 
 **Gör en certifieringstest**
 
