@@ -7,7 +7,7 @@ role: Data Architect,Developer
 badge: label="Exam AD0-E207" type="positive"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: a5d9e5afe6f1a0efe67724c8de7ee2a6871b1035
 workflow-type: tm+mt
 source-wordcount: '1031'
 ht-degree: 2%
@@ -67,7 +67,7 @@ Avsnitt 1: Identifiering (18 %)
 * Undersök kundernas behov för att bygga upp affärskrav
 * Skapa mätramverk utifrån ett scenario
 
-Avsnitt 2: Lösningsdesign (26 %)
+Avsnitt 2: Lösningsdesign (54 %)
 
 * Omvandla affärskrav till variabler och mätvärden
 * Uppvisa förmåga att hantera inställningar för rapportsviter
