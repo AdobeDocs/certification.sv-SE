@@ -7,10 +7,10 @@ role: Data Architect,Developer
 badge: label="Exam AD0-E207" type="positive"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: a5d9e5afe6f1a0efe67724c8de7ee2a6871b1035
+source-git-commit: 2aa4e37dd0afe520746892c2739c2a4f53342797
 workflow-type: tm+mt
-source-wordcount: '1031'
-ht-degree: 2%
+source-wordcount: '940'
+ht-degree: 3%
 
 ---
 
@@ -137,18 +137,7 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 >
 >Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](http://www.certmetrics.com/adobe){target="_blank"}.
 
-
 **Nu när du har loggat in är följande länkar direkt tillgängliga.**
-
-**Gör ett övningsprov**
-
-Vi rekommenderar att du gör ett test innan du börjar. Du får obegränsad tillgång till alla tillgängliga övningstester för prov på Adobe expertnivå.
-
-Våra övningstester har alla utvecklats från samma plan som direktproven. Praktiktestet hjälper dig att förstå de ämnen som tas upp i provet.
-
-Tänk på att du inte kommer att bli godkänd på certifieringstest om du godkänner ett praktiktest.
-
-Gå till [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} nu för att göra ett praktiktest.
 
 **Gör en certifieringstest**
 
