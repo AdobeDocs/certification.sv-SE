@@ -2,10 +2,10 @@
 user-guide-title: Certifiering i Adobe
 breadcrumb-title: Certifiering i Adobe
 user-guide-description: Läs mer om  [!DNL Experience Cloud] -certifiering på Adobe. Ta reda på vad du kan få ut av certifieringen.
-source-git-commit: 20ea813247ee551b425c98d93d0de8bd62ec10e6
+source-git-commit: be0a8c6898d021744eb4a9e69225b4f83a42d3b2
 workflow-type: tm+mt
-source-wordcount: '238'
-ht-degree: 29%
+source-wordcount: '246'
+ht-degree: 28%
 
 ---
 
@@ -142,5 +142,6 @@ ht-degree: 29%
          + [Utvecklare (Core)](/help/certifications/aw/aw-core-e-developer.md)
          + [AEM utökad kontakt](/help/certifications/aw/aw-aem-e-connector.md)
       + [Förnyelse](/help/certifications/aw/aw-renew.md)
++ [Autentiseringsuppgifter för slutanvändare](https://learning.adobe.com/certification/credentials)
 + Dold {#hidden}
    + [Certifiering - Starta om kontroll av kvalificeringsprov](exam-eligibility-check.md)
