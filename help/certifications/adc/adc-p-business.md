@@ -6,9 +6,8 @@ product: Document Cloud
 role: User
 badge: label="Exam AD0-D106" type="positive"
 mini-toc-levels: 1
-hidefromtoc: true
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: 79760903d5f61edf3a7a8edb7bf49809a1a56848
+source-git-commit: 13671a4dceee486a2abba6ab3ab8f2fa781f5c86
 workflow-type: tm+mt
 source-wordcount: '967'
 ht-degree: 0%
@@ -96,7 +95,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Adobe Acrobat Sign Web Forms](https://helpx.adobe.com/sign/config/web-forms.html){target="_blank"}
 * [Adobe PDF Embed API](https://developer.adobe.com/document-services/apis/pdf-embed/){target="_blank"}
 * [PDF och e-signaturverktyg för ert företag. Acrobat förstår.](https://www.adobe.com/acrobat/business.html){target="_blank"}
-* [Adobe Acrobat Användarhandbok](https://helpx.adobe.com/acrobat/user-guide.html){target="_blank"}
+* [Adobe Acrobat Användarhandbok](https://helpx.adobe.com/se/acrobat/user-guide.html){target="_blank"}
 * [Översikt över integreringar - Nyheter](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/integrations-overview.html?lang=en#what%E2%80%99s-new){target="_blank"}
 * [Säkra, flexibla onlinesignaturer](https://www.adobe.com/sign/online-signature.html){target="_blank"}
 
