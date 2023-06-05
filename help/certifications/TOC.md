@@ -2,7 +2,7 @@
 user-guide-title: Certifiering i Adobe
 breadcrumb-title: Certifiering i Adobe
 user-guide-description: Läs mer om  [!DNL Experience Cloud] -certifiering på Adobe. Ta reda på vad du kan få ut av certifieringen.
-source-git-commit: be0a8c6898d021744eb4a9e69225b4f83a42d3b2
+source-git-commit: 007fd9851149994e3ef7a46291731a5aa91adc81
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 28%
@@ -80,6 +80,11 @@ ht-degree: 28%
       + Överordnad {#ac-master}
          + [Arkitekt](/help/certifications/ac/ac-m-architect.md)
       + [Förnyelse](/help/certifications/ac/ac-renew.md)
+   + Adobe [!DNL Document Cloud] {#adc}
+      + [Översikt över Document Cloud](/help/certifications/adc/adc-overview.md)
+      + Professional {#adc-professional}
+         + [Yrkesverksam](/help/certifications/adc/adc-p-business.md)
+      + [Förnyelse](/help/certifications/adc/adc-renew.md)
    + Adobe [!DNL Experience Manager] {#aem}
       + [Översikt över Experience Manager](/help/certifications/aem/aem-overview.md)
       + Professional {#aem-professional}
@@ -106,11 +111,6 @@ ht-degree: 28%
       + Överordnad {#ame-master}
          + [Arkitekt](/help/certifications/ame/ame-m-architect.md)
       + [Förnyelse](/help/certifications/ame/ame-renew.md)
-   + Adobe [!DNL Document Cloud] {#adc}
-      + [Översikt över Document Cloud](/help/certifications/adc/adc-overview.md)
-      + Professional {#adc-professional}
-         + [Yrkesverksam](/help/certifications/adc/adc-p-business.md)
-      + [Förnyelse](/help/certifications/adc/adc-renew.md)
    + Adobe Real-Time CDP {#rtcdp}
       + [Real-Time CDP - översikt](/help/certifications/rtcdp/rtcdp-overview.md)
       + Professional {#rtcdp-professional}
