@@ -7,9 +7,9 @@ role: Developer
 badge: label="Exam AD0-E123" type="positive"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: e5543c053af424ab0ca23068bbabe5eebccfb437
 workflow-type: tm+mt
-source-wordcount: '846'
+source-wordcount: '844'
 ht-degree: 2%
 
 ---
@@ -119,7 +119,7 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 
 * [Användarhandbok för distribution av AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html){target="_blank"}
 * [Användarhandbok om AEM 6.4-utveckling](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html){target="_blank"}
-* [Instrumentpanel för åtgärder](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/operations-dashboard.html%20(Automated%20Maintenance%20Tasks)){target="_blank"}
+* [Instrumentpanel för åtgärder](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/operations-dashboard.html#automated-maintenance-tasks){target="_blank"}
 * [Versionsinformation för Adobe [!DNL Experience Manager] 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html){target="_blank"}
 * [[!DNL Experience Manager as a Cloud Service] översikt](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
 * [Introduktion till kärnkomponenter](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html)

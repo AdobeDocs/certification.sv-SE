@@ -7,7 +7,7 @@ role: User,Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 1a5882ab-a180-4c47-b3ce-c0ece57c5237
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: e5543c053af424ab0ca23068bbabe5eebccfb437
 workflow-type: tm+mt
 source-wordcount: '1404'
 ht-degree: 11%
@@ -183,7 +183,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 **Avsnitt 1: Datamodellering och -hantering**
 
-* [skapa en anpassad resurs,](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/creating-a-custom-resource.htmln){target="_blank"}
+* [skapa en anpassad resurs,](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/creating-a-custom-resource.html){target="_blank"}
 * [Skapa eller utöka resursen](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/creating-or-extending-the-resource.html){target="_blank"}
 * [Konfigurera en skärmdefinition för en anpassad resurs](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/configuring-a-screen-definition-for-a-custom-resource.html){target="_blank"}
 * [Konfigurera skärmdefinitionen](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-screen-definition.html){target="_blank"}
@@ -195,7 +195,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 **Avsnitt 2: Campaign Management**
 
-* [Program och kampanjer](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.htmln){target="_blank"}
+* [Program och kampanjer](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.html?lang=sv){target="_blank"}
 * [God praxis för arbetsflöden](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/best-practices-workflows.html?lang=sv){target="_blank"}
 * [Program och kampanjer](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.html?lang=sv){target="_blank"}
 * [Kom igång med profiler och målgrupper](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/get-started-profiles-and-audiences.html){target="_blank"}

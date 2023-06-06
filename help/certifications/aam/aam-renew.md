@@ -7,9 +7,9 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: e5543c053af424ab0ca23068bbabe5eebccfb437
 workflow-type: tm+mt
-source-wordcount: '1132'
+source-wordcount: '1130'
 ht-degree: 0%
 
 ---
@@ -101,7 +101,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 **Resurser:**
 
-* [Adobe [!DNL Audience Manager] Produktdokumentation](https://docs.adobe.com/content/help/en/audience-manager/user-guide/aam-home.html){target="_blank"}
+* [Adobe [!DNL Audience Manager] Produktdokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
 * [Stöd för Adobe - Experience Cloud-målgrupper](https://experienceleaguecommunities.adobe.com/t5/Adobe-Experience-Cloud-Audiences/ct-p/experience-cloud-audiences-community){target="_blank"}
 * [Adobe Experience Cloud Learn and Support](https://helpx.adobe.com/se/support/experience-cloud.html){target="_blank"}
 * [Experience League [!DNL Audience Manager]](https://experienceleague.adobe.com/#recommended/solutions/audience-manager){target="_blank"}

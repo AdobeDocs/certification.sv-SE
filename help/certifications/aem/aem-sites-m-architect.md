@@ -7,10 +7,10 @@ role: Data Architect
 badge: label="Exam AD0-E117" type="positive"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: e5543c053af424ab0ca23068bbabe5eebccfb437
 workflow-type: tm+mt
-source-wordcount: '1570'
-ht-degree: 7%
+source-wordcount: '1568'
+ht-degree: 6%
 
 ---
 
@@ -131,7 +131,7 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 * [Adobe [!DNL Experience Manager] 6.5 Communities Guide](https://experienceleague.adobe.com/docs/experience-manager-65/communities/home.html){target="_blank"}
 * [AEM Sites videor och självstudiekurser](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
 * [Användarhandbok om AEM 6.5-hantering](https://experienceleague.adobe.com/docs/experience-manager-65/communities/home.html){target="_blank"}
-* [Vi presenterar AEM som en molntjänst](http://www.jetteroheller.com/introducing-aem-as-a-cloud-service/){target="_blank"}
+* [Vi presenterar AEM som en molntjänst](https://www.jetteroheller.com/introducing-aem-as-a-cloud-service/){target="_blank"}
 * [Introduktion till Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html){target="_blank"}
 * [AEM Foundation videor och självstudiekurser](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html){target="_blank"}
 * [Introduktion till HTTP/2](https://developers.google.com/web/fundamentals/performance/http2){target="_blank"}
@@ -146,7 +146,7 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 * [Konferenssamtal: Sling Context-Aware Configuration](https://adapt.to/2016/en/schedule/sling-context-aware-configuration.html){target="_blank"}
 * [AEM Sites videor och självstudiekurser](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
 * [Visa/dölj sidegenskaper baserat på mall i AEM 6.4](https://blogs.perficient.com/2019/01/03/how-to-show-hide-page-properties-based-on-page-template-in-aem-6-4/){target="_blank"}
-* [AEM Bevilja anpassade återgivningsvillkor](http://www.nateyolles.com/blog/2016/07/aem-granite-custom-render-conditions){target="_blank"}
+* [AEM Bevilja anpassade återgivningsvillkor](https://www.nateyolles.com/blog/2016/07/aem-granite-custom-render-conditions){target="_blank"}
 * [Förhindra XSS i React Applications](https://dev.to/spukas/preventing-xss-in-react-applications-5f5j){target="_blank"}
 * [Användarhandbok om AEM 6.5-administration](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
 * [Användarhandbok om mobila AEM 6.4-appar](https://experienceleague.adobe.com/docs/experience-manager-64/mobile/home.html){target="_blank"}
@@ -174,7 +174,7 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 * [Identitetstyper på Adobe Admin Console](https://helpx.adobe.com/ca/enterprise/using/identity.html){target="_blank"}
 * [Dispatcher - översikt](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html){target="_blank"}
 * [Videor och självstudiekurser om AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
-* [Introduktion till Cloud Manager](https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html){target="_blank"}
+* [Introduktion till Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html){target="_blank"}
 * [Adobe Target Guide](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
 * [Användarhandbok om AEM 6.5-redigering](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
 * [Användarhandbok om resurser](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html){target="_blank"}
