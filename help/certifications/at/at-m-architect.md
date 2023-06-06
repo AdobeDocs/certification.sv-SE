@@ -7,10 +7,10 @@ role: Data Architect
 badge: label="Exam AD0-E407" type="positive"
 mini-toc-levels: 1
 exl-id: 05041fba-a1c3-491f-9f88-59498d507e61
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1296'
-ht-degree: 3%
+source-wordcount: '1246'
+ht-degree: 4%
 
 ---
 
@@ -139,68 +139,68 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 
 **Avsnitt 1: [!DNL Adobe Target] grundläggande**
 
-* [[!DNL Adobe Target] Användarhandbok för yrkesverksamma](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
-* [Lär dig använda [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/overview.html?lang=en){target="_blank"}
+* [[!DNL Adobe Target] Användarhandbok för yrkesverksamma](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
+* [Lär dig använda [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/overview.html){target="_blank"}
 
 **Avsnitt 2: Integrera med[!DNL Adobe Target]**
 
-* [[!DNL Adobe Target] Användarhandbok för yrkesverksamma](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
-* [AEM Sites videor och självstudiekurser](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=en){target="_blank"}
-* [Alternativ för att skapa målgrupper](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-16471.html?lang=en){target="_blank"}
-* [Adobe Experience Cloud-målgrupper](https://experienceleague.adobe.com/docs/core-services/interface/services/audiences/audience-library.html?lang=en){target="_blank"}
+* [[!DNL Adobe Target] Användarhandbok för yrkesverksamma](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
+* [AEM Sites videor och självstudiekurser](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
+* [Alternativ för att skapa målgrupper](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-16471.html){target="_blank"}
+* [Adobe Experience Cloud-målgrupper](https://experienceleague.adobe.com/docs/core-services/interface/services/audiences/audience-library.html){target="_blank"}
 * [Integrera Audience Manager med Target](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-other-solutions/aam-target-integration.html){target="_blank"}
 * [Integrering med Adobe.IO](http://developers.adobetarget.com/api/#introduction){target="_blank"}
-* [Exportera Experience Fragments till [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/experience-fragments-target.html?lang=en#deleting-an-experience-fragment-already-exported-to-adobe-target){target="_blank"}
-* [Integrera Experience Platform Launch och AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform-launch/overview.html?lang=en){target="_blank"}
+* [Exportera Experience Fragments till [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/experience-fragments-target.html#deleting-an-experience-fragment-already-exported-to-adobe-target){target="_blank"}
+* [Integrera Experience Platform Launch och AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform-launch/overview.html){target="_blank"}
 * [Publicera segment till Experience Cloud](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-publish.html){target="_blank"}
-* [Konfigurera integreringen manuellt med [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/target-configuring.html?lang=en){target="_blank"}
-* [Typer av insamlade data ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-types-collected.html?lang=en){target="_blank"}
+* [Konfigurera integreringen manuellt med [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/target-configuring.html){target="_blank"}
+* [Typer av insamlade data ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-types-collected.html){target="_blank"}
 
 
 **Avsnitt 3: [!DNL Adobe Target] administration och styrning**
 
-* [[!DNL Adobe Target] Användarhandbok för yrkesverksamma](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
+* [[!DNL Adobe Target] Användarhandbok för yrkesverksamma](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
 * [[!DNL Adobe Target] Säkerhetsöversikt](https://www.adobe.com/content/dam/cc/en/security/pdfs/AdobeTargetSecurityOverview.pdf){target="_blank"}
 * [Adobe Admin Console](https://helpx.adobe.com/se/enterprise/using/users.html){target="_blank"}
-* [Användarhandbok om AEM 6.5-administration](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=en){target="_blank"}
+* [Användarhandbok om AEM 6.5-administration](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
 
 **Avsnitt 4: [!DNL Adobe Target] och kontaktpunkter som stöds**
 
-* [[!DNL Adobe Target] Användarhandbok för yrkesverksamma](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
+* [[!DNL Adobe Target] Användarhandbok för yrkesverksamma](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
 * [Löst: [!DNL Adobe Target] iframe](https://experienceleaguecommunities.adobe.com/t5/adobe-target-questions/adobe-target-iframe/m-p/327224){target="_blank"}
-* [Implementera Adobe Experience Cloud i mobilappar, genomgång](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html?lang=en){target="_blank"}
+* [Implementera Adobe Experience Cloud i mobilappar, genomgång](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html){target="_blank"}
 * [Mål-API-referens](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-target/target-api-reference#getthirdpartyid){target="_blank"}
 
 **Avsnitt 5: Utnyttja [!DNL Adobe Target] rekommendationer**
 
-* [[!DNL Adobe Target] Användarhandbok för yrkesverksamma](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
+* [[!DNL Adobe Target] Användarhandbok för yrkesverksamma](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
 
 **Avsnitt 6: Arkitekt, design och implementering[!DNL Adobe Target]**
 
-* [[!DNL Adobe Target] Användarhandbok för yrkesverksamma](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
-* [Lägg till [!DNL Adobe Target] med taggar](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/implement-solutions/target.html?lang=en){target="_blank"}
-* [Kund-ID:n och autentiseringstillstånd](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=en){target="_blank"}
-* [Lär dig använda [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/overview.html?lang=en){target="_blank"}
+* [[!DNL Adobe Target] Användarhandbok för yrkesverksamma](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
+* [Lägg till [!DNL Adobe Target] med taggar](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/implement-solutions/target.html){target="_blank"}
+* [Kund-ID:n och autentiseringstillstånd](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html){target="_blank"}
+* [Lär dig använda [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/overview.html){target="_blank"}
 * [Mål-API-referens](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-target/target-api-reference#getthirdpartyid){target="_blank"}
-* [[!DNL Adobe Target] Tilläggsöversikt](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/adobe/target/overview.html?lang=en){target="_blank"}
+* [[!DNL Adobe Target] Tilläggsöversikt](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/adobe/target/overview.html){target="_blank"}
 * [Introduktion till beslut på enheter](https://adobetarget-sdks.gitbook.io/docs/on-device-decisioning/introduction-to-on-device-decisioning){target="_blank"}
 * [Använda enhetsspecifik kontra kantavkänning](https://adobetarget-sdks.gitbook.io/docs/best-practices/when-to-use-server-side-vs-on-device-decisioning){target="_blank"}
 * [Löst: JWT-åtkomsttoken](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-questions/jwt-access-token-how-can-i-change-the-expiration/m-p/324806){target="_blank"}
 
 **Avsnitt 7: Felsökning**
 
-* [[!DNL Adobe Target] Användarhandbok för yrkesverksamma](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
-* [[!DNL Adobe Target] Självstudiekurser](https://experienceleague.adobe.com/docs/target-learn/tutorials/overview.html?lang=en){target="_blank"}
+* [[!DNL Adobe Target] Användarhandbok för yrkesverksamma](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
+* [[!DNL Adobe Target] Självstudiekurser](https://experienceleague.adobe.com/docs/target-learn/tutorials/overview.html){target="_blank"}
 * [Rensa cacheminne och cookies för olika webbläsare](https://helpx.adobe.com/sign/kb/how-to-clear-Cache-Cookies-for-various-Browsers.html){target="_blank"}
-* [Exportera Experience Fragments till [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/experience-fragments-target.html?lang=en#prerequisites){target="_blank"}
+* [Exportera Experience Fragments till [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/experience-fragments-target.html#prerequisites){target="_blank"}
 * [Löst: Varför visas min historiska publik som&quot;samla in data&quot;?](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-cloud-audiences/why-is-my-historical-audience-showing-as-quot-collecting-data/m-p/286891){target="_blank"}
-* [Adobe Experience Cloud-målgrupper](https://experienceleague.adobe.com/docs/core-services/interface/services/audiences/audience-library.html?lang=en){target="_blank"}
+* [Adobe Experience Cloud-målgrupper](https://experienceleague.adobe.com/docs/core-services/interface/services/audiences/audience-library.html){target="_blank"}
 
 >[!TAB Bli certifierad]
 
 >[!IMPORTANT]
 >
->Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](http://www.certmetrics.com/adobe){target="_blank"}.
+>Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **Nu när du har loggat in är följande länkar direkt tillgängliga.**
 
@@ -229,6 +229,6 @@ Du kan använda verifikationskoden när du schemalägger provet. Om du har en ra
 
 **Frågor**
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.

@@ -4,9 +4,9 @@ description: Lär dig certifiera dig på Adobe. Hitta alla resurser ni behöver 
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 976a9a4ac83ba996c18b07c5d14602bfcc96be49
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1464'
+source-wordcount: '1462'
 ht-degree: 1%
 
 ---
@@ -26,7 +26,7 @@ Adobe använder två leverantörer för att administrera procentrerade tentamen:
 
 **Följ de här stegen för att registrera dig för din certifieringstest:**
 
-* **Steg 1:** Inloggningen till [Adobe system för hantering av autentiseringsuppgifter](http://www.certmetrics.com/adobe){target="_blank"}.
+* **Steg 1:** Inloggningen till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
 * **Steg 2:** Gå tillbaka till den här webbplatsen och klicka på Tekniska certifieringar.
 * **Steg 3:** Välj din Adobe-lösning, certifieringsnivå och roll
 * **Steg 4:** Följ stegen i **Bli certifierad** -avsnitt.
@@ -50,7 +50,7 @@ Det går att avbryta och schemalägga om det initieras före 48 timmar före det
 
 Varken Adobe Support eller provleverantörer kan bearbeta begäranden om omläggning och annullering. För annulleringar under 48 timmar tas en avgift ut utöver examensavgiften.
 
-När du har avslutat en tentamen får du ett tillfälligt pass eller misslyckande. Slutpoängen kan ta upp till 72 timmar att fylla i. Resultat- och poängrapporten finns på fliken Historik i [Adobe Credential Manager](http://www.certmetrics.com/adobe){target="_blank"}.
+När du har avslutat en tentamen får du ett tillfälligt pass eller misslyckande. Slutpoängen kan ta upp till 72 timmar att fylla i. Resultat- och poängrapporten finns på fliken Historik i [Adobe Credential Manager](https://www.certmetrics.com/adobe){target="_blank"}.
 
 Om du inte klarar en Adobe-certifieringstest på ditt första försök måste du vänta minst 24 timmar innan du startar provet igen. Om en tentamen inte godkänns vid det andra eller efterföljande försök krävs en vänteperiod på 14 kalenderdagar innan provet tas om. Varje försök medför en separat avgift för tentamen.
 
@@ -212,6 +212,6 @@ Ditt märke är ett bevis på din kompetens med Adobe Experience Cloud produkter
 
 **Frågor**
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.

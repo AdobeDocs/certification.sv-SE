@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: 5eb2d298a4b8e5630533c9a8e2bf513acfbbeb7b
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '2665'
+source-wordcount: '2655'
 ht-degree: 1%
 
 ---
@@ -28,7 +28,7 @@ Enskilda fördelar: Certifiering är en certifiering som godkänner en individs 
 
 Certifieringar kräver engagemang, är juridiskt försvarbara och valideras från Adobe i er expertis. Du kan även använda din certifiering på dina sociala profiler genom att hämta ditt märke från [!DNL Credly].
 
-Om du vill veta mer om hur du hanterar dina emblem i [!DNL Credly], go [HÄR](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html?lang=en){target="_blank"}.
+Om du vill veta mer om hur du hanterar dina emblem i [!DNL Credly], go [HÄR](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html){target="_blank"}.
 
 +++
 
@@ -43,7 +43,7 @@ Certifieringar är rollbaserade, vilket betyder att det finns flera examina till
 Ibland finns det flera versioner av en tentamen. Det är bäst att ta den senaste versionen.
 
 * Om en tentamen dras tillbaka visas en anteckning på sidan om certifieringsresan. Det innebär att den här provversionen snart kommer att tas bort eftersom det finns en ny version av provet. Vi uppmuntrar de sökande att ta den senaste versionen, men du kan ta den äldre versionen om du känner dig mer beredd att ta den. Din certifiering varar i två år.
-* Om din nuvarande certifiering håller på att upphöra att gälla bör du förnya den. Förnyelsealternativen har färre frågor och är kostnadsfria. De här alternativen täcker de senaste programfunktionerna. Om din certifiering upphör att gälla måste du ta den senaste versionen av den certifieringstest som du skulle betala för. [Läs mer om förnyelsealternativ](https://experienceleague.adobe.com/docs/certification/certification/renew.html?lang=en){target="_blank"}.
+* Om din nuvarande certifiering håller på att upphöra att gälla bör du förnya den. Förnyelsealternativen har färre frågor och är kostnadsfria. De här alternativen täcker de senaste programfunktionerna. Om din certifiering upphör att gälla måste du ta den senaste versionen av den certifieringstest som du skulle betala för. [Läs mer om förnyelsealternativ](https://experienceleague.adobe.com/docs/certification/certification/renew.html){target="_blank"}.
 
 +++
 
@@ -154,7 +154,7 @@ Ibland avgår vi ett prov för en roll. I så fall varar certifieringen i två �
 
 Din certifiering upphör att gälla och visas som förfallen om [!DNL Credly] och era sociala profiler. Om din certifiering upphör att gälla kan du inte ta den kortare förnyelseprovet eller förnya via kontinuerlig inlärning.
 
-Om du vill veta mer om hur du hanterar dina emblem i [!DNL Credly], go [HÄR](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html?lang=en){target="_blank"}.
+Om du vill veta mer om hur du hanterar dina emblem i [!DNL Credly], go [HÄR](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html){target="_blank"}.
 
 +++
 
@@ -162,7 +162,7 @@ Om du vill veta mer om hur du hanterar dina emblem i [!DNL Credly], go [HÄR](ht
 
 Du kan förnya din certifiering kostnadsfritt. Detta ger dig ett kostnadseffektivt sätt att upprätthålla din certifiering och hålla dina lösningsfärdigheter uppdaterade.
 
-Om du vill veta mer om hur du förnyar din certifiering går du till [här](https://experienceleague.adobe.com/docs/certification/certification/renew.html?lang=en){target="_blank"}.
+Om du vill veta mer om hur du förnyar din certifiering går du till [här](https://experienceleague.adobe.com/docs/certification/certification/renew.html){target="_blank"}.
 
 +++
 
@@ -387,7 +387,7 @@ Slutligt krav är att godkänna det nya [!DNL Marketo Engage] Arkitektprov. För
 
 +++Varför är Adobe? [!DNL Commerce] Certifieringar ingår inte i Adobe Certification Restart Program?
 
-Det finns inga certifikatinnehavare som gått ut för Adobe som för närvarande erbjuds [!DNL Commerce] Certifieringar från och med den 23 april 2023. Därför är alla aktiva Adobe [!DNL Commerce] Certifierade sökande har möjlighet att förnya genom kontinuerlig inlärning [förnyelsesökväg för certifiering](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/ac/ac-renew.html?lang=en){target="_blank"}.
+Det finns inga certifikatinnehavare som gått ut för Adobe som för närvarande erbjuds [!DNL Commerce] Certifieringar från och med den 23 april 2023. Därför är alla aktiva Adobe [!DNL Commerce] Certifierade sökande har möjlighet att förnya genom kontinuerlig inlärning [förnyelsesökväg för certifiering](https://experienceleague.adobe.com/docs/certification/program/technical-certifications/ac/ac-renew.html){target="_blank"}.
 
 +++
 

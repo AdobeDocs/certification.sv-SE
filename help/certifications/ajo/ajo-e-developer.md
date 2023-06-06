@@ -6,10 +6,10 @@ product: Journey Optimizer
 role: Developer
 badge: label="Exam AD0-E603" type="positive"
 exl-id: 4b405a01-b95c-46de-aaab-9fbacc25c6fc
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '994'
-ht-degree: 2%
+source-wordcount: '976'
+ht-degree: 3%
 
 ---
 
@@ -111,7 +111,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 **Avsnitt 1: Administration och konfiguration**
 
-* [Adobe [!DNL Journey Optimizer] Dokumentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=en){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] Dokumentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 
    * Åtkomstkontroll
    * Konfigurerar meddelanden
@@ -119,12 +119,12 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
    * Guardrails
    * Resor
 
-* [Översikt över sandlådor](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=en){target="_blank"}
+* [Översikt över sandlådor](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=sv){target="_blank"}
 
 
 **Avsnitt 2: AEP Foundation**
 
-* [Adobe [!DNL Experience Platform] Dokumentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=en){target="_blank"}
+* [Adobe [!DNL Experience Platform] Dokumentation](https://experienceleague.adobe.com/docs/experience-platform.html){target="_blank"}
 
    * XDM-guide
    * Kundprofilguide i realtid
@@ -138,21 +138,21 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Introduktion till Adobe [!DNL Experience Platform] kurs](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1){target="_blank"}
 * [Komma igång med Adobe [!DNL Experience Platform] för datatekniker](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2){target="_blank"}
 * [Datainmatning för datatekniker, kurs](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.1.dataingestion){target="_blank"}
-* [Digital Experience-utkast](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=en){target="_blank"}
+* [Digital Experience-utkast](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html){target="_blank"}
 
 **Avsnitt 3: offer decisioning**
 
-* [Adobe [!DNL Journey Optimizer] Dokumentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=en){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] Dokumentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 
    * Beslutshantering
 
-* [Adobe [!DNL Journey Optimizer] Videor och Tutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=en){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] Videor och Tutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html){target="_blank"}
 
    * Skapa resor
 
 **Avsnitt 4: Innehållsredigering**
 
-* [Adobe [!DNL Journey Optimizer] Dokumentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=en){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] Dokumentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 
    * Designinnehåll
    * Resor
@@ -162,7 +162,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 **Avsnitt 5: Journey Orchestration**
 
-* [Adobe [!DNL Journey Optimizer] Dokumentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=en){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] Dokumentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 
    * Resor
    * Spåra och övervaka
@@ -173,7 +173,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 >[!IMPORTANT]
 >
->Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](http://www.certmetrics.com/adobe){target="_blank"}.
+>Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 **Nu när du har loggat in är följande länkar direkt tillgängliga.**
@@ -215,6 +215,6 @@ Du kan använda verifikationskoden när du schemalägger provet. Om du har en ra
 
 **Frågor**
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.

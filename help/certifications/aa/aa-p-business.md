@@ -7,9 +7,9 @@ role: User
 badge: label="Exam AD0-E212" type="positive"
 mini-toc-levels: 1
 exl-id: ab0b2e4d-5f24-4b78-bdef-2a6b0aaa53ec
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '942'
+source-wordcount: '916'
 ht-degree: 3%
 
 ---
@@ -109,33 +109,33 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 
 **Avsnitt 1: Affärsanalys**
 
-* [Användarhandbok om Analytics-verktyg](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=en){target="_blank"}
-* [Användarhandbok för Analytics-komponenter](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en){target="_blank"}
-* [Implementering [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
-* [Hjälp med Data Workbench](https://experienceleague.adobe.com/docs/data-workbench/using/home.html?lang=en){target="_blank"}
+* [Användarhandbok om Analytics-verktyg](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
+* [Användarhandbok för Analytics-komponenter](https://experienceleague.adobe.com/docs/analytics/components/home.html){target="_blank"}
+* [Implementering [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
+* [Hjälp med Data Workbench](https://experienceleague.adobe.com/docs/data-workbench/using/home.html){target="_blank"}
 
 **Avsnitt 2: Rapportering och instrumentpaneler för projekt**
 
-* [Användarhandbok om Analytics Admin](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=en){target="_blank"}
-* [Användarhandbok om Analytics-verktyg](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=en){target="_blank"}
-* [Visualiseringsöversikt](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html?lang=en#quick-viz){target="_blank"}
-* [Användarhandbok för Analytics-komponenter](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en){target="_blank"}
-* [Användarhandbok om Customer Journey Analytics](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=en){target="_blank"}
+* [Användarhandbok om Analytics Admin](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
+* [Användarhandbok om Analytics-verktyg](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
+* [Visualiseringsöversikt](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html#quick-viz){target="_blank"}
+* [Användarhandbok för Analytics-komponenter](https://experienceleague.adobe.com/docs/analytics/components/home.html){target="_blank"}
+* [Användarhandbok om Customer Journey Analytics](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html){target="_blank"}
 
 **Avsnitt 3: Segmentering och beräknade värden**
 
-* [Användarhandbok för Analytics-komponenter](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en){target="_blank"}
+* [Användarhandbok för Analytics-komponenter](https://experienceleague.adobe.com/docs/analytics/components/home.html){target="_blank"}
 
 **Avsnitt 4: Allmän verktygsinformation och felsökning**
 
-* [Implementering [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
-* [Användarhandbok för Analytics-komponenter](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en){target="_blank"}
+* [Implementering [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
+* [Användarhandbok för Analytics-komponenter](https://experienceleague.adobe.com/docs/analytics/components/home.html){target="_blank"}
 
 >[!TAB Bli certifierad]
 
 >[!IMPORTANT]
 >
->Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](http://www.certmetrics.com/adobe){target="_blank"}.
+>Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 **Nu när du har loggat in är följande länkar direkt tillgängliga.**
@@ -165,6 +165,6 @@ Du kan använda verifikationskoden när du schemalägger provet. Om du har en ra
 
 **Frågor**
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.
