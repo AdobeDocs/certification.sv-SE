@@ -7,7 +7,7 @@ role: Developer
 badge: label="Exam AD0-E213" type="positive"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: 50ab6e6f0fc5626e1da8843fd3a1abf09f966803
 workflow-type: tm+mt
 source-wordcount: '1257'
 ht-degree: 3%
@@ -61,7 +61,7 @@ Upplev följande uppgifter:
 * Tid: 100 min
 * Leverans: Bearbetad online (kräver kameraåtkomst)
 * Tillgängliga språk: Engelska
-* Kostnad: 125 USD (globalt) och 950 USD (Indien)
+* Kostnad: 125 USD (globalt) och 95 USD (Indien)
 * Exam-ID: AD0-E213
 
 **Mål och omfattning för tentamen**
