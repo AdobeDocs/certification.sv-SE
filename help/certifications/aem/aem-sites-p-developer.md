@@ -7,9 +7,9 @@ role: Developer
 badge: label="Exam AD0-E123" type="positive"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
-source-git-commit: e5543c053af424ab0ca23068bbabe5eebccfb437
+source-git-commit: 7a1c1e69c6451e485fecca587a70f15aa9991f95
 workflow-type: tm+mt
-source-wordcount: '844'
+source-wordcount: '850'
 ht-degree: 2%
 
 ---
@@ -117,9 +117,9 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 
 **Avsnitt 4: Miljöunderhåll**
 
-* [Användarhandbok för distribution av AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html){target="_blank"}
-* [Användarhandbok om AEM 6.4-utveckling](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html){target="_blank"}
-* [Instrumentpanel för åtgärder](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/operations-dashboard.html#automated-maintenance-tasks){target="_blank"}
+* [Användarhandbok för distribution av AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=en){target="_blank"}
+* [Användarhandbok om AEM 6.4-utveckling](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=en){target="_blank"}
+* [Instrumentpanel för åtgärder](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/operations-dashboard.html?lang=en#automated-maintenance-tasks){target="_blank"}
 * [Versionsinformation för Adobe [!DNL Experience Manager] 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html){target="_blank"}
 * [[!DNL Experience Manager as a Cloud Service] översikt](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
 * [Introduktion till kärnkomponenter](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html)

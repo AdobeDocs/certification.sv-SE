@@ -6,9 +6,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: 55f2a24ee7ecc3a79b82c85402818e0a219d3d03
 workflow-type: tm+mt
-source-wordcount: '3068'
+source-wordcount: '3755'
 ht-degree: 0%
 
 ---
@@ -220,6 +220,111 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} först. Klicka sedan på länken Workfront Project Manager Professional-förnyelse - AD5-833 nedan för att förnya din certifiering.
 
 * [Workfront Project Manager Professional - förnyelse - AD5-833](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E833){target="_blank"}
+
+>[!NOTE]
+>
+>Det här provet är kostnadsfritt, öppet och obearbetat. Du får ta tentamen upp till tre gånger. Om du inte lyckas efter det tredje försöket måste du vänta **30 dagar** för att försöka igen. Om du inte följer reglerna kan certifieringen återkallas.
+
++++
+
++++Workfront Core Developer Professional
+
+## Instruktioner för att förnya din certifiering:
+
+* **Steg 1**: Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}och sedan återgå till den här sidan
+* **Steg 2**: Granska mål och resurser för tentamen
+* **Steg 3**: Ta och godkänn provet
+
+### Gör dig redo
+
+**Information om tentamen:**
+
+* Lösenpoäng: 25/35
+* Tid: 70 min
+* Kostnad: KOSTNADSFRITT/icke-procentrerat
+* Leverans: On-demand
+* Tillgängliga språk: Engelska
+* Krav: aktuell (inte utgången) Adobe Workfront Core Developer Professional-certifiering
+* Exam-ID: AD5-E835
+
+**Tillämpningsområde och mål**
+
+Avsnitt 1: Strategi och användning (20 %)
+
+* Använd Portfolio och program
+* Använd begärandeköer
+* Använd anpassad Forms
+
+Avsnitt 2: Budget och planering (11 %)
+
+* Använda verktygen för resursplanering
+
+Avsnitt 3: Användarupplevelse (26 %)
+
+* Illustrera metodtips för användarhantering när det gäller att skapa rätt användarupplevelse
+* Använd rätt inställningar för delning och åtkomsträttigheter i systemet om ett scenario inträffar
+* Beskriv vad en plan är och se när den ska användas
+* Uppvisa hur man skapar och använder tidrapporter
+* Beskriv syfte och värde för anslutningar, plugin-program och tillägg
+
+Avsnitt 4: Mätvärden och rapportering (14 %)
+
+* Beskriv grundläggande begrepp för att skapa, skicka och anpassa rapporter
+* Förklara hur du bygger och anpassar kontrollpaneler
+
+Avsnitt 5: Körning (29 %)
+
+* Uppvisa hur man ställer in arbetsflöden för godkännande och korrektur
+* Identifiera syftet med att skapa ett problem för ett projekt
+* Uppvisa hur man anpassar projektstatus på gruppnivå
+* Identifiera de attribut som krävs för att aktivera Agile i Workfront
+* Identifiera sätt att ange tid i Workfront
+
+## Förbered
+
+Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
+
+Här följer några förslag på resurser som hjälper dig att förbereda dig:
+
+**Avsnitt 1: Strategi och användning**
+
+* [Portfolio Optimizer - översikt](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/manage-projects-in-portfolio-optimizer/portfolio-optimizer-overview.html?lang=en){target="_blank"}
+* [Skapa och hantera frågeköer](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-manage-request-queues.html?lang=en){target="_blank"}
+* [Ge åtkomst till begärandeköer](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/provide-access-to-request-queues.html?lang=en){target="_blank"}
+* [Översikt över anpassade formulär](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-forms-overview.html){target="_blank"}
+
+**Avsnitt 2: Budget och planering**
+
+* [Leta reda på arbetsbelastningsutjämnaren](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/locate-workload-balancer.html?lang=en){target="_blank"}
+* [Tilldela flera arbeten med hjälp av belastningsutjämnaren](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-in-bulk.html?lang=en){target="_blank"}
+* [Hantera användarallokeringar i Utjämning av arbetsbelastning](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/manage-user-allocations-workload-balancer.html?lang=en){target="_blank"}
+
+**Avsnitt 3: Användarupplevelse**
+
+* [När och hur användare inaktiveras eller tas bort](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/deactivate-or-delete-users.html?lang=en){target="_blank"}
+* [Dela projektmallar](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/create-and-manage-project-templates/share-project-template.html?lang=en){target="_blank"}
+* [Åtgärder som ska vidtas efter installation av en plan](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/best-next-actions-after-install.html?lang=en){target="_blank"}
+* [Skapa en tidrapport för engångsbruk](https://experienceleague.adobe.com/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/create-tmshts.html?lang=en){target="_blank"}
+
+**Avsnitt 4: Mätvärden och rapportering**
+
+* [Adobe Workfront integreringar](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/workfront-integrations-1.html?lang=en){target="_blank"}
+* [Använd Adobe Workfront-plugin-program för Creative Cloud](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.html?lang=en){target="_blank"}
+* [Skicka och dela rapporter](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/how-to-send-and-share-reports.html?lang=en){target="_blank"}
+* [Skapa instrumentpaneler](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=en){target="_blank"}
+
+**Avsnitt 5: Körning**
+
+* [Konvertera ett problem till ett projekt i Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/convert-issues/convert-issue-to-project.html?lang=en){target="_blank"}
+* [Skapa eller redigera en anslagstavla](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=en){target="_blank"}
+* [Lägga till eller ta bort medlemmar från en anslagstavla](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/add-members-to-board.html?lang=en){target="_blank"}
+* [Förstå layouten för tidrapporten](https://experienceleague.adobe.com/docs/workfront/using/timesheets/details/timesheet-layout.html?lang=en){target="_blank"}
+
+## Förnya din certifiering
+
+Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} först. Klicka sedan på länken Workfront Core Developer Professional för förnyelse av din certifiering - AD5-835 nedan.
+
+* [Workfront Core Developer Professional, förnyelse - AD5-833](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E835){target="_blank"}
 
 >[!NOTE]
 >
