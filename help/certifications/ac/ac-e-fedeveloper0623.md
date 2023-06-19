@@ -6,9 +6,9 @@ product: Magento
 role: Developer
 badge: label="Exam AD0-E720" type="positive"
 mini-toc-levels: 1
-source-git-commit: 71d01a071a98d82ef8abcd4518b4596ca6834466
+source-git-commit: 36b073c50eb5cc84bac1b3ea65fd3ecba3e71a8f
 workflow-type: tm+mt
-source-wordcount: '1307'
+source-wordcount: '1220'
 ht-degree: 0%
 
 ---
@@ -182,15 +182,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 **Nu när du har loggat in är följande länkar direkt tillgängliga.**
 
-**Gör ett övningsprov**
-
-Vi rekommenderar att du gör ett test innan du börjar. Du får obegränsad tillgång till alla tillgängliga övningstester för prov på Adobe expertnivå.
-
-Våra övningstester har alla utvecklats från samma plan som direktproven. Praktiktestet hjälper dig att förstå de ämnen som tas upp i provet.
-
-Tänk på att du inte kommer att bli godkänd på certifieringstest om du godkänner ett praktiktest.
-
-Gå till [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} nu för att göra ett praktiktest.
+**Praktiska tester kommer snart**
 
 **Gör en certifieringstest**
 

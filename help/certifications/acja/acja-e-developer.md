@@ -7,9 +7,9 @@ product: Customer Journey Analytics
 badge: label="Exam AD0-E604" type="positive"
 mini-toc-levels: 1
 exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: 36b073c50eb5cc84bac1b3ea65fd3ecba3e71a8f
 workflow-type: tm+mt
-source-wordcount: '772'
+source-wordcount: '863'
 ht-degree: 0%
 
 ---
@@ -128,8 +128,17 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 >
 >Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
 
-
 **Nu när du har loggat in är följande länkar direkt tillgängliga.**
+
+**Gör ett övningsprov**
+
+Vi rekommenderar att du gör ett test innan du börjar. Du får obegränsad tillgång till alla tillgängliga övningstester för prov på Adobe expertnivå.
+
+Våra övningstester har alla utvecklats från samma plan som direktproven. Praktiktestet hjälper dig att förstå de ämnen som tas upp i provet.
+
+Tänk på att du inte kommer att bli godkänd på certifieringstest om du godkänner ett praktiktest.
+
+Gå till [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} nu för att göra ett praktiktest.
 
 **Gör en certifieringstest**
 
