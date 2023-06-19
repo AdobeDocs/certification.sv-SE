@@ -1,15 +1,14 @@
 ---
-title: Certifiering av utvecklare
+title: Ny certifiering för frontutvecklare Professional
 description: Så här blir du certifierad Adobe Developer-proffs för Adobe [!DNL Commerce] .
 solution: Commerce
 product: Magento
 role: Developer
-badge: label="Exam AD0-E719" type="positive"
+badge: label="Exam AD0-E721" type="positive"
 mini-toc-levels: 1
-exl-id: aad1587f-f458-413a-af93-727666e94147
-source-git-commit: ee0b33e8a1cef382fb28926b2b0a69395fe6cc2c
+source-git-commit: 71d01a071a98d82ef8abcd4518b4596ca6834466
 workflow-type: tm+mt
-source-wordcount: '1198'
+source-wordcount: '1144'
 ht-degree: 0%
 
 ---
@@ -20,15 +19,15 @@ Lär dig hur du blir certifierad Adobe Developer Professional.
 
 >[!NOTE]
 >
->Denna tentamen Adobe Commerce Front End Developer Professional (AD0-E719) har uppdaterats. Om du redan har börjat studera eller är schemalagd att ta den här versionen, vänligen se till att slutföra den före 18 augusti 2023. Om du precis har börjat rekommenderar vi att du [senaste versionen av denna tentamen](ac-p-fedeveloper0623.md).
+>Det här är den senaste Adobe Commerce Front End Developer Professional-provet. Om du redan har börjat studera eller har schemalagt [äldre version](ac-p-fedeveloper.md) du har tid till den 18 augusti 2023 för att slutföra det.
 
 ## Minimal upplevelse
 
-Du bör ha en praktisk erfarenhet på 0-12 månader med Adobe [!DNL Commerce] Framtagning och möjlighet att arbeta med tekniska lösningar för att leverera enskilda komponenter.
+Du bör ha en praktisk upplevelse på 0-12 månader med Adobe Commerce Front-end-utveckling och möjlighet att arbeta med tekniska lösningar för att leverera enskilda komponenter.
 
 Dessutom bör du känna till följande tekniker:
 
-* Stark förståelse för Adobe [!DNL Commerce] version 2.4.3
+* En bättre förståelse för Adobe Commerce version 2.4.6
 * Grundläggande förståelse av frontdelens struktur och layout
 * Upplevelse och förståelse av HTML, CSS (och preprocessorer), LESS, JavaScript- och UI-komponenter, jQuery, understreck, Require.JS, knockout, även PHP-mallar, DB-kunskaper och innehållshantering
 * Bekanta dig med plattformen, CMS-block, widgetar, CMS-sidor, kategorisidor, produktsidor, kundvagn och utcheckning samt kontokontrollpanelen
@@ -45,6 +44,7 @@ Dessutom bör du känna till följande tekniker:
 * Grundläggande förståelse för XML
 * Grundläggande förståelse av körklar SEO, optimerings- och prestandateknik
 * Grundläggande förståelse för kanoniska länkar samt sammanslagning av JavaScript och CSS
+* Grundläggande förståelse för Adobe Commerce molninfrastruktur
 
 >[!BEGINTABS]
 
@@ -60,12 +60,12 @@ Dessutom bör du känna till följande tekniker:
 **Information om tentamen:**
 
 * Nivå: Professionell (0-12 månaders erfarenhet)
-* Lösenpoäng: 31/50
+* Lösenpoäng: 33/50
 * Tid: 100 min
 * Leverans: Bearbetad online (kräver kameraåtkomst)
 * Tillgängliga språk: Engelska
 * Kostnad: $125 (global) / $95 (Indien)
-* Exam-ID: AD0-E719
+* Exam-ID: AD0-E721
 
 **Mål och omfattning för tentamen**
 
@@ -75,7 +75,7 @@ Avsnitt 1: Temahantering (temahierarki, bildkonfiguration, översättningar) (14
 * Uppvisa förmåga att skapa nya eller utöka befintliga teman
 * Uppvisa förmåga att lägga till anpassade översättningsfraser
 
-Avsnitt 2: Layout XML och mallar (28 %)
+Avsnitt 2: Layout för XML och mallar (30 %)
 
 * Uppvisa förmåga att arbeta med grundläggande XML-instruktioner för layout
 * Uppvisa förmåga att använda befintliga sidlayouter
@@ -83,7 +83,7 @@ Avsnitt 2: Layout XML och mallar (28 %)
 * Uppvisa förmåga att skapa och anpassa mallar
 * Beskriv säkerhet för mallar (escape-utdata)
 
-Avsnitt 3: Format (24 %)
+Avsnitt 3: Format (22 %)
 
 * Beskriv syftet med styles-m.less, styles-l.less, print.less
 * Beskriv skillnaden mellan specifika partiella filer (_extends.less,_extend.less,_theme.less,_widgets.less,_module.less)
@@ -92,25 +92,28 @@ Avsnitt 3: Format (24 %)
 * Förklara formathierarkin (lib, moduler, teman)
 * Förklara kompilering på både klient- och serversidan
 
-Avsnitt 4: JavaScript (16 %)
+Avsnitt 4: JavaScript (18 %)
 
-* Uppvisa grundläggande användning av innehållshantering
-* Beskriv steg för att tillämpa/schemalägga ett tema för ett specifikt omfång (webbplats, butik, butiksvy)
-* Beskriv stegen för att tillämpa designändringar på kategorier, produkter och CMS-sidor med hjälp av administratörskonfiguration
+* Uppvisa förmåga att initiera och anropa JavaScript-komponenter
+* Uppvisa hur RequireJS används
+* Beskriv användningen av blandningar
+* Beskriv hur du lägger till en översättning i JS
+* Beskriv användningen av blockerad JS
+* Beskriv användningen av jQuery-widgetar
+
+Avsnitt 5: Administratörskonfiguration och PageBuilder (6 %)
+
+* Uppvisa förmåga att anpassa Page Builder- och CMS-material&quot;
+* Använd/schemalägg ett tema för ett specifikt omfång (webbplats, butik, butiksvy)
+* Tillämpa designändringar på kategorier, produkter och CMS-sidor med administratörskonfiguration
 * Beskriv steg för att anpassa transaktionsmejl
 
-Avsnitt 5: Administratörskonfiguration och sidbyggare (12 %)
-
-* Uppvisa grundläggande användning av innehållshantering
-* Beskriv steg för att tillämpa/schemalägga ett tema för ett specifikt omfång (webbplats, butik, butiksvy)
-* Beskriv stegen för att tillämpa designändringar på kategorier, produkter och CMS-sidor med hjälp av administratörskonfiguration
-* Beskriv steg för att anpassa transaktionsmejl
-
-Avsnitt 6: Verktyg (CLI och Grunt) (6 %)
+Avsnitt 6: Verktyg (CLI och Grunt) (8 %)
 
 * Beskriv användningen av grundläggande bin/magento-kommandon
 * Beskriv användningen av Composer-kommandon (installera, uppdatera, begära, ta bort)
 * Differentiera lämplig användning för driftsättningslägen
+* Beskriv andra verktyg som molnet tillhandahåller (snabbt, hämta databas, distribuera innehåll)
 
 >[!TAB Förbered]
 
@@ -118,58 +121,44 @@ Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och 
 
 Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
-**Exempelfrågor**
-
-Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer att stöta på i provet. Ingen inloggning behövs. Resultaten av exempelfrågorna lagras inte och du kan inte förutsäga dina faktiska testresultat.
-
-[Se exempelfrågor](https://scorpion.caveon.com/launchpad/ad0-e719-adobe-commerce-front-end-developer-professional-copy-cmkmys){target="_blank"}
-
 **Avsnitt 1: Temahantering (temahierarki, bildkonfiguration, översättningar)**
 
 * [Teman](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-overview.html){target="_blank"}
-* [Kommandoradsverktyg](https://devdocs.magento.com/guides/v2.4/config-guide/cli/config-cli.html){target="_blank"}
+* [Layouter](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-manage/){target="_blank"}
+* [Lokalisering](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/localization.html){target="_blank"}
 * [Översättningar](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/translations/xlate.html){target="_blank"}
 
 **Avsnitt 2: Layout för XML och mallar**
 
-* [Layout](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-overview.html){target="_blank"}
-* [Teman](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-overview.html){target="_blank"}
-* [Mallar](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/templates/template-overview.html){target="_blank"}
-* [Introduktion](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/bk-extension-dev-guide.html){target="_blank"}
+* [Vanliga anpassningsåtgärder](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-manage/){target="_blank"}
+* [Komponentutveckling](https://developer.adobe.com/commerce/php/development/components/){target="_blank"}
+* [Säkerhet](https://developer.adobe.com/commerce/php/development/security/){target="_blank"}
 
 **Avsnitt 3: Stilar**
 
-* [Variabler](https://lesscss.org/features/#features-overview-feature){target="_blank"}
-* [Responsiv webbdesign](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/responsive-web-design/rwd_overview.html){target="_blank"}
-* [CSS (Cascading Style Sheets)](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/css-topics/css-overview.html){target="_blank"}
-* [Quickstart](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/css-guide/css_quick_guide_overview.html){target="_blank"}
-* [Utvecklarhandbok för Edge](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/bk-frontend-dev-guide.html){target="_blank"}
-* [Teman](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-overview.html){target="_blank"}
-* [Vad är Page Builder?](https://devdocs.magento.com/page-builder/docs/){target="_blank"}
+* [Kodstandarder](https://developer.adobe.com/commerce/php/coding-standards/){target="_blank"}
+* [{less}](https://lesscss.org/){target="_blank"}
+* [LESS-kodstandard](https://developer.adobe.com/commerce/php/coding-standards/less/){target="_blank"}
+* [Anpassa temaformat](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/){target="_blank"}
 
 **Avsnitt 4: JavaScript**
 
-* [JavaScript](https://devdocs.magento.com/guides/v2.4/javascript-dev-guide/javascript/js_overview.html){target="_blank"}
-* [Översättningar](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/translations/xlate.html){target="_blank"}
-* [Introduktion till gränssnittskomponenter](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/bk-ui_comps.html){target="_blank"}
-* [Introduktion till JavaScript](https://devdocs.magento.com/guides/v2.4/javascript-dev-guide/bk-javascript-dev-guide.html){target="_blank"}
-* [jQuery-widgetar](https://devdocs.magento.com/guides/v2.4/javascript-dev-guide/widgets/jquery-widgets-about.html){target="_blank"}
+* [Introduktion till JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/){target="_blank"}
+* [Komponentkoncept i användargränssnittet](https://developer.adobe.com/commerce/frontend-core/ui-components/concepts/){target="_blank"}
+* [Observerbara filer (KnockOutJS)](https://knockoutjs.com/documentation/observables.html){target="_blank"}
 
-**Avsnitt 5: Administratörskonfiguration och pageBuilder**
+**Avsnitt 5: Administratörskonfiguration och PageBuilder**
 
-* [Referenshandbok för konfiguration](https://docs.magento.com/user-guide/configuration/general.html){target="_blank"}
-* [Introduktion till Page Builder](https://docs.magento.com/user-guide/cms/page-builder.html){target="_blank"}
-* [Genomgång del 1: Enkel sida](https://docs.magento.com/user-guide/cms/page-builder-learn.html){target="_blank"}
-* [Teman](https://docs.magento.com/user-guide/design/themes.html){target="_blank"}
-* [Översikt över kategorier](https://docs.magento.com/user-guide/catalog/categories.html){target="_blank"}
-* [Design](https://docs.magento.com/user-guide/design/design-theme.html){target="_blank"}
-* [Mallar](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/templates/template-overview.html){target="_blank"}
+* [Sidor](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/pages/pages.html){target="_blank"}
+* [Vad är Page Builder?](https://developer.adobe.com/commerce/frontend-core/page-builder/){target="_blank"}
+* [JavaScript-paketering](https://developer.adobe.com/commerce/frontend-core/guide/themes/js-bundling/){target="_blank"}
+* [Google reCAPTCHA](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/captcha/security-google-recaptcha.html){target="_blank"}
 
 **Avsnitt 6: Verktyg (CLI och Grunt)**
 
-* [Kommandoradskonfiguration](https://devdocs.magento.com/guides/v2.4/config-guide/cli/config-cli.html){target="_blank"}
-* [Översikt över butiksalternativ och konfigurationshantering](https://devdocs.magento.com/cloud/configure/configuration-overview.html){target="_blank"}
-* [Översikt över initiering och bootstrap](https://devdocs.magento.com/guides/v2.4/config-guide/bootstrap/magento-bootstrap.html){target="_blank"}
+* [Konfigurationsguide](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/overview.html?lang=en){target="_blank"}
+* [Skapa variabler](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build.html?lang=en){target="_blank"}
+* [Commerce on Cloud Infrastructure](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=en){target="_blank"}
 
 >[!TAB Bli certifierad]
 
@@ -179,6 +168,16 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 
 
 **Nu när du har loggat in är följande länkar direkt tillgängliga.**
+
+**Gör ett övningsprov**
+
+Vi rekommenderar att du gör ett test innan du börjar. Du får obegränsad tillgång till alla tillgängliga övningstester för prov på Adobe expertnivå.
+
+Våra övningstester har alla utvecklats från samma plan som direktproven. Praktiktestet hjälper dig att förstå de ämnen som tas upp i provet.
+
+Tänk på att du inte kommer att bli godkänd på certifieringstest om du godkänner ett praktiktest.
+
+Gå till [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} nu för att göra ett praktiktest.
 
 **Gör en certifieringstest**
 
@@ -193,9 +192,9 @@ Profilnamnet i Adobe Credential Management System måste exakt matcha ditt Gover
 
 Det går att avbryta och schemalägga om det initieras före 48 timmar före det schemalagda provbesöket. Kandidaterna måste själva ändra den här avtalade tiden.
 
-### Provnummer: AD0-E719
+### Provnummer: AD0-E721
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E719 newtab=true"}[!BADGE Underbarhet]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E719 newtab=true"}
+[!BADGE Underbarhet]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E721 newtab=true"}
 
 Du kan betala för ditt certifieringsprov med hjälp av verifikation eller kreditkort. Om du vill köpa en provvoucher går du till: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
