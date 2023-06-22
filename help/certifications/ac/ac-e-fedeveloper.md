@@ -7,9 +7,9 @@ role: Developer
 badge: label="Exam AD0-E710" type="positive"
 mini-toc-levels: 1
 exl-id: 90ce0bb5-cfa3-4c4c-9ba0-1d63661cf593
-source-git-commit: ee0b33e8a1cef382fb28926b2b0a69395fe6cc2c
+source-git-commit: b2cc1552e144c388c3a4f23704eada204fec5c1e
 workflow-type: tm+mt
-source-wordcount: '1623'
+source-wordcount: '1365'
 ht-degree: 0%
 
 ---
@@ -211,42 +211,39 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 >
 > Följande avsnitt och länkar fungerar **endast** efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
 
-**Nu när du har loggat in är följande länkar direkt tillgängliga.**
+## Gör ett övningsprov
 
-**Gör ett övningsprov**
+{{practice-test}}
 
-Vi rekommenderar att du gör ett test innan du börjar. Du får obegränsad tillgång till alla tillgängliga övningstester för prov på Adobe expertnivå.
+## Om provet
 
-Våra övningstester har alla utvecklats från samma plan som direktproven. Praktiktestet hjälper dig att förstå de ämnen som tas upp i provet.
+{{about-certification-exam}}
 
-Tänk på att du inte kommer att bli godkänd på certifieringstest om du godkänner ett praktiktest.
+## Ta provet (AD0-E710)
 
-Gå till [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} nu för att göra ett praktiktest.
+### Tillgängliga alternativ
 
-**Gör en certifieringstest**
+**PSI** (*testcenter/alternativ för japanska prov (om sådana finns)*)
 
-Adobe använder två leverantörer för att administrera proffsiga tentamina, PSI och Examity.
+<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E710" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-* **PSI** erbjuder testcenter och japanska tentamina (där det finns tillgängligt)
-* **[!DNL Examity]** erbjuder ett fjärranslutet alternativ
+<span class="spectrum-Button-label has-no-wrap">
+   Ta prov
+</span>
+</a>
 
-Om du vill schemalägga, schemalägga om eller avbryta din tentamen klickar du bara på valfri leverantör och följer instruktionerna på skärmen. Så enkelt är det!
+**[!DNL Examity]** ( *online* )
 
-Profilnamnet i Adobe Credential Management System måste exakt matcha ditt Government ID. Om informationen inte är identisk eller om det inte finns någon matchning avbryts provet och du måste schemalägga om din avtalade tid utöver att betala en extra provavgift.
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E710" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-Det går att avbryta och schemalägga om det initieras före 48 timmar före det schemalagda provbesöket. Kandidaterna måste själva ändra den här avtalade tiden.
-
-### Provnummer: AD0-E710
-
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E710 newtab=true"}[!BADGE Underbarhet]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E710 newtab=true"}
-
-Du kan betala för ditt certifieringsprov med hjälp av verifikation eller kreditkort. Om du vill köpa en provvoucher går du till: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}.
-
-Du kan använda verifikationskoden när du schemalägger provet. Om du har en rabatt gäller den i kassan.
+<span class="spectrum-Button-label has-no-wrap">
+   Ta prov
+</span>
+</a>
 
 >[!ENDTABS]
 
-**Frågor**
+## Frågor
 
 Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

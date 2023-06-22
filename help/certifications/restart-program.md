@@ -6,18 +6,20 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
-source-git-commit: e5543c053af424ab0ca23068bbabe5eebccfb437
+source-git-commit: d5652cf017236ac3220a4cff520bd6e7d22a57d6
 workflow-type: tm+mt
-source-wordcount: '5189'
+source-wordcount: '5163'
 ht-degree: 5%
 
 ---
 
 # Starta om din certifieringsresa genom att gå från utgången till certifierad
 
-Tidsbegränsat program **24 april 2023-20 oktober 2023**, ger dig en chans att uppdatera dina färdigheter och ligga steget före i ett snabbt föränderligt digitalt landskap.
-
-Individer vars certifieringar löpte ut från 2020 till 23 april 2023 är berättigade till detta **kostnadsfritt** program.
+>[!AVAILABILITY]
+>
+> Tidsbegränsat program från **24 april 2023 till 20 oktober 2023**.  Programmet ger dig möjlighet att uppdatera dina färdigheter och ligga steget före i ett snabbt föränderligt digitalt landskap.
+>
+> ** BEHÖRIGHET: Individer vars certifieringar löpte ut från 2020 till 23 april 2023 är berättigade till detta **kostnadsfritt** program.
 
 ## Introduktion
 
@@ -107,7 +109,7 @@ Kurserna är kostnadsfria. De behöver inte schemaläggas och de behandlas inte.
 | [Exportera och demokratisera Adobe Analytics-data - Lektion 5 och 6](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing){target="_blank"} | [ADS-EA202](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA202){target="_blank"} |
 | [Filtrera data med anpassad segmentering och datum - lektion 2](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata){target="_blank"} | [ADS-EA203](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA203){target="_blank"} |
 | [Implementering av guidad analys - lektion 5](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1){target="_blank"} | [ADS-EA204](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA204){target="_blank"} |
-| [ Implementera och mäta intern webbplatssökning - Lektion 3 och 4](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search){target="_blank"} | [ADS-EA205](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA205){target="_blank"} |
+| [Implementera och mäta intern webbplatssökning - Lektion 3 och 4](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search){target="_blank"} | [ADS-EA205](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA205){target="_blank"} |
 | [Adobe Analytics API:er](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/apis/using-analysis-workspace-to-build-api-2-requests.html){target="_blank"} | [ADS-EA206](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA206){target="_blank"} |
 
 >[!NOTE]
@@ -210,12 +212,9 @@ Kurserna är kostnadsfria. De behöver inte schemaläggas och de behandlas inte.
 
 Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
 
-Här följer några förslag på resurser som hjälper dig att förbereda dig:
+Här är förslag på resurser,
 
-[!BADGE Exempelfrågor]{type=Informative url="https://sei.caveon.com/launchpad/ad4-e453-adobe-audience-manager-business-practitioner-sample-exam newtab=true"}
-
-**Resurser:**
-
+* [Exempel på prov](https://sei.caveon.com/launchpad/ad4-e453-adobe-audience-manager-business-practitioner-sample-exam){target="_blank"}
 * [[!DNL Audience Manager] Produktdokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
 * [Stöd för Adobe - [!DNL Experience Cloud] Målgrupper](https://experienceleaguecommunities.adobe.com/t5/Adobe-Experience-Cloud-Audiences/ct-p/experience-cloud-audiences-community){target="_blank"}
 * [[!DNL Experience Cloud] Lär dig mer och support](https://helpx.adobe.com/se/support/experience-cloud.html){target="_blank"}
@@ -223,9 +222,14 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 **Starta om certifieringen**
 
-Det här provet är kostnadsfritt, öppet och obearbetat. Du får ta tentamen upp till tre gånger. Om du inte lyckas efter det tredje försöket måste du vänta **30 dagar** för att försöka igen. Om du inte följer reglerna kan certifieringen återkallas.
+Experten på Adobe Audience Manager Business Practitioner-omstartsprovet ADS-E826 är kostnadsfri, öppen bok och obearbetad. Du får ta tentamen upp till tre gånger. Om du inte lyckas efter det tredje försöket måste du vänta **30 dagar** för att försöka igen. Om du inte följer reglerna kan certifieringen återkallas.
 
-[!BADGE Starta om Adobe Audience Manager Business Practitioner-experten - tentamen ADS-E826]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E826 newtab=true"}
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E82" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Ta provet
+</span>
+</a>
 
 +++
 
@@ -319,9 +323,14 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 ### Starta om certifieringen
 
-Det här provet är kostnadsfritt, öppet och obearbetat. Du får ta tentamen upp till tre gånger. Om du inte lyckas efter det tredje försöket måste du vänta **30 dagar** för att försöka igen. Om du inte följer reglerna kan certifieringen återkallas.
+Provet för överordnad omstart av Adobe Audience Manager Architect ADS-E825 är kostnadsfritt, öppet och obearbetat. Du får ta tentamen upp till tre gånger. Om du inte lyckas efter det tredje försöket måste du vänta **30 dagar** för att försöka igen. Om du inte följer reglerna kan certifieringen återkallas.
 
-[!BADGE Ta Adobe Audience Manager Architect överordnad-omstartsprovet ADS-E825]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E825 newtab=true"}
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E825" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Ta provet
+</span>
+</a>
 
 +++
 
@@ -429,9 +438,14 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 ### Starta om certifieringen
 
-Det här provet är kostnadsfritt, öppet och obearbetat. Du får ta tentamen upp till tre gånger. Om du inte lyckas efter det tredje försöket måste du vänta **30 dagar** för att försöka igen. Om du inte följer reglerna kan certifieringen återkallas.
+Adobe [!DNL Campaign Standard] Omstartsprovet för Developer Expert ADS-821 är kostnadsfritt, öppet och obearbetat. Du får ta tentamen upp till tre gånger. Om du inte lyckas efter det tredje försöket måste du vänta **30 dagar** för att försöka igen. Om du inte följer reglerna kan certifieringen återkallas.
 
-[!BADGE Take the Adobe [!DNL Campaign Standard] Developer Expert - starta om provet ADS-821]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E821 newtab=true&quot;}
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E821" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Ta provet
+</span>
+</a>
 
 +++
 
@@ -502,9 +516,14 @@ Avsnitt 4: Administration, övervakning och rapportering
 
 ### Starta om certifieringen
 
-Det här provet är kostnadsfritt, öppet och obearbetat. Du får ta tentamen upp till tre gånger. Om du inte lyckas efter det tredje försöket måste du vänta **30 dagar** för att försöka igen. Om du inte följer reglerna kan certifieringen återkallas.
+Adobe [!DNL Campaign Standard] Business Practitioner Expert - omstartsprovet ADS-822 är kostnadsfritt, öppet och obearbetat. Du får ta tentamen upp till tre gånger. Om du inte lyckas efter det tredje försöket måste du vänta **30 dagar** för att försöka igen. Om du inte följer reglerna kan certifieringen återkallas.
 
-[!BADGE Take the Adobe [!DNL Campaign Standard] Business Practitioner Expert - starta om provet ADS-822]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E822 newtab=true&quot;}
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E822" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Ta provet
+</span>
+</a>
 
 +++
 
@@ -607,9 +626,14 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 ### Starta om certifieringen
 
-Det här provet är kostnadsfritt, öppet och obearbetat. Du får ta tentamen upp till tre gånger. Om du inte lyckas efter det tredje försöket måste du vänta **30 dagar** för att försöka igen. Om du inte följer reglerna kan certifieringen återkallas.
+Adobe Campaign Classic startprov ADS-823 är kostnadsfritt, öppet och obearbetat. Du får ta tentamen upp till tre gånger. Om du inte lyckas efter det tredje försöket måste du vänta **30 dagar** för att försöka igen. Om du inte följer reglerna kan certifieringen återkallas.
 
-[!BADGE Ta Adobe Campaign Classic omstartsprov ADS-823]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E823 newtab=true"}
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E823" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Ta provet
+</span>
+</a>
 
 +++
 
@@ -728,13 +752,18 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 ### Starta om certifieringen
 
-Det här provet är kostnadsfritt, öppet och obearbetat. Du får ta tentamen upp till tre gånger. Om du inte lyckas efter det tredje försöket måste du vänta **30 dagar** för att försöka igen. Om du inte följer reglerna kan certifieringen återkallas.
+Adobe Marketo Engage Business Practitioner-experten startar om tentamen ADS-E824är kostnadsfri, öppen bok och obearbetad. Du får ta tentamen upp till tre gånger. Om du inte lyckas efter det tredje försöket måste du vänta **30 dagar** för att försöka igen. Om du inte följer reglerna kan certifieringen återkallas.
 
-[!BADGE Starta om Adobe Marketo Engage Business Practitioner-experten - tentamen ADS-E824]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E824 newtab=true"}
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E824" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Ta provet
+</span>
+</a>
 
 >[!ENDTABS]
 
-### Frågor
+## Frågor
 
 Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

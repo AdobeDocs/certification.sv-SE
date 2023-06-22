@@ -7,9 +7,9 @@ role: Data Architect,Developer
 badge: label="Exam AD0-E207" type="positive"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
 workflow-type: tm+mt
-source-wordcount: '898'
+source-wordcount: '900'
 ht-degree: 3%
 
 ---
@@ -136,10 +136,15 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 >[!IMPORTANT]
 >
 >Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
+>
+>Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
 
-**Nu när du har loggat in är följande länkar direkt tillgängliga.**
 
-**Gör en certifieringstest**
+## Om provet
+
+{{about-certification-exam}}
+
+## Ta provet
 
 Adobe använder två leverantörer för att administrera proffsiga tentamina, PSI och Examity.
 
@@ -152,17 +157,31 @@ Profilnamnet i Adobe Credential Management System måste exakt matcha ditt Gover
 
 Det går att avbryta och schemalägga om det initieras före 48 timmar före det schemalagda provbesöket. Kandidaterna måste själva ändra den här avtalade tiden.
 
-### Provnummer: AD0-E207
+## Ta provet (AD0-E207)
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E207 newtab=true"}[!BADGE Underbarhet]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E207 newtab=true"}
+### Tillgängliga alternativ
 
-Du kan betala för ditt certifieringsprov med hjälp av verifikation eller kreditkort. Om du vill köpa en provvoucher går du till: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}.
+**PSI** (*testcenter/alternativ för japanska prov (om sådana finns)*)
 
-Du kan använda verifikationskoden när du schemalägger provet. Om du har en rabatt gäller den i kassan.
+<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E207" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Ta prov
+</span>
+</a>
+
+**[!DNL Examity]** ( *online* )
+
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E207" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Ta prov
+</span>
+</a>
 
 >[!ENDTABS]
 
-**Frågor**
+## Frågor
 
 Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

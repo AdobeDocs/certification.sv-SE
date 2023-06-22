@@ -7,7 +7,7 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: e038284bc410843c669bf951f593f50dddefc12d
 workflow-type: tm+mt
 source-wordcount: '884'
 ht-degree: 1%
@@ -117,7 +117,7 @@ Kurserna är kostnadsfria. De behöver inte schemaläggas och de behandlas inte.
 
 >[!ENDTABS]
 
-**Frågor**
+## Frågor
 
 Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

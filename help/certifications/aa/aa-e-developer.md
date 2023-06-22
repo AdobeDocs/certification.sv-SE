@@ -7,9 +7,9 @@ role: Developer
 badge: label="Exam AD0-E209" type="positive"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
 workflow-type: tm+mt
-source-wordcount: '1148'
+source-wordcount: '1063'
 ht-degree: 2%
 
 ---
@@ -29,7 +29,7 @@ Du bör känna till följande verktyg och miljöer:
 Verktyg:
 
 * Adobe Experience Platform Launch (Adobe Launch)
-* Felsökningsverktyg som är relevanta för [!DNL Adobe Analytics] (Packet monitor som Adobe Debugger, browser developer tools, Charles)
+* Felsökningsverktyg som är relevanta för [!DNL Adobe Analytics] (Packet monitor som Adobe Debugger, verktyg för webbläsare, Charles)
 * [!DNL Adobe Analytics] Rapportprogramsinställningar för Admin Console
 * Grundläggande arbetsytekunskap
 * Webbutvecklingsverktyg, kodredigerare och felsökningsverktyg för mobiler
@@ -162,21 +162,18 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 >[!IMPORTANT]
 >
 >Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
+>
+>Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
 
+## Gör ett övningsprov
 
-**Nu när du har loggat in är följande länkar direkt tillgängliga.**
+{{practice-test}}
 
-**Gör ett övningsprov**
+## Om provet
 
-Vi rekommenderar att du gör ett test innan du börjar. Du får obegränsad tillgång till alla tillgängliga övningstester för prov på Adobe expertnivå.
+{{about-certification-exam}}
 
-Våra övningstester har alla utvecklats från samma plan som direktproven. Praktiktestet hjälper dig att förstå de ämnen som tas upp i provet.
-
-Tänk på att du inte kommer att bli godkänd på certifieringstest om du godkänner ett praktiktest.
-
-Gå till [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} nu för att göra ett praktiktest.
-
-**Gör en certifieringstest**
+## Ta provet
 
 Adobe använder två leverantörer för att administrera proffsiga tentamina, PSI och Examity.
 
@@ -189,17 +186,31 @@ Profilnamnet i Adobe Credential Management System måste exakt matcha ditt Gover
 
 Det går att avbryta och schemalägga om det initieras före 48 timmar före det schemalagda provbesöket. Kandidaterna måste själva ändra den här avtalade tiden.
 
-### Provnummer: AD0-E209
+## Ta provet (AD0-E209)
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E209 newtab=true"}[!BADGE Underbarhet]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E209 newtab=true"}
+### Tillgängliga alternativ
 
-Du kan betala för ditt certifieringsprov med hjälp av verifikation eller kreditkort. Om du vill köpa en provvoucher går du till: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}.
+**PSI** (*testcenter/alternativ för japanska prov (om sådana finns)*)
 
-Du kan använda verifikationskoden när du schemalägger provet. Om du har en rabatt gäller den i kassan.
+<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E209" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Ta prov
+</span>
+</a>
+
+**[!DNL Examity]** ( *online* )
+
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E209" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Ta prov
+</span>
+</a>
 
 >[!ENDTABS]
 
-**Frågor**
+## Frågor
 
 Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
