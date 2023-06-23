@@ -2,9 +2,9 @@
 user-guide-title: Certifiering i Adobe
 breadcrumb-title: Certifiering i Adobe
 user-guide-description: Läs mer om  [!DNL Experience Cloud] -certifiering på Adobe. Ta reda på vad du kan få ut av certifieringen.
-source-git-commit: b2cc1552e144c388c3a4f23704eada204fec5c1e
+source-git-commit: 623fd77e77f955d57d779b2f0b746ddb5ef01b5b
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: '258'
 ht-degree: 28%
 
 ---
@@ -133,6 +133,7 @@ ht-degree: 28%
          + [Yrkesverksam](/help/certifications/at/at-e-business.md)
       + Överordnad {#at-master}
          + [Arkitekt](/help/certifications/at/at-m-architect.md)
+         + [Arkitekt (ny)](/help/certifications/at/at-m-architect0623.md)
       + [Förnyelse](/help/certifications/at/at-renew.md)
    + Adobe [!DNL Workfront] {#aw}
       + [Workfront - översikt](/help/certifications/aw/aw-overview.md)

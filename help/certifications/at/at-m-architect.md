@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="Exam AD0-E407" type="positive"
 mini-toc-levels: 1
 exl-id: 05041fba-a1c3-491f-9f88-59498d507e61
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 623fd77e77f955d57d779b2f0b746ddb5ef01b5b
 workflow-type: tm+mt
-source-wordcount: '1127'
+source-wordcount: '1149'
 ht-degree: 4%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 4%
 # Certifieringsresa för [!DNL Adobe Target] Arkitekt Överordnad
 
 Lär dig hur du blir en certifierad Överordnad för Adobe Architect.
+
+>[!NOTE]
+>
+>Detta prov, Adobe Target Architect Överordnad (AD0-E407), har uppdaterats. Om du redan har börjat studera eller är schemalagd att ta den här versionen, vänligen se till att slutföra den före 18 augusti 2023. Om du precis har börjat rekommenderar vi att du [senaste versionen av denna tentamen](at-m-architect0623.md).
 
 ## Minimal upplevelse
 
@@ -52,10 +56,6 @@ Miljöer:
 * Webb- och mobilmiljöer
 * AMS-värdmiljö
 * Adobe I/O Runtime
-
->[!NOTE]
->
->Din certifiering gäller i två år från och med när du godkänns. Vi rekommenderar att du använder den nyare versionen när det är möjligt eftersom den omfattar nyare produktfunktioner.
 
 >[!BEGINTABS]
 
