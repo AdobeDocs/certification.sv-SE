@@ -6,7 +6,7 @@ product: Target
 role: Data Architect
 badge: label="Exam AD0-E409" type="positive"
 mini-toc-levels: 1
-source-git-commit: 6b2ef2c4dd6164461f18d3837c82f0bbd9f3dab2
+source-git-commit: 10f546e5c18dc67c1208603bc91cd2be9028c6d5
 workflow-type: tm+mt
 source-wordcount: '1182'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Lär dig hur du blir en certifierad Överordnad för Adobe Architect.
 
 >[!NOTE]
 >
->Det här är det senaste Överordnad provet för Adobe Target Architect. Om du redan har börjat studera eller har schemalagt [äldre version](at-m-architect.md) till 25 augusti 2023 för att slutföra det.
+>Det här är det senaste Överordnad provet för Adobe Target Architect. Om du redan har börjat studera eller har schemalagt [äldre version](at-m-architect.md) till 8 september 2023 för att slutföra det.
 
 ## Minimal upplevelse
 
