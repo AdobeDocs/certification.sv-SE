@@ -7,9 +7,9 @@ role: Developer
 badge: label="Exam AD0-E719" type="positive"
 mini-toc-levels: 1
 exl-id: aad1587f-f458-413a-af93-727666e94147
-source-git-commit: b2cc1552e144c388c3a4f23704eada204fec5c1e
+source-git-commit: fc1f5860d3e49fd8e3ecb15d24b2242086ca581c
 workflow-type: tm+mt
-source-wordcount: '1079'
+source-wordcount: '1076'
 ht-degree: 0%
 
 ---
@@ -94,10 +94,12 @@ Avsnitt 3: Format (24 %)
 
 Avsnitt 4: JavaScript (16 %)
 
-* Uppvisa grundläggande användning av innehållshantering
-* Beskriv steg för att tillämpa/schemalägga ett tema för ett specifikt omfång (webbplats, butik, butiksvy)
-* Beskriv stegen för att tillämpa designändringar på kategorier, produkter och CMS-sidor med hjälp av administratörskonfiguration
-* Beskriv steg för att anpassa transaktionsmejl
+* Uppvisa förmåga att initiera och anropa JavaScript-komponenter
+* Uppvisa hur RequireJS används
+* Beskriv användningen av blandningar
+* Beskriv hur du lägger till en översättning i JS
+* Beskriv användningen av blockerad JS
+* Beskriv användningen av jQuery-widgetar
 
 Avsnitt 5: Administratörskonfiguration och sidbyggare (12 %)
 
