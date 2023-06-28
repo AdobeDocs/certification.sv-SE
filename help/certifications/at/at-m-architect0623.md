@@ -6,9 +6,9 @@ product: Target
 role: Data Architect
 badge: label="Exam AD0-E409" type="positive"
 mini-toc-levels: 1
-source-git-commit: 10f546e5c18dc67c1208603bc91cd2be9028c6d5
+source-git-commit: 5f155e7b81ec0e39f632416546a46d9ca7da5426
 workflow-type: tm+mt
-source-wordcount: '1182'
+source-wordcount: '1112'
 ht-degree: 0%
 
 ---
@@ -128,12 +128,6 @@ Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och 
 
 Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
-**Exempelfrågor**
-
-Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer att stöta på i provet. Ingen inloggning behövs. Resultaten av exempelfrågorna lagras inte och du kan inte förutsäga dina faktiska testresultat.
-
-[Se exempelfrågor](https://scorpion.caveon.com/launchpad/ad0-e407-adobe-target-architect-sample-exam/adobe-target-architect-sample-exam){target="_blank"}
-
 **Avsnitt 1**
 
 * [Målaktivitetstyper](https://experienceleague.adobe.com/docs/target/using/activities/target-activities-guide.html){target="_blank"}
@@ -208,7 +202,7 @@ Det går att avbryta och schemalägga om det initieras före 48 timmar före det
 
 ### Provnummer: AD0-E409
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E409 newtab=true"}[!BADGE Underbarhet]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E409 newtab=true"}
+[!BADGE Underbarhet]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E409 newtab=true"}
 
 Du kan betala för ditt certifieringsprov med hjälp av verifikation eller kreditkort. Om du vill köpa en provvoucher går du till: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
