@@ -7,9 +7,9 @@ role: Developer
 badge: label="Exam AD0-E123" type="positive"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
-source-git-commit: b2cc1552e144c388c3a4f23704eada204fec5c1e
+source-git-commit: d0f36986ffb20d9a338ba80932643d9b79ab9a9e
 workflow-type: tm+mt
-source-wordcount: '732'
+source-wordcount: '708'
 ht-degree: 2%
 
 ---
@@ -49,10 +49,6 @@ Du bör vara programutvecklare och ha:
 * Tillgängliga språk: Engelska
 * Kostnad: $125 (global) / $95 (Indien)
 * Exam-ID: AD0-E123
-
-**Självbedömning av beredskap**
-
-Slutför [onlineberedskapsenkät](https://scorpion.caveon.com/launchpad/ad-q-e123-readiness-questionnaire-for-adobe-experience-manager-sites-developer-professional-exam){target="_blank"} för att se om din nuvarande upplevelse matchar den rekommenderade lägsta kandidatkvalificeringen.
 
 **Mål och omfattning för tentamen**
 
