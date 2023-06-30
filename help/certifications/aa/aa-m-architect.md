@@ -8,7 +8,7 @@ role: Data Architect,Developer
 badge: label="Exam AD0-E207" type="positive"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
+source-git-commit: 9bf4323983684d3c0c3ca1589e9a9692268ed840
 workflow-type: tm+mt
 source-wordcount: '900'
 ht-degree: 3%
@@ -161,6 +161,8 @@ Det går att avbryta och schemalägga om det initieras före 48 timmar före det
 ## Ta provet (AD0-E207)
 
 ### Tillgängliga alternativ
+
+{{#PSI-note}}
 
 **PSI** (*testcenter/alternativ för japanska prov (om sådana finns)*)
 

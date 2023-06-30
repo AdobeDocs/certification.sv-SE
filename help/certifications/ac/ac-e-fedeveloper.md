@@ -8,7 +8,7 @@ level: Experienced
 badge: label="Exam AD0-E710" type="positive"
 mini-toc-levels: 1
 exl-id: 90ce0bb5-cfa3-4c4c-9ba0-1d63661cf593
-source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
+source-git-commit: 9bf4323983684d3c0c3ca1589e9a9692268ed840
 workflow-type: tm+mt
 source-wordcount: '1365'
 ht-degree: 0%
@@ -223,6 +223,8 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 ## Ta provet (AD0-E710)
 
 ### Tillgängliga alternativ
+
+{{#PSI-note}}
 
 **PSI** (*testcenter/alternativ för japanska prov (om sådana finns)*)
 

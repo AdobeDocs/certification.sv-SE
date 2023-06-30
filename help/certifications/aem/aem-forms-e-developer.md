@@ -7,7 +7,7 @@ role: Developer
 badge: label="Exam AD0-E125" type="positive"
 mini-toc-levels: 1
 exl-id: 6b7fa868-69f3-49b4-934e-87cf86538039
-source-git-commit: e18ce1be4ed5241de5429583a5caa5ed1c9bab01
+source-git-commit: 9bf4323983684d3c0c3ca1589e9a9692268ed840
 workflow-type: tm+mt
 source-wordcount: '821'
 ht-degree: 2%
@@ -170,6 +170,8 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 ## Ta provet (AD0-E125)
 
 ### Tillgängliga alternativ
+
+{{#PSI-note}}
 
 **PSI** (*testcenter/alternativ för japanska prov (om sådana finns)*)
 

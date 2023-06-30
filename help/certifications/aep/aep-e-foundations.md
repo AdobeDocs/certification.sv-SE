@@ -7,7 +7,7 @@ role: Developer
 badge: label="Exam AD0-E600 & AD7-E601" type="positive"
 hidefromtoc: true
 mini-toc-levels: 1
-source-git-commit: b9231e1a3b80440862b5004f42acf10b704b91a7
+source-git-commit: 9bf4323983684d3c0c3ca1589e9a9692268ed840
 workflow-type: tm+mt
 source-wordcount: '1686'
 ht-degree: 3%
@@ -288,6 +288,8 @@ Avsnitt 3: Destinationer (27 %)
 ## Ta provet (AD0-E601)
 
 ### Tillgängliga alternativ
+
+{{#PSI-note}}
 
 **PSI** (*testcenter/alternativ för japanska prov (om sådana finns)*)
 

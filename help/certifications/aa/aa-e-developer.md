@@ -8,7 +8,7 @@ level: Experienced
 badge: label="Exam AD0-E209" type="positive"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
+source-git-commit: 9bf4323983684d3c0c3ca1589e9a9692268ed840
 workflow-type: tm+mt
 source-wordcount: '1063'
 ht-degree: 2%
@@ -30,7 +30,7 @@ Du bör känna till följande verktyg och miljöer:
 Verktyg:
 
 * Adobe Experience Platform Launch (Adobe Launch)
-* Felsökningsverktyg som är relevanta för [!DNL Adobe Analytics] (Packet monitor som Adobe Debugger, browser developer tools, Charles)
+* Felsökningsverktyg som är relevanta för [!DNL Adobe Analytics] (Packet monitor som Adobe Debugger, verktyg för webbläsare, Charles)
 * [!DNL Adobe Analytics] Rapportprogramsinställningar för Admin Console
 * Grundläggande arbetsytekunskap
 * Webbutvecklingsverktyg, kodredigerare och felsökningsverktyg för mobiler
@@ -190,6 +190,8 @@ Det går att avbryta och schemalägga om det initieras före 48 timmar före det
 ## Ta provet (AD0-E209)
 
 ### Tillgängliga alternativ
+
+{{#PSI-note}}
 
 **PSI** (*testcenter/alternativ för japanska prov (om sådana finns)*)
 

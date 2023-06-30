@@ -6,7 +6,7 @@ role: Developer
 badge: label="Exam AD0-E906" type="positive"
 mini-toc-levels: 1
 exl-id: f00092c9-1288-447f-adcd-229cf325bc3e
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 9bf4323983684d3c0c3ca1589e9a9692268ed840
 workflow-type: tm+mt
 source-wordcount: '891'
 ht-degree: 0%
@@ -152,6 +152,8 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 ## Ta provet (AD0-E906)
 
 ### Tillgängliga alternativ
+
+{{#PSI-note}}
 
 **PSI** (*testcenter/alternativ för japanska prov (om sådana finns)*)
 

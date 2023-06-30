@@ -7,7 +7,7 @@ role: User
 badge: label="Exam AD0-E555" type="positive"
 mini-toc-levels: 1
 exl-id: df1a2c71-5216-47d1-a971-5c07dd3e2d2a
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 9bf4323983684d3c0c3ca1589e9a9692268ed840
 workflow-type: tm+mt
 source-wordcount: '1043'
 ht-degree: 0%
@@ -176,6 +176,8 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 ## Ta provet (AD0-E555)
 
 ### Tillgängliga alternativ
+
+{{#PSI-note}}
 
 **PSI** (*testcenter/alternativ för japanska prov (om sådana finns)*)
 

@@ -7,7 +7,7 @@ role: Developer
 badge: label="Exam AD0-E306" type="positive"
 mini-toc-levels: 1
 exl-id: be24274b-7a61-47f5-9947-984015c07a96
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 9bf4323983684d3c0c3ca1589e9a9692268ed840
 workflow-type: tm+mt
 source-wordcount: '1096'
 ht-degree: 12%
@@ -170,6 +170,8 @@ Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och 
 ## Ta provet (AD0-E306)
 
 ### Tillgängliga alternativ
+
+{{#PSI-note}}
 
 **PSI** (*testcenter/alternativ för japanska prov (om sådana finns)*)
 

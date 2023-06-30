@@ -7,7 +7,7 @@ role: Developer
 badge: label="Exam AD0-E134" type="positive"
 mini-toc-levels: 1
 exl-id: 4b97177a-38aa-4082-95da-1e4c9962f3c8
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 9bf4323983684d3c0c3ca1589e9a9692268ed840
 workflow-type: tm+mt
 source-wordcount: '814'
 ht-degree: 4%
@@ -156,6 +156,8 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 ## Ta provet (AD0-E134)
 
 ### Tillgängliga alternativ
+
+{{#PSI-note}}
 
 **PSI** (*testcenter/alternativ för japanska prov (om sådana finns)*)
 

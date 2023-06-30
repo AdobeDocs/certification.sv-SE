@@ -7,7 +7,7 @@ role: User
 badge: label="Exam AD0-E406" type="positive"
 mini-toc-levels: 1
 exl-id: e907929f-b4a4-45e1-ba2d-f407f46d41c6
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 9bf4323983684d3c0c3ca1589e9a9692268ed840
 workflow-type: tm+mt
 source-wordcount: '1232'
 ht-degree: 0%
@@ -198,6 +198,8 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 ## Ta provet (AD0-E406)
 
 ### Tillgängliga alternativ
+
+{{#PSI-note}}
 
 **PSI** (*testcenter/alternativ för japanska prov (om sådana finns)*)
 

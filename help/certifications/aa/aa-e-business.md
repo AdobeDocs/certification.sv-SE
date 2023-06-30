@@ -7,7 +7,7 @@ role: User
 badge: label="Exam AD0-E208" type="positive"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 9bf4323983684d3c0c3ca1589e9a9692268ed840
 workflow-type: tm+mt
 source-wordcount: '1025'
 ht-degree: 2%
@@ -38,7 +38,7 @@ Du borde ha:
 
 * FTP-klient
 * Aktuell [!DNL Adobe Analytics] Arbetsytefunktioner och andra rapportalternativ utanför arbetsytan (t.ex. schemalägg projekt och schemalägg rapporter)
-* Felsökningsverktyg som är relevanta för [!DNL Adobe Analytics] (Packet monitor som Adobe Debugger, browser developer tools, Charles)
+* Felsökningsverktyg som är relevanta för [!DNL Adobe Analytics] (Packet monitor som Adobe Debugger, verktyg för webbläsare, Charles)
 * Admin console (Analytics Reports Suite Admin console och Experience Cloud Admin console)
 * Grundläggande om Adobe Launch
 * Appar, SPA, grundläggande webbplatsförståelse
@@ -180,6 +180,8 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 ## Ta provet (AD0-E208)
 
 ### Tillgängliga alternativ
+
+{{#PSI-note}}
 
 **PSI** (*testcenter/alternativ för japanska prov (om sådana finns)*)
 
