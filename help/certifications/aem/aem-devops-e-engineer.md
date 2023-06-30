@@ -7,7 +7,7 @@ role: Developer
 badge: label="Exam AD0-E124" type="positive"
 mini-toc-levels: 1
 exl-id: 9cfb51b0-9ab8-46fb-a111-434c13e4affa
-source-git-commit: 9bf4323983684d3c0c3ca1589e9a9692268ed840
+source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
 workflow-type: tm+mt
 source-wordcount: '950'
 ht-degree: 1%
@@ -171,7 +171,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 ### Tillgängliga alternativ
 
-{{#PSI-note}}
+{{PSI-note}}
 
 **PSI** (*testcenter/alternativ för japanska prov (om sådana finns)*)
 

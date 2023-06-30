@@ -8,7 +8,7 @@ role: User
 badge: label="Exam AD0-E501" type="positive"
 mini-toc-levels: 1
 exl-id: f89a197f-dfe9-4e53-a783-97326bd6d934
-source-git-commit: 9bf4323983684d3c0c3ca1589e9a9692268ed840
+source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
 workflow-type: tm+mt
 source-wordcount: '905'
 ht-degree: 0%
@@ -164,7 +164,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 ### Tillgängliga alternativ
 
-{{#PSI-note}}
+{{PSI-note}}
 
 **PSI** (*testcenter/alternativ för japanska prov (om sådana finns)*)
 

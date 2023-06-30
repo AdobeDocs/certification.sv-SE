@@ -6,7 +6,7 @@ role: Developer
 badge: label="Exam AD0-E905" type="positive"
 mini-toc-levels: 1
 exl-id: 08f5386c-901c-44be-9537-48c9ac5d2be2
-source-git-commit: 9bf4323983684d3c0c3ca1589e9a9692268ed840
+source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
 workflow-type: tm+mt
 source-wordcount: '1034'
 ht-degree: 0%
@@ -178,7 +178,7 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 
 ### Tillgängliga alternativ
 
-{{#PSI-note}}
+{{PSI-note}}
 
 **PSI** (*testcenter/alternativ för japanska prov (om sådana finns)*)
 

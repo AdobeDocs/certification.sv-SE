@@ -8,7 +8,7 @@ level: Experienced
 badge: label="Exam AD0-E454" type="positive"
 mini-toc-levels: 1
 exl-id: 6f87f669-f3c2-4a5c-a5f3-e3e73b93cd55
-source-git-commit: 9bf4323983684d3c0c3ca1589e9a9692268ed840
+source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
 workflow-type: tm+mt
 source-wordcount: '733'
 ht-degree: 2%
@@ -152,7 +152,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 ### Tillgängliga alternativ
 
-{{#PSI-note}}
+{{PSI-note}}
 
 **PSI** (*testcenter/alternativ för japanska prov (om sådana finns)*)
 
