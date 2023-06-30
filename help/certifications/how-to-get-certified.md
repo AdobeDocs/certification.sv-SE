@@ -4,7 +4,7 @@ description: Lär dig certifiera dig på Adobe. Hitta alla resurser ni behöver 
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: e038284bc410843c669bf951f593f50dddefc12d
+source-git-commit: 8ac05dff29adac3c18c9ca72a0e2b5f9f0cdada0
 workflow-type: tm+mt
 source-wordcount: '1462'
 ht-degree: 1%
@@ -20,6 +20,8 @@ Lär dig certifiera dig på Adobe. Hitta alla resurser ni behöver före, under 
 >[!TAB Registrering]
 
 Adobe använder två leverantörer för att administrera procentrerade tentamen: [!DNL PSI] och [!DNL Examity].
+
+{{PSI-note}}
 
 * **[!DNL PSI]:** erbjuder testcenter och japanska tentamina (där det finns tillgängligt)
 * **[!DNL Examity]:** erbjuder ett fjärranslutet alternativ
@@ -85,6 +87,8 @@ Obs! Det går inte att kombinera massrabatter med andra erbjudanden eller rabatt
 >[!TAB Certifieringsleverantörer]
 
 Adobe Credential-teamet samarbetar med leverantörer för att stödja programmets initiativ och mål.  Här är leverantörerna och deras kontaktinformation:
+
+{{PSI-note}}
 
 | Leverantörsnamn | Beskrivning | Supportsida/e-post |
 | ------- | ------- | ------- |

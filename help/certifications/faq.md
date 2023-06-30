@@ -5,7 +5,7 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: 8ac05dff29adac3c18c9ca72a0e2b5f9f0cdada0
 workflow-type: tm+mt
 source-wordcount: '2655'
 ht-degree: 1%
@@ -116,6 +116,8 @@ Eftersom vi måste se till att våra Adobe-certifierade individer har de senaste
 +++
 
 +++Finns prov på andra språk än engelska?
+
+{{PSI-note}}
 
 Det finns några tentamen på japanska via PSI (en av våra leverantörer). Om tentamen finns på japanska ska den noteras i tentamen för tentamen. Tentamina finns på fliken&quot;Gör dig klar&quot; på sidorna för certifieringsresan.
 
