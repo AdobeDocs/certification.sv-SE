@@ -1,7 +1,7 @@
 ---
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: a232c1425bd12cb266805cc170727538283e152f
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -29,3 +29,9 @@ Om du vill schemalägga, schemalägga om eller avbryta din tentamen väljer du l
 Det går att avbryta och schemalägga om det initieras före 48 timmar före det schemalagda provbesöket. Kandidaterna måste själva ändra den här avtalade tiden.
 
 Betala för ditt certifieringsprov antingen med verifikation eller kreditkort. Om du vill köpa en provvoucher går du till: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. Du kan använda verifikationskoden när du schemalägger provet. Om du har en rabatt gäller den i kassan.
+
+## PSI note {#PSI-note}
+
+>[!IMPORTANT]
+>
+>Från och med den 1 augusti 2023 är schemaläggning av prov inte längre tillgängligt med PSI. Om du redan har schemalagt en tentamen med PSI måste du göra den före 1 augusti 2023. Om du har schemalagt en tentamen med PSI efter 1 augusti 2023, vänligen schemalägg om din tentamen så att den äger rum före detta datum. Om du inte kan eller inte är beredd att genomföra provet före 1 augusti 2023, skicka ett e-postmeddelande <certif@adobe.edu> så att vi kan stödja dig när du överför din tentamen till Examity. Detta gäller även japanska språkprov.
