@@ -2,10 +2,10 @@
 user-guide-title: Certifiering i Adobe
 breadcrumb-title: Certifiering i Adobe
 user-guide-description: Läs mer om  [!DNL Experience Cloud] -certifiering på Adobe. Ta reda på vad du kan få ut av certifieringen.
-source-git-commit: 623fd77e77f955d57d779b2f0b746ddb5ef01b5b
+source-git-commit: 14c7b7523b95127c664f046caf26af781e26691e
 workflow-type: tm+mt
-source-wordcount: '258'
-ht-degree: 28%
+source-wordcount: '261'
+ht-degree: 29%
 
 ---
 
@@ -39,6 +39,8 @@ ht-degree: 28%
       + [Förnyelse](/help/certifications/aa/aa-renew.md)
    + Adobe [!DNL Customer Journey Analytics] {#acja}
       + [Översikt över Customer Journey Analytics](/help/certifications/acja/acja-overview.md)
+      + Professional {#acja-professional}
+         + [Yrkesverksam](/help/certifications/acja/acja-p-business.md)
       + Expert {#acja-expert}
          + [Utvecklare](/help/certifications/acja/acja-e-developer.md)
    + Adobe [!DNL Audience Manager] {#aam}
