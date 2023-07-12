@@ -4,11 +4,11 @@ description: Lär dig hur du blir certifierad Adobe Professional i [!DNL Custome
 solution: Customer Journey Analytics
 product: Customer Journey Analytics
 role: User
-badge: label="Exam AD0-E608" type="positive"
+badge: label="tentamen AD0-E608" type="positive"
 mini-toc-levels: 1
-source-git-commit: 14c7b7523b95127c664f046caf26af781e26691e
+source-git-commit: 9ab320cb5066c20e3de1ffa3cbe071352adb5edf
 workflow-type: tm+mt
-source-wordcount: '627'
+source-wordcount: '626'
 ht-degree: 1%
 
 ---
@@ -19,7 +19,7 @@ Lär dig hur du blir certifierad Adobe Business Practitioner Professional.
 
 ## Minimal upplevelse
 
-Den idealiska MQC är en analytiker med minst sex månaders erfarenhet i Customer Journey Analytics och en grundläggande förståelse för hur CJA fungerar tillsammans med Adobe Experience Platform. Anbudsgivaren kan använda lämpliga rapporterings- och visualiseringsalternativ för att utföra grundläggande och avancerade analyser för ett visst affärsbehov.
+Den idealiska minimalt kvalificerade kandidaten är en analytiker med minst sex månaders erfarenhet i Customer Journey Analytics och en grundläggande förståelse för hur CJA fungerar tillsammans med Adobe Experience Platform. Anbudsgivaren kan använda lämpliga rapporterings- och visualiseringsalternativ för att utföra grundläggande och avancerade analyser för ett visst affärsbehov.
 
 >[!NOTE]
 >
