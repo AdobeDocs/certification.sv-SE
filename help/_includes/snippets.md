@@ -1,5 +1,5 @@
 ---
-source-git-commit: 8ac05dff29adac3c18c9ca72a0e2b5f9f0cdada0
+source-git-commit: 6c78640fc33f8e0d0aa7057265844b810a403d13
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
@@ -34,4 +34,4 @@ Betala för ditt certifieringsprov antingen med verifikation eller kreditkort. O
 
 >[!IMPORTANT]
 >
->Från och med den 1 augusti 2023 är schemaläggning av prov inte längre tillgängligt med PSI. Om du redan har schemalagt en tentamen med PSI måste du göra den före 1 augusti 2023. Om du har schemalagt en tentamen med PSI efter 1 augusti 2023, vänligen schemalägg om din tentamen så att den äger rum före detta datum. Om du inte kan eller inte är beredd att genomföra provet före 1 augusti 2023, skicka ett e-postmeddelande <certif@adobe.edu> så att vi kan stödja dig när du överför din tentamen till Examity. Detta gäller även japanska språkprov.
+>Från och med den 1 augusti 2023 är schemaläggning av prov inte längre tillgängligt med PSI. Om du redan har schemalagt en tentamen med PSI måste du göra den före 1 augusti 2023. Om du har schemalagt en tentamen med PSI efter 1 augusti 2023, vänligen schemalägg om din tentamen så att den äger rum före detta datum. Om du inte kan eller inte är beredd att genomföra provet före 1 augusti 2023, skicka ett e-postmeddelande <certif@adobe.com> så att vi kan stödja dig när du överför din tentamen till Examity. Detta gäller även japanska språkprov.
