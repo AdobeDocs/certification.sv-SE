@@ -1,13 +1,13 @@
 ---
 title: Adobe Real-time Customer Data Platform-certifiering
 description: Ni har teknisk kunskap om målgruppssegmentering, målexport och aktivering i realtid för enhetliga profiler som följer databestämmelser och integritetsregler, kunddataplattformar (CDP) och kunskap om Adobe Experience Platform.
-solution: Real-time Customer Data Platform
+solution: Real-Time Customer Data Platform
 role: Developer
 recommendations: disable, exclude
-badge: label="How to get certified" type="positive"
-source-git-commit: 6347bf4e33aa26a8450a86b7ee5341cd975a07b9
+badge: label="Så här certifierar du dig" type="positive"
+source-git-commit: cb5a60152dea20fbe116ce445a73ce779785ba13
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---

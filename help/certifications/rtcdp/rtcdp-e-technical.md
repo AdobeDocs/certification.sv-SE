@@ -1,16 +1,16 @@
 ---
 title: Expertcertifiering
 description: Lär dig hur du blir certifierad [!DNL Experience Platform] Expert in [!DNL Real-Time Customer Data Platform]
-solution: Real-time Customer Data Platform
+solution: Real-Time Customer Data Platform
 product: Adobe Real Time Customer Data Platform
 role: Developer,Data Architect
 recommendations: disable, exclude
-badge: label="Exam AD0-E600 & AD7-E601" type="positive"
+badge: label="Prova AD0-E600 och AD7-E601" type="positive"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: cb5a60152dea20fbe116ce445a73ce779785ba13
 workflow-type: tm+mt
-source-wordcount: '1732'
+source-wordcount: '1729'
 ht-degree: 3%
 
 ---
