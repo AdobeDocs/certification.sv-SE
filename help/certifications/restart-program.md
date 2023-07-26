@@ -6,36 +6,109 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
-source-git-commit: d5652cf017236ac3220a4cff520bd6e7d22a57d6
+source-git-commit: 116ab244444823c3290f5e054e44fb9c6816cbc0
 workflow-type: tm+mt
-source-wordcount: '5163'
+source-wordcount: '5199'
 ht-degree: 5%
 
 ---
 
 # Starta om din certifieringsresa genom att gå från utgången till certifierad
 
->[!AVAILABILITY]
+Adobe Restart-programmet gör det möjligt för enskilda personer som har gått ut [!DNL Experience Cloud] Certifiering för kostnadsfri omcertifiering genom icke-upphandling, bedömningar eller prov på begäran.
+
+Certifiering är en värdefull resurs för dem som vill vara konkurrenskraftiga, och det här programmet ger möjlighet att uppdatera [!DNL Experience Cloud] och ligga steget före i en föränderlig digital landskap.
+
+>[!IMPORTANT]
 >
-> Tidsbegränsat program från **24 april 2023 till 20 oktober 2023**.  Programmet ger dig möjlighet att uppdatera dina färdigheter och ligga steget före i ett snabbt föränderligt digitalt landskap.
->
-> ** BEHÖRIGHET: Individer vars certifieringar löpte ut från 2020 till 23 april 2023 är berättigade till detta **kostnadsfritt** program.
+>**Detta tidsbegränsade program erbjuds endast från 24 april 2023 till 20 oktober 2023.**
 
-## Introduktion
+## Kvalificering
 
-Adobe Restart-programmet är ett initiativ som gör det möjligt för enskilda personer som gått ut [!DNL Experience Cloud] certifieringar för kostnadsfri omcertifiering. Om du tidigare har certifierat dig för Adobe Experience Cloud som sedan dess har gått ut kan du få starta om certifieringen via kostnadsfria och icke-bearbetade testformat. Programmet är en värdefull resurs för dem som vill förbättra sina kunskaper och färdigheter i Adobe Experience Cloud och behålla konkurrenskraften.
+Individer med utgångna certifieringar som är berättigade till detta program bör ha fått ett mejl från Adobe Certification Program med rubriken&quot;Bli Adobe Certified again for Free&quot;.
 
-### Steg för att starta om din utgångna certifiering{#exams}
+Om du är osäker på om du är berättigad, kontrollera [här](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification.html#restart).
 
->[!NOTE]
->
->Om du har fått ett e-postmeddelande från Adobe Credential Program med ämnet&quot;Bli Adobe Certified again For Free&quot; kan du gå vidare till steg 2.
+För att vara berättigad måste din certifiering uppfylla **alla** av följande kriterier:
 
-* Steg 1: Kontrollera om din utgångna certifiering är berättigad till omstartsprogrammet genom att kontrollera [här](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification.html#restart){target="_blank"}. Om du är berättigad fortsätter du till steg 2.
-* Steg 2: Granska startkraven för programmet.
-* Steg 3: Följ de här stegen för att slutföra kursutvärderingar/tentamen **före den 20 oktober 2023,** deadline från de alternativ som anges.
+* Den måste ha gått ut mellan 1 januari 2020 och 23 april 2023.
+* Det måste vara expertnivå eller Överordnad nivå.
+* Det måste finnas en aktuell tentamen tillgänglig. (Om certifieringen inte längre har någon aktiv tentamen är den inte berättigad till omstartsprogrammet.)
+* Den måste finnas med på förteckningen över kvalificerade certifikat nedan:
 
-### Adobe-certifiering Starta om sökvägar efter program
++++Visa berättigade certifieringar
+
+**Adobe Experience Manager**
+
+| Provnings-ID | Provnamn |
+| ------- | ------- |
+| AD0-E121 | [!DNL Adobe Experience Manager Sites] Affärsexpert |
+| AD0-E102 | [!DNL Adobe Experience Manager Sites] Affärsexpert |
+| AD0-E103 | [!DNL Adobe Experience Manager Sites] Developer Expert |
+| AD0-E116 | [!DNL Adobe Experience Manager Sites] Developer Expert |
+| AD0-E106 | [!DNL Adobe Experience Manager] Dev/Ops-tekniker, expert |
+| AD0-E117 | [!DNL Adobe Experience Manager Sites] Arkitekt Överordnad |
+| AD0-E104 | [!DNL Adobe Experience Manager Sites] Arkitekt Överordnad |
+
+**[!DNL Adobe Analytics]**
+
+| Provnings-ID | Provnamn |
+| ------- | ------- |
+| AD0-E201 | [!DNL Adobe Analytics] Developer Expert |
+| AD0-E202 | [!DNL Adobe Analytics] Affärsexpert |
+| AD0-E200 | [!DNL Adobe Analytics] Arkitekt Överordnad |
+| AD0-E207 | [!DNL Adobe Analytics] Arkitekt Överordnad |
+
+**Adobe Audience Manager**
+
+| Provnings-ID | Provnamn |
+| ------- | ------- |
+| AD0-E454 | [!DNL Adobe Audience Manager] Arkitekt Överordnad |
+| AD0-E452 | [!DNL Adobe Audience Manager] Arkitekt Överordnad |
+| AD0-E453 | [!DNL Adobe Audience Manager] Affärsexpert |
+
+**Adobe Campaign Classic**
+
+| Provnings-ID | Provnamn |
+| ------- | ------- |
+| AD0-E300 | Adobe [!DNL Campaign Classic] Sites Business Practitioner Expert |
+| AD0-E314 | Adobe [!DNL Campaign Classic] Sites Business Practitioner Expert |
+| AD0-E318 | Adobe [!DNL Campaign Classic] Arkitekt Överordnad |
+| AD0-E303 | Adobe [!DNL Campaign Classic] Arkitekt Överordnad |
+| AD0-E312 | Adobe [!DNL Campaign Classic] Developer Expert |
+| AD0-E308 | Adobe [!DNL Campaign Classic] Developer Expert |
+
+**Adobe Campaign Standard**
+
+| Provnings-ID | Provnamn |
+| ------- | ------- |
+| AD0-E307 | Adobe [!DNL Campaign Standard] Affärsexpert |
+| AD0-E302 | Adobe [!DNL Campaign Standard] Affärsexpert |
+| AD0-E306 | Adobe [!DNL Campaign Standard] Developer Expert |
+| AD0-E301 | Adobe [!DNL Campaign Standard] Developer Expert |
+
+**Adobe[!DNL Marketo Engage]**
+
+| Provnings-ID | Provnamn |
+| ------- | ------- |
+| AD0-E552 | Adobe [!DNL Marketo Engage] Yrkesverksamma (tidigare MCE) |
+
+**Adobe Target**
+
+| Provnings-ID | Provnamn |
+| ------- | ------- |
+| AD0-E401 | [!DNL Adobe Target] Affärsexpert |
+| AD0-E402 | [!DNL Adobe Target] Arkitekt Överordnad |
+
++++
+
+## Steg för att starta om din utgångna certifiering{#exams}
+
+* **Steg 1:** Se avsnittet Vilka som är berättigade ovan för att se om din certifiering är berättigad till omstartsprogrammet. Om så är fallet fortsätter du till steg 2.
+* **Steg 2:** Leta reda på programmet på flikarna nedan och se kraven för omstartsprogrammet för din certifiering.
+* **Steg 3:** Följ instruktionerna för att slutföra de nödvändiga kursbedömningarna eller proven från de alternativ som anges **före 20 oktober 2023-deadline**.
+
+## Adobe-program för omstart av certifiering per program
 
 >[!BEGINTABS]
 
@@ -43,26 +116,19 @@ Adobe Restart-programmet är ett initiativ som gör det möjligt för enskilda p
 
 ### Instruktioner för att starta om Adobe [!DNL Experience Manager] certifiering
 
-Välj **tre verksamheter** slutföra och genomföra de kursbedömningar som är kopplade till varje kurs.
-
 * **Steg 1**: Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}och sedan återgå till den här sidan
 * **Steg 2**: Studera kurserna i Experience League
-* **Steg 3**: Slutföra och genomgå varje kursbedömning med minst 80 %
+* **Steg 3**: Välj bland alternativen nedan.
 
-Du kan också studera två kurser, genomföra två kursutvärderingar och skicka in ett kundreferensformulär som validerar ditt engagemang i ett projekt som sammanlagt omfattar 100 timmar de senaste 12 månaderna.
+**Alternativ 1:** Välj **tre verksamheter** för att slutföra och genomföra kursbedömningar för var och en med 80% eller högre poäng. Kursomdömen är kostnadsfria, on-demand och icke-upphandlade. Du kan upprepa kurserna tills du har klarat utvärderingen till 80 %.
 
-För vissa Adobe [!DNL Experience Cloud] certifieringar, Adobe Credential Program godkänner **kundreferenser** som validerar ditt fortsatta arbete som en Adobe-certifierad person som leder, hanterar och/eller deltar i Adobe [!DNL Experience Cloud] implementeringsprojekt.
+**Alternativ 2:** Välj **två verksamheter** för att slutföra och genomföra kursbedömningar för var och en med 80% eller högre poäng. Kursomdömen är kostnadsfria, on-demand och icke-upphandlade. Du kan upprepa kurserna tills du har klarat utvärderingen till 80 %. Sedan **skicka ett kundreferensformulär** validera ditt engagemang i ett projekt som omfattar minst 100 timmar de senaste 12 månaderna.
 
-I dessa fall kan du tillhandahålla en kundreferens som bekräftar att du har deltagit i minst 100 timmars dokumenterat projektengagemang under de senaste 12 månaderna.
+[Kundreferensblankett för Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA100){target="_blank"}
 
-**När kundreferensen har granskats meddelas du av Adobe Credential Team.**
+Du meddelas av Adobe Credential Team när kundens referens har granskats.
 
-
-Kurserna är kostnadsfria. De behöver inte schemaläggas och de behandlas inte. Om du har flera Adobe Experience Manager Expert- och Överordnad certifieringar behöver du bara uppfylla kraven nedan, och dina expert- och överordnad AEM-certifieringar förnyas.
-
-[Referensformulär för Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA100){target="_blank"}
-
-### Kurser och kursbedömningar:
+### Kurser och kursbedömningar för experter och Överordnad:
 
 | Kurs | Kursutvärdering |
 | ------- | ------- |
@@ -75,33 +141,23 @@ Kurserna är kostnadsfria. De behöver inte schemaläggas och de behandlas inte.
 | [Kompetensverktyg för Adobe Experience Manager Cloud Manager](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-u-1-2019-1-cloudmgr-builder.html){target="_blank"} | [ADS-EA107](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA107){target="_blank"} |
 | [Adobe Experience Manager Sites for Architects](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2019-1-architect.html){target="_blank"} | [ADS-EA108](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA108){target="_blank"} |
 
->[!NOTE]
->
->Du kan upprepa tills du har slutfört tre aktiviteter eller slutfört två aktiviteter och kundens referensformulär.
-
 >[!TAB Analytics] 
 
 ### Instruktioner för hur du startar om din Adobe Analytics-certifiering
 
-Välj **tre verksamheter** slutföra och genomföra de kursbedömningar som är kopplade till varje kurs.
-
 * **Steg 1**: Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}och sedan återgå till den här sidan
 * **Steg 2**: Studera kurserna i Experience League
-* **Steg 3**: Slutföra och genomgå varje kursbedömning med minst 80 %
+* **Steg 3**: Välj bland alternativen nedan.
 
-Du kan också studera två kurser, genomföra två kursutvärderingar och skicka in ett kundreferensformulär som validerar ditt engagemang i ett projekt som sammanlagt omfattar 100 timmar de senaste 12 månaderna.
+**Alternativ 1:** Välj **tre verksamheter** för att slutföra och genomföra kursbedömningar för var och en med 80% eller högre poäng. Kursomdömen är kostnadsfria, on-demand och icke-upphandlade. Du kan upprepa kurserna tills du har klarat utvärderingen till 80 %.
 
-För vissa Adobe [!DNL Experience Cloud] certifieringar, Adobe Credential Program godkänner **kundreferenser** som validerar ditt fortsatta arbete som en Adobe-certifierad person som leder, hanterar och/eller deltar i Adobe [!DNL Experience Cloud] implementeringsprojekt.
+**Alternativ 2:** Välj **två verksamheter** för att slutföra och genomföra kursbedömningar för var och en med 80% eller högre poäng. Kursomdömen är kostnadsfria, on-demand och icke-upphandlade. Du kan upprepa kurserna tills du har klarat utvärderingen till 80 %. Sedan **skicka ett kundreferensformulär** validera ditt engagemang i ett projekt som omfattar minst 100 timmar de senaste 12 månaderna.
 
-I dessa fall kan du tillhandahålla en kundreferens som bekräftar att du har deltagit i minst 100 timmars dokumenterat projektengagemang under de senaste 12 månaderna.
+[Kundreferensblankett för Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA100){target="_blank"}
 
-**När kundreferensen har granskats meddelas du av Adobe Credential Team.**
+Du meddelas av Adobe Credential Team när kundens referens har granskats.
 
-Kurserna är kostnadsfria. De behöver inte schemaläggas och de behandlas inte. Om ni har flera Adobe Analytics Expert- och Överordnad-certifieringar behöver ni bara uppfylla kraven nedan, och era expertcertifieringar och överordnad Analytics-certifieringar kommer att förnyas.
-
-[Referensformulär för Adobe Analytics](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA200){target="_blank"}
-
-### Kurser och kursbedömningar:
+### Kurser och kursbedömningar för experter och Överordnad:
 
 | Kurs | Kursutvärdering |
 | ------- | ------- |
@@ -112,33 +168,23 @@ Kurserna är kostnadsfria. De behöver inte schemaläggas och de behandlas inte.
 | [Implementera och mäta intern webbplatssökning - Lektion 3 och 4](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search){target="_blank"} | [ADS-EA205](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA205){target="_blank"} |
 | [Adobe Analytics API:er](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/apis/using-analysis-workspace-to-build-api-2-requests.html){target="_blank"} | [ADS-EA206](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA206){target="_blank"} |
 
->[!NOTE]
->
->Du kan upprepa tills du har slutfört tre aktiviteter eller slutfört två aktiviteter och kundens referensformulär.
-
 >[!TAB Target]
 
 ### Instruktioner för hur du startar om din Adobe Target-certifiering
 
-Välj **tre verksamheter** slutföra och genomföra de kursbedömningar som är kopplade till varje kurs.
-
 * **Steg 1**: Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}och sedan återgå till den här sidan
 * **Steg 2**: Studera kurserna i Experience League
-* **Steg 3**: Slutföra och genomgå varje kursbedömning med minst 80 %
+* **Steg 3**: Välj bland alternativen nedan.
 
-Du kan också studera två kurser, genomföra två kursutvärderingar och skicka in ett kundreferensformulär som validerar ditt engagemang i ett projekt som sammanlagt omfattar 100 timmar de senaste 12 månaderna.
+**Alternativ 1:** Välj **tre verksamheter** för att slutföra och genomföra kursbedömningar för var och en med 80% eller högre poäng. Kursomdömen är kostnadsfria, on-demand och icke-upphandlade. Du kan upprepa kurserna tills du har klarat utvärderingen till 80 %.
 
-För vissa Adobe [!DNL Experience Cloud] certifieringar, Adobe Credential Program godkänner **kundreferenser** som validerar ditt fortsatta arbete som en Adobe-certifierad person som leder, hanterar och/eller deltar i Adobe [!DNL Experience Cloud] implementeringsprojekt.
+**Alternativ 2:** Välj **två verksamheter** för att slutföra och genomföra kursbedömningar för var och en med 80% eller högre poäng. Kursomdömen är kostnadsfria, on-demand och icke-upphandlade. Du kan upprepa kurserna tills du har klarat utvärderingen till 80 %. Sedan **skicka ett kundreferensformulär** validera ditt engagemang i ett projekt som omfattar minst 100 timmar de senaste 12 månaderna.
 
-I dessa fall kan du tillhandahålla en kundreferens som bekräftar att du har deltagit i minst 100 timmars dokumenterat projektengagemang under de senaste 12 månaderna.
+[Kundreferensblankett för Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA100)
 
-**När kundreferensen har granskats meddelas du av Adobe Credential Team.**
+Du meddelas av Adobe Credential Team när kundens referens har granskats.
 
-Kurserna är kostnadsfria. De behöver inte schemaläggas och de behandlas inte. Om du har flera Adobe Target Expert- och Överordnad certifieringar behöver du bara uppfylla kraven nedan så förnyas dina expertcertifieringar och överordnad Target-certifieringar.
-
-[Referensformulär för Adobe Target](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA400){target="_blank"}
-
-### Kurser och kursbedömningar:
+### Kurser och kursbedömningar för experter och Överordnad:
 
 | Kurs | Kursutvärdering |
 | ------- | ------- |
@@ -148,33 +194,29 @@ Kurserna är kostnadsfria. De behöver inte schemaläggas och de behandlas inte.
 | [Guided Mobile and IoT Launch for Developers Course](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADS-EA404](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA404){target="_blank"} |
 | [Guided Website Launch for Developers Course](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADS-EA405](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA405){target="_blank"} |
 
->[!NOTE]
->
->Du kan upprepa tills du har slutfört tre aktiviteter eller slutfört två aktiviteter och kundens referensformulär.
-
 >[!TAB Audience Manager]
 
 ### Välj lämplig tentamen baserat på roll för att starta om din Adobe Audience Manager-certifiering
 
-+++ADS-E826 Adobe Audience Manager **Yrkesverksamma inom affärsverksamhet** expertomstartsprov
++++ADS-E826 Adobe Audience Manager **Yrkesverksamma inom affärsverksamhet** Expert Restart-prov
 
 **Instruktioner för att starta om din certifiering:**
 
 * **Steg 1**: Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}och sedan återgå till den här sidan
-* **Steg 2**: Granska mål och resurser för tentamen
-* **Steg 3**: Ta och godkänn provet
+* **Steg 2**: Granska testens mål och resurser
+* **Steg 3**: Ta och ta examen
 
 ### Gör dig redo
 
 **Information om tentamen:**
 
 * Nivå: Expert (1-3 års erfarenhet)
-* Lösenpoäng: 23/30
+* Löpande poäng: 23/30
 * Tid: 68 min
 * Leverans: On-demand/icke-upphandling
-* Tillgängliga språk: Engelska
+* Tillgängliga språk: engelska
 * Kostnad: KOSTNADSFRITT
-* Exam-ID: ADS-E826 - Starta om Adobe Audience Manager Business Practitioner-experten
+* Exam ID: ADS-E826 - Expert Restart för Adobe Audience Manager Business Practitioner
 
 
 **Mål och tillämpningsområde för tentamen**
@@ -185,12 +227,12 @@ Kurserna är kostnadsfria. De behöver inte schemaläggas och de behandlas inte.
 * I ett scenario rekommenderar vi aktiveringssegment som är anpassade efter affärs- eller kampanjmålen
 * Bestäm lämplig metod för att syndikera segment till mål för aktivering
 
-**Avsnitt 2: Skapa egenskaper (17 %)**
+**Section 2: Trait Creation (17%)**
 
 * Rekommendera egenskaper för en viss målgruppsstrategi
 * Bestäm rätt metod för att skapa och uppdatera regelbaserade och/eller anpassade egenskaper
 
-**Avsnitt 3: Rapportering och mått (21 %)**
+**Avsnitt 3: Rapportering och mätningar (21 %)**
 
 * Analysera rapporter utifrån ett scenario för att hitta de affärsmål som kan uppnås
 * Analysera målgruppsoptimering utifrån ett scenario
@@ -222,7 +264,7 @@ Här är förslag på resurser,
 
 **Starta om certifieringen**
 
-Experten på Adobe Audience Manager Business Practitioner-omstartsprovet ADS-E826 är kostnadsfri, öppen bok och obearbetad. Du får ta tentamen upp till tre gånger. Om du inte lyckas efter det tredje försöket måste du vänta **30 dagar** för att försöka igen. Om du inte följer reglerna kan certifieringen återkallas.
+Adobe Audience Manager Business Practitioner Expert Restart-provet ADS-E826 är kostnadsfritt, öppet och icke-belagt. Du får ta tentamen upp till tre gånger. Om du inte lyckas efter det tredje försöket måste du vänta **30 dagar** för att försöka igen. Om du inte följer reglerna kan certifieringen återkallas.
 
 <a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E82" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -233,25 +275,25 @@ Experten på Adobe Audience Manager Business Practitioner-omstartsprovet ADS-E82
 
 +++
 
-+++ADS-E825 Adobe Audience Manager **Arkitekt** överordnad omstart - tentamen
++++ADS-E825 Adobe Audience Manager **Arkitekt** Överordnad Restart-prov
 
 **Instruktioner för att starta om din certifiering:**
 
 * **Steg 1**: Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}och sedan återgå till den här sidan
-* **Steg 2**: Granska mål och resurser för tentamen
-* **Steg 3**: Ta och godkänn provet
+* **Steg 2**: Granska testens mål och resurser
+* **Steg 3**: Ta och ta examen
 
 ### Gör dig redo
 
 **Information om tentamen:**
 
 * Nivå: Överordnad (3-5 års erfarenhet)
-* Lösenpoäng: 22/29
+* Löpande poäng: 22/29
 * Tid: 58 min
 * Leverans: On-demand/icke-upphandling
-* Tillgängliga språk: Engelska
+* Tillgängliga språk: engelska
 * Kostnad: KOSTNADSFRITT
-* Exam-ID: ADS-E825 - Överordnad omstart av Adobe Audience Manager Architect
+* Exempel-ID: ADS-E825 - Överordnad omstart av Adobe Audience Manager Architect
 
 **Tillämpningsområde och mål:**
 
@@ -263,7 +305,7 @@ Avsnitt 1: Implementeringsanalys (28 %)
 * Identifiera funktioner som besökarprofilens visningsprogram, taggar, RBAC o.s.v. för att anpassa dem efter affärsmålen
 * Bestäm hur du utformar och testar pixlar som behövs för att skapa segment och egenskaper
 
-Avsnitt 2: Solution Design och Recommendations (17 %)
+Avsnitt 2: Lösningsdesign och Recommendations (17 %)
 
 * fastställa AAM baserat på kundens användningsmodell för målgrupp och aktivering
 * Tillämpa procedurmässiga koncept för att utnyttja lösningar för målgruppsidentitet för en komplett designarkitektur
@@ -300,7 +342,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [[!DNL Analytics] Integrering](https://experienceleague.adobe.com/docs/analytics/integration/home.html){target="_blank"}
 * [Adobe [!DNL Experience Cloud] Identitetstjänst](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
 
-**Avsnitt 2: Solution Design and Recommendations**
+**Avsnitt 2: Lösningsdesign och Recommendations**
 
 * [Användarhandbok för Audience Manager ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
 * [Självstudiekurser för Audience Manager](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html){target="_blank"}
@@ -323,7 +365,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 ### Starta om certifieringen
 
-Provet för överordnad omstart av Adobe Audience Manager Architect ADS-E825 är kostnadsfritt, öppet och obearbetat. Du får ta tentamen upp till tre gånger. Om du inte lyckas efter det tredje försöket måste du vänta **30 dagar** för att försöka igen. Om du inte följer reglerna kan certifieringen återkallas.
+Provet Adobe Audience Manager Architect Överordnad Restart ADS-E825 är kostnadsfritt, öppet och icke-belagt. Du får ta tentamen upp till tre gånger. Om du inte lyckas efter det tredje försöket måste du vänta **30 dagar** för att försöka igen. Om du inte följer reglerna kan certifieringen återkallas.
 
 <a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E825" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -338,25 +380,25 @@ Provet för överordnad omstart av Adobe Audience Manager Architect ADS-E825 är
 
 ### Välj lämplig tentamen baserat på roll för att starta om din Adobe Campaign-certifiering
 
-+++ADS-E821 Adobe **Campaign Standard Developer** expertomstartsprov
++++ADS-E821 Adobe **Campaign Standard Developer** Expert Restart-prov
 
 **Instruktioner för att starta om din certifiering:**
 
 * **Steg 1**: Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}och sedan återgå till den här sidan
-* **Steg 2**: Granska mål och resurser för tentamen
-* **Steg 3**: Ta och godkänn provet
+* **Steg 2**: Granska testens mål och resurser
+* **Steg 3**: Ta och ta examen
 
 ### Gör dig redo
 
 **Information om tentamen:**
 
 * Nivå: Expert (1-3 års erfarenhet)
-* Lösenpoäng: 23/30
+* Löpande poäng: 23/30
 * Tid: 60 min
 * Leverans: On-demand/icke-upphandling
-* Tillgängliga språk: Engelska
+* Tillgängliga språk: engelska
 * Kostnad: KOSTNADSFRITT
-* Exam-ID: ADS-E821 - Starta om Adobe Campaign Standard Developer Expert
+* Exempel-ID: ADS-E821 - Adobe Campaign Standard Developer Expert Restart
 
 **Tillämpningsområde och mål:**
 
@@ -370,9 +412,9 @@ Avsnitt 1: Kampanjhantering
 Avsnitt 2: Leveranshantering
 
 * Utforma och konfigurera leveransen enligt exempelkraven
-* Tillämpa bästa praxis när det gäller leveransdesign
+* Tillämpa bästa praxis vid leveransdesign
 
-Avsnitt 3: Arbetsflödesdesign och -körning
+Avsnitt 3: Utformning och genomförande av arbetsflöden
 
 * Hantera data för användning i en kampanj, konfigurera målinriktning, berikning
 * Identifiera mål: datainsamling, segmentering, målgrupper, listor, filtrering
@@ -390,7 +432,7 @@ Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och 
 
 Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
-**Avsnitt 1: Datamodellering och -hantering**
+**Avsnitt 1: Datamodellering och datahantering**
 
 * [Skapa en anpassad resurs (video)](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/creating-a-custom-resource.html){target="_blank"}
 * [Skapa en resurs](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/creating-or-extending-the-resource.html){target="_blank"}
@@ -402,11 +444,11 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Utbildningssökväg för godkännandeprocess (kursmodul)](https://one.workfront.com/s/learningpath2/approval-processes-in-the-new-workfront-experience-MCG72NHD2HPJGZBD7ANMBBNORGBM){target="_blank"}
 * [Uppdatera och publicera en resurs](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/updating-the-database-structure.html){target="_blank"}
 * [Felsöka datamodellering](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/updating-the-database-structure.html){target="_blank"}
-* [Bygga upp tekniska arbetsflöden](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/technical-workflows.html?lang=sv){target="_blank"}
+* [Skapa tekniska arbetsflöden](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/technical-workflows.html?lang=sv){target="_blank"}
 
 **Avsnitt 2: Campaign Management**
 
-* [Felsök fel](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FResource_Mgmt%2F_manage-resources.htm&amp;_LANG=en){target="_blank"}
+* [Felsökning av fel](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FResource_Mgmt%2F_manage-resources.htm&amp;_LANG=en){target="_blank"}
 * [God praxis för arbetsflöden](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/best-practices-workflows.html?lang=sv){target="_blank"}
 * [Bygg en kampanj](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.html?lang=sv){target="_blank"}
 * [Kom igång med profiler och målgrupper](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/get-started-profiles-and-audiences.html){target="_blank"}
@@ -420,7 +462,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Leveranssammanfattning](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/delivery-summary.html){target="_blank"}
 * [Upptäck e-postdesignern (video)](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html#video){target="_blank"}
 * [E-postdesigner för kampanj](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html){target="_blank"}
-* [Anpassa rapporter](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/get-started-reporting.html){target="_blank"}
+* [Anpassa dina rapporter](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/get-started-reporting.html){target="_blank"}
 * [Kom igång med dynamiska rapporter](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html){target="_blank"}
 
 **Avsnitt 3: Administration**
@@ -438,7 +480,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 ### Starta om certifieringen
 
-Adobe [!DNL Campaign Standard] Omstartsprovet för Developer Expert ADS-821 är kostnadsfritt, öppet och obearbetat. Du får ta tentamen upp till tre gånger. Om du inte lyckas efter det tredje försöket måste du vänta **30 dagar** för att försöka igen. Om du inte följer reglerna kan certifieringen återkallas.
+Adobe [!DNL Campaign Standard] Developer Expert Restart-provet ADS-821 är kostnadsfritt, öppet och obearbetat. Du får ta tentamen upp till tre gånger. Om du inte lyckas efter det tredje försöket måste du vänta **30 dagar** för att försöka igen. Om du inte följer reglerna kan certifieringen återkallas.
 
 <a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E821" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -449,25 +491,25 @@ Adobe [!DNL Campaign Standard] Omstartsprovet för Developer Expert ADS-821 är 
 
 +++
 
-+++ADS-E822 Adobe **Campaign Standard Business Practitioner** expertomstartsprov
++++ADS-E822 Adobe **Campaign Standard Business Practitioner** Expert Restart-prov
 
 **Instruktioner för att starta om din certifiering:**
 
 * **Steg 1**: Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}och sedan återgå till den här sidan
-* **Steg 2**: Granska mål och resurser för tentamen
-* **Steg 3**: Ta och godkänn provet
+* **Steg 2**: Granska testens mål och resurser
+* **Steg 3**: Ta och ta examen
 
 ### Gör dig redo
 
 **Information om tentamen:**
 
 * Nivå: Expert (1-3 års erfarenhet)
-* Lösenpoäng: 23/30
+* Löpande poäng: 23/30
 * Tid: 60 min
 * Leverans: On-demand/icke-upphandling
-* Tillgängliga språk: Engelska
+* Tillgängliga språk: engelska
 * Kostnad: KOSTNADSFRITT
-* Exam-ID: ADS-E822 - Starta om affärsverkets expert på Campaign Standarden
+* Exam ID: ADS-E822 - Campaign Standard Business Practitioner Expert Restart
 
 **Tillämpningsområde och mål:**
 
@@ -481,10 +523,10 @@ Avsnitt 1: Kampanjhantering
 Avsnitt 2: Leveranshantering
 
 * Utforma och konfigurera leveransen enligt exempelkraven
-* Tillämpa bästa praxis när det gäller leveransdesign
+* Tillämpa bästa praxis vid leveransdesign
 * Använd de senaste funktionerna i e-postdesignern
 
-Avsnitt 3: Arbetsflödesdesign och -körning
+Avsnitt 3: Utformning och genomförande av arbetsflöden
 
 * Hantera data för användning i en kampanj, konfigurera målinriktning, berikning
 * Identifiera mål: datainsamling, segmentering, målgrupper, listor, filtrering
@@ -506,7 +548,7 @@ Avsnitt 4: Administration, övervakning och rapportering
 
 * [Adobe [!DNL Campaign Standard] Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=sv){target="_blank"} (bygga e-postinnehåll, förbereda och testa meddelanden, kommunikationskanaler - e-post, programinställningar)
 
-**Avsnitt 3: Arbetsflödesdesign och -körning**
+**Avsnitt 3: Utformning och genomförande av arbetsflöden**
 
 * [Adobe [!DNL Campaign Standard] Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=sv){target="_blank"} (hantera processer och data, hantera målgrupper, schemalägga meddelanden, lägga till eller utöka en resurs)
 
@@ -527,36 +569,36 @@ Adobe [!DNL Campaign Standard] Business Practitioner Expert - omstartsprovet ADS
 
 +++
 
-+++ADS-E823 Adobe **Campaign Classic** expertprov och/eller överordnad omstart
++++ADS-E823 Adobe **Campaign Classic** Expert och/eller Överordnad Restart-prov
 
 **Instruktioner för att starta om din certifiering:**
 
 * **Steg 1**: Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}och sedan återgå till den här sidan
-* **Steg 2**: Granska mål och resurser för tentamen
-* **Steg 3**: Ta och godkänn provet
+* **Steg 2**: Granska testens mål och resurser
+* **Steg 3**: Ta och ta examen
 
 ### Gör dig redo
 
 **Information om tentamen:**
 
 * Nivå: Expert (1-3 års erfarenhet) och Överordnad (3-5 års erfarenhet)
-* Lösenpoäng: 42/55
+* Passing Score: 42/55
 * Tid: 110 min
 * Leverans: On-demand/icke-upphandling
-* Tillgängliga språk: Engelska
+* Tillgängliga språk: engelska
 * Kostnad: KOSTNADSFRITT
-* Exam-ID: ADS-E823 - Adobe [!DNL Campaign Classic] expertomstart och/eller överordnad omstart
+* Exam ID: ADS-E823 - Adobe [!DNL Campaign Classic] Expert och/eller Överordnad omstart
 
 **Tillämpningsområde och mål**
 
 Avsnitt 1: Installation och systemkonfiguration (23 %)
 
-* Ange vilka alternativ som ska användas (dvs. flytta saker från fas till produktion)
+* Ange vilka alternativ som ska användas för ett scenario (dvs. flytta saker från fas till produktion)
 * Möjlighet att använda paket för att migrera mellan instanser
 * Förklara hur inställningarna i guiden påverkar leveransmöjligheterna
 * Ange den underliggande infrastrukturen för värdmodellen som är tillgänglig för Adobe [!DNL Campaign Classic] v8
 * Beskriv vanliga OTB-funktioner
-* Förklara integrationen med andra Adobe [!DNL Experience Cloud] produkter
+* Förklara integreringen med andra Adobe [!DNL Experience Cloud] produkter
 * Förklara integrering med vanliga externa konton
 
 Avsnitt 2: Anpassning (18 %)
@@ -574,7 +616,7 @@ Avsnitt 3: Dataarkitektur (22 %)
 * Förklara när mellanlagringstabeller ska användas och direkta skrivningar till Snowflake
 * Identifiera de nya API-kommandona i gruppbearbetning och när/hur de ska användas
 * I ett scenario kan du förklara hur du skapar anpassade scheman (hur du använder andra scheman som mallar, systemfilter, låsa data, länkar)
-* Förklara integrationen mellan olika lösningar och [!DNL Campaign] som Adobe [!DNL Experience Platform] och [!DNL Journey Optimizer]
+* Förklara integrationen mellan olika lösningar och [!DNL Campaign] till exempel Adobe [!DNL Experience Platform] och [!DNL Journey Optimizer]
 
 Avsnitt 4: Kampanj, arbetsflöde, leverans och rapportering (37 %)
 
@@ -626,7 +668,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 ### Starta om certifieringen
 
-Adobe Campaign Classic startprov ADS-823 är kostnadsfritt, öppet och obearbetat. Du får ta tentamen upp till tre gånger. Om du inte lyckas efter det tredje försöket måste du vänta **30 dagar** för att försöka igen. Om du inte följer reglerna kan certifieringen återkallas.
+Provet Adobe Campaign Classic Restart ADS-823 är kostnadsfritt, öppet och obearbetat. Du får ta tentamen upp till tre gånger. Om du inte lyckas efter det tredje försöket måste du vänta **30 dagar** för att försöka igen. Om du inte följer reglerna kan certifieringen återkallas.
 
 <a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E823" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -642,7 +684,7 @@ Adobe Campaign Classic startprov ADS-823 är kostnadsfritt, öppet och obearbeta
 **Instruktioner för att starta om din certifiering:**
 
 * **Steg 1** - Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} återgå sedan till den här sidan
-* **Steg 2** - Granska mål och resurser för tentamen
+* **Steg 2** - Granska provens mål och resurser
 * **Steg 3** - Ta och bli godkänd på provet
 
 ### Gör dig redo
@@ -650,12 +692,12 @@ Adobe Campaign Classic startprov ADS-823 är kostnadsfritt, öppet och obearbeta
 **Information om tentamen:**
 
 * Nivå: Expert (1-3 års erfarenhet)
-* Lösenpoäng: 30/40
+* Löpande poäng: 30/40
 * Tid: 80 min
 * Leverans: On-demand/icke-upphandling
-* Tillgängliga språk: Engelska
+* Tillgängliga språk: engelska
 * Kostnad: KOSTNADSFRITT
-* Exam-ID: ADS-E824 - Starta om Adobe Marketo Engage Business Practitioner-experten
+* Exempel-ID: ADS-E824 - Adobe Marketo Engage Business Practitioner Expert Restart
 
 **Tillämpningsområde och mål:**
 
@@ -672,7 +714,7 @@ Avsnitt 2: Marknadsföringsaktiviteter/Kampanjhantering (48 %)
 
 * Uppvisa förståelse för smarta kampanjer, logik, begränsningar och flödessteg
 * Ange nästa steg för ett scenario
-* Identifiera orsaken till ett problem
+* Identifiera grundorsaken till ett problem
 * Tolka förhållandet mellan program, kanaler, taggar och periodkostnad
 * Uppvisa/tillämpa rätt konfiguration för engagemangsprogram
 * Ge exempel på användning för olika typer av tokens
@@ -687,7 +729,7 @@ Avsnitt 2: Marknadsföringsaktiviteter/Kampanjhantering (48 %)
 
 Avsnitt 3: Leadhantering (10 %)
 
-* Sammanfatta de viktigaste beslutspunkterna när man definierar livscykelmodellen
+* Ange de viktigaste beslutspunkterna när livscykelmodellen definieras
 * Använda bästa praxis för poängsättning av leads
 * Implementera lämpliga intressanta stunder
 * Tolka lead-aktivitetsloggen
@@ -707,9 +749,9 @@ Avsnitt 5: Rapportering (5 %)
 
 Avsnitt 6: God praxis (15 %)
 
-* Uppvisa hur relevant poängsättningen av leads är i samarbetet inom marknadsföring och försäljning
-* Illustrator the benefits of the folder structure and naming conventions
-* Tillämpa bästa praxis kring A/B-tester
+* Uppvisa hur relevant poängsättningen är i samarbetet inom marknadsföring och försäljning
+* Fördelarna med mappstrukturen och namnkonventioner
+* Tillämpa bästa praxis kring A/B-testning
 * Förklara processen för att utföra en kvalitetskontroll av alla Marketo-program
 * Förklara processen att utföra en kvalitetskontroll på ett e-postmeddelande
 
@@ -721,23 +763,23 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 **Avsnitt 1: Administration och underhåll**
 
-* [Experience League - [!DNL Marketo Engage] Produktdokumentation](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Fälthantering, CRM-synkronisering, granskningsspår, användaradministration, arbetsytor och partitioner, smarta listor, anpassat fält)
+* [EXPERIENCE LEAGUE - [!DNL Marketo Engage] Produktdokumentation](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Fälthantering, CRM-synkronisering, granskningsspår, användaradministration, arbetsytor och partitioner, smarta listor, anpassat fält)
 * [Adobe [!DNL Marketo] Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Synkroniserar med Salesforce, CRM-integreringar)
 
 **Avsnitt 2: Marknadsföringsaktiviteter/Kampanjhantering**
 
 * [Adobe [!DNL Marketo] Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Slumpmässigt exempel, Smart Campaign med datavärde som utlöses, Wait Steps, member.webinar url, Campaign Inspector, Filter Logic, Using Tokens in Emails, Lead creation via Form Fill Out, Assets and Workspaces, Managing Forms)
-* [Experience League - [!DNL Marketo Engage] Produktdokumentation](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Smarta listor, Smarta kampanjer, Forms för efterfrågegenerering, Demand Generation Events, E-postmarknadsföring, skapa program, händelser, granskningsspår, arbeta med program, administrationstaggar, driftsättning, landningssidor, token, administration, ytterligare integreringar, webkrok, anpassade programmedlemsfält, arbetsyta och personpartitioner)
+* [EXPERIENCE LEAGUE - [!DNL Marketo Engage] Produktdokumentation](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Smarta listor, Smarta kampanjer, Forms för efterfrågegenerering, Demand Generation Events, E-postmarknadsföring, skapa program, händelser, granskningsspår, arbeta med program, administrationstaggar, driftsättning, landningssidor, token, administration, ytterligare integreringar, webkrok, anpassade programmedlemsfält, arbetsyta och personpartitioner)
 
 **Avsnitt 3: Leadhantering**
 
 * [Adobe [!DNL Marketo] Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Bygg en video om Lead Lifecycle Program, Avbeställ e-post)
-* [Experience League - [!DNL Marketo Engage] Produktdokumentation](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Smarta kampanjer, [!DNL Marketo] Sales Insight, Intressant stunder, Managing People in Smart Lists, System Managed Fields)
+* [EXPERIENCE LEAGUE - [!DNL Marketo Engage] Produktdokumentation](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Smarta kampanjer, [!DNL Marketo] Försäljningsinsikter, intressanta ögonblick, Hantera personer i smarta listor, Systemhanterade fält)
 
 **Avsnitt 4: Datahantering**
 
 * [Adobe [!DNL Marketo] Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Upprätthålla en katalog över leads Bouncing e-mails-artikeln How to Manage Your Marketo Database for Deliverability support blog, [!DNL Marketo] Princip för lagring av aktivitetsdata - under Hood-artikeln)
-* [Experience League - [!DNL Marketo Engage] Produktdokumentation](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Hård och mjuk e-postmarknadsföring, rapporttyper, personalisering, dynamiskt innehåll)
+* [EXPERIENCE LEAGUE - [!DNL Marketo Engage] Produktdokumentation](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Hård och mjuk marknadsföring via e-post, rapporttyper, personalisering, dynamiskt innehåll)
 
 **Avsnitt 5: Rapportering**
 
@@ -747,7 +789,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 **Avsnitt 6: God praxis**
 
 * [The Definitive Guide to Lead Scoring](https://www.marketo.com/definitive-guides/lead-scoring){target="_blank"}
-* [Experience League - [!DNL Marketo Engage] Produktdokumentation](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Arbeta med program, e-postmarknadsföring, A/B-testning)
+* [EXPERIENCE LEAGUE - [!DNL Marketo Engage] Produktdokumentation](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Arbeta med program, e-postmarknadsföring, A/B-testning)
 * [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Lägg märke till din QA-process)
 
 ### Starta om certifieringen
