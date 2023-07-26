@@ -6,9 +6,9 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
-source-git-commit: 116ab244444823c3290f5e054e44fb9c6816cbc0
+source-git-commit: b76661947bb1c87c5448a40386b171ca7da3b7c5
 workflow-type: tm+mt
-source-wordcount: '5199'
+source-wordcount: '5347'
 ht-degree: 5%
 
 ---
@@ -120,13 +120,19 @@ För att vara berättigad måste din certifiering uppfylla **alla** av följande
 * **Steg 2**: Studera kurserna i Experience League
 * **Steg 3**: Välj bland alternativen nedan.
 
-**Alternativ 1:** Välj **tre verksamheter** för att slutföra och genomföra kursbedömningar för var och en med 80% eller högre poäng. Kursomdömen är kostnadsfria, on-demand och icke-upphandlade. Du kan upprepa kurserna tills du har klarat utvärderingen till 80 %.
+  **Alternativ A:**
 
-**Alternativ 2:** Välj **två verksamheter** för att slutföra och genomföra kursbedömningar för var och en med 80% eller högre poäng. Kursomdömen är kostnadsfria, on-demand och icke-upphandlade. Du kan upprepa kurserna tills du har klarat utvärderingen till 80 %. Sedan **skicka ett kundreferensformulär** validera ditt engagemang i ett projekt som omfattar minst 100 timmar de senaste 12 månaderna.
+  Välj **tre kurser** för att slutföra och genomföra varje kursbedömning med en poäng på 80 procent eller högre. Kursomdömen är kostnadsfria, on-demand, icke-upphandlade och öppna böcker. Du kan upprepa kurserna tills du har klarat utvärderingen till 80 %.
 
-[Kundreferensblankett för Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA100){target="_blank"}
+  **Alternativ B:**
 
-Du meddelas av Adobe Credential Team när kundens referens har granskats.
+  Först väljer du **två kurser** för att slutföra och genomföra varje kursbedömning med en poäng på 80 procent eller högre. Kursomdömen är kostnadsfria, on-demand, icke-upphandlade och öppna böcker. Du kan upprepa kurserna tills du har klarat utvärderingen till 80 %.
+
+  Andra, **skicka ett kundreferensformulär** validera ditt fortsatta arbete som en Adobe-certifierad person som leder, hanterar och/eller deltar i ett Adobe Experience Cloud-implementeringsprojekt. Det här formuläret bekräftar att du har deltagit i minst 100 timmars dokumenterat projektengagemang de senaste 12 månaderna.
+
+  [Kundreferensblankett för Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA100){target="_blank"}
+
+  Du meddelas av Adobe Credential Team när kundens referens har granskats. Om din referens inte godkänns kan du skicka in den igen tills du har lyckats, så länge som det är innan certifieringen upphör att gälla.
 
 ### Kurser och kursbedömningar för experter och Överordnad:
 
@@ -149,13 +155,19 @@ Du meddelas av Adobe Credential Team när kundens referens har granskats.
 * **Steg 2**: Studera kurserna i Experience League
 * **Steg 3**: Välj bland alternativen nedan.
 
-**Alternativ 1:** Välj **tre verksamheter** för att slutföra och genomföra kursbedömningar för var och en med 80% eller högre poäng. Kursomdömen är kostnadsfria, on-demand och icke-upphandlade. Du kan upprepa kurserna tills du har klarat utvärderingen till 80 %.
+  **Alternativ A:**
 
-**Alternativ 2:** Välj **två verksamheter** för att slutföra och genomföra kursbedömningar för var och en med 80% eller högre poäng. Kursomdömen är kostnadsfria, on-demand och icke-upphandlade. Du kan upprepa kurserna tills du har klarat utvärderingen till 80 %. Sedan **skicka ett kundreferensformulär** validera ditt engagemang i ett projekt som omfattar minst 100 timmar de senaste 12 månaderna.
+  Välj **tre kurser** för att slutföra och genomföra varje kursbedömning med en poäng på 80 procent eller högre. Kursomdömen är kostnadsfria, on-demand, icke-upphandlade och öppna böcker. Du kan upprepa kurserna tills du har klarat utvärderingen till 80 %.
 
-[Kundreferensblankett för Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA100){target="_blank"}
+  **Alternativ B:**
 
-Du meddelas av Adobe Credential Team när kundens referens har granskats.
+  Först väljer du **två kurser** för att slutföra och genomföra varje kursbedömning med en poäng på 80 procent eller högre. Kursomdömen är kostnadsfria, on-demand, icke-upphandlade och öppna böcker. Du kan upprepa kurserna tills du har klarat utvärderingen till 80 %.
+
+  Andra, **skicka ett kundreferensformulär** validera ditt fortsatta arbete som en Adobe-certifierad person som leder, hanterar och/eller deltar i ett Adobe Experience Cloud-implementeringsprojekt. Det här formuläret bekräftar att du har deltagit i minst 100 timmars dokumenterat projektengagemang de senaste 12 månaderna.
+
+  [Kundreferensblankett för Adobe Analytics](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA200){target="_blank"}
+
+  Du meddelas av Adobe Credential Team när kundens referens har granskats. Om din referens inte godkänns kan du skicka in den igen tills du har lyckats, så länge som det är innan certifieringen upphör att gälla.
 
 ### Kurser och kursbedömningar för experter och Överordnad:
 
@@ -176,13 +188,19 @@ Du meddelas av Adobe Credential Team när kundens referens har granskats.
 * **Steg 2**: Studera kurserna i Experience League
 * **Steg 3**: Välj bland alternativen nedan.
 
-**Alternativ 1:** Välj **tre verksamheter** för att slutföra och genomföra kursbedömningar för var och en med 80% eller högre poäng. Kursomdömen är kostnadsfria, on-demand och icke-upphandlade. Du kan upprepa kurserna tills du har klarat utvärderingen till 80 %.
+  **Alternativ A:**
 
-**Alternativ 2:** Välj **två verksamheter** för att slutföra och genomföra kursbedömningar för var och en med 80% eller högre poäng. Kursomdömen är kostnadsfria, on-demand och icke-upphandlade. Du kan upprepa kurserna tills du har klarat utvärderingen till 80 %. Sedan **skicka ett kundreferensformulär** validera ditt engagemang i ett projekt som omfattar minst 100 timmar de senaste 12 månaderna.
+  Välj **tre kurser** för att slutföra och genomföra varje kursbedömning med en poäng på 80 procent eller högre. Kursomdömen är kostnadsfria, on-demand, icke-upphandlade och öppna böcker. Du kan upprepa kurserna tills du har klarat utvärderingen till 80 %.
 
-[Kundreferensblankett för Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA100)
+  **Alternativ B:**
 
-Du meddelas av Adobe Credential Team när kundens referens har granskats.
+  Först väljer du **två kurser** för att slutföra och genomföra varje kursbedömning med en poäng på 80 procent eller högre. Kursomdömen är kostnadsfria, on-demand, icke-upphandlade och öppna böcker. Du kan upprepa kurserna tills du har klarat utvärderingen till 80 %.
+
+  Andra, **skicka ett kundreferensformulär** validera ditt fortsatta arbete som en Adobe-certifierad person som leder, hanterar och/eller deltar i ett Adobe Experience Cloud-implementeringsprojekt. Det här formuläret bekräftar att du har deltagit i minst 100 timmars dokumenterat projektengagemang de senaste 12 månaderna.
+
+  [Kundreferensblankett för Adobe Target](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA400)
+
+  Du meddelas av Adobe Credential Team när kundens referens har granskats. Om din referens inte godkänns kan du skicka in den igen tills du har lyckats, så länge som det är innan certifieringen upphör att gälla.
 
 ### Kurser och kursbedömningar för experter och Överordnad:
 
