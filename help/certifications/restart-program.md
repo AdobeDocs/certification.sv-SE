@@ -6,7 +6,7 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
-source-git-commit: b76661947bb1c87c5448a40386b171ca7da3b7c5
+source-git-commit: 145533f97dbe8eaf68f5436e7946b9fe97fc6703
 workflow-type: tm+mt
 source-wordcount: '5347'
 ht-degree: 5%
@@ -27,7 +27,7 @@ Certifiering är en värdefull resurs för dem som vill vara konkurrenskraftiga,
 
 Individer med utgångna certifieringar som är berättigade till detta program bör ha fått ett mejl från Adobe Certification Program med rubriken&quot;Bli Adobe Certified again for Free&quot;.
 
-Om du är osäker på om du är berättigad, kontrollera [här](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification.html#restart).
+Om du är osäker på om du är berättigad, kontrollera [här](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification.html#restart){target="_blank"}.
 
 För att vara berättigad måste din certifiering uppfylla **alla** av följande kriterier:
 
@@ -198,7 +198,7 @@ För att vara berättigad måste din certifiering uppfylla **alla** av följande
 
   Andra, **skicka ett kundreferensformulär** validera ditt fortsatta arbete som en Adobe-certifierad person som leder, hanterar och/eller deltar i ett Adobe Experience Cloud-implementeringsprojekt. Det här formuläret bekräftar att du har deltagit i minst 100 timmars dokumenterat projektengagemang de senaste 12 månaderna.
 
-  [Kundreferensblankett för Adobe Target](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA400)
+  [Kundreferensblankett för Adobe Target](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA400){target="_blank"}
 
   Du meddelas av Adobe Credential Team när kundens referens har granskats. Om din referens inte godkänns kan du skicka in den igen tills du har lyckats, så länge som det är innan certifieringen upphör att gälla.
 
@@ -272,7 +272,7 @@ För att vara berättigad måste din certifiering uppfylla **alla** av följande
 
 Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
 
-Här är förslag på resurser,
+Här är förslag på resurser:
 
 * [Exempel på prov](https://sei.caveon.com/launchpad/ad4-e453-adobe-audience-manager-business-practitioner-sample-exam){target="_blank"}
 * [[!DNL Audience Manager] Produktdokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
