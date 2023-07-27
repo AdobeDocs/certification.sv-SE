@@ -4,12 +4,12 @@ description: Lär dig hur du blir en certifierad expert på Adobe Business Pract
 solution: Marketo Engage
 product: Marketo
 role: User
-badge: label="Exam AD0-E559" type="positive"
+badge: label="Prov AD0-E559" type="positive"
 mini-toc-levels: 1
 exl-id: 88f9cbfb-c9bc-4d27-a9de-1199c5cd013e
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: 49dc037af5b72c804ae00af908b33ae20c75f5c3
 workflow-type: tm+mt
-source-wordcount: '1428'
+source-wordcount: '1425'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Du borde ha:
 
 Du bör vara en marknadsförare med erfarenhet av:
 
-* Bygga, lansera och analysera kampanjer
+* Skapa, lansera och analysera kampanjer
 * Arbeta med underliggande e-postbeteenden och -tekniker som HTML, integreringar, databaser och CRM
 
 Dessutom bör du känna till följande verktyg och tekniker:
@@ -62,17 +62,17 @@ Dessutom bör du känna till följande verktyg och tekniker:
 * Martech Architect
 * Marknadsteknisk chef
 * Integrerade kampanjansvariga
-* Affärssystemanalytiker
+* Systemanalytiker
 
 **Information om tentamen:**
 
 * Nivå: Expert (1-3 års erfarenhet)
-* Lösenpoäng: 32/50
+* Löpande poäng: 32/50
 * Tid: 110 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller testcenter
-* Tillgängliga språk: Engelska och japanska
+* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
+* Tillgängliga språk: engelska och japanska
 * Kostnad: $225 (global) / $150 (Indien)
-* Exam-ID: AD0-E559
+* Exam ID: AD0-E559
 
 **Självbedömning av beredskap**
 
@@ -93,7 +93,7 @@ Avsnitt 2: Marknadsföringsaktiviteter/Campaign Management (46 %)
 
 * Uppvisa förståelse för smarta kampanjer, logik, begränsningar och flödessteg
 * Ange nästa steg för ett scenario
-* Identifiera orsaken till ett problem
+* Identifiera grundorsaken till ett problem
 * Tolka förhållandet mellan program, kanaler, taggar och periodkostnad
 * Uppvisa/tillämpa rätt konfiguration för engagemangsprogram
 * Ge exempel på användning för olika typer av tokens
@@ -108,7 +108,7 @@ Avsnitt 2: Marknadsföringsaktiviteter/Campaign Management (46 %)
 
 Avsnitt 3: Leadhantering (12 %)
 
-* Sammanfatta de viktigaste beslutspunkterna när man definierar livscykelmodellen
+* Ange de viktigaste beslutspunkterna när livscykelmodellen definieras
 * Använda bästa praxis för poängsättning av leads
 * Implementera lämpliga intressanta stunder
 * Tolka lead-aktivitetsloggen
@@ -128,9 +128,9 @@ Avsnitt 5: Rapportering (4 %)
 
 Avsnitt 6: Bästa praxis (16 %)
 
-* Uppvisa hur relevant poängsättningen av leads är i samarbetet inom marknadsföring och försäljning
-* Illustrator the benefits of the folder structure and naming conventions
-* Tillämpa bästa praxis kring A/B-tester
+* Uppvisa hur relevant poängsättningen är i samarbetet inom marknadsföring och försäljning
+* Fördelarna med mappstrukturen och namnkonventioner
+* Tillämpa bästa praxis kring A/B-testning
 * Förklara processen för att utföra en kvalitetskontroll av alla Marketo-program
 * Förklara processen att utföra en kvalitetskontroll på ett e-postmeddelande
 
@@ -197,7 +197,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 **Avsnitt 6: God praxis**
 
-* [God praxis: Organisera dina program](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.html){target="_blank"}
+* [Bästa praxis: Organisera dina program](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.html){target="_blank"}
 * [Skicka ett exempelmeddelande](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.html){target="_blank"}
 * [Förhandsgranska ett e-postmeddelande med dynamiskt innehåll](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.html){target="_blank"}
 * [Ändra poäng](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-score.html){target="_blank"}
@@ -226,21 +226,19 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 {{PSI-note}}
 
-**PSI** (*testcenter/alternativ för japanska prov (om sådana finns)*)
+**PSI** (*testcenter/alternativ för japansk tentamen (om sådana finns)*)
 
-*ENGELSKA*
 <a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E559" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Ta prov
+   Ta engelsk tentamen
 </span>
 </a>
 
-*JAPANSKA*
 <a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E559-j" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Ta prov
+   Ta japanska prov
 </span>
 </a>
 
