@@ -7,9 +7,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: abd73bc0-2283-47d8-83fd-3568bc0298d8
-source-git-commit: 145533f97dbe8eaf68f5436e7946b9fe97fc6703
+source-git-commit: dbbaa48aef0bfa8e28790ada131e5d64e8d7464a
 workflow-type: tm+mt
-source-wordcount: '539'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ Observera att om din certifiering upphör att gälla innan du har förnyat din p
 
 >[!TAB Expert och Överordnad]
 
-## Du bör vara certifierad (inte utgånget) i:
+## Du måste ha minst ett av följande **aktiv** Certifieringar att förnya:
 
 * [!DNL Adobe Target] Affärsexpert
 * [!DNL Adobe Target] Arkitekt Överordnad
@@ -50,8 +50,7 @@ Observera att om din certifiering upphör att gälla innan du har förnyat din p
 * **Steg 3:** Välj bland alternativen nedan för att slutföra förnyelsen.
 
   **Alternativ A:**
-
-  Välj **tre kurser** för att slutföra och genomföra varje kursbedömning med en poäng på 80 procent eller högre. Kursomdömen är kostnadsfria, on-demand, icke-upphandlade och öppna böcker. Du kan upprepa kurserna tills du har klarat utvärderingen till 80 %.
+Välj **tre kurser** för att slutföra och genomföra varje kursbedömning med en poäng på 80 procent eller högre. Kursomdömen är kostnadsfria, on-demand, icke-upphandlade och öppna böcker. Du kan upprepa kurserna tills du har klarat utvärderingen till 80 %.
 
   **Alternativ B:**
 Först väljer du **två kurser** för att slutföra och genomföra varje kursbedömning med en poäng på 80 procent eller högre. Kursomdömen är kostnadsfria, on-demand, icke-upphandlade och öppna böcker. Du kan upprepa kurserna tills du har klarat utvärderingen till 80 %.
@@ -64,7 +63,7 @@ Först väljer du **två kurser** för att slutföra och genomföra varje kursbe
 
 >[!NOTE]
 >
->Om du håller flera [!DNL Adobe Target] Expert- och Överordnad certifieringar, uppfyller förnyelsekraven för endast en certifiering och resten förnyas automatiskt.
+>Om du håller flera [!DNL Adobe Target] Expertcertifieringar och Överordnad certifieringar, uppfyller förnyelsekraven för endast en certifiering och resten förnyas automatiskt.
 
 ## Kurser och kursbedömningar för experter och Överordnad:
 

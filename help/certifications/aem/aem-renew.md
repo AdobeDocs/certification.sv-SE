@@ -6,9 +6,9 @@ product: Experience Manager
 role: User,Developer,Data Architect
 hidefromtoc: true
 exl-id: e7f1d21d-8e4a-4cbf-b1e5-379c194e0073
-source-git-commit: e038284bc410843c669bf951f593f50dddefc12d
+source-git-commit: dbbaa48aef0bfa8e28790ada131e5d64e8d7464a
 workflow-type: tm+mt
-source-wordcount: '612'
+source-wordcount: '627'
 ht-degree: 1%
 
 ---
@@ -37,39 +37,41 @@ Observera att om din certifiering upphör att gälla måste du göra om certifie
 
 >[!TAB Expert och Överordnad]
 
-Du bör vara certifierad (inte utgånget) i:
+## Du måste ha minst ett av följande **aktiv** Certifieringar att förnya:
 
 * Adobe [!DNL Experience Manager Sites] Developer Expert
 * Adobe [!DNL Experience Manager Sites] Affärsexpert
 * Adobe [!DNL Experience Manager Sites] Arkitekt Överordnad
 * Adobe [!DNL Experience Manager Assets] Developer Expert
-* Adobe [!DNL Experience Manager] Dev/Ops Engineer Expert
+* Adobe [!DNL Experience Manager] Dev/Ops-tekniker, expert
 * Adobe [!DNL Experience Manager Forms] Developer Expert
 
 ## Instruktioner för att förnya Adobe [!DNL Experience Manager] certifiering
 
-Välj **tre verksamheter** slutföra och genomföra de kursbedömningar som är kopplade till varje kurs.
+* **Steg 1:** Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}och sedan återgå till den här sidan
+* **Steg 2:** Studera kurserna i Experience League
+* **Steg 3:** Välj bland alternativen nedan för att slutföra förnyelsen.
 
-* **Steg 1**: Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}och sedan återgå till den här sidan
-* **Steg 2**: Studera kurserna i Experience League
-* **Steg 3**: Slutföra och genomgå varje kursbedömning med minst 80 %
+  **Alternativ A:**
+Välj **tre kurser** för att slutföra och genomföra varje kursbedömning med en poäng på 80 procent eller högre. Kursomdömen är kostnadsfria, on-demand, icke-upphandlade och öppna böcker. Du kan upprepa kurserna tills du har klarat utvärderingen till 80 %.
 
-Du kan också studera två kurser, genomföra två kursutvärderingar och skicka in ett kundreferensformulär som validerar ditt engagemang i ett projekt som sammanlagt omfattar 100 timmar de senaste 12 månaderna.
+  **Alternativ B:**
+Först väljer du **två kurser** för att slutföra och genomföra varje kursbedömning med en poäng på 80 procent eller högre. Kursomdömen är kostnadsfria, on-demand, icke-upphandlade och öppna böcker. Du kan upprepa kurserna tills du har klarat utvärderingen till 80 %.
 
-För vissa Adobe Experience Cloud-certifieringar godkänner Adobe Credential Program **kundreferenser** som validerar ditt fortsatta arbete som en Adobe-certifierad person som leder, hanterar och/eller deltar i ett Adobe Experience Cloud-implementeringsprojekt.
+  Andra, **skicka ett kundreferensformulär** validera ditt fortsatta arbete som en Adobe-certifierad person som leder, hanterar och/eller deltar i ett Adobe Experience Cloud-implementeringsprojekt. Det här formuläret bekräftar att du har deltagit i minst 100 timmars dokumenterat projektengagemang under 2-årsförnyelsen av certifieringen.
 
-I dessa fall kan du tillhandahålla en kundreferens som bekräftar att du har deltagit i minst 100 timmars dokumenterat projektengagemang under förnyelsen av certifieringen med 2 års mellanrum.
+  [Kundreferensblankett för Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA100){target="_blank"}
 
-**När kundreferensen har granskats meddelas du av Adobe Credential Team.**
+  Du meddelas av Adobe Credential Team när kundens referens har granskats. Om din referens inte godkänns kan du skicka in den igen tills du har lyckats, så länge som det är innan certifieringen upphör att gälla.
 
-Kurserna är kostnadsfria. De behöver inte schemaläggas och de behandlas inte. Om du har flera Adobe Experience Manager Expert- och Överordnad certifieringar behöver du bara uppfylla kraven nedan, och alla dina AEM certifieringar på den här nivån kommer att förnyas.
+>[!NOTE]
+>
+>Om du håller flera [!DNL Adobe Experience Manager] Expertcertifieringar och Överordnad certifieringar, uppfyller förnyelsekraven för endast en certifiering och resten förnyas automatiskt.
 
-[Referensformulär för Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA100){target="_blank"}
-
-### Kurser och kursbedömningar för experter och överordnad:
+## Kurser och kursbedömningar för experter och Överordnad:
 
 
-| Kurs | Kursutvärdering |
+| Kurser för experter och Överordnad | Kursutvärdering |
 | ------- | ------- |
 | [Flyttar till Adobe [!DNL Experience Manager as a Cloud Service]](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-1-migration.html){target="_blank"} | [ADR-EA101](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA101){target="_blank"} |
 | [Planera din övergång till Adobe [!DNL Experience Manager as a Cloud Service]](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-a-1-2021-1-migration.html){target="_blank"} | [ADR-EA102](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA102){target="_blank"} |
@@ -79,10 +81,6 @@ Kurserna är kostnadsfria. De behöver inte schemaläggas och de behandlas inte.
 | [ [!DNL Experience Manager Forms Cloud Service] Integrera med [!DNL Salesforce]](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-formscs-salesforce.html){target="_blank"} | [ADR-EA106](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA106){target="_blank"} |
 | [Adobe [!DNL Experience Manager Cloud Manager] Kunskapsbyggaren](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-u-1-2019-1-cloudmgr-builder.html){target="_blank"} | [ADR-EA107](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA107){target="_blank"} |
 | [Adobe [!DNL Experience Manager Sites] för arkitekter](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2019-1-architect.html){target="_blank"} | [ADR-EA108](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA108){target="_blank"} |
-
->[!NOTE]
->
->Du kan upprepa tills du har slutfört tre aktiviteter eller slutfört två aktiviteter, plus kundens referensformulär.
 
 >[!ENDTABS]
 

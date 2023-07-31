@@ -7,9 +7,9 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: dbbaa48aef0bfa8e28790ada131e5d64e8d7464a
 workflow-type: tm+mt
-source-wordcount: '565'
+source-wordcount: '582'
 ht-degree: 1%
 
 ---
@@ -38,7 +38,7 @@ Observera att om din certifiering upphör att gälla måste du göra om certifie
 
 >[!TAB Expert och Överordnad]
 
-Du bör vara certifierad (inte utgånget) i:
+## Du måste ha minst ett av följande **aktiv** Certifieringar att förnya:
 
 * Adobe Analytics Developer Expert
 * Adobe Analytics Business Practitioner Expert
@@ -46,38 +46,36 @@ Du bör vara certifierad (inte utgånget) i:
 
 ## Instruktioner för hur du förnyar din Adobe Analytics-certifiering
 
-Välj **tre verksamheter** slutföra och genomföra de kursbedömningar som är kopplade till varje kurs.
+* **Steg 1:** Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}och sedan återgå till den här sidan
+* **Steg 2:** Studera kurserna i Experience League
+* **Steg 3:** Välj bland alternativen nedan för att slutföra förnyelsen.
 
-* **Steg 1**: Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}och sedan återgå till den här sidan
-* **Steg 2**: Studera kurserna i Experience League
-* **Steg 3**: Slutföra och genomgå varje kursbedömning med minst 80 %
+  **Alternativ A:**
+Välj **tre kurser** för att slutföra och genomföra varje kursbedömning med en poäng på 80 procent eller högre. Kursomdömen är kostnadsfria, on-demand, icke-upphandlade och öppna böcker. Du kan upprepa kurserna tills du har klarat utvärderingen till 80 %.
 
-Du kan också studera två kurser, genomföra två kursutvärderingar och skicka in ett kundreferensformulär som validerar ditt engagemang i ett projekt som sammanlagt omfattar 100 timmar de senaste 12 månaderna.
+  **Alternativ B:**
+Först väljer du **två kurser** för att slutföra och genomföra varje kursbedömning med en poäng på 80 procent eller högre. Kursomdömen är kostnadsfria, on-demand, icke-upphandlade och öppna böcker. Du kan upprepa kurserna tills du har klarat utvärderingen till 80 %.
 
-För vissa Adobe Experience Cloud-certifieringar godkänner Adobe Credential Program **kundreferenser** som validerar ditt fortsatta arbete som en Adobe-certifierad person som leder, hanterar och/eller deltar i ett Adobe Experience Cloud-implementeringsprojekt.
+  Andra, **skicka ett kundreferensformulär** validera ditt fortsatta arbete som en Adobe-certifierad person som leder, hanterar och/eller deltar i ett Adobe Experience Cloud-implementeringsprojekt. Det här formuläret bekräftar att du har deltagit i minst 100 timmars dokumenterat projektengagemang under 2-årsförnyelsen av certifieringen.
 
-I dessa fall kan du tillhandahålla en kundreferens som bekräftar att du har deltagit i minst 100 timmars dokumenterat projektengagemang under förnyelsen av certifieringen med 2 års mellanrum.
+  [Kundreferensblankett för Adobe Analytics](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA200){target="_blank"}
 
-**När kundreferensen har granskats meddelas du av Adobe Credential Team.**
+  Du meddelas av Adobe Credential Team när kundens referens har granskats. Om din referens inte godkänns kan du skicka in den igen tills du har lyckats, så länge som det är innan certifieringen upphör att gälla.
 
-Kurserna är kostnadsfria. De behöver inte schemaläggas och de behandlas inte. Om du har flera Adobe Analytics Expert- och Överordnad certifieringar behöver du bara uppfylla kraven nedan, och alla dina Adobe Analytics-certifieringar på den här nivån kommer att förnyas.
+>[!NOTE]
+>
+>Om du har flera Adobe Analytics Expert- och Överordnad certifieringar kan du slutföra förnyelsekraven för endast en certifiering. Resten förnyas automatiskt.
 
-[Referensformulär för Adobe Analytics](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA200){target="_blank"}
+### Kurser och kursbedömningar för experter och Överordnad:
 
-### Kurser och kursbedömningar för experter och överordnad:
-
-| Kurs | Kursutvärdering |
+| Kurser för experter och Överordnad | Kursutvärdering |
 | ------- | ------- |
 | [Adobe Analytics Attributing Value to Digital Touch points in the Customer Journey](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2){target="_blank"} | [ADR-EA201](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA201){target="_blank"} |
 | [Exportera och demokratisera Adobe Analytics-data - Lektion 5 och 6](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing){target="_blank"} | [ADR-EA202](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA202){target="_blank"} |
 | [Filtrera data med anpassad segmentering och datum - lektion 2](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata){target="_blank"} | [ADR-EA203](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA203){target="_blank"} |
 | [Implementering av guidad analys - lektion 5](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1){target="_blank"} | [ADR-EA204](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA204){target="_blank"} |
-| [ Implementera och mäta intern webbplatssökning - Lektion 3 och 4](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search){target="_blank"} | [ADR-EA205](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA205){target="_blank"} |
+| [Implementera och mäta intern webbplatssökning - Lektion 3 och 4](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search){target="_blank"} | [ADR-EA205](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA205){target="_blank"} |
 | [Adobe Analytics API:er](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/apis/using-analysis-workspace-to-build-api-2-requests.html){target="_blank"} | [ADR-EA206](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA206){target="_blank"} |
-
->[!NOTE]
->
->Du kan upprepa tills du har slutfört tre aktiviteter eller slutfört två aktiviteter, plus kundens referensformulär.
 
 >[!ENDTABS]
 
