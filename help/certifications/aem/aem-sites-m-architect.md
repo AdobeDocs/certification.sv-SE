@@ -4,17 +4,28 @@ description: Lär dig hur du blir en certifierad Arkitect-Överordnad i Experien
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Data Architect
-badge: label="Exam AD0-E117" type="positive"
+badge: label="Prov AD0-E117" type="positive"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: 48d3e064145c10fce3493d9fe20e5435c2ab6f23
 workflow-type: tm+mt
-source-wordcount: '1449'
-ht-degree: 7%
+source-wordcount: '1514'
+ht-degree: 8%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Experience Manager Sites] Arkitekt Överordnad
+
+>[!NOTE]
+>
+>Denna tentamen (AD0-E117) genomgår underhåll och är tillfälligt otillgänglig. Vi ber om ursäkt för besväret. Använd knappen nedan för att registrera dig för att få ett meddelande när det är tillgängligt igen.
+
+<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Meddela mig
+</span>
+</a>
 
 Lär dig hur du blir en certifierad arkitekt Överordnad.
 
@@ -43,11 +54,11 @@ Dessutom bör du kunna utföra följande uppgifter:
 * Skapa och leverera infrastruktur-/driftsättningsdiagram
 * Identifiera informationsmodeller som ska användas med AEM program
 * Definiera säkerhetsmodeller och begrepp för autentisering och auktorisering
-* Fastställ beständighetsmodeller baserat på kundernas krav (binär lagring, driftsättningsscenario och så vidare)
+* Fastställ beständiga modeller baserat på kundernas krav (binär lagring, driftsättningsscenario och så vidare)
 * Utforma arbetsflödesmodeller för affärsprocesser
 * Fastställa strategier för plattformsprestanda och penetration/säkerhetstestning
 * Återanvänd innehåll i flera kanaler
-* Konto för molnbaserade överväganden, som: Automatisk skalning, replikering, tillgångshantering, konsekvenser och skillnader mellan lokala och hanterade tjänster, Cloud Manager, pakethantering
+* Ta hänsyn till molnbaserade överväganden, som automatisk skalning, replikering, tillgångshantering, konsekvenser och skillnader mellan lokala och hanterade tjänster, Cloud Manager, pakethantering
 
 >[!NOTE]
 >
@@ -59,7 +70,7 @@ Dessutom bör du kunna utföra följande uppgifter:
 
 **Målgrupp:**
 
-* AEM
+* AEM Architects
 * Leadutvecklare
 * Tekniska arkitekter
 * Lösningsarkitekter
@@ -68,12 +79,12 @@ Dessutom bör du kunna utföra följande uppgifter:
 **Information om tentamen:**
 
 * Nivå: Överordnad (3-5 års erfarenhet)
-* Lösenpoäng: 29/50
+* Löpande poäng: 29/50
 * Tid: 100 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller testcenter
-* Tillgängliga språk: Engelska, japanska
+* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
+* Tillgängliga språk: engelska, japanska
 * Kostnad: $225 (global) / $150 (Indien)
-* Exam-ID: AD0-E117
+* Exam ID: AD0-E117
 
 **Självbedömning av beredskap**
 
@@ -81,7 +92,7 @@ Slutför [onlineberedskapsenkät](https://scorpion.caveon.com/launchpad/ad-q-e12
 
 **Mål och omfattning för tentamen**
 
-Avsnitt 1: Identifiering (18 %)
+Avsnitt 1: Upptäckt (18 %)
 
 * Översätt affärsmål på hög nivå till funktionella krav
 * Utvärdera det aktuella tillståndet för en arkitektur utifrån ett scenario
@@ -121,13 +132,13 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 
 [Se exempelfrågor](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ycpz52/ad-q-e117-readiness-questionnaire-for-adobe-aem-architect-master-exam){target="_blank"}
 
-**Avsnitt 1: Identifiering**
+**Avsnitt 1: Upptäckt**
 
 * [Användarhandbok om AEM 6.5-utveckling](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
 * [Användarhandbok om resurser](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html){target="_blank"}
 * [Användarhandbok om mobila AEM 6.4-appar](https://experienceleague.adobe.com/docs/experience-manager-64/mobile/home.html){target="_blank"}
 * [AEM Assets videor och självstudiekurser](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html){target="_blank"}
-* [[!DNL Experience Manager as a Cloud Service] dokumentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
+* [[!DNL Experience Manager as a Cloud Service] dokumentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=sv){target="_blank"}
 * [Adobe [!DNL Experience Manager] 6.5 Communities Guide](https://experienceleague.adobe.com/docs/experience-manager-65/communities/home.html){target="_blank"}
 * [AEM Sites videor och självstudiekurser](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
 * [Användarhandbok om AEM 6.5-hantering](https://experienceleague.adobe.com/docs/experience-manager-65/communities/home.html){target="_blank"}
@@ -160,12 +171,12 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 * [Dispatcher - översikt](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html){target="_blank"}
 * [Rensa Dispatcher Cache i AEM](https://www.axamit.com/blog/adobe/dispatcher-4#:~:text=At%20the%20low%20level%20dispatcher,the%20root%20of%20htdocs%20directory.){target="_blank"}
 * [AEM Cloud Service Dispatcher Converter](https://github.com/adobe/aem-cloud-service-dispatcher-converter){target="_blank"}
-* [[!DNL Experience Manager as a Cloud Service] Översikt](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
+* [[!DNL Experience Manager as a Cloud Service] Översikt](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=sv){target="_blank"}
 * [Användarhandbok om HTL](https://experienceleague.adobe.com/docs/experience-manager-htl/content/overview.html){target="_blank"}
 * [[!DNL AEM Sites as a Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/home.html){target="_blank"}
 * [Användarhandbok för distribution av AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html){target="_blank"}
 
-**Avsnitt 3: Implementering**
+**Avsnitt 3: Genomförande**
 
 * [Användarhandbok för distribution av AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html){target="_blank"}
 * [Dokumentation om Adobe Enterprise](https://experienceleague.adobe.com/docs/){target="_blank"}
@@ -180,17 +191,17 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 * [Användarhandbok om resurser](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html){target="_blank"}
 * [Videor och självstudiekurser om AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html){target="_blank"}
 * [Användarhandbok för distribution av AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html){target="_blank"}
-* [Översikt över Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
+* [Översikt över Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=sv){target="_blank"}
 
 
-**Avsnitt 4: Resurstyper**
+**Avsnitt 4: Tillgångstyper**
 
 * [Användarhandbok om AEM 6.5-administration](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
 * [Oak tarMK-minnesmappade filer](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/oak-tarmk-memory-mapped-files/td-p/218220){target="_blank"}
 * [Dispatcher - översikt](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html){target="_blank"}
 * [Apache Sling: Mappningar för resursupplösning](https://sling.apache.org/documentation/the-sling-engine/mappings-for-resource-resolution.html){target="_blank"}
 * [AEM Sök jämfört med Solr-sökning](https://blog.3sharecorp.com/aem-search-vs.-solr-search){target="_blank"}
-* [TARMK: Fakta och siffror](https://adapt.to/content/dam/adaptto/production/presentations/2017/adaptTo2017-TarMK-Facts-and-Figures-Michael-Duerig-Valentin-Olteanu-notes.pdf/_jcr_content/renditions/original./adaptTo2017-TarMK-Facts-and-Figures-Michael-Duerig-Valentin-Olteanu-notes.pdf){target="_blank"}
+* [TARMK: Fakta och figurer](https://adapt.to/content/dam/adaptto/production/presentations/2017/adaptTo2017-TarMK-Facts-and-Figures-Michael-Duerig-Valentin-Olteanu-notes.pdf/_jcr_content/renditions/original./adaptTo2017-TarMK-Facts-and-Figures-Michael-Duerig-Valentin-Olteanu-notes.pdf){target="_blank"}
 * [Introduktion till Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html){target="_blank"}
 * [Cloud Manager: Komma igång](https://developer.adobe.com/experience-cloud/cloud-manager/guides/getting-started/){target="_blank"}
 * [CQBufferedImageCache använder heap under överföring av tillgångar](https://helpx.adobe.com/experience-manager/kb/cqbufferedimagecache-consumes-heap-during-asset-uploads.html){target="_blank"}
@@ -216,23 +227,14 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 
 ### Tillgängliga alternativ
 
-{{PSI-note}}
+>[!NOTE]
+>
+>Denna tentamen (AD0-E117) genomgår underhåll och är tillfälligt otillgänglig. Vi ber om ursäkt för besväret. Använd knappen nedan för att registrera dig för att få ett meddelande när det är tillgängligt igen.
 
-**PSI** (*testcenter/alternativ för japanska prov (om sådana finns)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E117" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Ta prov
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
-
-<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E117" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Ta prov
+   Meddela mig
 </span>
 </a>
 
