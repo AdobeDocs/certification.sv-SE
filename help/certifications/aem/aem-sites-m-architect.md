@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="Prov AD0-E117" type="positive"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: 48d3e064145c10fce3493d9fe20e5435c2ab6f23
+source-git-commit: 5109b4c8de4928a46f0241cea86f858982d2236c
 workflow-type: tm+mt
-source-wordcount: '1514'
+source-wordcount: '1498'
 ht-degree: 8%
 
 ---
@@ -18,14 +18,7 @@ ht-degree: 8%
 
 >[!NOTE]
 >
->Denna tentamen (AD0-E117) genomgår underhåll och är tillfälligt otillgänglig. Vi ber om ursäkt för besväret. Använd knappen nedan för att registrera dig för att få ett meddelande när det är tillgängligt igen.
-
-<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Meddela mig
-</span>
-</a>
+>Denna tentamen (AD0-E117) genomgår underhåll och är tillfälligt otillgänglig. Vi ber om ursäkt för besväret. [Registrera dig för att få meddelanden](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) när den är tillgänglig igen.
 
 Lär dig hur du blir en certifierad arkitekt Överordnad.
 
@@ -229,14 +222,7 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 
 >[!NOTE]
 >
->Denna tentamen (AD0-E117) genomgår underhåll och är tillfälligt otillgänglig. Vi ber om ursäkt för besväret. Använd knappen nedan för att registrera dig för att få ett meddelande när det är tillgängligt igen.
-
-<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Meddela mig
-</span>
-</a>
+>Denna tentamen (AD0-E117) genomgår underhåll och är tillfälligt otillgänglig. Vi ber om ursäkt för besväret. [Registrera dig för att få meddelanden](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) när den är tillgänglig igen.
 
 >[!ENDTABS]
 
