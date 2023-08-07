@@ -7,10 +7,10 @@ role: Data Architect
 badge: label="Prov AD0-E117" type="positive"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: 5109b4c8de4928a46f0241cea86f858982d2236c
+source-git-commit: e27a718d0bfca70eb93196ab6978f4abb06a0106
 workflow-type: tm+mt
-source-wordcount: '1498'
-ht-degree: 8%
+source-wordcount: '1722'
+ht-degree: 7%
 
 ---
 
@@ -19,6 +19,8 @@ ht-degree: 8%
 >[!NOTE]
 >
 >Denna tentamen (AD0-E117) genomgår underhåll och är tillfälligt otillgänglig. Vi ber om ursäkt för besväret. [Registrera dig för att få meddelanden](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) när den är tillgänglig igen.
+>
+>**Frågor?** Se vår [Vanliga frågor](#AEM-FAQ) längst ned på sidan.
 
 Lär dig hur du blir en certifierad arkitekt Överordnad.
 
@@ -211,7 +213,6 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 >
 >Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
 
-
 ## Om provet
 
 {{about-certification-exam}}
@@ -223,6 +224,8 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 >[!NOTE]
 >
 >Denna tentamen (AD0-E117) genomgår underhåll och är tillfälligt otillgänglig. Vi ber om ursäkt för besväret. [Registrera dig för att få meddelanden](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) när den är tillgänglig igen.
+>
+>**Frågor?** Se vår [Vanliga frågor](#AEM-FAQ) längst ned på sidan.
 
 >[!ENDTABS]
 
@@ -231,3 +234,23 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.
+
+## Frågor och svar för Adobe Experience Manager Sites Architect Överordnad Exam (AD0-E117) {#AEM-FAQ}
+
+Certifieringsprovet AD0-E117 genomgår underhåll och är tillfälligt otillgängligt. Vi ber om ursäkt för besväret. [Registrera dig för att få meddelanden](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) när den är tillgänglig igen.
+
+**Vad händer om jag redan har schemalagt min tentamen?**
+
+Alla schemalagda AD0-E117-prov har avbrutits. De sökande som påverkas måste schemalägga provet igen när den nya versionen blir tillgänglig.
+
+**Jag har redan betalat för provet. Får jag pengarna tillbaka?**
+
+* Om du har betalat för din tentamen med ett kreditkort via Examity, kommer du att återbetalas till fullo.  
+* Om du har betalat med en verifikation återställs din kod och du kan använda den på din nya provavtalade tid.  
+* Om din voucher förfaller innan du kan använda den, ger vi dig en ny voucher när du är klar att schemalägga.
+
+**Jag måste förnya min certifiering före oktober; kommer detta att påverka min förnyelse?**
+
+Nej. Du kommer att kunna förnya via kontinuerlig undervisning. Se till att följa instruktionerna och proceduren i [Förnya din certifiering](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"}.
+
+
