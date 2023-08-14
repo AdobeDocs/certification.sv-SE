@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: 8ac05dff29adac3c18c9ca72a0e2b5f9f0cdada0
+source-git-commit: 6720c1d3d305ba3dd5ccd25c6d4231893a69b26a
 workflow-type: tm+mt
-source-wordcount: '2655'
+source-wordcount: '2643'
 ht-degree: 1%
 
 ---
@@ -24,11 +24,11 @@ Mer information om certifieringsprogrammet Adobe finns i Frågor och svar nedan.
 
 +++Vad är certifiering och vilka är fördelarna?
 
-Enskilda fördelar: Certifiering är en certifiering som godkänner en individs skicklighet och kompetens i en Adobe-applikation. En kandidat som godkänts i en certifieringstest blir Adobe Certified Professional, Expert eller Överordnad.
+Individuella fördelar: Certifiering är en certifiering som godkänner en individs skicklighet och kompetens i en Adobe-applikation. En kandidat som godkänns i certifieringstest blir Adobe Certified Professional, Expert eller Master.
 
 Certifieringar kräver engagemang, är juridiskt försvarbara och valideras från Adobe i er expertis. Du kan även använda din certifiering på dina sociala profiler genom att hämta ditt märke från [!DNL Credly].
 
-Om du vill veta mer om hur du hanterar dina emblem i [!DNL Credly], go [HÄR](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html){target="_blank"}.
+Om du vill veta mer om hur du hanterar emblem i [!DNL Credly], go [HÄR](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html){target="_blank"}.
 
 +++
 
@@ -37,8 +37,8 @@ Om du vill veta mer om hur du hanterar dina emblem i [!DNL Credly], go [HÄR](ht
 Certifieringar är rollbaserade, vilket betyder att det finns flera examina tillgängliga. Granska sidorna för certifieringsresan och välj vilket prov som ska tas. Du väljer tentamen genom att:
 
 * Program: till exempel [!DNL Adobe Analytics] eller [!DNL Marketo Engage]
-* Roll: t.ex. utvecklare eller yrkesutövare
-* Nivå: Exempel: Professional, 0-12 månaders erfarenhet. eller Expert 1-3 år
+* Roll: t.ex. utvecklare eller affärsansvarig
+* Nivå: till exempel Professional, 0-12 månaders erfarenhet eller Expert 1-3 år
 
 Ibland finns det flera versioner av en tentamen. Det är bäst att ta den senaste versionen.
 
@@ -49,15 +49,13 @@ Ibland finns det flera versioner av en tentamen. Det är bäst att ta den senast
 
 +++Vad händer om jag har tekniska problem under min provperiod?
 
-PSI och [!DNL Examity] har support via chatt, e-post och telefon. Adobe support kan inte hjälpa till med tekniska problem som uppstår under provet.
+[!DNL Examity] har support via chatt, e-post och telefon. Adobe support kan inte hjälpa till med tekniska problem som uppstår under provet.
 
-[!DNL Examity] Support - `adobepartnersupport@examity.com`
-
-PSI-stöd - `psisupport@psionline.com`
+[!DNL Examity] Support: `adobepartnersupport@examity.com`
 
 Den snabbaste hjälpresursen är via deras chatt. Alla testsökande ska se till att datorn har rätt systemkrav innan de genomför provet.
 
-Mer information finns i: PSI, och [!DNL Examity] sidor för att hantera tentamen och teknisk konfiguration.
+Mer information finns i [!DNL Examity] sida för att hantera tentamen och teknisk konfiguration.
 
 +++
 
@@ -77,15 +75,15 @@ Adobe kan uppfylla vissa särskilda krav. Om du behöver mer tid för att genomf
 
 +++När kan jag göra ett nytt försök med certifieringstester om jag misslyckas?
 
-För att få eller behålla din Adobe-certifierade status måste du godkänna den senaste certifieringstest genom att göra om den. Vi rekommenderar att du hinner ta hänsyn till eventuella återtaganden innan certifieringen upphör.
+För att få eller behålla din Adobe-certifierade status måste du godkänna den senaste certifieringstest genom att göra om den. Vi rekommenderar att du ger tillräckligt med tid för att ta hänsyn till eventuella återtaganden innan din certifiering upphör att gälla.
 
-För sökande som inte uppfyller certifieringstest på Adobe vid första försöket måste de vänta minst 24 timmar innan de försöker igen. Om de misslyckas vid det andra eller efterföljande försöket krävs en vänteperiod på 14 kalenderdagar innan de kan genomföra provet igen. Varje försök medför en separat provavgift.
+För sökande som inte uppfyller certifieringstest på Adobe vid första försöket måste de vänta minst 24 timmar innan de försöker igen. Om de misslyckas vid det andra eller efterföljande försöket krävs en vänteperiod på 14 kalenderdagar innan de kan genomföra provet igen. Varje försök medför en separat avgift för tentamen.
 
 +++
 
 +++Hur får jag en kopia av min poängrapport?
 
-* Steg 1: Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe/){target="_blank"}, CertMetrics. Logga in med ditt ID eller din e-postadress och ditt lösenord.
+* Steg 1: Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe/){target="_blank"}, CertMetrics. Logga in med ditt ID eller e-postadress och lösenord.
 * Steg 2: Klicka på Skript.
 * Steg 3: Bläddra igenom transkriberingshistoriken och välj den rapport du vill visa. Du kan skicka rapporten med e-post till dig eller visa den på skärmen.
 
@@ -117,9 +115,7 @@ Eftersom vi måste se till att våra Adobe-certifierade individer har de senaste
 
 +++Finns prov på andra språk än engelska?
 
-{{PSI-note}}
-
-Det finns några tentamen på japanska via PSI (en av våra leverantörer). Om tentamen finns på japanska ska den noteras i tentamen för tentamen. Tentamina finns på fliken&quot;Gör dig klar&quot; på sidorna för certifieringsresan.
+Vissa examina finns på japanska. Om tentamen finns på japanska ska den noteras i tentamen för tentamen. Tentamina finns på fliken&quot;Gör dig klar&quot; på sidorna för certifieringsresan.
 
 +++
 
@@ -148,15 +144,15 @@ Du har två alternativ:
 
 Du kan inte göra en förnyelseprov om du inte har den ursprungliga certifieringen eller om din certifiering har upphört att gälla.
 
-Ibland avgår vi ett prov för en roll. I så fall varar certifieringen i två år och certifieringen upphör att gälla. Vi erbjuder t.ex. inte längre certifiering av lead-/avkodningsobjekt, så att certifieringen upphör att gälla utan en ersättningstentamen.
+Ibland avgår vi ett prov för en roll. I så fall varar certifieringen i två år, varefter certifieringen upphör att gälla. Vi erbjuder t.ex. inte längre certifiering av lead-/avkodningsobjekt, så att certifieringen upphör att gälla utan en ersättningstentamen.
 
 +++
 
 +++Vad händer om jag inte förnyar min certifiering innan den går ut?
 
-Din certifiering upphör att gälla och visas som förfallen om [!DNL Credly] och era sociala profiler. Om din certifiering upphör att gälla kan du inte ta den kortare förnyelseprovet eller förnya via kontinuerlig inlärning.
+Din certifiering upphör att gälla och visas som förfallen om [!DNL Credly] och alla era sociala profiler. Om din certifiering upphör att gälla kan du inte ta den kortare förnyelseprovet eller förnya via kontinuerlig inlärning.
 
-Om du vill veta mer om hur du hanterar dina emblem i [!DNL Credly], go [HÄR](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html){target="_blank"}.
+Om du vill veta mer om hur du hanterar emblem i [!DNL Credly], go [HÄR](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html){target="_blank"}.
 
 +++
 
@@ -202,7 +198,7 @@ Adobe erbjuder kontinuerlig utbildning och engagemangsverksamhet så att de sök
 
 +++
 
-+++Min certifiering har redan gått ut; Kan jag fortsätta med det kontinuerliga lärandet och engagemanget för förnyelse?
++++Min certifiering har redan upphört att gälla. Kan jag fortsätta med den kontinuerliga utbildningen och engagemanget för förnyelse?
 
 Nej, det här förnyelsealternativet gäller endast för Adobe aktivt certifierade analytiker, Experience Manager, Commerce och Target-kandidater.
 
@@ -210,7 +206,7 @@ Nej, det här förnyelsealternativet gäller endast för Adobe aktivt certifiera
 
 +++Vilka certifieringar erbjuder kontinuerlig utbildning och engagemangsaktiviteter för förnyelse?
 
-För närvarande ingår Analytics, Experience Manager, Commerce och Target i det här programmet. Vi delar med oss av meddelandena via tillämpliga kanaler när vi utökar dem för andra certifieringar.
+För närvarande ingår Analytics, Experience Manager, Commerce och Target i programmet. Vi delar med oss av meddelandena via tillämpliga kanaler när vi utökar dem för andra certifieringar.
 
 +++
 
@@ -274,7 +270,7 @@ Vi planerar för närvarande inte att erbjuda detta igen. Detta är endast ett e
 
 +++Vilka certifieringsnivåer ingår i omstartsprogrammet?
 
-Det är bara expertcertifikat och Överordnad certifikat som ingår i omstartsprogrammet. Certifieringar på professionell nivå kommer att ha en förnyelsesökväg tillgänglig från juni 2023.
+Endast certifieringar på expertnivå och huvudnivå ingår i omstartsprogrammet. Certifieringar på professionell nivå kommer att ha en förnyelsesökväg tillgänglig från juni 2023.
 
 +++
 
@@ -313,9 +309,9 @@ Alla aktiva Adobe-certifieringar, utom de som har gått i pension, ingår i prog
 | AD0-E102 | [!DNL Adobe Experience Manager Sites] Affärsexpert |
 | AD0-E103 | [!DNL Adobe Experience Manager Sites] Developer Expert |
 | AD0-E116 | [!DNL Adobe Experience Manager Sites] Developer Expert |
-| AD0-E106 | [!DNL Adobe Experience Manager] Dev/Ops Engineer Expert |
-| AD0-E117 | [!DNL Adobe Experience Manager Sites] Arkitekt Överordnad |
-| AD0-E104 | [!DNL Adobe Experience Manager Sites] Arkitekt Överordnad |
+| AD0-E106 | [!DNL Adobe Experience Manager] Dev/Ops-tekniker, expert |
+| AD0-E117 | [!DNL Adobe Experience Manager Sites] Architect Master |
+| AD0-E104 | [!DNL Adobe Experience Manager Sites] Architect Master |
 
 **[!DNL Adobe Analytics]**
 
@@ -323,15 +319,15 @@ Alla aktiva Adobe-certifieringar, utom de som har gått i pension, ingår i prog
 | ------- | ------- |
 | AD0-E201 | [!DNL Adobe Analytics] Developer Expert |
 | AD0-E202 | [!DNL Adobe Analytics] Affärsexpert |
-| AD0-E200 | [!DNL Adobe Analytics] Arkitekt Överordnad |
-| AD0-E207 | [!DNL Adobe Analytics] Arkitekt Överordnad |
+| AD0-E200 | [!DNL Adobe Analytics] Architect Master |
+| AD0-E207 | [!DNL Adobe Analytics] Architect Master |
 
 **Adobe Audience Manager**
 
 | Provnings-ID | Provnamn |
 | ------- | ------- |
-| AD0-E454 | [!DNL Adobe Audience Manager] Arkitekt Överordnad |
-| AD0-E452 | [!DNL Adobe Audience Manager] Arkitekt Överordnad |
+| AD0-E454 | [!DNL Adobe Audience Manager] Architect Master |
+| AD0-E452 | [!DNL Adobe Audience Manager] Architect Master |
 | AD0-E453 | [!DNL Adobe Audience Manager] Affärsexpert |
 
 **Adobe Campaign Classic**
@@ -340,8 +336,8 @@ Alla aktiva Adobe-certifieringar, utom de som har gått i pension, ingår i prog
 | ------- | ------- |
 | AD0-E300 | Adobe [!DNL Campaign Classic] Sites Business Practitioner Expert |
 | AD0-E314 | Adobe [!DNL Campaign Classic] Sites Business Practitioner Expert |
-| AD0-E318 | Adobe [!DNL Campaign Classic] Arkitekt Överordnad |
-| AD0-E303 | Adobe [!DNL Campaign Classic] Arkitekt Överordnad |
+| AD0-E318 | Adobe [!DNL Campaign Classic] Architect Master |
+| AD0-E303 | Adobe [!DNL Campaign Classic] Architect Master |
 | AD0-E312 | Adobe [!DNL Campaign Classic] Developer Expert |
 | AD0-E308 | Adobe [!DNL Campaign Classic] Developer Expert |
 
@@ -365,13 +361,13 @@ Alla aktiva Adobe-certifieringar, utom de som har gått i pension, ingår i prog
 | Provnings-ID | Provnamn |
 | ------- | ------- |
 | AD0-E401 | [!DNL Adobe Target] Affärsexpert |
-| AD0-E402 | [!DNL Adobe Target] Arkitekt Överordnad |
+| AD0-E402 | [!DNL Adobe Target] Architect Master |
 
 +++
 
 +++Min certifiering upphör att gälla mellan den 24 april och den 20 oktober 2023, medan det här programmet är tillgängligt. Kan jag fortsätta med omstartsprogrammet för min certifiering när det är slut?
 
-Nej. Alla sökande med aktiva certifieringar från lanseringsdatumet och senare har möjlighet att fortsätta den kontinuerliga förnyelse-stigen som vi meddelade i januari 2023.
+Nej. Alla sökande med aktiva certifieringar från lanseringsdatumet och senare har möjlighet att fortsätta den kontinuerliga förnyelse-stilen som vi meddelade i januari 2023.
 
 Omstartsprogrammet är avsett endast för certifiering som upphörde att gälla före den 24 april 2023, för att erbjuda certifiering till sökande som inte kunde delta i det kontinuerliga utbildningsprogrammet.
 
@@ -393,7 +389,7 @@ Det finns inga certifikatinnehavare som gått ut för Adobe som för närvarande
 
 +++
 
-**Adobe-profil för autentiseringsuppgifter**
+**Adobe-profil för autentiseringshanterare**
 
 +++Varför ser jag _deltagande_ under historikdelen av min profil i Adobe Credential Manager?
 

@@ -1,7 +1,7 @@
 ---
-source-git-commit: 6c78640fc33f8e0d0aa7057265844b810a403d13
+source-git-commit: 6720c1d3d305ba3dd5ccd25c6d4231893a69b26a
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -19,16 +19,13 @@ Gå till [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/adob
 
 ## Om certifieringsprovet {#about-certification-exam}
 
-Adobe använder två leverantörer för att administrera proffsprov, PSI och [!DNL Examity].
+Adobe använder sig av Examity för att administrera proffsiga examina online. I portalen för Exempel kan du:
 
-* **PSI** erbjuder testcenter och japanska tentamina (där det finns tillgängligt)
-* **[!DNL Examity]** erbjuder ett fjärranslutet alternativ
+* **Schemalägg, schemalägg om eller avbryt provet.** Observera att du måste avbryta och göra om schemaläggningen före 48 timmar före det schemalagda besöket. Kandidaterna måste själva ändra den här avtalade tiden.
 
-Om du vill schemalägga, schemalägga om eller avbryta din tentamen väljer du leverantör och följer instruktionerna på skärmen. Så enkelt är det!
+* **Betala för provet.** Betala för din certifieringstest med hjälp av verifikation eller kreditkort i Underportalen. Om du vill köpa en provvoucher går du till: [Voucher-system för Adobe-certifiering](https://market.xvoucher.com/adobe/global){target="_blank"}. Du kan använda verifikationskoden när du schemalägger provet. Om du har en rabatt gäller den i kassan.
 
-Det går att avbryta och schemalägga om det initieras före 48 timmar före det schemalagda provbesöket. Kandidaterna måste själva ändra den här avtalade tiden.
-
-Betala för ditt certifieringsprov antingen med verifikation eller kreditkort. Om du vill köpa en provvoucher går du till: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. Du kan använda verifikationskoden när du schemalägger provet. Om du har en rabatt gäller den i kassan.
+* **Ta ditt prov.**
 
 ## PSI note {#PSI-note}
 

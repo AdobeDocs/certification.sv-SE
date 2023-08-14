@@ -4,9 +4,9 @@ description: Lär dig certifiera dig på Adobe. Hitta alla resurser ni behöver 
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 8ac05dff29adac3c18c9ca72a0e2b5f9f0cdada0
+source-git-commit: 6720c1d3d305ba3dd5ccd25c6d4231893a69b26a
 workflow-type: tm+mt
-source-wordcount: '1462'
+source-wordcount: '1414'
 ht-degree: 1%
 
 ---
@@ -19,42 +19,33 @@ Lär dig certifiera dig på Adobe. Hitta alla resurser ni behöver före, under 
 
 >[!TAB Registrering]
 
-Adobe använder två leverantörer för att administrera procentrerade tentamen: [!DNL PSI] och [!DNL Examity].
-
-{{PSI-note}}
-
-* **[!DNL PSI]:** erbjuder testcenter och japanska tentamina (där det finns tillgängligt)
-* **[!DNL Examity]:** erbjuder ett fjärranslutet alternativ
+Adobe använder sig av Examity för att administrera proffsiga examina online.
 
 **Följ de här stegen för att registrera dig för din certifieringstest:**
 
 * **Steg 1:** Inloggningen till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
 * **Steg 2:** Gå tillbaka till den här webbplatsen och klicka på Tekniska certifieringar.
-* **Steg 3:** Välj din Adobe-lösning, certifieringsnivå och roll
+* **Steg 3:** Välj Adobe, certifieringsnivå och roll
 * **Steg 4:** Följ stegen i **Bli certifierad** -avsnitt.
 
 **Resurser**
-
-**PSI:**
-
-* [Registrera dig på ett testcenter](https://express.adobe.com/page/C8QDu4upy4gF3/){target="_blank"}
 
 Underlighet:
 
 * [Hur man registrerar sig för en onlinebearbetad tentamen](https://express.adobe.com/page/Opvo0RlRrlVvr/){target="_blank"}
 * [Starta tentamen och anslut till proktorn](https://express.adobe.com/page/6tQ2pnEDumKY7/){target="_blank"}
 
->[!TAB Ta din tentamen]
+>[!TAB Ta ditt prov]
 
-Dina [profil](https://www.certmetrics.com/adobe/candidate/demographics.aspx){target="_blank"} namnet i Adobe Credential Management System måste exakt matcha ditt Government ID. Om informationen inte är identisk eller om det inte finns någon matchning avbryts provet och du måste schemalägga om din avtalade tid utöver att betala en extra provavgift.
+Dina [profil](https://www.certmetrics.com/adobe/candidate/demographics.aspx){target="_blank"} namnet i Adobe Credential Management System måste exakt matcha ditt Government ID. Om informationen inte är identisk eller om det inte finns någon matchning avbryts provet och du måste schemalägga om mötet utöver att betala en extra provavgift.
 
 Det går att avbryta och schemalägga om det initieras före 48 timmar före det schemalagda provbesöket. Kandidaterna måste själva ändra den här avtalade tiden.
 
-Varken Adobe Support eller provleverantörer kan bearbeta begäranden om omläggning och annullering. För annulleringar under 48 timmar tas en avgift ut utöver examensavgiften.
+Varken Adobe Support eller Examity kan bearbeta begäranden om omplanering och annullering. För annulleringar under 48 timmar tas en avgift ut utöver examensavgiften.
 
 När du har avslutat en tentamen får du ett tillfälligt pass eller misslyckande. Slutpoängen kan ta upp till 72 timmar att fylla i. Resultat- och poängrapporten finns på fliken Historik i [Adobe Credential Manager](https://www.certmetrics.com/adobe){target="_blank"}.
 
-Om du inte klarar en Adobe-certifieringstest på ditt första försök måste du vänta minst 24 timmar innan du startar provet igen. Om en tentamen inte godkänns vid det andra eller efterföljande försök krävs en vänteperiod på 14 kalenderdagar innan provet tas om. Varje försök medför en separat avgift för tentamen.
+Om du inte klarar en Adobe-certifieringstest på ditt första försök måste du vänta minst 24 timmar innan du startar provet igen. Om en tentamen inte godkänns vid det andra eller efterföljande försök krävs en vänteperiod på 14 kalenderdagar innan tentamen återupptas. Varje försök medför en separat avgift för tentamen.
 
 >[!TAB Studiekostnad]
 
@@ -88,13 +79,10 @@ Obs! Det går inte att kombinera massrabatter med andra erbjudanden eller rabatt
 
 Adobe Credential-teamet samarbetar med leverantörer för att stödja programmets initiativ och mål.  Här är leverantörerna och deras kontaktinformation:
 
-{{PSI-note}}
-
 | Leverantörsnamn | Beskrivning | Supportsida/e-post |
 | ------- | ------- | ------- |
 | Tillförlitligt | Badge Management System | [Support](https://credlyissuer.zendesk.com/hc/en-us){target="_blank"} |
 | Underbarhet | Testa leveransleverantör (endast onlinebearbetning) | [E-post](mailto:support@examity.com){target="_blank"} eller 855-Examity (855-392-6489) |
-| PSI | Testa leveransleverantör för bearbetade tentamina på en plats eller på japanska | [E-post](mailto:adobe.psisupport@psionline.com){target="_blank"} |
 | Xvoucher - Adobe Certification Voucher Center | Verifikationscenter för att köpa enskilda eller bulkverifikationer | [E-post](mailto:support@xvoucher.com){target="_blank"} eller [Onlinehjälp](https://help.xvoucher.com/hc/en-us) |
 
 Andra leverantörsresurser:
@@ -119,7 +107,7 @@ Användbara videor:
 
 Vanliga frågor och svar om Adobe Certification Voucher Center (Xvoucher)
 
-+++När upphör tentamen att gälla? Hur länge passar de?
++++När upphör tentamen? Hur länge är de bra på?
 
 Adobe-tentamen går ut 12 månader efter köpet. Det går inte att förlänga kuponger efter förfallodatumet. Provregistreringar måste schemaläggas, betalas för och utföras före provkupongens förfallodatum.
 
@@ -127,7 +115,7 @@ Adobe-tentamen går ut 12 månader efter köpet. Det går inte att förlänga 
 
 +++Kan verifikationer returneras för kredit eller återbetalning?
 
-_All försäljning är slutgiltig._ Returer och återbetalningar godkänns inte. Adobe-provvouchers köps på tentamenivå, inte för specifika tentamina, och det ger flexibilitet.
+_All försäljning är slutgiltig._ Returer och återbetalningar accepteras inte. Adobe-provvouchers köps på tentamenivå, inte för specifika tentamina, och det ger flexibilitet.
 
 * Exempel: När du köper 10 provkuponger på Adobe Certified Expert-nivå och distribuerar dem behöver du inte veta i förväg eller planera vem som ska ta vilket expertprov.
 * Administratörer kan tilldela vouchern till en användare och se om vouchern visades, löstes in eller när tentamen var schemalagd eller utfördes.
@@ -140,7 +128,7 @@ Betalning kan göras med (alla större) kreditkort. Betalningar via kreditkort k
 
 * Tråd, inköpsorder eller ACH: Skapa en inköpsorder i Xvoucher-systemet som kan skrivas ut och skickas till din kontoansvariga avdelning. Denna beställning kommer att godkännas efter mottagandet av överföringen eller kontrollen.
 * Kreditkort: Alla större kreditkort har godkänts.
-* Xwallall: Detta subtraherar orderbeloppet från din Xwpallpool.
+* Xwall: Detta subtraherar orderbeloppet från din Xwpallpool.
 
 +++
 
@@ -154,7 +142,7 @@ Nej, det finns inget minimum eller maximum. Kundinköpen är endast begränsade 
 
 Kupongerna blir tillgängliga direkt efter köpet om de betalar med kreditkort eller Xwallall.
 
-* Om du köper själv kommer kupongkoder att tillhandahållas på skärmen och i e-post.
+* Om du köper för egen del kommer kupongkoder att anges på skärmen och i e-post.
 * Om du köper för andra loggar du in på ditt Xvoucher-konto och distribuerar vouchers till slutanvändarna därifrån.
 * Om du betalar via tråd eller via inköpsorder kommer verifikationsorder att frisläppas när Xvoucher har mottagit medlen.
 
@@ -176,7 +164,7 @@ När du har tilldelats en voucher får du ett e-postmeddelande från support@xvo
 
 +++Kan verifikationer returneras för kredit eller återbetalning?
 
-All försäljning är slutgiltig. Returer och återbetalningar godkänns inte. Vouchers för Adobe-prov köps på tentamen, inte för specifika tentamina, vilket ger stor flexibilitet.
+All försäljning är slutgiltig. Returer och återbetalningar accepteras inte. Vouchers för Adobe-prov köps på tentamen, inte för specifika tentamina, vilket ger stor flexibilitet.
 
 +++
 
@@ -200,7 +188,7 @@ Ditt märke är ett bevis på din kompetens med Adobe Experience Cloud produkter
 
 **För befintliga användare finns det två sätt att acceptera ditt Adobe-certifieringsmärke:**
 
-* **Steg 1:** Logga in [Tillförlitligt](https://www.credly.com/users/sign_in){target="_blank"}. _(Du måste använda samma e-postadress som du använde för att hämta dina Adobe-uppgifter, annars visas inte ditt emblem.)_
+* **Steg 1:** Logga in på [Tillförlitligt](https://www.credly.com/users/sign_in){target="_blank"}. _(Du måste använda samma e-postadress som du använde för att hämta dina Adobe-uppgifter, annars visas inte ditt emblem.)_
 * **Steg 2:** Eller gå till e-postmeddelandet som du fick från Credly för att godkänna märket.
 * **Steg 3:** Godkänn och dela din bricka.
 

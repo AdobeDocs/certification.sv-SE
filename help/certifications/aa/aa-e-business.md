@@ -4,12 +4,12 @@ description: Lär dig hur du blir certifierad som expert på Adobe Business Prac
 solution: Analytics
 product: Analytics
 role: User
-badge: label="Exam AD0-E208" type="positive"
+badge: label="Prov AD0-E208" type="positive"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: 6720c1d3d305ba3dd5ccd25c6d4231893a69b26a
 workflow-type: tm+mt
-source-wordcount: '1025'
+source-wordcount: '1001'
 ht-degree: 2%
 
 ---
@@ -28,8 +28,8 @@ Du borde ha:
 * Förmåga att omsätta affärskrav i mätvärden eller nyckeltal
 * Möjlighet att skapa och tolka rapporter
 * Möjlighet att förmedla resultat och kan föreslå en åtgärd baserad på analys av rapporter
-* Hjälpte kunderna att förstå hur de kan extrahera/hämta in den information de vill ha (t.ex. hjälpa dem att definiera sina affärsfrågor)
-* En förståelse för hur tekniken fungerar och förstår en kunds implementering (t.ex. var data finns, hur de kan samlas in, hur de spåras) ur funktionell synpunkt
+* Hjälpte kunderna att förstå hur de kan extrahera/hämta in den information de vill ha (till exempel hjälpa dem att definiera sina affärsfrågor)
+* En förståelse för hur tekniken fungerar och förstår en kunds implementering (till exempel var data finns, hur de kan samlas in, hur de spåras) ur funktionell synpunkt
 * Minst ett år [!DNL Adobe Analytics] praktisk upplevelse
 * En grundläggande förståelse för hur digital analys filtrerar/strukturerar data
 * Kunskap om integrationen av [!DNL Adobe Analytics] med andra Adobe-lösningar
@@ -44,7 +44,7 @@ Du borde ha:
 * Appar, SPA, grundläggande webbplatsförståelse
 * Användargränssnitt för mobiltjänster
 * Adobe Help Center
-* Alternativ för dataexport (t.ex. högerklicka för att exportera, hämta .csv, datafeeds, extrahera Data warehouse)
+* Alternativ för dataexport (ex. högerklicka för att exportera, hämta .csv, datafeeds, extrahera Data Warehouse)
 
 >[!NOTE]
 >
@@ -57,10 +57,10 @@ Du borde ha:
 **Målgrupp:**
 
 * Digitala marknadsförare
-* Affärsanalytiker
+* Affärsanalyser
 * Affärskonsulter
 * Dataanalytiker
-* Webbanalytiker
+* Webbanalyser
 * Digitala analytiker
 * Media-/marknadsföringsanalytiker
 * Produktägare och -chefer
@@ -83,7 +83,7 @@ Slutför [onlineberedskapsenkät](https://scorpion.caveon.com/launchpad/ad-q-e20
 
 **Mål och omfattning för tentamen**
 
-Avsnitt 1: Analyser i Adobe Experience Cloud ekosystem (10 %)
+Avsnitt 1: Förstå analyser i Adobe Experience Cloud ekosystem (10 %)
 
 * Uppvisa kunskap om hur man använder Adobe Experience Cloud ID
 * Uppvisa förståelse för Adobe Launch
@@ -91,14 +91,14 @@ Avsnitt 1: Analyser i Adobe Experience Cloud ekosystem (10 %)
 
 Avsnitt 2: Rapportering och introduktion av instrumentpaneler för projekt (30 %)
 
-* Tänk på fördelarna med att använda ett rapportverktyg baserat på ett visst scenario
+* Tänk på fördelarna med att använda ett rapportverktyg baserat på ett givet scenario
 * Jämför bortfalls- och flödesvisualisering och lämpliga variabeltyper för rapportering
-* Använd processen för att schemalägga projekt och Data warehouse
+* Schemalägg projekt och Data Warehouse med processen
 * Använda processen för att dela projekt-, rapport- och analyspaneler för olika användare och/eller grupper
 * Använd processen för att ange aviseringar
 * Använd processen för att söka efter dimensioner/komponenter
 * Använda processen för att skapa en visualisering
-* Ange lämplig artikel för ett scenario
+* I ett scenario måste du fastställa vilken artikel som ska användas
 * Använda processen för att skapa, konfigurera och använda mobilstyrkort
 
 Avsnitt 3: Segmentering och beräknade värden (22 %)
@@ -116,9 +116,9 @@ Avsnitt 4: Allmän verktygsinformation och felsökning (12 %)
 * Bestäm hur data ska hämtas in och ut från [!DNL Adobe Analytics]
 * Identifiera information från marknadsförings-URL:er
 
-Avsnitt 5: Administration (10 %)
+Section 5: Administration (10%)
 
-* Använd processen för att konfigurera [!UICONTROL Marknadsföringskanal] rapporter med [!UICONTROL Marknadsföringskanal] bearbetningsregler
+* Konfigurera [!UICONTROL Marknadsföringskanal] rapporter med [!UICONTROL Marknadsföringskanal] bearbetningsregler
 * Använd processen för att konfigurera klassificeringsimporteraren och regelbyggaren
 * Använda processen för att konfigurera en virtuell rapportserie baserat på ett befintligt segment
 * Använd [!UICONTROL Datafeed] Administratörsgränssnitt för chef
@@ -137,11 +137,11 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Om Data Collection](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html){target="_blank"}
 * [Översikt över Analytics Data Feed](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/data-feed-overview.html){target="_blank"}
 
-**Avsnitt 2: Rapportering och instrumentpaneler för projekt**
+**Avsnitt 2: Rapportering och statuskontroll för projekt**
 
 * [Kom igång med rapporter och analyser](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/getting-started.html){target="_blank"}
 * [[!DNL Adobe Analytics] instrumentpaneler - översikt](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html){target="_blank"}
-* [Översikt över projekt](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/freeform-overview.html){target="_blank"}
+* [Projektöversikt](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/freeform-overview.html){target="_blank"}
 * [Översikt över visualiseringar](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html){target="_blank"}
 * [Översikt över intelligenta aviseringar](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html){target="_blank"}
 
@@ -167,37 +167,22 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 >
 >Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
+>Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning avbryts provet och du måste schemalägga om mötet utöver att betala en extra provavgift.
 
 ## Gör ett övningsprov
 
 {{practice-test}}
 
-## Om provet
+## Om certifieringsprovet
 
 {{about-certification-exam}}
 
-## Ta provet (AD0-E208)
-
-### Tillgängliga alternativ
-
-{{PSI-note}}
-
-**PSI** (*testcenter/alternativ för japanska prov (om sådana finns)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E208" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Ta prov
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Schemalägg eller ta prov AD0-E208
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E208" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Ta prov
+   Gå till portalen för undersökningar
 </span>
 </a>
 
