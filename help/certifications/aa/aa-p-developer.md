@@ -8,9 +8,9 @@ level: Experienced
 badge: label="Prov AD0-E213" type="positive"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: 7aa27decdbc3517351894d2b1d6dad383aeaac03
+source-git-commit: f2a35b41805e12a8193e7e774f8041e5459d7eae
 workflow-type: tm+mt
-source-wordcount: '1145'
+source-wordcount: '1141'
 ht-degree: 3%
 
 ---
@@ -24,7 +24,7 @@ Lär dig hur du blir certifierad [!DNL Analytics] Developer Professional.
 Du borde ha:
 
 * 6-12 månaders erfarenhet inom [!DNL Adobe Analytics] implementering (webb och mobilapp)
-* Upplevelsen som ger stöd åt analysimplementeringsteamen i en bro mellan IT och företaget för att förstå hur affärskraven övergår till en teknisk lösning (SDR), och baserat på krav från analytikern
+* Upplevelser som stöder implementeringsteamen inom analys i en bro mellan IT och företaget för att förstå hur affärskraven övergår till en teknisk lösning (SDR), och baserat på krav från analytikern
 * Förstå vilken typ av variabel som behövs, var och hur data ska samlas in, utforma datamodellen (datalagret), konfigurera och underhålla tagghanteringslösningen
 
 Upplev följande uppgifter:
