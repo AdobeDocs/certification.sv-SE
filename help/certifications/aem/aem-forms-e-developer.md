@@ -4,19 +4,19 @@ description: Lär dig hur du blir certifierad Adobe [!DNL Experience Manager For
 solution: Experience Manager, Experience Manager Forms
 product: Experience Manager
 role: Developer
-badge: label="Exam AD0-E125" type="positive"
+badge: label="Prov AD0-E125" type="positive"
 mini-toc-levels: 1
 exl-id: 6b7fa868-69f3-49b4-934e-87cf86538039
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '821'
+source-wordcount: '798'
 ht-degree: 2%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Experience Manager Forms] Developer Expert
 
-Lär dig hur du blir certifierad [!DNL Experience Manager Forms] Developer Expert.
+Lär dig hur du blir certifierad Adobe [!DNL Experience Manager Forms] Developer Expert.
 
 ## Minimal upplevelse
 
@@ -65,19 +65,19 @@ Dessutom bör du känna till följande tekniker och miljöer:
 **Målgrupp:**
 
 * AEM
-* Senior AEM Developers
+* AEM utvecklare
 * AEM konsulter
-* AEM
+* AEM Architects
 
 **Information om tentamen:**
 
 * Nivå: Expert (1-3 års erfarenhet)
-* Lösenpoäng: 27/50
+* Löpande poäng: 27/50
 * Tid: 100 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller testcenter
-* Tillgängliga språk: Engelska
+* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
+* Tillgängliga språk: engelska
 * Kostnad: $225 (global) / $150 (Indien)
-* Exam-ID: AD0-E125
+* Exam ID: AD0-E125
 
 **Självbedömning av beredskap**
 
@@ -135,7 +135,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 * [AEM Forms Tutorials och videor](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html){target="_blank"}
 * [Anpassad lagring för utkast och inskickade dokument](https://experienceleague.adobe.com/docs/experience-manager-64/forms/use-forms-portal/adding-custom-storage-provider-forms.html){target="_blank"}
-* [Utdatatjänst](https://experienceleague.adobe.com/docs/experience-manager-65/forms/use-document-services/output-service.html#generating-non-interactive-form-documents){target="_blank"}
+* [Output Service](https://experienceleague.adobe.com/docs/experience-manager-65/forms/use-document-services/output-service.html#generating-non-interactive-form-documents){target="_blank"}
 
 **Avsnitt 3: Administration och felsökning**
 
@@ -146,11 +146,11 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 **Avsnitt 4: API-slutpunkter och integreringar**
 
-* [Integrera Adobe Experience Manager Forms som Cloud Service med Acrobat Sign | Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-sign/introduction.html){target="_blank"}
+* [Integrera Adobe Experience Manager Forms som Cloud Service med Acrobat Sign | ADOBE EXPERIENCE MANAGER](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-sign/introduction.html){target="_blank"}
 
 **Avsnitt 5: Interaktiv kommunikation**
 
-* [Översikt över interaktionskommunikation](https://experienceleague.adobe.com/docs/experience-manager-64/forms/getting-started/interactive-communications-overview.html){target="_blank"}
+* [Översikt över interaktion](https://experienceleague.adobe.com/docs/experience-manager-64/forms/getting-started/interactive-communications-overview.html){target="_blank"}
 * [Villkor i interaktiv kommunikation](https://experienceleague.adobe.com/docs/experience-manager-65/forms/interactive-communications/conditions-interactive-communications.html){target="_blank"}
 
 >[!TAB Bli certifierad]
@@ -163,31 +163,16 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 {{practice-test}}
 
-## Om provet
+## Om certifieringsprovet
 
 {{about-certification-exam}}
 
-## Ta provet (AD0-E125)
-
-### Tillgängliga alternativ
-
-{{PSI-note}}
-
-**PSI** (*testcenter/alternativ för japanska prov (om sådana finns)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E125" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Ta prov
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Schemalägg eller ta prov AD0-E125
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E125" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Ta prov
+   Gå till portalen för undersökningar
 </span>
 </a>
 

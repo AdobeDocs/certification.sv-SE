@@ -4,25 +4,25 @@ description: Lär dig hur du blir certifierad Adobe Developer Expert Adobe [!DNL
 solution: Campaign,Campaign Standard
 product: Campaign
 role: Developer
-badge: label="Exam AD0-E306" type="positive"
+badge: label="Prov AD0-E306" type="positive"
 mini-toc-levels: 1
 exl-id: be24274b-7a61-47f5-9947-984015c07a96
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1096'
+source-wordcount: '1073'
 ht-degree: 12%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Campaign Standard] Developer Expert
 
-Lär dig hur du blir en certifierad Adobe Developer-expert.
+Lär dig hur du blir certifierad Adobe [!DNL Campaign Standard] Developer Expert.
 
 ## Minimal upplevelse
 
 Du borde ha:
 
-* Minst två års [!DNL Campaign] programvaruupplevelse
+* Minst två år i Adobe [!DNL Campaign Standard] programvaruupplevelse
 * Minst två års relevant erfarenhet av flerkanaliga digitala marknadsföringskampanjer och webbutveckling (till exempel REST API)
 * Möjlighet att utföra uppgifter i Adobe Campaign, t.ex. mallutveckling, tekniska arbetsflöden, schemautveckling och integreringar, samt att övervaka instansen med hjälp av kontrollpanelen
 * Arbeta i en kanalmiljö (e-post, direktreklam, mobilt och socialt)
@@ -60,12 +60,12 @@ Du borde ha:
 **Information om tentamen:**
 
 * Nivå: Expert (1-3 års erfarenhet)
-* Lösenpoäng: 29/50
+* Löpande poäng: 29/50
 * Tid: 100 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller testcenter
-* Tillgängliga språk: Engelska
+* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
+* Tillgängliga språk: engelska
 * Kostnad: $225 (global) / $150 (Indien)
-* Exam-ID: AD0-E306
+* Exam ID: AD0-E306
 
 **Självbedömning av beredskap**
 
@@ -73,9 +73,9 @@ Slutför [onlineberedskapsenkät](https://scorpion.caveon.com/launchpad/ad-q-e30
 
 **Mål och omfattning för tentamen**
 
-Avsnitt 1: Datamodellering och -hantering (26 %)
+Avsnitt 1: Datamodellering och datahantering (26 %)
 
-* Omvandla ett klientbehov till en anpassad resurs
+* Omvandla ett klientbehov till en anpassad resurs efter ett scenario
 * Bestäm hur skärm- och filterdefinitioner ska konfigureras
 * I ett scenario måste du fastställa rätt strategi för att definiera nycklar, index och länkar
 * Bestäm rätt metod för att publicera resursuppdateringar
@@ -92,7 +92,7 @@ Avsnitt 2: Kampanjhantering (50 %)
 * Bestäm rätt metod för att konfigurera landningssidor
 * Bestäm rätt arbetssätt för tjänster och prenumerationer
 * Validera leveranssätt för ett scenario
-* Bestäm rätt metod för att skapa e-postmeddelanden med hjälp av designern
+* Identifiera rätt sätt att bygga e-postmeddelanden med hjälp av den kreativa designern
 * Bestäm rätt metod för att skapa anpassade rapporter
 
 Avsnitt 3: Administration (24%)
@@ -108,7 +108,7 @@ Avsnitt 3: Administration (24%)
 
 Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
 
-**Avsnitt 1: Datamodellering och -hantering**
+**Avsnitt 1: Datamodellering och datahantering**
 
 * [Skapa en anpassad resurs](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/creating-a-custom-resource.html){target="_blank"}
 * [Skapa eller utöka resursen](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/creating-or-extending-the-resource.html){target="_blank"}
@@ -163,31 +163,16 @@ Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och 
 
 {{practice-test}}
 
-## Om provet
+## Om certifieringsprovet
 
 {{about-certification-exam}}
 
-## Ta provet (AD0-E306)
-
-### Tillgängliga alternativ
-
-{{PSI-note}}
-
-**PSI** (*testcenter/alternativ för japanska prov (om sådana finns)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E306" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Ta prov
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Schemalägg eller ta prov AD0-E306
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E306" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Ta prov
+   Gå till portalen för undersökningar
 </span>
 </a>
 

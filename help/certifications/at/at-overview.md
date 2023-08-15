@@ -3,26 +3,26 @@ title: Översikt över målcertifiering
 description: Översikt över certifieringsalternativ för Adobe Target
 solution: Target
 exl-id: 6853b7c9-23df-4082-b752-026dadcb3087
-source-git-commit: 6b681faf4c1d84408f6ab430477fef22285b8c9d
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 9%
+source-wordcount: '110'
+ht-degree: 11%
 
 ---
 
-# Översikt över målcertifiering
+# [!DNL Adobe Target] Certifieringsöversikt
 
 ## Nyheter
 
-Den Överordnad certifieringen för Adobe Target Architect har uppdaterats.
+The [!DNL Adobe Target] Architect Master-certifiering har uppdaterats.
 
 Den aktuella versionen är:
 
-* [Adobe Target Architect Överordnad (AD0-E409)](/help/certifications/at/at-m-architect.md)
+* [Adobe Target Architect Master (AD0-E409)](/help/certifications/at/at-m-architect.md)
 
 Om du redan har schemalagt eller börjat studera för aktuell tentamen, se till att du schemalägger och slutför tentamen **före 8 september 2023**.
 
-Om du just har börjat med din certifiering rekommenderar vi att du använder **NYHET** version av tentamen.
+Om du just har börjat med din certifiering rekommenderar vi att du använder **NYHET** version av provet.
 
 ## Alla tillgängliga tentamen för mål
 
@@ -34,7 +34,7 @@ Om du just har börjat med din certifiering rekommenderar vi att du använder **
 
 * [Yrkesverksam](/help/certifications/at/at-e-business.md) <!--AD0-E406-->
 
-**Överordnad**
+**Master**
 
 * [Arkitekt - gäller till 8 september 2023](/help/certifications/at/at-m-architect.md) <!--AD0-E407-->
 * [Arkitekt NYTT](/help/certifications/at/at-m-architect0623.md) <!--AD0-E409-->

@@ -7,22 +7,22 @@ role: User
 badge: label="Prov AD0-E559" type="positive"
 mini-toc-levels: 1
 exl-id: 88f9cbfb-c9bc-4d27-a9de-1199c5cd013e
-source-git-commit: 49dc037af5b72c804ae00af908b33ae20c75f5c3
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1425'
+source-wordcount: '1388'
 ht-degree: 0%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Marketo Engage] Affärsexpert
 
-Lär dig hur du blir en certifierad expert på Adobe Business Practitioner.
+Lär dig hur du blir certifierad Adobe [!DNL Marketo Engage] Yrkesverksamma inom affärsverksamhet.
 
 ## Minimal upplevelse
 
 Du borde ha:
 
-* Ungefär 18 månaders erfarenhet med [!DNL Marketo] funktioner som behövs för att skapa marknadsföringskampanjer och använda kundbeteendedata
+* Ungefär 18 månaders erfarenhet av Adobe [!DNL Marketo Engage] funktioner som behövs för att skapa marknadsföringskampanjer och använda kundbeteendedata
 
 Du bör vara en marknadsförare med erfarenhet av:
 
@@ -216,38 +216,16 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 {{practice-test}}
 
-## Om provet
+## Om certifieringsprovet
 
 {{about-certification-exam}}
 
-## Ta provet (AD0-E559)
-
-### Tillgängliga alternativ
-
-{{PSI-note}}
-
-**PSI** (*testcenter/alternativ för japansk tentamen (om sådana finns)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E559" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Ta engelsk tentamen
-</span>
-</a>
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E559-j" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Ta japanska prov
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Schemalägg eller ta prov AD0-E559
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E559" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Ta prov
+   Gå till portalen för undersökningar
 </span>
 </a>
 

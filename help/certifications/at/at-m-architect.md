@@ -1,26 +1,26 @@
 ---
-title: Arkitektens Överordnad certifiering
-description: Lär dig hur du blir certifierad [!DNL Adobe Target] Arkitekt Överordnad.
+title: Architect Master-certifiering
+description: Lär dig hur du blir certifierad [!DNL Adobe Target] Arkitektmästare.
 solution: Target
 product: Target
 role: Data Architect
-badge: label="Exam AD0-E407" type="positive"
+badge: label="Prov AD0-E407" type="positive"
 mini-toc-levels: 1
 exl-id: 05041fba-a1c3-491f-9f88-59498d507e61
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1149'
+source-wordcount: '1122'
 ht-degree: 4%
 
 ---
 
-# Certifieringsresa för [!DNL Adobe Target] Arkitekt Överordnad
+# Certifieringsresa för [!DNL Adobe Target] Architect Master
 
-Lär dig hur du blir en certifierad Överordnad för Adobe Architect.
+Lär dig hur du blir certifierad [!DNL Adobe Target] Arkitektmästare.
 
 >[!NOTE]
 >
->Detta prov, Adobe Target Architect Överordnad (AD0-E407), har uppdaterats. Om du redan har börjat studera eller är schemalagd att ta den här versionen, vänligen se till att slutföra den före 8 september 2023. Om du precis har börjat rekommenderar vi att du [senaste versionen av denna tentamen](at-m-architect0623.md).
+>Detta prov [!DNL Adobe Target] Architect Master (AD0-E407) har uppdaterats. Om du redan har börjat studera eller är schemalagd att ta den här versionen, vänligen se till att slutföra den före 8 september 2023. Om du precis har börjat rekommenderar vi att du [senaste versionen av denna tentamen](at-m-architect0623.md).
 
 ## Minimal upplevelse
 
@@ -67,31 +67,31 @@ Miljöer:
 * Tekniker/arkitekt för personalisering
 * Digital Solution Architect
 * Digital transformationskonsult
-* Experience optimization lead
+* Lead för upplevelseoptimering
 * Optimeringshanteraren
 * Kampanjhanterare online
 
 **Information om tentamen:**
 
-* Nivå: Överordnad (3-5 års erfarenhet)
-* Lösenpoäng: 34/50
+* Nivå: Masternivå (3-5 års erfarenhet)
+* Löpande poäng: 34/50
 * Tid: 100 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller testcenter
-* Tillgängliga språk: Engelska
+* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
+* Tillgängliga språk: engelska
 * Kostnad: $225 (global) / $150 (Indien)
-* Exam-ID: AD0-E407
+* Exam ID: AD0-E407
 
 **Mål och omfattning för tentamen**
 
 Avsnitt 1: [!DNL Adobe Target] grundläggande (12 %)
 
 * Identifiera lämpliga [!DNL Adobe Target] användning för ett visst scenario
-* Förklara de grundläggande teknikerna i [!DNL Adobe Target] implementering
+* Förklara grundläggande tekniker i [!DNL Adobe Target] implementering
 
-Avsnitt 2: Integrera med [!DNL Adobe Target] (16 %)
+Avsnitt 2: Integrering med [!DNL Adobe Target] (16 %)
 
-* Använd processen för att integrera [!DNL Adobe Target] med Adobe Analytics (A4T)
-* Använd processen för att integrera [!DNL Adobe Target] till Adobe Experience Manager
+* Använda processen för att integrera [!DNL Adobe Target] med Adobe Analytics (A4T)
+* Använda processen för att integrera [!DNL Adobe Target] till Adobe Experience Manager
 * Beskriv integrationen med andra Adobe Experience Cloud-lösningar
 * Beskriv integrationen med Adobe Experience Cloud Audiences
 
@@ -107,12 +107,12 @@ Avsnitt 4: [!DNL Adobe Target] och kontaktpunkter som stöds (15 %)
 * Beskriv implementering på serversidan
 * Beskriv implementeringskrav för mobiler, e-postmarknadsföring och API:er
 
-Avsnitt 5: Utnyttja [!DNL Adobe Target] rekommendationer (9 %)
+Avsnitt 5: Bruttoanvändning [!DNL Adobe Target] rekommendationer (9 %)
 
 * Uppvisa förståelse för rekommendationer, kataloger och miljöer
 * Använd processen för att konfigurera Target-rekommendationer
 
-Avsnitt 6: Arkitekt, design och implementering [!DNL Adobe Target] (15 %)
+Avsnitt 6: Arkitekt, utformning och implementering [!DNL Adobe Target] (15 %)
 
 * Välj rätt mbox-implementering
 * Uppvisa design av [!DNL Adobe Target] implementering
@@ -142,7 +142,7 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 * [[!DNL Adobe Target] Användarhandbok för yrkesverksamma](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
 * [Lär dig använda [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/overview.html){target="_blank"}
 
-**Avsnitt 2: Integrera med[!DNL Adobe Target]**
+**Avsnitt 2: Integrering med[!DNL Adobe Target]**
 
 * [[!DNL Adobe Target] Användarhandbok för yrkesverksamma](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
 * [AEM Sites videor och självstudiekurser](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
@@ -171,11 +171,11 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 * [Implementera Adobe Experience Cloud i mobilappar, genomgång](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html){target="_blank"}
 * [Mål-API-referens](https://developer.adobe.com/client-sdks/documentation/adobe-target/api-reference/#getthirdpartyid){target="_blank"}
 
-**Avsnitt 5: Utnyttja [!DNL Adobe Target] rekommendationer**
+**Avsnitt 5: Bruttoanvändning [!DNL Adobe Target] rekommendationer**
 
 * [[!DNL Adobe Target] Användarhandbok för yrkesverksamma](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
 
-**Avsnitt 6: Arkitekt, design och implementering[!DNL Adobe Target]**
+**Avsnitt 6: Arkitekt, utformning och implementering[!DNL Adobe Target]**
 
 * [[!DNL Adobe Target] Användarhandbok för yrkesverksamma](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
 * [Lägg till [!DNL Adobe Target] med taggar](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/implement-solutions/target.html){target="_blank"}
@@ -205,31 +205,16 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 >Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
 
 
-## Om provet
+## Om certifieringsprovet
 
 {{about-certification-exam}}
 
-## Ta provet (AD0-E407)
-
-### Tillgängliga alternativ
-
-{{PSI-note}}
-
-**PSI** (*testcenter/alternativ för japanska prov (om sådana finns)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E407" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Ta prov
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Schemalägg eller ta prov AD0-E407
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E407" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Ta prov
+   Gå till portalen för undersökningar
 </span>
 </a>
 

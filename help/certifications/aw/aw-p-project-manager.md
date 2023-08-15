@@ -3,19 +3,19 @@ title: Certifiering av Project Manager Professional
 description: Lär dig hur du blir certifierad Adobe Project Manager Professional i Adobe [!DNL Workfront].
 solution: Workfront
 role: Developer
-badge: label="Exam AD0-E903" type="positive"
+badge: label="Prov AD0-E903" type="positive"
 mini-toc-levels: 1
 exl-id: 5bb372b4-6237-44f9-ac71-6093e2f0d03f
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1573'
+source-wordcount: '1549'
 ht-degree: 0%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Workfront] Project Manager Professional
 
-Lär dig hur du blir certifierad Adobe Project Manager Professional.
+Lär dig hur du blir certifierad Adobe [!DNL Workfront] Project Manager Professional.
 
 ## Minimal upplevelse
 
@@ -36,7 +36,7 @@ Du borde ha:
 **Målgrupp:**
 
 * Projektledare, projektledare, planerare
-* SCRUM överordnad
+* SCRUM Master
 * [!DNL Workfront] kraftfull användare
 * Systemadministratör
 * Programansvarig, portföljförvaltare
@@ -45,13 +45,13 @@ Du borde ha:
 
 **Information om tentamen - Adobe [!DNL Workfront] Projektledare**
 
-* Nivå: Professionell (0-12 månaders erfarenhet)
-* Lösenpoäng: 45/70
+* Nivå: Professionell (0-12 månaders upplevelse)
+* Löpande poäng: 45/70
 * Tid: 140 min
 * Leverans: Bearbetad online (kräver kameraåtkomst)
-* Tillgängliga språk: Engelska
-* Kostnad: $125 (global) / $95 (Indien)
-* Exam-ID: AD0-E903
+* Tillgängliga språk: engelska
+* Kostnad: 125 USD (globalt)/95 USD (Indien)
+* Exam ID: AD0-E903
 
 **Självbedömning av beredskap**
 
@@ -59,7 +59,7 @@ Slutför [onlineberedskapsenkät](https://scorpion.caveon.com/launchpad/ad-q-e90
 
 **Mål och omfattning för tentamen**
 
-Avsnitt 1: Intag och planering (30 %)
+Avsnitt 1: Intagning och planering (30 %)
 
 * Identifiera olika sätt att få meddelande om en arbetsförfrågan
 * Granska anpassade data utifrån en begäran för att avgöra vilken åtgärd som är lämplig.
@@ -78,7 +78,7 @@ Avsnitt 2: Kör (50 %)
 * Identifiera hur olika datumtyper används av systemet
 * Identifiera den information som datumtyperna förmedlar till en projektledare
 * Ange i ett scenario hur olika åtgärdsbegränsningar påverkar projekttidslinjen när de används
-* Visa hur du hittar projektteam och hur du meddelar dem om arbetstilldelningar, uppdateringar eller slutförande av arbetsuppgifter
+* Visa hur du kan hitta projektteam och hur du informerar dem om arbetstilldelningar, uppdateringar eller slutförande av arbetsuppgifter
 * Beskriv hur du överför ett dokument och genererar ett bevis för ett scenario
 * Identifiera olika sätt att hantera ett projekt
 * Ange planerad avvikelse för en specifik jobbroll i ett enskilt projekt
@@ -111,13 +111,13 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 
 [Se exempelfrågor](https://scorpion.caveon.com/launchpad/ad4-e903-adobe-workfront-project-manager-certified-professional-exam-sample-exam){target="_blank"}
 
-**Rekommenderad utbildningskurs:**
+**Rekommenderad kurs:**
 
 [Grundläggande teamutbildning för planerare i nya [!DNL Workfront] upplevelse](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/core-team-training-program-for-planners.html){target="_blank"}
 
 **Ytterligare resurser:**
 
-**Avsnitt 1: Intag och planering**
+**Avsnitt 1: Intagning och planering**
 
 * [Använd meddelanden](https://one.workfront.com/s/document-item?bundleId=workfront-classic&amp;topicId=Content%2FWorkfront_basics%2FUsing_Notifications%2F_use-notifications.htm&amp;_LANG=en){target="_blank"}
 * [Typ av aktivitetsvaraktighet och varaktighet](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FTasks%2FTaskDurtn%2F_task-duration-duration-type.htm&amp;_LANG=en){target="_blank"}
@@ -143,7 +143,7 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 * [Lägg till nya dokument i Adobe [!DNL Workfront]](https://one.workfront.com/s/document-item?bundleId=workfront-classic&amp;topicId=Content%2FDocuments%2FAdding_Documents_to_Workfront%2F_add-new-documents-_to-workfront.htm&amp;_LANG=en){target="_blank"}
 * [Burndown](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAgile%2FUse_Scrum_in_an_Agile_Team%2FBurndown%2F_burndown.htm&amp;_LANG=en){target="_blank"}
 * [Resursanvändning](https://one.workfront.com/s/document-item?bundleId=workfront-classic&amp;topicId=Content%2FResource_Mgmt%2FResource_utilization%2F_resource-utilization.htm&amp;_LANG=en){target="_blank"}
-* [Projektets ekonomi](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FProjects%2FProject_Finances%2F_project-finances-overview.htm&amp;_LANG=en){target="_blank"}
+* [Projektets finanser](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FProjects%2FProject_Finances%2F_project-finances-overview.htm&amp;_LANG=en){target="_blank"}
 * [[!DNL Workfront] dokumentation](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topic[%C3%A2%E2%82%AC%C2%A6]urce_utilization%2Fview-utilization-information.htm&amp;_LANG=en){target="_blank"}
 * [Översikt över Gantt-schema](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FGantt_Chart%2FUse_the_Gantt_Chart%2F_gantt-chart-overview.htm&amp;_LANG=en){target="_blank"}
 * [Grupproller](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FManage_groups%2FGroup_roles%2F_group-roles.htm&amp;_LANG=en){target="_blank"}
@@ -152,7 +152,7 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 * [Uppdatera arbete i ett projekt](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FProjects%2FUpdating_Work_in_a_Project%2F_update-work-on-project.htm&amp;_LANG=en){target="_blank"}
 * [Status och prioritetsetiketter](https://one.workfront.com/s/document-item?bundleId=workfront-classic&amp;topicId=Content%2FAdministration_and_Setup%2FCustomize_Workfront%2FCreating_Custom_Status_and_Priority_Labels%2F_create-custom-status-and-priority-labels.htm&amp;_LANG=en){target="_blank"}
 
-**Avsnitt 3: Stänger**
+**Avsnitt 3: Avslutning**
 
 * [Översikt över rapportelement](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FReports_and_Dashboards%2FReports%2FReporting_Elements%2F_reporting-elements-overview.htm&amp;_LANG=en){target="_blank"}
 * [Skapa och hantera tidrapporter i Adobe [!DNL Workfront]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FTimesheets%2FCreate_and_Manage_Timesheets%2F_create-and-manage-timesheets.htm&amp;_LANG=en){target="_blank"}
@@ -169,31 +169,16 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 >Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
 
 
-## Om provet
+## Om certifieringsprovet
 
 {{about-certification-exam}}
 
-## Ta provet (AD0-E903)
-
-### Tillgängliga alternativ
-
-{{PSI-note}}
-
-**PSI** (*testcenter/alternativ för japanska prov (om sådana finns)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E903" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Ta prov
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Schemalägg eller ta prov AD0-E903
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E903" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Ta prov
+   Gå till portalen för undersökningar
 </span>
 </a>
 

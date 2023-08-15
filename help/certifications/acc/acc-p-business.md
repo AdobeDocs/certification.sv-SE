@@ -1,29 +1,29 @@
 ---
-title: Yrkescertifiering för affärsanvändare
+title: Yrkescertifiering för Business Practizer
 description: Lär dig hur du blir en certifierad Adobe-professionell företagsledare på [!DNL Campaign Classic].
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: User
-badge: label="Exam AD0-E329" type="positive"
+badge: label="Prov AD0-E329" type="positive"
 mini-toc-levels: 1
 exl-id: 38af77fd-8e31-4cca-b953-3f83b61d3000
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1217'
+source-wordcount: '1215'
 ht-degree: 8%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Campaign Classic] Yrkesverksamma inom affärsverksamhet
 
-Lär dig hur du blir certifierad Adobe Business Practitioner Professional.
+Lär dig hur du blir certifierad Adobe [!DNL Campaign Classic] Yrkesverksamma inom affärsverksamhet.
 
 ## Minimal upplevelse
 
 Du borde ha:
 
 * Minst ett års grundläggande Campaign-programvaruupplevelse
-* En förståelse för hur man kör en fråga
+* Hur man kör en fråga
 * En förståelse för de verktyg Adobe Campaign erbjuder
 * Kunskap om hur man omvandlar affärsmål till arbetsflöden
 * En förståelse för målgruppsanpassning och segmentering
@@ -56,13 +56,13 @@ Du borde ha:
 
 **Information om tentamen:**
 
-* Nivå: Professionell (0-12 månaders erfarenhet)
-* Lösenpoäng: 32/50
+* Nivå: Professionell (0-12 månaders upplevelse)
+* Löpande poäng: 32/50
 * Tid: 100 min
 * Leverans: Bearbetad online (kräver kameraåtkomst)
-* Tillgängliga språk: Engelska
-* Kostnad: $125 (global) / $95 (Indien)
-* Exam-ID: AD0-E329
+* Tillgängliga språk: engelska
+* Kostnad: 125 USD (globalt)/95 USD (Indien)
+* Exam ID: AD0-E329
 
 **Självbedömning av beredskap**
 
@@ -70,7 +70,7 @@ Slutför [onlineberedskapsenkät](https://scorpion.caveon.com/launchpad/ad-q-e31
 
 **Mål och omfattning för tentamen**
 
-Avsnitt 1: Bygg en kampanj (29 %)
+Avsnitt 1: Skapa en kampanj (29 %)
 
 * Känn igen olika koncept och mål för digital marknadsföring
 * Identifiera och definiera viktiga verktyg och struktur i relation till gränssnittet
@@ -82,7 +82,7 @@ Avsnitt 1: Bygg en kampanj (29 %)
 * Identifiera var leveransresultat eller utdata finns
 * Skillnaden mellan olika fel- och varningstyper (leverans, kampanj och arbetsflödesnivå)
 
-Avsnitt 2: Hantering av arbetsflöden och plattformsfunktioner (16 %)
+Avsnitt 2: Arbetsflödeshantering och plattformsfunktioner (16 %)
 
 * Ange i ett scenario vilka arbetsflödesaktiviteter som ska väljas
 * Skillnaden mellan kampanjarbetsflöden och tekniska arbetsflöden
@@ -128,7 +128,7 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 
 [Se exempelfrågor](https://scorpion.caveon.com/launchpad/ad0-e329-adobe-campaign-classic-business-practitioner-professional-copy-k5cx2p){target="_blank"}
 
-**Avsnitt 1: Bygg en kampanj**
+**Avsnitt 1: Skapa en kampanj**
 
 * [Kom igång med Adobe Campaign](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/get-started.html){target="_blank"}
 * [Kommunikationskanaler](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/communication-channels.html){target="_blank"}
@@ -137,7 +137,7 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 * [Utforma och genomför marknadsföringskampanjer](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/about-marketing-campaigns/designing-marketing-campaigns.html){target="_blank"}
 * [Om mallar](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html){target="_blank"}
 
-**Avsnitt 2: Arbetsflödeshantering och plattformsfunktioner**
+**Avsnitt 2: Hantering av arbetsflöden och plattformsfunktioner**
 
 * [Målinriktade aktiviteter i arbetsflöden](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html){target="_blank"}
 * [Flödeskontrollaktiviteter i arbetsflöden](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/flow-control-activities/about-flow-control-activities.html){target="_blank"}
@@ -180,20 +180,16 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 >Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
 
 
-## Om provet
+## Om certifieringsprovet
 
 {{about-certification-exam}}
 
-## Ta provet (AD0-E329)
-
-### Tillgängliga alternativ
-
-**[!DNL Examity]** ( *online* )
+## Schemalägg eller ta prov AD0-E329
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E329" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Ta prov
+   Gå till portalen för undersökningar
 </span>
 </a>
 

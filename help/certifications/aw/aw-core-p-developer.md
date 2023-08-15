@@ -3,19 +3,19 @@ title: Certifiering av Core Developer Professional
 description: Lär dig hur du blir certifierad Adobe Developer Professional i Adobe [!DNL Workfront].
 solution: Workfront
 role: Developer
-badge: label="Exam AD0-E905" type="positive"
+badge: label="Prov AD0-E905" type="positive"
 mini-toc-levels: 1
 exl-id: 08f5386c-901c-44be-9537-48c9ac5d2be2
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1034'
+source-wordcount: '1011'
 ht-degree: 0%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Workfront] Core Developer Professional
 
-Lär dig hur du blir certifierad Adobe Developer Professional.
+Lär dig hur du blir certifierad Adobe [!DNL Workfront] Core Developer Professional.
 
 ## Minimal upplevelse
 
@@ -58,13 +58,13 @@ Och du borde ha:
 
 **Information om tentamen:**
 
-* Nivå: Professionell (0-12 månaders erfarenhet)
-* Lösenpoäng: 44/70
+* Nivå: Professionell (0-12 månaders upplevelse)
+* Löpande poäng: 44/70
 * Tid: 140 min
 * Leverans: Bearbetad online (kräver kameraåtkomst)
-* Tillgängliga språk: Engelska
-* Kostnad: $125 (global) / $95 (Indien)
-* Exam-ID: AD0-E905
+* Tillgängliga språk: engelska
+* Kostnad: 125 USD (globalt)/95 USD (Indien)
+* Exam ID: AD0-E905
 
 **Självbedömning av beredskap**
 
@@ -150,7 +150,7 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 
 * [Skapa en anpassad rapport](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/create-manage-reports/create-custom-report.html){target="_blank"}
 * [Skicka och dela rapporter](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/how-to-send-and-share-reports.html){target="_blank"}
-* [God praxis - anpassade rapporter](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/custom-reports-bp.html){target="_blank"}
+* [Bästa praxis - Anpassade rapporter](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/custom-reports-bp.html){target="_blank"}
 
 
 **Avsnitt 5: Körning**
@@ -170,31 +170,16 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 
 
 
-## Om provet
+## Om certifieringsprovet
 
 {{about-certification-exam}}
 
-## Ta provet (AD0-E905)
-
-### Tillgängliga alternativ
-
-{{PSI-note}}
-
-**PSI** (*testcenter/alternativ för japanska prov (om sådana finns)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E905" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Ta prov
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Schemalägg eller ta prov AD0-E905
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E905" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Ta prov
+   Gå till portalen för undersökningar
 </span>
 </a>
 

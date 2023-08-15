@@ -4,19 +4,19 @@ description: Lär dig hur du blir en certifierad expert på Adobe Business Pract
 solution: Target
 product: Target
 role: User
-badge: label="Exam AD0-E406" type="positive"
+badge: label="Prov AD0-E406" type="positive"
 mini-toc-levels: 1
 exl-id: e907929f-b4a4-45e1-ba2d-f407f46d41c6
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1232'
+source-wordcount: '1207'
 ht-degree: 0%
 
 ---
 
 # Certifieringsresa för [!DNL Adobe Target] Affärsexpert
 
-Lär dig hur du blir en certifierad expert på Adobe Business Practitioner.
+Lär dig hur du blir certifierad [!DNL Adobe Target] Yrkesverksamma inom affärsverksamhet.
 
 ## Minimal upplevelse
 
@@ -28,13 +28,13 @@ Du borde ha:
 * Kunskap om grunderna i administrativa uppgifter för Target/Adobe Marketing Cloud (inställningar, användarroller och behörigheter, inställningar)
 * Förmåga att förstå och omvandla nyckeltal för företag till optimeringsmål
 * Möjlighet att lägga fram förslag baserat på behovsbedömning
-* Förmåga att avgöra vad som är lämpligt [!DNL Adobe Target] aktivitetstyper baserade på optimeringsmål
+* Förmåga att fastställa lämpliga [!DNL Adobe Target] aktivitetstyper baserade på optimeringsmål
 * Kunskap om hur HTML och CSS kan användas för att optimera användarupplevelsen
 * Förstå JavaScript som ett koncept
 * Kunskap om statistiska begrepp och dataanalys när det gäller optimering
 * Ingående kunskap om trestegsarbetsflödet (upplevelser, målgruppsanpassning, mål och inställningar, inklusive alla rapportkällor)
 * Möjlighet att omvandla resultat från aktivitetsrapportering till användbara insikter och förslag
-* En förståelse för vilken inverkan förändrade tekniker har på Target (ITP, GDPR/CCPA, SPA).
+* En förståelse för hur förändrade tekniker påverkar Target (ITP, GDPR/CCPA, SPA).
 * En förståelse för hur rekommendationsaktiviteter kan användas som en lösning
 
 Dessutom bör du känna till följande tekniker och miljöer:
@@ -42,7 +42,7 @@ Dessutom bör du känna till följande tekniker och miljöer:
 Teknik:
 
 * Marketing cloud debugger / även kallad Adobe Experience Cloud debugger
-* Adobe Analytics som rapportkälla för Target specifikt A4T-integrering
+* Adobe Analytics som rapporteringskälla för Target specifikt A4T-integrering
 * Verktyg för webbläsarkonsol/webbläsarutvecklare, t.ex. konsol, nätverksflik
 * Nätverksverktyg i webbläsaren
 * Grundläggande förståelse för andra verktyg för Adobe
@@ -84,12 +84,12 @@ Miljöer:
 **Information om tentamen:**
 
 * Nivå: Expert (1-3 års erfarenhet)
-* Lösenpoäng: 46/68
+* Passing Score: 46/68
 * Tid: 136 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller testcenter
-* Tillgängliga språk: Engelska
+* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
+* Tillgängliga språk: engelska
 * Kostnad: $225 (global) / $150 (Indien)
-* Exam-ID: AD0-E406
+* Exam ID: AD0-E406
 
 **Mål och omfattning för tentamen**
 
@@ -103,7 +103,7 @@ Avsnitt 1: Planering och strategi (31 %)
 * Analysera en testhypotes utifrån ett givet scenario och identifiera aspekter av en giltig hypotes
 * Bestämma KPI-baserade primära och sekundära framgångsmått
 * Utvärdera målgruppens behov
-* Fastställa lämpliga källor för analysrapportering (dvs. Target eller Adobe Analytics)
+* Bestäm lämpliga analysrapportkällor (dvs. Target eller Adobe Analytics)
 
 Avsnitt 2: Konfigurera, köra och hantera (42 %)
 
@@ -128,7 +128,7 @@ Avsnitt 3: Analys och rapportering (17 %)
 * Utvärdera och jämföra [!DNL Adobe Target] Exempelinställningar för storlekskalkylatorn när både målaktiviteter planeras och målaktiviteter valideras
 * Utvärdera och identifiera vanliga problem i samband med A/B-testning och hur du undviker dem
 * Se hur sammanfattningsrapporter från Automated Personalization skiljer sig från andra rapporter
-* Utvärdera Experience Performance-rapporter (MVT)
+* Utvärdera Experience Performance-rapporter
 * Fastställa den vinnande variationen baserat på observerad lyft, konfidensnivåer och affärsmål
 
 Avsnitt 4: Felsökning (10 %)
@@ -152,7 +152,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Introduktion till Administrationsinställningar](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/1.3-intro-to-admin-setup.html){target="_blank"}
 * [Konfigurera egenskaper i [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/set-up-properties.html){target="_blank"}
 
-**Avsnitt 2: Konfigurera, köra och hantera**
+**Avsnitt 2: Konfigurera, utföra och hantera**
 
 * [Introduktion till [!DNL Adobe Target] implementering](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.1-intro-to-target-implementation.html){target="_blank"}
 * [Integrera Target med taggar](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/3.1-target-launch.html){target="_blank"}
@@ -164,7 +164,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Designa en målinriktad implementering](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.5-design-target-implementation.html){target="_blank"}
 * [Nästa steg för att designa en Target-implementering](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.6-next-steps-design-target-implementation.html){target="_blank"}
 
-**Avsnitt 3: Analysera och rapportera**
+**Avsnitt 3: Analys och rapportering**
 
 * [Använd personaliseringsinsikter](https://experienceleague.adobe.com/docs/target-learn/tutorials/reports/use-the-personalization-insights-reports.html){target="_blank"}
 * [Integrera Target med Analytics](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/3.2-target-analytics.html){target="_blank"}
@@ -191,31 +191,16 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 {{practice-test}}
 
-## Om provet
+## Om certifieringsprovet
 
 {{about-certification-exam}}
 
-## Ta provet (AD0-E406)
-
-### Tillgängliga alternativ
-
-{{PSI-note}}
-
-**PSI** (*testcenter/alternativ för japanska prov (om sådana finns)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E406" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Ta prov
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Schemalägg eller ta prov AD0-E406
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E406" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Ta prov
+   Gå till portalen för undersökningar
 </span>
 </a>
 

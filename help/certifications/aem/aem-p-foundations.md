@@ -7,10 +7,10 @@ role: User
 badge: label="Exam AD0-E132 type="positive"
 mini-toc-levels: 1
 exl-id: a1ea92d3-9b7b-4aeb-80f7-0c07e6d332c0
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '605'
-ht-degree: 2%
+source-wordcount: '600'
+ht-degree: 3%
 
 ---
 
@@ -54,13 +54,13 @@ Dessutom bör du känna till följande tekniker och miljöer:
 
 **Information om tentamen:**
 
-* Nivå: Professionell (0-12 månaders erfarenhet)
-* Lösenpoäng: 38/60
+* Nivå: Professionell (0-12 månaders upplevelse)
+* Löpande poäng: 38/60
 * Tid: 120 min
 * Leverans: Bearbetad online (kräver kameraåtkomst)
-* Tillgängliga språk: Engelska
-* Kostnad: $125 (global) / $95 (Indien)
-* Exam-ID: AD0-E132
+* Tillgängliga språk: engelska
+* Kostnad: 125 USD (globalt)/95 USD (Indien)
+* Exam ID: AD0-E132
 
 **Mål och omfattning för tentamen**
 
@@ -86,7 +86,7 @@ Avsnitt 2: Implementering (42 %)
 * Utöka kärnkomponenterna
 * Strukturinnehållsmodellering
 
-Avsnitt 3: Installation och distribution (13 %)
+Avsnitt 3: Installation och driftsättning (13 %)
 
 * Installera paket
 * Distribuera paket
@@ -109,17 +109,17 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 * [Användarhandbok för distribution av AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html){target="_blank"}
 * [Användarhandbok om AEM 6.5-redigering](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
-* [[!DNL Experience Manager as a Cloud Service] dokumentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
+* [[!DNL Experience Manager as a Cloud Service] dokumentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=sv){target="_blank"}
 * [Användarhandbok om resurser](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html){target="_blank"}
 
-**Avsnitt 2: Implementering**
+**Avsnitt 2: Genomförande**
 
 * [AEM - Grunderna](https://experienceleague.adobe.com/docs/experience-manager-65/developing/components/components-basics.html){target="_blank"}
 * [Tutorials för Headless i AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/overview.html){target="_blank"}
 * [Skapa sidmallar](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/siteandpage/templates.html#creating-and-managing-templates){target="_blank"}
 * [Använda bibliotek på klientsidan](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/clientlibs.html){target="_blank"}
 
-**Avsnitt 3: Installation och distribution**
+**Avsnitt 3: Installation och driftsättning**
 
 * [Webbkonsol](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/web-console.html){target="_blank"}
 * [AEM-projektstruktur](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html#embedding-3rd-party-packages){target="_blank"}
@@ -140,20 +140,16 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 >Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
 
 
-## Om provet
+## Om certifieringsprovet
 
 {{about-certification-exam}}
 
-## Ta provet (AD0-E132)
-
-### Tillgängliga alternativ
-
-**[!DNL Examity]** ( *online* )
+## Schemalägg eller ta prov AD0-E132
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E132" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Ta prov
+   Gå till portalen för undersökningar
 </span>
 </a>
 

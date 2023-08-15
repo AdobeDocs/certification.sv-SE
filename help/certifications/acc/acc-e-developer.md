@@ -4,19 +4,19 @@ description: Lär dig bli en certifierad Adobe Developer-expert på [!DNL Campai
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: Developer
-badge: label="Exam AD0-E330" type="positive"
+badge: label="Prov AD0-E330" type="positive"
 mini-toc-levels: 1
 exl-id: 0c827fe3-b56b-4130-8436-2d3698c2e30b
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1140'
-ht-degree: 9%
+source-wordcount: '1117'
+ht-degree: 10%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Campaign Classic] Developer Expert
 
-Lär dig hur du blir en certifierad Adobe Developer-expert.
+Lär dig hur du blir certifierad Adobe [!DNL Campaign Classic] Utvecklarexpert.
 
 ## Minimal upplevelse
 
@@ -42,17 +42,17 @@ Du borde ha:
 
 * Teknisk konsult
 * Marknadsföringstekniker
-* [!DNL Campaign Classic] utvecklare
+* Adobe [!DNL Campaign Classic] utvecklare
 
-**Information om tentamen**
+**Provinformation**
 
 * Nivå: Expert (1-3 års erfarenhet)
-* Lösenpoäng: 34/50
+* Löpande poäng: 34/50
 * Tid: 100 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller testcenter
-* Tillgängliga språk: Engelska
+* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
+* Tillgängliga språk: engelska
 * Kostnad: $225 (global) / $150 (Indien)
-* Exam-ID: AD0-E330
+* Exam ID: AD0-E330
 
 **Självbedömning av beredskap**
 
@@ -63,7 +63,7 @@ Slutför [onlineberedskapsenkät](https://scorpion.caveon.com/launchpad/ad-q-e12
 Avsnitt 1: Systemkonfiguration (16 %)
 
 * Använd konfigurationsinställningar och standardinställningar för hela systemet
-* Välj lämplig Adobe Campaign-funktion för att implementera ett användningsfall utifrån olika parametrar
+* Välj lämplig Adobe Campaign-funktion för att implementera ett användningsfall med olika parametrar
 * Felsöka systemkonfigurationsinställningar
 * Implementera anpassade konfigurationer
 * Identifiera konfigurationsfunktioner för Campaign Control Panel
@@ -78,11 +78,11 @@ Avsnitt 2: Anpassning (22 %)
 * I ett scenario, förstå hur du använder SQL-skript i Adobe [!DNL Campaign Classic]
 * Beskriv vanliga OTB-funktioner
 
-Avsnitt 3: Åtkomshantering (8 %)
+Avsnitt 3: Åtkomsthantering (8 %)
 
 * Konfigurera säkerhetsinställningar för en operator för ett scenario
 * Beskriv hur inställningar för åtkomsthantering konfigureras baserat på lösningsdesigndokumentet
-* Beskriv åtkomsthantering med hjälp av Campaign Control-panelen
+* Beskriv åtkomsthantering med Campaign Control-panelen
 * Identifiera begränsningarna för datapartitionering och när sysfilter ska användas
 
 Avsnitt 4: Dataintegrering (16 %)
@@ -185,31 +185,16 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 {{practice-test}}
 
-## Om provet
+## Om certifieringsprovet
 
 {{about-certification-exam}}
 
-## Ta provet (AD0-E330)
-
-### Tillgängliga alternativ
-
-{{PSI-note}}
-
-**PSI** (*testcenter/alternativ för japanska prov (om sådana finns)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E330" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Ta prov
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Schemalägg eller ta prov AD0-E330
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E330" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Ta prov
+   Gå till portalen för undersökningar
 </span>
 </a>
 

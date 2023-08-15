@@ -4,12 +4,12 @@ description: Lär dig hur du blir certifierad Adobe [!DNL Experience Platform] E
 solution: Experience Platform
 product: Experience Platform
 role: Developer
-badge: label="Exam AD0-E600 & AD7-E601" type="positive"
+badge: label="Prova AD0-E600 och AD7-E601" type="positive"
 hidefromtoc: true
 mini-toc-levels: 1
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1686'
+source-wordcount: '1530'
 ht-degree: 3%
 
 ---
@@ -63,14 +63,14 @@ Provet AD0-E600 avser att verifiera färdigheter och kunskaper som omfattar grun
 **Information om tentamen:**
 
 * Nivå: Expert (1-3 års erfarenhet)
-* Lösenpoäng: 35/50
+* Löpande poäng: 35/50
 * Tid: 105 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller testcenter
+* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
 * Språk: Engelska
 * Kostnad: $225 (global) / $150 (Indien)
-* Exam-ID: AD0-E600
+* Exam ID: AD0-E600
 
-**Mål och omfattning för tentamen**
+**Mål och omfattning för prov**
 
 Avsnitt 1: Datamodellering (20 %)
 
@@ -78,14 +78,14 @@ Avsnitt 1: Datamodellering (20 %)
 * Uppvisa kunskap i hur man använder användargränssnittet för att skapa/redigera XDM-scheman.
 * Identifiera DULE-vägledning
 
-Avsnitt 2: Dataintag (36 %)
+Avsnitt 2: Datainmatning (36 %)
 
 * Uppvisa hur man formaterar och förbereder data för konsumtion
 * Uppvisa hur du ansluter datakällor med OTB-anslutningar
 * Uppvisa hur man importerar källdata via Batch and Streaming
 * Beskriv hur du övervakar dataöverföringar
 * Uppvisa hur dataidentifiering kan utföras på källdata
-* Uppvisa hur man omvandlar data för att matcha XDM
+* Uppvisa hur man omvandlar data till XDM
 
 Avsnitt 3: Enhetliga profiler (34 %)
 
@@ -116,11 +116,11 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Modelldata i scheman](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/model-data-in-schemas.html){target="_blank"}
 * [Schema och XDM - översikt](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html){target="_blank"}
 
-**Avsnitt 2: Intag av data**
+**Avsnitt 2: Inmatning av data**
 
 * [Datainmatning](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html){target="_blank"}
 
-**Avsnitt 3: Sammanställ profiler**
+**Avsnitt 3: Enhetliga profiler**
 
 * [Identitets- och identitetsdiagram](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/understanding-identity-and-identity-graphs.html){target="_blank"}
 * [Mappa identiteter](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/map-identities.html){target="_blank"}
@@ -142,26 +142,19 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 {{practice-test}}
 
-## Om provet
+## Om certifieringsprovet
 
 {{about-certification-exam}}
 
-## Ta provet
+## Schemalägg eller ta prov AD0-E600
 
-Adobe använder två leverantörer för att administrera proffsiga tentamina, PSI och Examity.
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E600" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-* **PSI** erbjuder testcenter och japanska tentamina (där det finns tillgängligt)
-* **[!DNL Examity]** erbjuder ett fjärranslutet alternativ
+<span class="spectrum-Button-label has-no-wrap">
+   Gå till portalen för undersökningar
+</span>
+</a>
 
-Om du vill schemalägga, schemalägga om eller avbryta din tentamen klickar du bara på valfri leverantör och följer instruktionerna på skärmen. Så enkelt är det!
-
-Profilnamnet i Adobe Credential Management System måste exakt matcha ditt Government ID. Om informationen inte är identisk eller om det inte finns någon matchning avbryts provet och du måste schemalägga om din avtalade tid utöver att betala en extra provavgift.
-
-Det går att avbryta och schemalägga om det initieras före 48 timmar före det schemalagda provbesöket. Kandidaterna måste själva ändra den här avtalade tiden.
-
-### Provnummer: AD0-E600
-
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E600 newtab=true"}[!BADGE Underbarhet]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E600 newtab=true"}
 
 >[!ENDTABS]
 
@@ -176,22 +169,22 @@ AD7-E601-provet handlar om att skapa, hantera och förstå kundprofiler, segment
 **Information om tentamen:**
 
 * Nivå: Expert (1-3 års erfarenhet)
-* Lösenpoäng: 25/34
+* Passing Score: 25/34
 * Tid: 51 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller testcenter
+* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
 * Språk: Engelska
 * Kostnad: $225 (global) / $150 (Indien)
-* Exam-ID: AD7-E601
+* Exam ID: AD7-E601
 
 **Självbedömning av beredskap**
 
 Slutför [onlineberedskapsenkät](https://scorpion.caveon.com/launchpad/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam){target="_blank"} för att se om din nuvarande upplevelse matchar den rekommenderade lägsta kandidatkvalificeringen.
 
-**Räckvidd och mål för tentamen**
+**Räckvidd och mål för proven**
 
 Avsnitt 1: Validering (41 %)
 
-* Tillämpa de begrepp som krävs för att validera profilen har rätt attribut och segment
+* Tillämpa nödvändiga begrepp för att validera profilen har rätt attribut och segment
 * Uppvisa en förståelse för hur ni validerar distributionsstrategin utifrån funktionella eller tekniska krav
 * Analysera relevanta variabler för att implementera E2E-flödet (End to End) i RTCDP
 * Övervaka segmentexport till mål
@@ -199,7 +192,7 @@ Avsnitt 1: Validering (41 %)
 
 Avsnitt 2: Segmentering (32 %)
 
-* Uppvisa en förståelse för hur man skapar segment utifrån affärskrav
+* Uppvisa en förståelse för hur man skapar segment baserat på verksamhetskrav
 * Uppvisa en förståelse för hur man fastställer segmentutvärderingar utifrån insamlade data
 
 Avsnitt 3: Destinationer (27 %)
@@ -228,7 +221,7 @@ Avsnitt 3: Destinationer (27 %)
 * [Datastyrning - översikt](https://video.tv.adobe.com/v/29708/){target="_blank"}
 * [Datastyrningsdemo](https://video.tv.adobe.com/v/36653/){target="_blank"}
 * [Klassificera data med styrningsetikett](https://video.tv.adobe.com/v/29709/){target="_blank"}
-* [Skapa dataanvändningsprofiler](https://video.tv.adobe.com/v/32977/){target="_blank"}
+* [Skapa dataanvändningsprinciper](https://video.tv.adobe.com/v/32977/){target="_blank"}
 * [Använd principer för dataanvändning](https://video.tv.adobe.com/v/33631/){target="_blank"}
 
 **Avsnitt 2: Segmentering**
@@ -281,33 +274,19 @@ Avsnitt 3: Destinationer (27 %)
 
 {{practice-test}}
 
-## Om provet
+## Om certifieringsprovet
 
 {{about-certification-exam}}
 
-## Ta provet (AD0-E601)
-
-### Tillgängliga alternativ
-
-{{PSI-note}}
-
-**PSI** (*testcenter/alternativ för japanska prov (om sådana finns)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E601" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Ta prov
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Schemalägg eller ta prov AD0-E601
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E601" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Ta prov
+   Gå till portalen för undersökningar
 </span>
 </a>
+
 
 >[!ENDTABS]
 

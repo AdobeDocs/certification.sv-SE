@@ -1,22 +1,22 @@
 ---
-title: Yrkescertifiering för affärsanvändare
+title: Yrkescertifiering för Business Practizer
 description: Lär dig hur du blir certifierad [!DNL Adobe Target] Yrkesverksamma inom affärsverksamhet.
 solution: Target
 product: Target
 role: User
-badge: label="Exam AD0-E408" type="positive"
+badge: label="Prov AD0-E408" type="positive"
 mini-toc-levels: 1
 exl-id: e67e66a3-d3cc-4907-beb4-956940181279
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '892'
+source-wordcount: '867'
 ht-degree: 1%
 
 ---
 
 # Certifieringsresa för [!DNL Adobe Target] Yrkesverksamma inom affärsverksamhet
 
-Lär dig hur du blir certifierad Adobe Business Practitioner Professional.
+Lär dig hur du blir certifierad [!DNL Adobe Target] Yrkesverksamma inom affärsverksamhet.
 
 ## Minimal upplevelse
 
@@ -46,13 +46,13 @@ Du borde ha:
 
 **Information om tentamen:**
 
-* Nivå: Professionell (0-12 månaders erfarenhet)
-* Lösenpoäng: 31/50
+* Nivå: Professionell (0-12 månaders upplevelse)
+* Löpande poäng: 31/50
 * Tid: 100 min
 * Leverans: Bearbetad online (kräver kameraåtkomst)
-* Tillgängliga språk: Engelska
-* Kostnad: $125 (global) / $95 (Indien)
-* Exam-ID: AD0-E408
+* Tillgängliga språk: engelska
+* Kostnad: 125 USD (globalt)/95 USD (Indien)
+* Exam ID: AD0-E408
 
 **Mål och omfattning för tentamen**
 
@@ -120,7 +120,7 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 * [Success Metrics](https://experienceleague.adobe.com/docs/target/using/activities/success-metrics/success-metrics.html){target="_blank"}
 * [Kategorier för målgrupper](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/categories-audiences/target-rules.html){target="_blank"}
 
-**Avsnitt 2: Konfigurera, köra och hantera**
+**Avsnitt 2: Konfigurera, utföra och hantera**
 
 * [Visual Experience Composer (VEC)](https://experienceleague.adobe.com/docs/target/using/experiences/vec/visual-experience-composer.html){target="_blank"}
 * [[!DNL Adobe Target] välkomstpaket](https://experienceleague.adobe.com/docs/target/using/introduction/welcome/target-welcome-kit.html){target="_blank"}
@@ -131,7 +131,7 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 * [Skapa målgrupper](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/audiences.html){target="_blank"}
 * [Aktivitets-QA](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
 
-**Avsnitt 3: Analysera och rapportera**
+**Avsnitt 3: Analys och rapportering**
 
 * [Rapportinställningar](https://experienceleague.adobe.com/docs/target/using/reports/settings/report-settings.html){target="_blank"}
 * [Översikt över A/B-test](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html){target="_blank"}
@@ -150,31 +150,16 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 >Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
 
 
-## Om provet
+## Om certifieringsprovet
 
 {{about-certification-exam}}
 
-## Ta provet (AD0-E408)
-
-### Tillgängliga alternativ
-
-{{PSI-note}}
-
-**PSI** (*testcenter/alternativ för japanska prov (om sådana finns)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E408" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Ta prov
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Schemalägg eller ta prov AD0-E408
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E408" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Ta prov
+   Gå till portalen för undersökningar
 </span>
 </a>
 

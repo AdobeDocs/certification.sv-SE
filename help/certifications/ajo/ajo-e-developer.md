@@ -4,11 +4,11 @@ description: Lär dig hur du blir certifierad Adobe [!DNL Journey Optimizer] Dev
 solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
-badge: label="Exam AD0-E603" type="positive"
+badge: label="Prov AD0-E603" type="positive"
 exl-id: 4b405a01-b95c-46de-aaab-9fbacc25c6fc
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '757'
+source-wordcount: '733'
 ht-degree: 4%
 
 ---
@@ -19,13 +19,13 @@ Lär dig hur du blir certifierad Adobe [!DNL Journey Optimizer] Developer Expert
 
 ## Minimal upplevelse
 
-Du bör ha minst ett års erfarenhet av att arbeta med olika CDP- och marknadsföringsautomatiseringssystem och kunna utföra följande uppgifter:
+Du bör ha minst ett års erfarenhet av att arbeta med olika CDP- och marknadsföringssystem och kunna utföra följande uppgifter:
 
 * Konfigurera användarbehörigheter
 * Skapa och hantera sandlådor
 * Varumärkeskonfiguration
 * Förstå designkoncept för scheman
-* Ställa in datakällor och datainmatning
+* Ställa in datakällor och datainhämtning
 * Skapa segment
 * Konfigurera upplevelsehändelser
 * Skapa och hantera erbjudanden
@@ -58,12 +58,12 @@ Du bör ha minst ett års erfarenhet av att arbeta med olika CDP- och marknadsf�
 **Information om tentamen:**
 
 * Nivå: Expert (1-3 års erfarenhet)
-* Lösenpoäng: 31/51
+* Löpande poäng: 31/51
 * Tid: 110 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller testcenter
-* Tillgängliga språk: Engelska
+* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
+* Tillgängliga språk: engelska
 * Kostnad: $225 (global) / $150 (Indien)
-* Exam-ID: AD0-E603
+* Exam ID: AD0-E603
 
 **Självbedömning av beredskap**
 
@@ -86,7 +86,7 @@ Avsnitt 2: Adobe Experience Platform Foundation (33 %)
 * Förklara hur du konfigurerar scheman för AJO
 * Bestäm hur kundprofilen i realtid fungerar i AJO
 
-Avsnitt 3: offer decisioning (11 %)
+Avsnitt 3: Offer decisioning (11 %)
 
 * Uppvisa förståelse för att skapa och hantera erbjudanden och komponenter
 * Uppvisa hur man använder testprofiler för att köra erbjudandesimulering
@@ -136,11 +136,11 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
    * Scheman
 
 * [Introduktion till Adobe [!DNL Experience Platform] kurs](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1){target="_blank"}
-* [Komma igång med Adobe [!DNL Experience Platform] för datatekniker](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2){target="_blank"}
+* [Komma igång med Adobe [!DNL Experience Platform] för datatekniker, kurs](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2){target="_blank"}
 * [Datainmatning för datatekniker, kurs](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.1.dataingestion){target="_blank"}
 * [Digital Experience-utkast](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html){target="_blank"}
 
-**Avsnitt 3: offer decisioning**
+**Avsnitt 3: Offer decisioning**
 
 * [Adobe [!DNL Journey Optimizer] Dokumentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 
@@ -150,7 +150,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
    * Skapa resor
 
-**Avsnitt 4: Innehållsredigering**
+**Section 4: Content Authoring**
 
 * [Adobe [!DNL Journey Optimizer] Dokumentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 
@@ -181,31 +181,16 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 {{practice-test}}
 
-## Om provet
+## Om certifieringsprovet
 
 {{about-certification-exam}}
 
-## Ta provet (AD0-E603)
-
-### Tillgängliga alternativ
-
-{{PSI-note}}
-
-**PSI** (*testcenter/alternativ för japanska prov (om sådana finns)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E603" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Ta prov
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Schemalägg eller ta prov AD0-E603
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E603" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Ta prov
+   Gå till portalen för undersökningar
 </span>
 </a>
 

@@ -3,14 +3,14 @@ title: Experience Manager Certification Overview
 description: Översikt över certifieringsalternativ för Adobe Experience Manager
 solution: Experience Manager
 exl-id: 75f283b8-017d-464d-b7d4-a6bd2d20b90c
-source-git-commit: e27a718d0bfca70eb93196ab6978f4abb06a0106
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '347'
 ht-degree: 2%
 
 ---
 
-# Experience Manager Certification Overview
+# Adobe [!DNL Experience Manager] Certifieringsöversikt
 
 Välj nivå och befattning för att hitta mer information om den certifiering du är intresserad av.
 
@@ -32,11 +32,11 @@ Om du vill ha information om hur du förnyar din befintliga certifiering kan du 
 * [Utvecklare (Forms)](/help/certifications/aem/aem-forms-e-developer.md) <!--AD0-E125-->
 * [Migrering av Cloud Service](/help/certifications/aem/aem-cs-e-migration.md) <!--AD0-E136-->
 
-**Överordnad**
+**Master**
 
 >[!NOTE]
 >
->The **Adobe Experience Manager Architect Sites Överordnad tentamen (AD0-E117)** genomgår underhåll och är tillfälligt otillgänglig. Vi ber om ursäkt för besväret. [Registrera dig för att få meddelanden](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) när den är tillgänglig igen.
+>The **Adobe Experience Manager Architect Sites Master-prov (AD0-E117)** genomgår underhåll och är tillfälligt otillgänglig. Vi ber om ursäkt för besväret. [Registrera dig för att få meddelanden](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) när den är tillgänglig igen.
 >
 >**Frågor?** Se vår [Vanliga frågor](#AEM-FAQ) längst ned på sidan.
 
@@ -44,7 +44,7 @@ Om du vill ha information om hur du förnyar din befintliga certifiering kan du 
 
 
 
-## Frågor och svar för Adobe Experience Manager Sites Architect Överordnad Exam (AD0-E117) {#AEM-FAQ}
+## Frågor och svar för Adobe Experience Manager Sites Architect Master Exam (AD0-E117) {#AEM-FAQ}
 
 Certifieringsprovet AD0-E117 genomgår underhåll och är tillfälligt otillgängligt. Vi ber om ursäkt för besväret. [Registrera dig för att få meddelanden](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) när den är tillgänglig igen.
 

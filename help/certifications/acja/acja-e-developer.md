@@ -4,23 +4,23 @@ description: Lär dig hur du blir en certifierad expert Adobe i [!DNL Customer J
 role: User
 solution: Customer Journey Analytics
 product: Customer Journey Analytics
-badge: label="Exam AD0-E604" type="positive"
+badge: label="tentamen AD0-E604" type="positive"
 mini-toc-levels: 1
 exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '657'
-ht-degree: 0%
+source-wordcount: '628'
+ht-degree: 1%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Customer Journey Analytics] Expert
 
-Lär dig hur du blir en certifierad Adobe Analytics Customer Journey Developer.
+Lär dig hur du blir certifierad Adobe [!DNL Customer Journey Analytics] Developer Expert.
 
 ## Minimal upplevelse
 
-Du bör ha 12-24 månaders erfarenhet i Adobe Customer Journey Analytics och kunna utföra följande uppgifter:
+Du bör ha 12-24 månaders erfarenhet i Adobe [!DNL Customer Journey Analytics]och kan utföra följande uppgifter:
 
 * Läs och förstå XDM-schema (klasser)
 * Uppvisa hur välbekant plattformens gränssnitt är
@@ -31,11 +31,11 @@ Du bör ha 12-24 månaders erfarenhet i Adobe Customer Journey Analytics och kun
 * Konfigurera anslutningar med primära identiteter (person-ID)
 * Konfigurera anslutningar med flera datauppsättningar
 * Konfigurera en datavy (konfiguration av mått/dimension)
-* Konfigurera CJA
-* Omforma data inom mått och mätvärden
+* Konfigurera Adobe [!DNL Customer Journey Analytics]
+* Omvandla data inom mått och mätvärden
 * Analysera arbetsytans grunder (visualiseringar, attribueringsinställningar, filter, beräknade värden)
 * Förstå datastyrning i CJA (DULE)
-* Skapa kanalstatistik eller personbaserade filter
+* Bygg flerkanalsstatistik eller personbaserade filter
 * Skilja ut/förstå sandlådor i AEP
 * Förstå publikation (delning)
 
@@ -61,12 +61,12 @@ Du bör ha 12-24 månaders erfarenhet i Adobe Customer Journey Analytics och kun
 **Information om tentamen:**
 
 * Nivå: Expert (1-3 års erfarenhet)
-* Lösenpoäng: 33/50
+* Löpande poäng: 33/50
 * Tid: 100 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller testcenter
-* Tillgängliga språk: Engelska
+* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
+* Tillgängliga språk: engelska
 * Kostnad: $225 (global) / $150 (Indien)
-* Exam-ID: AD0-E604
+* Exam ID: AD0-E604
 
 **Mål och omfattning för tentamen**
 
@@ -89,7 +89,7 @@ Avsnitt 3: Dataverifiering och felsökning (34 %)
 
 Avsnitt 4: Rapportering och aktivering (14 %)
 
-* Använd Analysis Workspace för att visa kundresor över flera kanaler med lämpliga visualiseringar
+* Använd Analysis Workspace för att demonstrera kundresor över flera kanaler med lämpliga visualiseringar
 * Skicka medlemmarna i ett CJA-filter till en RTCDP-publik
 * Designa och skapa filter i olika datauppsättningar
 
@@ -134,31 +134,16 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 {{practice-test}}
 
-## Om provet
+## Om certifieringsprovet
 
 {{about-certification-exam}}
 
-## Ta provet (AD0-E604)
-
-### Tillgängliga alternativ
-
-{{PSI-note}}
-
-**PSI** (*testcenter/alternativ för japanska prov (om sådana finns)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E604" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Ta prov
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Schemalägg eller ta prov AD0-E604
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E604" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Ta prov
+   Gå till portalen för undersökningar
 </span>
 </a>
 

@@ -8,16 +8,16 @@ level: Experienced
 badge: label="Prov AD0-E213" type="positive"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: f2a35b41805e12a8193e7e774f8041e5459d7eae
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1141'
+source-wordcount: '1120'
 ht-degree: 3%
 
 ---
 
 # Certifieringsresa för [!DNL Adobe Analytics] Developer Professional
 
-Lär dig hur du blir certifierad [!DNL Analytics] Developer Professional.
+Lär dig hur du blir certifierad [!DNL Adobe Analytics] Developer Professional.
 
 ## Minimal upplevelse
 
@@ -170,35 +170,20 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 >
 >Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
 
-## Om provet
-
-{{about-certification-exam}}
-
 ## Gör ett övningsprov
 
 {{practice-test}}
 
-## Ta provet (AD0-E213)
+## Om certifieringsprovet
 
-### Tillgängliga alternativ
+{{about-certification-exam}}
 
-{{PSI-note}}
-
-**PSI** (*testcenter/alternativ för japansk tentamen (om sådana finns)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E213" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Ta prov
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Schemalägg eller ta prov AD0-E213
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E213" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Ta prov
+   Gå till portalen för undersökningar
 </span>
 </a>
 

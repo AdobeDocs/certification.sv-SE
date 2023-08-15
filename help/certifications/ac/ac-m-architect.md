@@ -1,55 +1,55 @@
 ---
-title: Arkitektens Överordnad certifiering
-description: Lär dig hur du blir en certifierad Adobe-arkitekt överordnad i Adobe [!DNL Commerce].
+title: Architect Master-certifiering
+description: Lär dig hur du blir certifierad Adobe Architect-mästare i Adobe [!DNL Commerce].
 solution: Commerce
 product: Magento
 role: Data Architect
 level: Experienced
-badge: label="Exam AD0-E718" type="positive"
+badge: label="Prov AD0-E718" type="positive"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '881'
+source-wordcount: '850'
 ht-degree: 0%
 
 ---
 
-# Certifieringsresa för Adobe [!DNL Commerce] Arkitekt Överordnad
+# Certifieringsresa för [!DNL Adobe Commerce] Architect Master
 
-Lär dig hur du blir en certifierad Överordnad för Adobe Architect.
+Lär dig hur du blir certifierad [!DNL Adobe Commerce] Arkitektmästare.
 
 ## Minimal upplevelse
 
-Du bör ha minst 3-5 års erfarenhet som ledare [!DNL Commerce] utvecklingsprojekt och kan utforma, integrera, implementera och förklara lösningar på affärsproblem genom att använda Adobe [!DNL Commerce] tillsammans med tillhörande tjänster.
+Du bör ha minst 3-5 års erfarenhet som ledare [!DNL Commerce] utvecklingsprojekt och kan utforma, integrera, implementera och förklara lösningar på affärsproblem genom att använda [!DNL Adobe Commerce] tillsammans med tillhörande tjänster.
 
 Dessutom bör du känna till följande aktiviteter och tekniker:
 
-* Bättre grundfunktioner
-* Konfigurera Adobe [!DNL Commerce] helt
+* Utöka kärnfunktionerna
+* Konfigurera [!DNL Adobe Commerce] helt
 * Skapa en fullständig plan för hur ett tillägg ska fungera, företagets krav på att skissa på hur det ska fungera, utan att behöva gå in i koden
 * Förstå affärsbehov/funktioner
 * Effektiva lösningar och tillägg
 * Serviceavtalslogik
 * GraphQL
 * Förstå Composer som ett beroendeverktyg
-* Konfigurera och konfigurera arbetsinstansen för Adobe [!DNL Commerce] från början
+* Konfigurera och konfigurera arbetsinstansen för Adobe [!DNL Adobe Commerce] från början
 * Anpassa administrationspanelen, skapa stödraster och formulär
 * Cache- och indexhantering; skapa anpassat index
 * Skapa ny cachetyp
 * Felsöka och felsöka olika problem i miljön
 * Utöka och hantera databasschema
 * Säkerhetsfunktioner, ger säker installation och utveckling
-* Utför serverbaserade tjänster som [!DNL Commerce] anslutningar (Redis, Varnish configuration management)
+* Utför serverbaserade tjänster som [!DNL Adobe Commerce] anslutningar (Redis, Varnish configuration management)
 * Medveten om bästa praxis inom kodning, kodningsstandarder, PSR, SOLID-principen
-* Konfigurera och använda [!DNL Commerce] Services Connector (och tillhörande tjänster)
+* Konfigurera och använda [!DNL Adobe Commerce] Services Connector (och tillhörande tjänster)
 * Mellanlagring av innehållshantering
-* Förstå Adobe [!DNL Commerce] standard, när den är tillgänglig och inte tillgänglig
-* Stort urval av närbesläktade [!DNL Commerce] domän
+* Förstå [!DNL Adobe Commerce] standardvärden, när de är tillgängliga och inte tillgängliga
+* Stort antal samhörande [!DNL Adobe Commerce] domän
 * Designprojektarkitektur
-* Optimera prestanda för Adobe [!DNL Commerce] standard
+* Optimera prestanda för [!DNL Adobe Commerce] standard
 * Skapa och ändra B2B
-* AMQP-protokoll och -kort i Adobe [!DNL Commerce] (S3)
+* AMQP-protokoll och -kort i [!DNL Adobe Commerce] (S3)
 
 >[!NOTE]
 >
@@ -61,7 +61,7 @@ Dessutom bör du känna till följande aktiviteter och tekniker:
 
 **Målgrupp:**
 
-* Lead Software/[!DNL Commerce] Arkitekt
+* Lead Software/[!DNL Adobe Commerce] Arkitekt
 * Teknisk arkitekt
 * Lösningsarkitekt
 * Technical Lead
@@ -70,18 +70,18 @@ Dessutom bör du känna till följande aktiviteter och tekniker:
 * Lead Engineer
 * Associate Technical Architect
 * Senior Backend Developer
-* Programutvecklare
+* Programvaruutvecklare
 * Senior Technical Consultant
 
 **Information om tentamen:**
 
-* Nivå: Överordnad (3-5 års erfarenhet)
-* Lösenpoäng: 29/50
+* Nivå: Masternivå (3-5 års erfarenhet)
+* Löpande poäng: 29/50
 * Tid: 120 min
 * Leverans: Bearbetad online (kräver kameraåtkomst)
-* Tillgängliga språk: Engelska
+* Tillgängliga språk: engelska
 * Kostnad: $225 (global) / $150 (Indien)
-* Exam-ID: AD0-E718
+* Exam ID: AD0-E718
 
 **Självbedömning av beredskap**
 
@@ -133,7 +133,7 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 **Avsnitt 1: Design**
 
 * [Skapa en produkt](https://docs.magento.com/user-guide/catalog/product-create.html){target="_blank"}
-* [Cachelagring av sidor](https://developer.adobe.com/commerce/php/development/cache/page/){target="_blank"}
+* [Sidcachning](https://developer.adobe.com/commerce/php/development/cache/page/){target="_blank"}
 * [Introduktion till [!DNL Commerce] Kundhantering](https://docs.magento.com/user-guide/customers/customers-menu.html){target="_blank"}
 * [Event och observatörer](https://developer.adobe.com/commerce/php/development/components/events-and-observers/){target="_blank"}
 * [SEO - översikt](https://docs.magento.com/user-guide/marketing/seo-search.html){target="_blank"}
@@ -143,7 +143,7 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 * [Autentisering](https://devdocs.magento.com/guides/v2.4/get-started/authentication/gs-authentication.html){target="_blank"}
 * [GraphQL - översikt](https://devdocs.magento.com/guides/v2.4/graphql/index.html){target="_blank"}
 
-**Avsnitt 2: Granska**
+**Avsnitt 2: Granskning**
 
 * [Introduktion](https://developer.adobe.com/commerce/php/module-reference/){target="_blank"}
 * [Lägga till ett anpassat textfältsattribut](https://devdocs.magento.com/guides/v2.4/howdoi/custom-attributes/introduction.html){target="_blank"}
@@ -169,31 +169,16 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 
 
 
-## Om provet
+## Om certifieringsprovet
 
 {{about-certification-exam}}
 
-## Ta provet (AD0-E718)
-
-### Tillgängliga alternativ
-
-{{PSI-note}}
-
-**PSI** (*testcenter/alternativ för japanska prov (om sådana finns)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E718" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Ta prov
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Schemalägg eller ta prov AD0-E718
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E718" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Ta prov
+   Gå till portalen för undersökningar
 </span>
 </a>
 

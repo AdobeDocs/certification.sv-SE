@@ -1,15 +1,15 @@
 ---
-title: Yrkescertifiering för affärsanvändare
+title: Yrkescertifiering för Business Practizer
 description: Lär dig hur du blir certifierad Adobe Business Practitioner Professional i Adobe [!DNL Commerce].
 solution: Commerce
 product: Magento
 role: User
-badge: label="Exam AD0-E712" type="positive"
+badge: label="Prov AD0-E712" type="positive"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '956'
+source-wordcount: '932'
 ht-degree: 0%
 
 ---
@@ -43,11 +43,11 @@ Dessutom bör du ha en grundläggande förståelse för e-handelsupplevelsen och
 
 **Målgrupp:**
 
-* Affärsanalytiker
+* Affärsanalyser
 * Projektledare
 * Produktägare
 * Konsulter
-* [!DNL Commerce] strateger
+* [!DNL Adobe Commerce] strateger
 * eCommerce Admin/Director/Manager/Consultants
 * Digital Marketing Director/Manager/Developers
 * Lösningsspecialister
@@ -55,13 +55,13 @@ Dessutom bör du ha en grundläggande förståelse för e-handelsupplevelsen och
 
 **Information om tentamen:**
 
-* Nivå: Professionell (0-12 månaders erfarenhet)
-* Lösenpoäng: 30/50
+* Nivå: Professionell (0-12 månaders upplevelse)
+* Löpande poäng: 30/50
 * Tid: 100 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller testcenter
-* Tillgängliga språk: Engelska
-* Kostnad: $125 (global) / $95 (Indien)
-* Exam-ID: AD0-E712
+* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
+* Tillgängliga språk: engelska
+* Kostnad: 125 USD (globalt)/95 USD (Indien)
+* Exam ID: AD0-E712
 
 **Självbedömning av beredskap**
 
@@ -74,7 +74,7 @@ Avsnitt 1: [!DNL Magento Open Source] grundfunktion (49 %)
 * Identifiera funktionerna i [!DNL Magento Open Source]
 * Skilja rätt omfång och när de ska användas
 * Uppvisa kunskap om kataloghantering
-* Bearbeta priser med [!DNL Magento Open Source] funktioner
+* Bearbeta prissättningen med [!DNL Magento Open Source] funktioner
 * Beskriv standardkundresan
 * Beskriv standardorderns livscykel
 * Beskriv de dagliga uppgifter som ingår i butiksunderhåll
@@ -144,7 +144,7 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 **Avsnitt 3: Grundläggande om digital marknadsföring och e-handel**
 
 * [Erbjudanden](https://docs.magento.com/user-guide/marketing/promotions.html){target="_blank"}
-* [Shoppinghjälp](https://docs.magento.com/user-guide/marketing/shopping-tools.html){target="_blank"}
+* [Shoppingassistans](https://docs.magento.com/user-guide/marketing/shopping-tools.html){target="_blank"}
 * [Variabler och kundkommunikation](https://docs.magento.com/user-guide/marketing/communications.html){target="_blank"}
 * [SEO - översikt](https://docs.magento.com/user-guide/marketing/seo-best-practices.html){target="_blank"}
 * [Använda en platskarta](https://docs.magento.com/user-guide/marketing/sitemap-xml.html){target="_blank"}
@@ -170,31 +170,16 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 
 {{practice-test}}
 
-## Om provet
+## Om certifieringsprovet
 
 {{about-certification-exam}}
 
-## Ta provet (AD0-E712)
-
-### Tillgängliga alternativ
-
-{{PSI-note}}
-
-**PSI** (*testcenter/alternativ för japanska prov (om sådana finns)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E712" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Ta prov
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Schemalägg eller ta prov AD0-E712
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E712" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Ta prov
+   Gå till portalen för undersökningar
 </span>
 </a>
 

@@ -3,19 +3,19 @@ title: Förbättrad certifiering av Connector Expert
 description: Lär dig hur du blir en certifierad Adobe-certifierad expert i Adobe [!DNL Workfront] for [!DNL Experience Manager]
 solution: Workfront
 role: Developer
-badge: label="Exam AD0-E906" type="positive"
+badge: label="Prov AD0-E906" type="positive"
 mini-toc-levels: 1
 exl-id: f00092c9-1288-447f-adcd-229cf325bc3e
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '891'
+source-wordcount: '867'
 ht-degree: 0%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Workfront] for [!DNL Experience Manager] Förbättrad Connector Expert
 
-Lär dig hur du blir en certifierad Adobe-certifierad expert.
+Lär dig hur du blir en certifierad expert från Adobe.
 
 ## Minimal upplevelse
 
@@ -31,8 +31,8 @@ Och du borde ha:
 * 1+ års AEM
 * 1+ år [!DNL Workfront] upplevelse
 * 2+ års Java/J2EE-utvecklarupplevelse
-* Samarkitekturerad minst en AEM
-* Arbeta direkt med kunderna för att ta fram skräddarsydda lösningar
+* Samarkitekturerad minst en AEM lösning
+* Arbeta direkt med kunderna för att skapa anpassade lösningar
 * En förståelse för taxonomier och AEM, AEM arbetsflöden, JCR, Sling, OSGi och databaser
 * Kunskap om bästa praxis inom arbetsledning
 
@@ -54,12 +54,12 @@ Och du borde ha:
 **Information om tentamen:**
 
 * Nivå: Expert (1-3 års erfarenhet)
-* Lösenpoäng: 34/55
+* Löpande poäng: 34/55
 * Tid: 110 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller testcenter
-* Tillgängliga språk: Engelska
+* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
+* Tillgängliga språk: engelska
 * Kostnad: $225 (global) / $150 (Indien)
-* Exam-ID: AD0-E906
+* Exam ID: AD0-E906
 
 **Mål och omfattning för tentamen**
 
@@ -68,7 +68,7 @@ Avsnitt 1: Tekniska krav (25 %)
 * Använd [!DNL Workfront] Anpassad Forms
 * Visa dokumenthantering för ett scenario
 * Uppvisa kunskap om hur man marknadsför kod i olika miljöer
-* Identifiera hur värden skickas till ett scenario [!DNL Workfront] anpassade formulär
+* Ange hur värden skickas till ett scenario [!DNL Workfront] anpassade formulär
 * Felsöka kod på serversidan
 
 Avsnitt 2: Konfiguration (26 %)
@@ -129,7 +129,7 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 * [Spåra förlopp från projekttidslinjen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-timelines/track-work-progress-from-the-project-timeline.html){target="_blank"}
 * [Definiera mål för Adobe [!DNL Workfront] implementering](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html){target="_blank"}
 
-**Avsnitt 4: Installation och konfiguration av anslutning**
+**Avsnitt 4: Installation och konfigurering av anslutning**
 
 * [Installera [!DNL Workfront] for [!DNL Experience Manager] förbättrad koppling](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-connector-install.html){target="_blank"}
 * [[!DNL Workfront] bättre anslutningsgrunder](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/basics.html%3Flang%3Den){target="_blank"}
@@ -145,31 +145,16 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 >Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
 
 
-## Om provet
+## Om certifieringsprovet
 
 {{about-certification-exam}}
 
-## Ta provet (AD0-E906)
-
-### Tillgängliga alternativ
-
-{{PSI-note}}
-
-**PSI** (*testcenter/alternativ för japanska prov (om sådana finns)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E906" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Ta prov
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Schemalägg eller ta prov AD0-E906
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E906" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Ta prov
+   Gå till portalen för undersökningar
 </span>
 </a>
 

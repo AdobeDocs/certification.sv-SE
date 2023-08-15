@@ -7,14 +7,14 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8016ac6f-2a30-4a72-bc17-b2ca422c21e8
-source-git-commit: e038284bc410843c669bf951f593f50dddefc12d
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
 
 ---
 
-# Förnya [!DNL Advertising] certifiering
+# Förnya [!DNL Adobe Advertising] certifiering
 
 När du har klarat en certifieringsprov gäller din certifiering i två år.
 
@@ -38,11 +38,11 @@ Vi är glada att kunna meddela att du nu kan förnya din certifiering via ett ny
 >
 >Expertförnyelse kommer snart.
 
->[!TAB Överordnad]
+>[!TAB Master]
 
 >[!NOTE]
 >
->Överordnad förnyelse kommer snart.
+>Masterförnyelse kommer snart.
 
 >[!ENDTABS]
 

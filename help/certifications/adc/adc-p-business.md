@@ -7,24 +7,24 @@ role: User
 badge: label="Prov AD0-D106" type="positive"
 mini-toc-levels: 1
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: 9ab320cb5066c20e3de1ffa3cbe071352adb5edf
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '697'
+source-wordcount: '688'
 ht-degree: 1%
 
 ---
 
-# Certifieringsresa för Adobe Document Cloud Business Practitioner Professional
+# Certifieringsresa för [!DNL Adobe Document Cloud] Yrkesverksamma inom affärsverksamhet
 
-Lär dig hur du blir certifierad Adobe Business Practitioner Professional.
+Lär dig hur du blir certifierad [!DNL Adobe Document Cloud] Yrkesverksamma inom affärsverksamhet.
 
 ## Minimal upplevelse
 
 Du borde ha:
 
-* Minst 12 månaders erfarenhet inom Adobe Document Cloud
+* Minst 0-12 månaders erfarenhet inom [!DNL Adobe Document Cloud]
 * kunna identifiera och kommunicera affärsbehov
-* Möjliggör produktrådgivning om Adobe Document Cloud lösningar.
+* Möjliggör produktaktivering och ge råd om [!DNL Adobe Document Cloud] lösningar.
 
 >[!NOTE]
 >
@@ -42,13 +42,13 @@ Du borde ha:
 
 **Information om tentamen:**
 
-* Nivå: Professionell (0-12 månaders erfarenhet)
-* Lösenpoäng: 34/50
+* Nivå: Professionell (0-12 månaders upplevelse)
+* Löpande poäng: 34/50
 * Tid: 100 min
 * Leverans: Bearbetad online (kräver kameraåtkomst)
-* Tillgängliga språk: Engelska
-* Kostnad: $125 (global) / $95 (Indien)
-* Exam-ID: AD0-D106
+* Tillgängliga språk: engelska
+* Kostnad: 125 USD (globalt)/95 USD (Indien)
+* Exam ID: AD0-D106
 
 **Mål och omfattning för tentamen**
 
@@ -68,7 +68,7 @@ Avsnitt 3: Definiera Document Cloud (DC)-funktioner (18 %)
 * Konturera konsekvenserna av efterlevnads- och säkerhetsbehov för dokument och e-signaturer
 * Beskriv hur processändringar tillför värde
 
-Avsnitt 4: Rekommenderad lösning (12 %)
+Avsnitt 4: Rekommenderad lösning (12%)
 
 * Rekommendera utformning av Document Cloud-lösning
 
@@ -87,7 +87,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Se hur Acrobat Sign kan snabba upp verksamheten](https://www.adobe.com/sign.html){target="_blank"}
 * [Adobe Acrobat Sign Feature](https://www.adobe.com/sign/features.html){target="_blank"}
 
-**Avsnitt 2: Utvärdering av affärsprocess**
+**Avsnitt 2: Utvärdering av affärsprocesser**
 
 * [Adobe PDF Extract API](https://developer.adobe.com/document-services/apis/pdf-extract/){target="_blank"}
 * [PDF Services API](https://developer.adobe.com/document-services/docs/apis/){target="_blank"}
@@ -96,12 +96,12 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Adobe PDF Embed API](https://developer.adobe.com/document-services/apis/pdf-embed/){target="_blank"}
 * [PDF och e-signaturverktyg för ert företag. Acrobat förstår.](https://www.adobe.com/acrobat/business.html){target="_blank"}
 * [Adobe Acrobat Användarhandbok](https://helpx.adobe.com/se/acrobat/user-guide.html){target="_blank"}
-* [Översikt över integreringar - Nyheter](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/integrations-overview.html#what%E2%80%99s-new){target="_blank"}
+* [Integreringar - översikt - Nyheter](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/integrations-overview.html#what%E2%80%99s-new){target="_blank"}
 * [Säkra, flexibla onlinesignaturer](https://www.adobe.com/sign/online-signature.html){target="_blank"}
 
-**Avsnitt 3: Definiera Document Cloud-funktioner (DC)**
+**Avsnitt 3: Definiera Document Cloud (DC)-funktioner**
 
-* [Certifiering, standarder och föreskrifter för Adobe](https://www.adobe.com/trust/compliance/compliance-list.html){target="_blank"}
+* [Certifieringar, standarder och föreskrifter för Adobe](https://www.adobe.com/trust/compliance/compliance-list.html){target="_blank"}
 * [Adobe Sign for Life Sciences](https://www.adobe.com/content/dam/dx-dc/en/pdfs/adobe-sign-life-sciences-solution-brief-ue.pdf){target="_blank"}
 * [Kompatibilitet följer standard](https://www.adobe.com/documentcloud/resources/compliance.html){target="_blank"}
 * [Vad är en digital signatur?](https://www.adobe.com/sign/digital-signatures.html){target="_blank"}
@@ -109,7 +109,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Förnya dokumentupplevelserna med PDF API:er som utformats för utvecklare](https://developer.adobe.com/document-services){target="_blank"}
 * [Begränsa dokumentsynlighet](https://helpx.adobe.com/sign/using/limited-document-visibility.html){target="_blank"}
 
-**Avsnitt 4: Rekommendera lösning**
+**Avsnitt 4: Rekommenderad lösning**
 
 * [Adobe Acrobat Services API:er - säkerhetsöversikt](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/doc-cloud/adobe-document-services-security-overview.pdf){target="_blank"}
 * [Kom igång med Acrobat Services API:er](https://documentservices.adobe.com/dc-integration-creation-app-cdn/main.html){target="_blank"}
@@ -131,20 +131,16 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 {{practice-test}}
 
-## Om provet
+## Om certifieringsprovet
 
 {{about-certification-exam}}
 
-## Ta provet (AD0-D106)
-
-### Tillgängliga alternativ
-
-**[!DNL Examity]** ( *online* )
+## Schemalägg eller ta prov AD0-D106
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-D106" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Ta prov
+   Gå till portalen för undersökningar
 </span>
 </a>
 

@@ -4,19 +4,19 @@ description: Så här blir du certifierad Adobe Developer-proffs i Adobe [!DNL C
 solution: Commerce
 product: Magento
 role: Developer
-badge: label="Exam AD0-E717" type="positive"
+badge: label="tentamen AD0-E717" type="positive"
 mini-toc-levels: 1
 exl-id: 5dc85678-91f9-4865-b310-3460081b19f8
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1351'
+source-wordcount: '1348'
 ht-degree: 0%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Commerce] Developer Professional
 
-Lär dig hur du blir certifierad Adobe Developer Professional.
+Lär dig hur du blir certifierad [!DNL Adobe Commerce] Developer Professional.
 
 ## Minimal upplevelse
 
@@ -48,13 +48,13 @@ Dessutom bör du känna till följande tekniker och miljöer:
 
 **Information om tentamen:**
 
-* Nivå: Professionell (0-12 månaders erfarenhet)
-* Lösenpoäng: 50/77
+* Nivå: Professionell (0-12 månaders upplevelse)
+* Löpande poäng: 50/77
 * Tid: 154 min
 * Leverans: Bearbetad online (kräver kameraåtkomst)
-* Tillgängliga språk: Engelska
-* Kostnad: $125 (global) / $95 (Indien)
-* Exam-ID: AD0-E717
+* Tillgängliga språk: engelska
+* Kostnad: 125 USD (globalt)/95 USD (Indien)
+* Exam ID: AD0-E717
 
 **Självbedömning av beredskap**
 
@@ -108,7 +108,7 @@ Avsnitt 5: Kassa och försäljning (8 %)
 * Ställ in betalnings- och leveransmetoder efter ett scenario
 * Konfigurera momsregler, valutor, kundvagn och/eller kassa för ett scenario
 
-Avsnitt 6: Katalog (8 %)
+Avsnitt 6: Katalog(8 %)
 
 * Identifiera grunderna för kategorihantering och produkthantering
 * Beskriv produkttyper
@@ -125,7 +125,7 @@ Avsnitt 7: Adobe [!DNL Commerce] Molnarkitektur (12 %)
 * Beskriv hur man underhåller och uppgraderar ECE-verktyg
 * Identifiera när supporten ska kontaktas *Yaml-filer och -begränsningar (DIY vs supportärenden)
 
-Avsnitt 8: Konfigurera Adobe [!DNL Commerce] Moln (4 %)
+Avsnitt 8: Konfigurera/konfigurera Adobe [!DNL Commerce] Moln (4 %)
 
 * Identifiera hur du konfigurerar/konfigurerar Adobe [!DNL Commerce] Cloud
 * Definiera grundläggande molnfelsökning (webbanvändarhierarki och variabler, konfigurationsprioritet)
@@ -136,7 +136,7 @@ Avsnitt 8: Konfigurera Adobe [!DNL Commerce] Moln (4 %)
 
 Avsnitt 9: [!DNL Commerce] CLI-verktyg i molnet (hanteringsdel) (6 %)
 
-* Beskriv Adobe exklusiva funktioner [!DNL Commerce] CLI-verktyget i molnet (exklusiva CLI-funktioner: aktivera e-post, Rebase-miljöer, snapshot, db dump, lokal miljöinställning)
+* Beskriv Adobe exklusiva funktioner [!DNL Commerce] CLI-verktyg i molnet (exklusiva CLI-funktioner: aktivera e-post, Rebase-miljöer, ögonblicksbild, db dump, lokal miljöinställning)
 * Beskriv förgreningar med Adobe [!DNL Commerce] CLI-verktyget i molnet
 * Identifiera sätt att ansluta till molntjänster? (My SQL, Redis, tunnel:info)
 
@@ -152,7 +152,7 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 
 [Se exempelfrågor](https://scorpion.caveon.com/launchpad/template-for-exam-projects-copy-1fgbcj){target="_blank"}
 
-**Avsnitt 1: Arbeta med Admin**
+**Avsnitt 1: Arbeta med administratör**
 
 * [Layouter](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-overview.html){target="_blank"}
 * [Användarroller](https://docs.magento.com/user-guide/system/permissions-user-roles.html){target="_blank"}
@@ -181,7 +181,7 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 
 * [[!DNL Commerce] Självstudiekurser](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/overview.html){target="_blank"}
 * [Händelser och observatörer](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/events-and-observers.html){target="_blank"}
-* [Navigering i lager](https://docs.magento.com/user-guide/catalog/navigation-layered.html){target="_blank"}
+* [Navigering i flera lager](https://docs.magento.com/user-guide/catalog/navigation-layered.html){target="_blank"}
 * [Produktattribut - översikt](https://docs.magento.com/user-guide/stores/attributes.html){target="_blank"}
 * [Översikt över deklarativt schema](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/declarative-schema/){target="_blank"}
 
@@ -193,7 +193,7 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 * [Teman](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-overview.html){target="_blank"}
 * [Introduktion till JavaScript](https://devdocs.magento.com/guides/v2.4/javascript-dev-guide/javascript/js_overview.html){target="_blank"}
 * [Kodstandarder](https://devdocs.magento.com/guides/v2.4/coding-standards/bk-coding-standards.html){target="_blank"}
-* [Cachelagring av sidor](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/cache/page-caching.html){target="_blank"}
+* [Cachelagra sida](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/cache/page-caching.html){target="_blank"}
 
 **Avsnitt 5: Utcheckning och försäljning**
 
@@ -222,7 +222,7 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 * [Pro-arkitektur](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/pro-architecture.html){target="_blank"}
 * [Skalbar arkitektur](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/scaled-architecture.html){target="_blank"}
 
-**Avsnitt 8: Konfigurera Adobe [!DNL Commerce] Cloud**
+**Avsnitt 8: Konfigurera/konfigurera Adobe [!DNL Commerce] Cloud**
 
 * [Översikt över konfigurationsfiler](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html){target="_blank"}
 * [Egenskaper för programkonfiguration](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html){target="_blank"}
@@ -245,20 +245,16 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 
 
 
-## Om provet
+## Om certifieringsprovet
 
 {{about-certification-exam}}
 
-## Ta provet (AD0-E717)
-
-### Tillgängliga alternativ
-
-**[!DNL Examity]** ( *online* )
+## Schemalägg eller ta prov AD0-E717
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E717" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Ta prov
+   Gå till portalen för undersökningar
 </span>
 </a>
 

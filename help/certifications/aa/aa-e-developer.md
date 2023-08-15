@@ -1,17 +1,17 @@
 ---
 title: Certifiering av utvecklarexpert
-description: Lär dig hur du blir certifierad som [!DNL Adobe Analytics] Developer Expert.
+description: Lär dig certifiera dig som [!DNL Adobe Analytics] Developer Expert.
 solution: Analytics
 product: Analytics
 role: Developer
 level: Experienced
-badge: label="Exam AD0-E209" type="positive"
+badge: label="tentamen AD0-E209" type="positive"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1063'
-ht-degree: 2%
+source-wordcount: '918'
+ht-degree: 3%
 
 ---
 
@@ -23,7 +23,7 @@ Lär dig hur du blir certifierad [!DNL Adobe Analytics] Developer Expert.
 
 Du bör ha erfarenhet som implementeringskonsult i en blandad roll med ungefär två års erfarenhet av [!DNL Adobe Analytics] implementering. Ni fungerar som en länk mellan IT och företaget, översätter verksamhetskraven till en teknisk lösning (SDR) och bygger på krav från analytikern, förstår vilken typ av variabel som behövs, var och hur data ska samlas in, utformar datamodellen (datalagret), konfigurerar och underhåller tagghanteringslösningen.
 
-Du som analytikeutvecklare sällan implementerar taggarna på sidan; i stället implementeras de av IT eller systemintegratören.
+Eftersom Analytics Developer sällan implementerar taggarna på sidan implementeras de i stället av IT-avdelningen eller systemintegratören.
 
 Du bör känna till följande verktyg och miljöer:
 
@@ -31,7 +31,7 @@ Verktyg:
 
 * Adobe Experience Platform Launch (Adobe Launch)
 * Felsökningsverktyg som är relevanta för [!DNL Adobe Analytics] (Packet monitor som Adobe Debugger, verktyg för webbläsare, Charles)
-* [!DNL Adobe Analytics] Rapportprogramsinställningar för Admin Console
+* [!DNL Adobe Analytics] Rapportsvitsinställningar för Admin Console
 * Grundläggande arbetsytekunskap
 * Webbutvecklingsverktyg, kodredigerare och felsökningsverktyg för mobiler
 * Adobe Auditor
@@ -65,12 +65,12 @@ Miljöer:
 **Information om tentamen:**
 
 * Nivå: Expert (1-3 års erfarenhet)
-* Lösenpoäng: 31/50
+* Löpande poäng: 31/50
 * Tid: 120 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller testcenter
-* Tillgängliga språk: Engelska
-* Kostnad: $225 (global) och $150 (Indien)
-* Exam-ID: AD0-E209
+* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
+* Tillgängliga språk: engelska
+* Kostnad: 225 USD (globalt) och 150 USD (Indien)
+* Exam ID: AD0-E209
 
 **Självbedömning av beredskap**
 
@@ -78,7 +78,7 @@ Slutför [onlineberedskapsenkät](https://scorpion.caveon.com/launchpad/ad-q-e12
 
 **Mål och omfattning för tentamen**
 
-Avsnitt 1: Analyser i Adobe Experience Cloud ekosystem (10 %)
+Avsnitt 1: Förstå analyser i Adobe Experience Cloud ekosystem (10 %)
 
 * Uppvisa kunskap om hur man använder Adobe Experience Cloud ID
 * Uppvisa förståelse för Adobe Launch
@@ -89,7 +89,7 @@ Avsnitt 2: Strategi och design baserad på en referens för lösningsdesign (SDR
 * Tolka en referens för lösningsdesign för att utveckla effektiv kod för datainhämtning
 * Använd Tech Spec för att fylla i dataobjekt
 
-Avsnitt 3: Implementering och konfiguration av analyser (36 %)
+Avsnitt 3: Analysimplementering och konfiguration (36 %)
 
 * Bestäm vilken miljö som ska distribueras [!DNL Adobe Analytics] Code
 * Kör en minimal distributionskod för Analytics-spårning
@@ -123,7 +123,7 @@ Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och 
 
 Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
-**Avsnitt 1: Analyser i Adobe Experience Cloud ekosystem**
+**Avsnitt 1: Analysförståelse i Adobe Experience Cloud ekosystem**
 
 * [Analytics Tech Notes](https://experienceleague.adobe.com/docs/analytics/technotes/home.html){target="_blank"}
 * [Ställa ID:n för Analytics och Experience Cloud](https://experienceleague.adobe.com/docs/id-service/using/reference/analytics-reference/analytics-ids.html){target="_blank"}
@@ -170,44 +170,16 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 {{practice-test}}
 
-## Om provet
+## Om certifieringsprovet
 
 {{about-certification-exam}}
 
-## Ta provet
-
-Adobe använder två leverantörer för att administrera proffsiga tentamina, PSI och Examity.
-
-* **PSI** erbjuder testcenter och japanska tentamina (där det finns tillgängligt)
-* **[!DNL Examity]** erbjuder ett fjärranslutet alternativ
-
-Om du vill schemalägga, schemalägga om eller avbryta din tentamen klickar du bara på valfri leverantör och följer instruktionerna på skärmen. Så enkelt är det!
-
-Profilnamnet i Adobe Credential Management System måste exakt matcha ditt Government ID. Om informationen inte är identisk eller om det inte finns någon matchning avbryts provet och du måste schemalägga om din avtalade tid utöver att betala en extra provavgift.
-
-Det går att avbryta och schemalägga om det initieras före 48 timmar före det schemalagda provbesöket. Kandidaterna måste själva ändra den här avtalade tiden.
-
-## Ta provet (AD0-E209)
-
-### Tillgängliga alternativ
-
-{{PSI-note}}
-
-**PSI** (*testcenter/alternativ för japanska prov (om sådana finns)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E209" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Ta prov
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Schemalägg eller ta prov AD0-E209
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E209" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Ta prov
+   Gå till portalen för undersökningar
 </span>
 </a>
 

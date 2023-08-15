@@ -4,19 +4,19 @@ description: Lär dig hur du blir certifierad som Adobe [!DNL Audience Manager] 
 solution: Audience Manager
 product: Audience Manager
 role: User,Developer
-badge: label="Exam AD0-E457" type="positive"
+badge: label="Prov AD0-E457" type="positive"
 mini-toc-levels: 1
 exl-id: 71141d87-828c-4c28-a6e2-0e12e885e1ad
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '965'
+source-wordcount: '940'
 ht-degree: 6%
 
 ---
 
-# Certifieringsresa för Adobe [!DNL Audience Manager] Affärsexpert
+# Certifieringsresa för [!DNL Adobe Audience Manager] Affärsexpert
 
-Lär dig hur du blir certifierad [!DNL Audience Manager] Yrkesverksamma inom affärsverksamhet.
+Lär dig hur du blir certifierad [!DNL Adobe Audience Manager] Yrkesverksamma inom affärsverksamhet.
 
 ## Minimal upplevelse
 
@@ -24,7 +24,7 @@ Din certifiering gäller i två år från och med när du godkänns. Vi rekommen
 
 Du borde ha:
 
-* 1-2 års erfarenhet inom marknadsföringsteknologi
+* 1-2 års erfarenhet inom marknadsföringsteknik
 * 3-6 månaders erfarenhet av målgruppsaktivering
 * Upplevelse med boolesk logik, digital marknadsföring, dataanalys och strategier
 * Kunskap om affärsmål och nyckeltal, kunskap om digitala marknadsföringsteknologier och olika plattformsintegrationer samt förståelse för dataflöden (ID-typer, ID-synk, pixelspårning, personbaserade destinationer)
@@ -39,7 +39,7 @@ Teknik:
 * Annonsserver (kampanjhanterare med dubbelklick)
 * Adobe/Google Analytics
 * Adobe Experience Platform
-* BAAAM-verktyget
+* BAAAM
 
 Miljöer:
 
@@ -68,12 +68,12 @@ Miljöer:
 **Information om tentamen:**
 
 * Nivå: Expert (1-3 års erfarenhet)
-* Lösenpoäng: 36/50
+* Löpande poäng: 36/50
 * Tid: 100 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller testcenter
-* Tillgängliga språk: Engelska
-* Kostnad: $225 (global) och $150 (Indien)
-* Exam-ID: AD0-E457
+* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
+* Tillgängliga språk: engelska
+* Kostnad: 225 USD (globalt) och 150 USD (Indien)
+* Exam ID: AD0-E457
 
 **Självbedömning av beredskap**
 
@@ -166,31 +166,16 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 {{practice-test}}
 
-## Om provet
+## Om certifieringsprovet
 
 {{about-certification-exam}}
 
-## Ta provet (AD0-E457)
-
-### Tillgängliga alternativ
-
-{{PSI-note}}
-
-**PSI** (*testcenter/alternativ för japanska prov (om sådana finns)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E457" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Ta prov
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Schemalägg eller ta prov AD0-E457
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E457" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Ta prov
+   Gå till portalen för undersökningar
 </span>
 </a>
 

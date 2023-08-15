@@ -4,12 +4,12 @@ description: Lär dig hur du blir certifierad Adobe [!DNL Marketo Engage] Profes
 solution: Marketo Engage
 product: Marketo
 role: User
-badge: label="Exam AD0-E555" type="positive"
+badge: label="Prov AD0-E555" type="positive"
 mini-toc-levels: 1
 exl-id: df1a2c71-5216-47d1-a971-5c07dd3e2d2a
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1043'
+source-wordcount: '1019'
 ht-degree: 0%
 
 ---
@@ -63,13 +63,13 @@ Och du bör känna till följande verktyg och tekniker:
 
 **Information om tentamen:**
 
-* Nivå: Professionell (0-12 månaders erfarenhet)
-* Lösenpoäng: 36/55
+* Nivå: Professionell (0-12 månaders upplevelse)
+* Passing Score: 36/55
 * Tid: 110 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller testcenter
-* Tillgängliga språk: Engelska
-* Kostnad: $125 (global) / $95 (Indien)
-* Exam-ID: AD0-E555
+* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
+* Tillgängliga språk: engelska
+* Kostnad: 125 USD (globalt)/95 USD (Indien)
+* Exam ID: AD0-E555
 
 **Självbedömning av beredskap**
 
@@ -77,9 +77,9 @@ Slutför [onlineberedskapsenkät](https://scorpion.caveon.com/launchpad/ad-q-e55
 
 **Mål och omfattning för tentamen**
 
-Avsnitt 1: Bygga och hantera program (39 %)
+Avsnitt 1: Bygga och förvalta program (39 %)
 
-* Ange en lämplig rapporteringsstrategi för att utföra en analys utifrån ett affärsbehov/fråga
+* Ange en lämplig rapporteringsstrategi för att utföra en analys utifrån ett affärsbehov/en fråga
 * Analysera data för att besvara affärsfrågor
 * Identifiera konverteringsfunktioner (som ett koncept för att förstå affärsanalyser)
 * Läs i Solution Design Reference (SDR) för att se vilka data som är tillgängliga i rapporter
@@ -139,7 +139,7 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 * [Marketo-ordlista](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/marketo-glossary.html){target="_blank"}
 * [Förstå programmedlemskap](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.html){target="_blank"}
 
-**Avsnitt 2: Bygga resurser**
+**Avsnitt 2: Byggtillgångar**
 
 * [Förstå en lokal resurs i ett program](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.html){target="_blank"}
 * [Skapa ett formulär](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/create-a-form.html){target="_blank"}
@@ -153,7 +153,7 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 * [Skapa en segmentering](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.html){target="_blank"}
 * [Dynamiskt innehåll](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.html){target="_blank"}
 
-**Avsnitt 4: Analysera och skapa rapporter**
+**Avsnitt 4: Analys och byggrapporter**
 
 * [Skapa en rapport i ett program](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.html){target="_blank"}
 * [Smarta listor](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.html){target="_blank"}
@@ -169,31 +169,16 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 >Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
 
 
-## Om provet
+## Om certifieringsprovet
 
 {{about-certification-exam}}
 
-## Ta provet (AD0-E555)
-
-### Tillgängliga alternativ
-
-{{PSI-note}}
-
-**PSI** (*testcenter/alternativ för japanska prov (om sådana finns)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E555" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Ta prov
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Schemalägg eller ta prov AD0-E555
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E555" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Ta prov
+   Gå till portalen för undersökningar
 </span>
 </a>
 

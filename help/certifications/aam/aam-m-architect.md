@@ -1,23 +1,23 @@
 ---
-title: Arkitektens Överordnad certifiering
-description: Lär dig hur du blir certifierad som Adobe [!DNL Audience Manager] Arkitekt Överordnad.
+title: Architect Master-certifiering
+description: Lär dig hur du blir certifierad som Adobe [!DNL Audience Manager] Arkitektmästare.
 solution: Audience Manager
 product: Audience Manager
 role: Data Architect
 level: Experienced
-badge: label="Exam AD0-E454" type="positive"
+badge: label="Prov AD0-E454" type="positive"
 mini-toc-levels: 1
 exl-id: 6f87f669-f3c2-4a5c-a5f3-e3e73b93cd55
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '733'
+source-wordcount: '708'
 ht-degree: 2%
 
 ---
 
-# Certifieringsresa för Adobe [!DNL Audience Manager] Arkitekt Överordnad
+# Certifieringsresa för [!DNL Adobe Audience Manager] Architect Master
 
-Lär dig hur du blir certifierad [!DNL Audience Manager] Arkitekt Överordnad.
+Lär dig hur du blir certifierad [!DNL Adobe Audience Manager] Arkitektmästare.
 
 ## Minimal upplevelse
 
@@ -54,15 +54,15 @@ Dessutom bör du kunna utföra följande uppgifter:
 * Teknisk konsult
 * Marknadsföringstekniker
 
-**Information om tentamen**
+**Provinformation**
 
-* Nivå: Överordnad (3-5 års erfarenhet)
-* Lösenpoäng: 29/50
+* Nivå: Masternivå (3-5 års erfarenhet)
+* Löpande poäng: 29/50
 * Tid: 100 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller testcenter
-* Tillgängliga språk: Engelska
+* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
+* Tillgängliga språk: engelska
 * Kostnad: $225 (global) / $150 (Indien)
-* Exam-ID: AD0-E454
+* Exam ID: AD0-E454
 
 **Självbedömning av beredskap**
 
@@ -78,7 +78,7 @@ Avsnitt 1: Implementeringsanalys (26 %)
 * Identifiera funktioner som besökarprofilens visningsprogram, taggar, RBAC o.s.v. för att anpassa sig till affärsmålen
 * Bestäm hur du utformar och testar pixlar som behövs för att skapa segment och egenskaper
 
-Avsnitt 2: Lösningsdesign och rekommendationer (18 %)
+Avsnitt 2: Lösningens utformning och rekommendationer (18 %)
 
 * fastställa AAM baserat på kundens användningsmodell för målgrupp och aktivering
 * Tillämpa procedurmässiga koncept för att utnyttja målgruppsidentitetslösningar för att komplettera designarkitekturen
@@ -99,7 +99,7 @@ Avsnitt 4: Integritet och datahantering (8 %)
 * Rekommendera [!DNL Audience Manager] funktioner som rör styrning, integritet och säkerhet
 * Identifiera policyer för kunddata som är i linje med gällande bestämmelser
 
-Avsnitt 5: Prestanda och rapportering (18 %)
+Avsnitt 5: Resultat och rapportering (18 %)
 
 * Bestäm hur rapporter ska konfigureras i AAM för att samla in signaler, egenskaper och segmentprestanda enligt verksamhetskrav
 
@@ -115,16 +115,16 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Analytics-integrering](https://experienceleague.adobe.com/docs/analytics/integration/home.html){target="_blank"}
 * [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
 
-**Avsnitt 2: Solution Design and Recommendations**
+**Avsnitt 2: Lösningsdesign och Recommendations**
 
 * [[!DNL Audience Manager] Användarhandbok](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
-* [[!DNL Audience Manager] självstudiekurser](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html){target="_blank"}
+* [[!DNL Audience Manager] självstudier](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html){target="_blank"}
 
 **Avsnitt 3: Segmentering och aktivering**
 
 * [[!DNL Audience Manager] Användarhandbok](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
 * [Adobe [!DNL Audience Manager]](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager/ct-p/adobe-audience-manager-community){target="_blank"}
-* [[!DNL Audience Manager] självstudiekurser](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html){target="_blank"}
+* [[!DNL Audience Manager] självstudier](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html){target="_blank"}
 
 **Avsnitt 4: Integritet och datastyrning**
 
@@ -144,31 +144,16 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 
 
-## Om provet
+## Om certifieringsprovet
 
 {{about-certification-exam}}
 
-## Ta provet (AD0-E454)
-
-### Tillgängliga alternativ
-
-{{PSI-note}}
-
-**PSI** (*testcenter/alternativ för japanska prov (om sådana finns)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E454" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Ta prov
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Schemalägg eller ta prov AD0-E454
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E454" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Ta prov
+   Gå till portalen för undersökningar
 </span>
 </a>
 

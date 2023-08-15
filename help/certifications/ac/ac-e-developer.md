@@ -4,19 +4,19 @@ description: Lär dig hur du blir certifierad Adobe Developer-expert i Adobe [!D
 solution: Commerce
 role: Developer
 level: Experienced
-badge: label="Exam AD0-E716" type="positive"
+badge: label="Prov AD0-E716" type="positive"
 mini-toc-levels: 1
 exl-id: 025be894-3f29-4370-ac41-19901df4fb00
-source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1854'
+source-wordcount: '1850'
 ht-degree: 0%
 
 ---
 
-# Certifieringsresa för Adobe [!DNL Commerce] Developer Expert
+# Certifieringsresa för [!DNL Adobe Commerce] Developer Expert
 
-Lär dig hur du blir en certifierad Adobe Developer-expert.
+Lär dig hur du blir certifierad [!DNL Adobe Commerce] Developer Expert.
 
 ## Minimal upplevelse
 
@@ -52,12 +52,12 @@ Du bör ha minst 1-3 års erfarenhet av Adobe [!DNL Commerce] och du är bekant 
 **Information om tentamen:**
 
 * Nivå: Expert (1-3 års erfarenhet)
-* Lösenpoäng: 41/69
+* Löpande poäng: 41/69
 * Tid: 138 min
 * Leverans: Bearbetad online (kräver kameraåtkomst)
-* Tillgängliga språk: Engelska
+* Tillgängliga språk: engelska
 * Kostnad: $225 (global) / $150 (Indien)
-* Exam-ID: AD0-E716
+* Exam ID: AD0-E716
 
 **Självbedömning av beredskap**
 
@@ -73,7 +73,7 @@ Avsnitt 1: Adobe [!DNL Commerce] Arkitektur- och anpassningsmetoder (36 %)
 * Lägg in observatörer, inställningar och plugin-program korrekt (effekter i sorteringsordning)
 * Uppvisa möjligheten att använda konfigurationslagret i Adobe [!DNL Commerce]
 * Uppvisa kunskap om hur rutter fungerar i Adobe [!DNL Commerce]
-* Uppvisa förmåga att anpassa Page Builder
+* Uppvisa förmåga att anpassa PageBuilder
 * Bestäm vilka effekter och begränsningar som kan uppstå när du konfigurerar flera platser på en enda instans
 * Beskriv funktioner och begränsningar för beroendeinjektion
 * Beskriv hur du lägger till och konfigurerar fält i lagringsinställningarna
@@ -106,7 +106,7 @@ Avsnitt 4: Anpassa katalogen (6 %)
 * Uppvisa förmåga att hantera index och anpassa prisutdata
 * Förklara hur lager påverkas av flera källor (programnivå)
 
-Avsnitt 5: Anpassa säljåtgärder (6 %)
+Section 5: Customizing Sales Operations (6%)
 
 * Uppvisa förmåga att utveckla nya betalningsmetoder eller anpassa befintliga betalningsmetoder
 * Uppvisa förmåga att lägga till och anpassa leveransmetoder
@@ -129,7 +129,7 @@ Avsnitt 7: Adobe [!DNL Commerce] Molnarkitektur (16 %)
 * Definiera funktioner som tillhandahålls av ECE-verktygen
 * Identifiera användningsområden för ECE-patchar (säkerhetsöverträdelse)
 * Beskriv hur man underhåller och uppgraderar ECE-verktyg
-* Ange när supporten ska kontaktas *Gammalfiler och begränsningar (DIY vs supportärenden)
+* Skilj ut när supporten ska kontaktas *Yaml-filer och -begränsningar (DIY vs supportärenden)
 * Uppvisa grundläggande kunskaper i OOTB - FASTSTLY features configuration and installation
 
 Avsnitt 8: Konfigurera/konfigurera Adobe [!DNL Commerce] Molnet (10 %)
@@ -137,7 +137,7 @@ Avsnitt 8: Konfigurera/konfigurera Adobe [!DNL Commerce] Molnet (10 %)
 * Beskriv hur du konfigurerar/konfigurerar Adobe [!DNL Commerce] Cloud
 * Använd grundläggande molnfelsökningsinformation (hierarki av webbgränssnitt och variabler, konfigurationsprioritet)
 * Uppvisa förståelse för användarhantering i molnet och startgränssnitt
-* Beskriv hur du uppdaterar molnvariabler med hjälp av användargränssnittet
+* Beskriv hur du uppdaterar molnvariabler med användargränssnittet
 * Beskriv miljöhantering med användargränssnittet
 * Uppvisa förståelse för förgreningar med hjälp av användargränssnittet
 * Identifiera funktionerna i Adobe Commerce Cloud-planen
@@ -155,24 +155,24 @@ Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och 
 
 Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
-**Avsnitt 1: Adobe [!DNL Commerce] arkitektur och anpassningstekniker**
+**Avsnitt 1: Adobe [!DNL Commerce] arkitektur och anpassningsmetoder**
 
 * [[!DNL Commerce] för utvecklare - översikt](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-1-1-overview.html#video-content){target="_blank"}
 * [[!DNL Commerce] för utvecklare - utvecklingsarbetsflöde](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-1-2-workflow.html){target="_blank"}
 * [[!DNL Commerce] för utvecklare - kodbas](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-4-code-base.html){target="_blank"}
 * [[!DNL Commerce] för utvecklare - övningar](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-6-practice.html){target="_blank"}
 * [Magento 2 Development Essentials](https://learning.adobe.com/catalog/adobe_commerce/cours000000000099263.html){target="_blank"}
-* [Adobe [!DNL Commerce] Moln: Magento Commerce - Back-End Developer](https://learning.adobe.com/learning-path/adobe_commerce/curra000000000006251.html){target="_blank"}
+* [Adobe [!DNL Commerce] Cloud: Magento Commerce - Back-End Developer](https://learning.adobe.com/learning-path/adobe_commerce/curra000000000006251.html){target="_blank"}
 * [Adobe [!DNL Commerce] 2.4 Utvecklarhandbok](https://devdocs.magento.com/){target="_blank"}
 * [Delvis cachelagring](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/cache/partial-caching.html){target="_blank"}
-* [Cachelagring av sidor](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/cache/page-caching.html){target="_blank"}
+* [Cachelagra sida](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/cache/page-caching.html){target="_blank"}
 * [Lägg till tilläggsattribut till entiteter](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/extension_attributes/adding-attributes.html){target="_blank"}
 * [Kategorier - Designinställningar](https://docs.magento.com/user-guide/catalog/categories-custom-design.html){target="_blank"}
 * [Skapa en modul](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/create-module.html){target="_blank"}
 * [Komponentutveckling](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/module-development.html){target="_blank"}
 * [[!DNL Commerce] för utvecklare - grunderna för utveckling](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-1-dev-basics.html){target="_blank"}
 * [[!DNL Commerce] för utvecklare - efter installation](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-3-post-install.html){target="_blank"}
-* [[!DNL Commerce] för utvecklare - routning](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-3-routing.html){target="_blank"}
+* [[!DNL Commerce] for developers - Routing](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-3-routing.html){target="_blank"}
 * [Skapa en ny sida](https://devdocs.magento.com/videos/fundamentals/create-a-new-page/){target="_blank"}
 * [Page Builder](https://docs.magento.com/user-guide/cms/page-builder.html){target="_blank"}
 * [Vad är Page Builder?](https://devdocs.magento.com/page-builder/docs/){target="_blank"}
@@ -196,7 +196,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 * [Skapa ett produktattribut](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/add-product-attribute.html){target="_blank"}
 * [EAV- och tilläggsattribut](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/attributes.html){target="_blank"}
-* [Så här lägger du till ett nytt produktattribut](https://devdocs.magento.com/videos/fundamentals/add-new-product-attribute/){target="_blank"}
+* [Lägga till ett nytt produktattribut](https://devdocs.magento.com/videos/fundamentals/add-new-product-attribute/){target="_blank"}
 * [Lägga till ett anpassat textfältsattribut](https://devdocs.magento.com/guides/v2.4/howdoi/custom-attributes/text-field.html){target="_blank"}
 * [[!DNL Commerce] för utvecklare - deklarativt schema](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-2-declarative-schema.html){target="_blank"}
 * [Lägga till en ny tabell i en databas](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/new-db-table.html){target="_blank"}
@@ -206,7 +206,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Importera och exportera lager](https://docs.magento.com/user-guide/catalog/inventory-import-export.html){target="_blank"}
 * [Utveckla data och schemapatchar](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/declarative-schema/data-patches.html){target="_blank"}
 
-**Avsnitt 3: Utveckla med admin**
+**Avsnitt 3: Utveckla med administratör**
 
 * [[!DNL Commerce] för utvecklare - Skapa en administratörssida](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-4-admin-page.html){target="_blank"}
 * [Lägga till ett administratörsrutnät](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/admin-grid.html){target="_blank"}
@@ -250,7 +250,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 **Avsnitt 7: Adobe [!DNL Commerce] Molnarkitektur**
 
-* [Projektarbetsflöde för Pro](https://devdocs.magento.com/cloud/architecture/pro-develop-deploy-workflow.html){target="_blank"}
+* [Arbetsflöde för Pro-projekt](https://devdocs.magento.com/cloud/architecture/pro-develop-deploy-workflow.html){target="_blank"}
 * [Cloud CLI](https://devdocs.magento.com/cloud/reference/cli-ref-topic.html){target="_blank"}
 * [[!DNL Commerce] på molninfrastruktur](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html){target="_blank"}
 * [ECE-verktygspaket](https://devdocs.magento.com/cloud/reference/ece-tools-reference.html){target="_blank"}
@@ -282,20 +282,16 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 {{practice-test}}
 
-## Om provet
+## Om certifieringsprovet
 
 {{about-certification-exam}}
 
-## Ta provet (AD0-E716)
-
-### Tillgängliga alternativ
-
-**[!DNL Examity]** ( *online* )
+### Schemalägg eller ta prov AD0-E716
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E716" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Ta prov
+   Gå till portalen för undersökningar
 </span>
 </a>
 

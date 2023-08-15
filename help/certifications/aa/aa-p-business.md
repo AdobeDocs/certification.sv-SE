@@ -1,22 +1,22 @@
 ---
-title: Yrkescertifiering för affärsanvändare
-description: Lär dig hur du blir certifierad som [!DNL Adobe Analytics] Yrkesverksamma inom affärsverksamhet.
+title: Yrkescertifiering för Business Practizer
+description: Lär dig certifiera dig som [!DNL Adobe Analytics] Yrkesverksamma inom affärsverksamhet.
 solution: Analytics
 product: Analytics
 role: User
-badge: label="Exam AD0-E212" type="positive"
+badge: label="Prov AD0-E212" type="positive"
 mini-toc-levels: 1
 exl-id: ab0b2e4d-5f24-4b78-bdef-2a6b0aaa53ec
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '797'
+source-wordcount: '772'
 ht-degree: 3%
 
 ---
 
 # Certifieringsresa för [!DNL Adobe Analytics] Yrkesverksamma inom affärsverksamhet
 
-Lär dig hur du blir en certifierad Business Practitioner inom Analytics.
+Lär dig hur du blir certifierad [!DNL Adobe Analytics] Yrkesverksamma inom affärsverksamhet.
 
 ## Minimal upplevelse
 
@@ -38,10 +38,10 @@ Du bör ha minst tre månaders erfarenhet av [!DNL Adobe Analytics] och följand
 **Målgrupp:**
 
 * Digitala marknadsförare
-* Affärsanalytiker
+* Affärsanalyser
 * Affärskonsulter
 * Dataanalytiker
-* Webbanalytiker
+* Webbanalyser
 * Digitala analytiker
 * Media-/marknadsföringsanalytiker
 * Produktägare och -chefer
@@ -50,13 +50,13 @@ Du bör ha minst tre månaders erfarenhet av [!DNL Adobe Analytics] och följand
 
 **Information om tentamen:**
 
-* Nivå: Professionell (0-12 månaders erfarenhet)
-* Lösenpoäng: 31/50
+* Nivå: Professionell (0-12 månaders upplevelse)
+* Löpande poäng: 31/50
 * Tid: 100 min
 * Leverans: Bearbetad online (kräver kameraåtkomst)
-* Tillgängliga språk: Engelska
-* Kostnad: $125 (global) / $95 (Indien)
-* Exam-ID: AD0-E212
+* Tillgängliga språk: engelska
+* Kostnad: 125 USD (globalt)/95 USD (Indien)
+* Exam ID: AD0-E212
 
 **Självbedömning av beredskap**
 
@@ -66,21 +66,21 @@ Slutför [onlineberedskapsenkät](https://scorpion.caveon.com/launchpad/ad-q-e12
 
 Avsnitt 1: Affärsanalys (34 %)
 
-* Ange en lämplig rapporteringsstrategi för att utföra en analys utifrån ett affärsbehov/fråga
+* Ange en lämplig rapporteringsstrategi för att utföra en analys utifrån ett affärsbehov/en fråga
 * Analysera data för att besvara affärsfrågor
 * Identifiera konverteringsfunktioner (som ett koncept för att förstå affärsanalyser)
 * Läs i Solution Design Reference (SDR) för att se vilka data som är tillgängliga i rapporter
 * Analysera rapportdata för att sammanfatta och dra slutsatser
 * Känn igen avvikelser och avvikelser i rapporter
 
-Avsnitt 2: Rapportering och introduktion av instrumentpaneler för projekt (38 %)
+Avsnitt 2: Rapportering och introduktion av statsobjekt för projekt (38 %)
 
 * Tänk på fördelarna med att använda specifika visualiseringar baserat på ett visst scenario
 * Jämför utfalls- och flödesvisualisering
 * Använd processen för att schemalägga och dela projekt för olika användare och/eller grupper
 * Använd processen för att söka upp och kombinera dimensioner, mätvärden, datumintervall och segment
 * Använda processen för att skapa en visualisering
-* Ange lämplig artikel för ett scenario
+* I ett scenario måste du fastställa vilken artikel som ska användas
 * Rapport om marknadsföringskampanjens resultat
 
 Avsnitt 3: Segmentering och beräknade värden (19 %)
@@ -93,7 +93,7 @@ Avsnitt 3: Segmentering och beräknade värden (19 %)
 Avsnitt 4: Allmän verktygsinformation och felsökning (9 %)
 
 * Förstå olika typer av dimensioner och parametrar som finns i [!DNL Adobe Analytics] (evar, props och events)
-* Bestäm hur data ska exporteras från [!DNL Adobe Analytics]
+* Bestäm hur du exporterar data från [!DNL Adobe Analytics]
 
 >[!TAB Förbered]
 
@@ -114,7 +114,7 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 * [Implementering [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
 * [Hjälp med Data Workbench](https://experienceleague.adobe.com/docs/data-workbench/using/home.html){target="_blank"}
 
-**Avsnitt 2: Rapportering och instrumentpaneler för projekt**
+**Avsnitt 2: Rapportering och statuskontroll för projekt**
 
 * [Användarhandbok om Analytics Admin](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
 * [Användarhandbok om Analytics-verktyg](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
@@ -139,31 +139,16 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 >
 >Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
 
-## Om provet
+## Om certifieringsprovet
 
 {{about-certification-exam}}
 
-## Ta provet (AD0-E212)
-
-### Tillgängliga alternativ
-
-{{PSI-note}}
-
-**PSI** (*testcenter/alternativ för japanska prov (om sådana finns)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E212" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Ta prov
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Schemalägg eller ta prov AD0-E212
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E212" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Ta prov
+   Gå till portalen för undersökningar
 </span>
 </a>
 

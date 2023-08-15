@@ -4,25 +4,25 @@ description: Lär dig hur du blir certifierad Adobe [!DNL Experience Manager Sit
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Developer
-badge: label="Exam AD0-E134" type="positive"
+badge: label="Prov AD0-E134" type="positive"
 mini-toc-levels: 1
 exl-id: 4b97177a-38aa-4082-95da-1e4c9962f3c8
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '814'
-ht-degree: 4%
+source-wordcount: '789'
+ht-degree: 5%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Experience Manager Sites] Developer Expert
 
-Lär dig hur du blir en certifierad Adobe Experience Manager-expert.
+Lär dig hur du blir certifierad Adobe [!DNL Experience Manager] Developer Expert.
 
 ## Minimal upplevelse
 
 Du borde ha:
 
-* Minst 1-3 års erfarenhet av att arbeta med AEM Platform
+* Minst 1-3 års erfarenhet av AEM
 * Funktioner för avancerad komponentutveckling
 * En djupgående förståelse av MVC-ramverket (Model View Controller)
 * Kunskap om ramverk och bibliotek i AEM
@@ -56,12 +56,12 @@ Dessutom är du bekant med följande tekniker och miljöer:
 **Information om tentamen:**
 
 * Nivå: Expert (1-3 års erfarenhet)
-* Lösenpoäng: 26/50
+* Passing Score: 26/50
 * Tid: 100 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller testcenter
-* Tillgängliga språk: Engelska
+* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
+* Tillgängliga språk: engelska
 * Kostnad: $225 (global) / $150 (Indien)
-* Exam-ID: AD0-E134
+* Exam ID: AD0-E134
 
 **Självbedömning av beredskap**
 
@@ -86,14 +86,14 @@ Avsnitt 2: AEM (44 %)
 * I ett scenario ska du fastställa metoden för tredjepartsintegrering
 * Fastställa metoden för att implementera en headless- eller hybridimplementering
 
-Avsnitt 3: Bygg och driftsätt (14 %)
+Avsnitt 3: Skapa och driftsätta (14 %)
 
 * Identifiera stegen för att konfigurera och underhålla hantering av användarberoenden för front-end och back-end
 * Identifiera rätt arketyp när du skapar projekt
 
 Avsnitt 4: Miljöunderhåll (22 %)
 
-* Ange vilka steg som krävs för att hantera AEM miljöer utifrån ett scenario
+* Ange vilka steg som krävs för att hantera AEM miljöer
 * Förklara konfigurationsstegen för versionshantering
 * Rekommendera och implementera lösningar för att synkronisera innehåll/konfigurationer i olika AEM miljöer
 * Fastställa vilka steg som krävs för planering och implementering av AEM uppgraderingar och datamigrering/uppgifter
@@ -119,9 +119,9 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Kom igång med AEM Sites - WKND självstudiekurs](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html){target="_blank"}
 * [Användarhandbok om AEM 6.5-redigering](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
 * [Användarhandbok om AEM 6.5-administration](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
-* [[!DNL Experience Manager as a Cloud Service] dokumentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
+* [[!DNL Experience Manager as a Cloud Service] dokumentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=sv){target="_blank"}
 
-**Avsnitt 3: Bygg och driftsätt**
+**Avsnitt 3: Bygg och driftsätta**
 
 * [Introduktion till kärnkomponenter](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html){target="_blank"}
 * [Användarhandbok om AEM 6.5-utveckling](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
@@ -131,7 +131,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 **Avsnitt 4: Miljöunderhåll**
 
-* [[!DNL Experience Manager as a Cloud Service] dokumentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
+* [[!DNL Experience Manager as a Cloud Service] dokumentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=sv){target="_blank"}
 * [AEM Foundation videor och självstudiekurser](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html){target="_blank"}
 * [Driftsättning och underhåll](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/deploying/deploy.html){target="_blank"}
 * [Användarhandbok om AEM 6.5-administration](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
@@ -149,31 +149,16 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 {{practice-test}}
 
-## Om provet
+## Om certifieringsprovet
 
 {{about-certification-exam}}
 
-## Ta provet (AD0-E134)
-
-### Tillgängliga alternativ
-
-{{PSI-note}}
-
-**PSI** (*testcenter/alternativ för japanska prov (om sådana finns)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E134" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Ta prov
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Schemalägg eller ta prov AD0-E134
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E134" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Ta prov
+   Gå till portalen för undersökningar
 </span>
 </a>
 

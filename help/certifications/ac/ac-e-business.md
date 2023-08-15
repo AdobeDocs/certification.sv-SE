@@ -5,19 +5,19 @@ solution: Commerce
 product: Magento
 role: User
 level: Experienced
-badge: label="Exam AD0-E708" type="positive"
+badge: label="Prov AD0-E708" type="positive"
 mini-toc-levels: 1
 exl-id: 1f44f543-4303-43b8-a42e-431f504d7a03
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1443'
+source-wordcount: '1417'
 ht-degree: 0%
 
 ---
 
-# Certifieringsresa för Adobe [!DNL Commerce] Affärsexpert
+# Certifieringsresa för [!DNL Adobe Commerce] Affärsexpert
 
-Lär dig hur du blir en certifierad expert på Adobe Business Practitioner.
+Lär dig hur du blir certifierad [!DNL Adobe Commerce] Yrkesverksamma inom affärsverksamhet.
 
 ## Minimal upplevelse
 
@@ -36,8 +36,8 @@ Du bör ha erfarenhet av:
 Och du bör känna dig trygg med följande tekniker:
 
 * Adobe [!DNL Commerce] - version 2.4
-* Analys- och prestandaverktyg: Google Analytics, tagghanterare, SWAT, New Relic, Fast, Google Lighthuse
-* Säkerhetsverktyg: PCI-kompatibilitet, ADA, GDPR och så vidare
+* Analys- och prestandaverktyg: Google Analytics, tagghanterare, SWAT, New Relic, Fast, Google Lightroom
+* Säkerhetsverktyg: PCI-kompatibilitet, ADA, GDPR osv.
 * Cloud eller lokal arkitektur
 
 >[!NOTE]
@@ -53,7 +53,7 @@ Och du bör känna dig trygg med följande tekniker:
 * Affärsanalytiker
 * Handelsstrateg
 * Konsult
-* Technical Project Manager/Technical Account Manager
+* Teknisk projektledare/teknisk kontoansvarig
 * Application Architect/Solution Architect/Specialist
 * Byråadministratör/Director/chef/konsult
 * Digital Marketing Director/Manager/Developer
@@ -61,12 +61,12 @@ Och du bör känna dig trygg med följande tekniker:
 **Information om tentamen:**
 
 * Nivå: Expert (1-3 års erfarenhet)
-* Lösenpoäng: 31/50
+* Löpande poäng: 31/50
 * Tid: 100 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller testcenter
-* Tillgängliga språk: Engelska
+* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
+* Tillgängliga språk: engelska
 * Kostnad: $225 (global) / $150 (Indien)
-* Exam-ID: AD0-E708
+* Exam ID: AD0-E708
 
 **Självbedömning av beredskap**
 
@@ -82,7 +82,7 @@ Avsnitt 1: Kärnfunktioner/Allmän konfiguration (46 %)
 * Tolka krav och skapa dummies för att avgöra om de kan uppfyllas med inbyggd funktionalitet
 * Uppvisa kunskap om administratörspanelen och var de gemensamma funktionerna finns
 * Uppvisa möjligheten att importera/exportera Adobe [!DNL Commerce] enheter
-* Lär dig hur du konfigurerar kundvagn och kassan
+* Förstå hur kundvagnen och kassan konfigureras internt
 * Utvärdera de systemspecifika tillgängliga leveransmetoderna i Adobe [!DNL Commerce] och hur de gäller för vanliga användningsområden
 * Så här skapar och publicerar du stiliserat innehåll med Adobe [!DNL Commerce] CMS-funktioner som PageBuilder
 * Använda inbyggda verktyg för att hantera orderns livscykel
@@ -154,13 +154,13 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [E-postkommunikation](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/5-3-store-communications.html){target="_blank"}
 * [E-postmallar](https://docs.magento.com/user-guide/marketing/email-templates.html){target="_blank"}
 * [Introduktion till B2B för Adobe [!DNL Commerce]](https://docs.magento.com/user-guide/stores/b2b-basics.html){target="_blank"}
-* [Belönings- och lojalitetsprogram](https://docs.magento.com/user-guide/marketing/rewards-loyalty.html){target="_blank"}
+* [Belönings- och förmånsprogram](https://docs.magento.com/user-guide/marketing/rewards-loyalty.html){target="_blank"}
 
-**Avsnitt 2: Merchandising**
+**Avsnitt 2: Marknadsföring**
 
 * [Erbjudanden](https://docs.magento.com/user-guide/marketing/promotions.html){target="_blank"}
 * [Produktkategorier](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/2-1-categories.html){target="_blank"}
-* [Kategoriplacering](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/4-2-arrange-product-categories.html){target="_blank"}
+* [Placering av kategori](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/4-2-arrange-product-categories.html){target="_blank"}
 * [Produktinställningar](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-2-product-settings.html){target="_blank"}
 * [Attribut](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-3-product-attributes.html){target="_blank"}
 * [Attributuppsättningar](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-4-product-attribute-sets.html){target="_blank"}
@@ -199,12 +199,12 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Rapporter-menyn](https://docs.magento.com/user-guide/reports.html){target="_blank"}
 * [Komma igång med Adobe Commerce webb-API:er](https://devdocs.magento.com/guides/v2.4/get-started/bk-get-started-api.html){target="_blank"}
 
-**Avsnitt 6: Säkerhet**
+**Avsnitt 6: Efterlevnad/säkerhet**
 
 * [Användare och roller](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-5-users-roles.html){target="_blank"}
 * [Rollomfång och behörigheter](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-6-role-scopes.html){target="_blank"}
 * [Behörigheter](https://docs.magento.com/user-guide/system/permissions.html){target="_blank"}
-* [Sekretesspolicy för butik](https://docs.magento.com/user-guide/stores/privacy-policy.html){target="_blank"}
+* [Lagra sekretesspolicy](https://docs.magento.com/user-guide/stores/privacy-policy.html){target="_blank"}
 * [Säkerhet och efterlevnad](https://docs.magento.com/user-guide/payment-services/security.html){target="_blank"}
 * [Säkerhet](https://devdocs.magento.com/guides/v2.4/architecture/security_intro.html){target="_blank"}
 * [Skatteriktlinjer per land](https://docs.magento.com/user-guide/tax/international-tax-guidelines.html){target="_blank"}
@@ -221,31 +221,16 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 {{practice-test}}
 
-## Om provet
+## Om certifieringsprovet
 
 {{about-certification-exam}}
 
-## Ta provet (AD0-E708)
-
-### Tillgängliga alternativ
-
-{{PSI-note}}
-
-**PSI** (*testcenter/alternativ för japanska prov (om sådana finns)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E708" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Ta prov
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Schemalägg eller ta prov AD0-E708
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E708" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Ta prov
+   Gå till portalen för undersökningar
 </span>
 </a>
 

@@ -1,31 +1,31 @@
 ---
-title: Arkitektens Överordnad certifiering
-description: Lär dig hur du blir en certifierad Adobe-arkitekt Överordnad i Adobe [!DNL Marketo Engage].
+title: Architect Master-certifiering
+description: Lär dig hur du blir certifierad Adobe Architect Master i Adobe [!DNL Marketo Engage].
 solution: Marketo Engage
 product: Marketo
 role: Data Architect
-badge: label="Exam AD0-E556" type="positive"
+badge: label="Prov AD0-E556" type="positive"
 mini-toc-levels: 1
 exl-id: 3ce6b278-5bee-4ba3-ae5a-1d5de79d07bf
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1006'
+source-wordcount: '983'
 ht-degree: 0%
 
 ---
 
-# Certifieringsresa för Adobe [!DNL Marketo Engage] Arkitekt Överordnad
+# Certifieringsresa för Adobe [!DNL Marketo Engage] Architect Master
 
-Lär dig hur du blir en certifierad Överordnad för Adobe Architect.
+Lär dig hur du blir certifierad Adobe [!DNL Marketo Engage] Arkitektmästare.
 
-Adobe Credential Program har lanserat en ny Adobe Marketo Engage Architect-certifiering för sökande som är intresserade av att uppnå den certifierade Överordnad titeln. Den ersätter den tidigare processen för certifieringsintervju med Marketo Certified Solution Architect (MCSA). [Läs mer](https://solutionpartners.adobe.com/solution-partners/news/2022/02/a-new-standard-for-adobe-marketo-engage-certified-architects.html){target="_blank"}
+Adobe har lanserat ett nytt Adobe [!DNL Marketo Engage] Engage Architect-certifiering för sökande som vill bli certifierade som original. Den ersätter den tidigare processen för certifieringsintervju med Marketo Certified Solution Architect (MCSA). [Läs mer](https://solutionpartners.adobe.com/solution-partners/news/2022/02/a-new-standard-for-adobe-marketo-engage-certified-architects.html){target="_blank"}
 
 ## Minimal upplevelse
 
 Du borde ha:
 
-* Aktuell certifiering i [!DNL Marketo Engage] Certifierad expert på affärsverksamhet
-* Minst fem års erfarenhet, helst med flera fall av [!DNL Marketo Engage]
+* En aktuell certifiering i Adobe [!DNL Marketo Engage] Certifierad expert på affärsverksamhet
+* Minst fem års erfarenhet, helst med flera instanser av Adobe [!DNL Marketo Engage]
 * En förståelse för vilken inverkan verksamheten har och effektivt förklara/informera intressenter (tekniska och icke-tekniska) på olika nivåer om deras lösning
 * Möjlighet att skapa en lösning och omvandla den till en [!DNL Marketo Engage] arkitektur, förstå de affärsprocesser som påverkas av integreringar
 * Förtrogenhet med principerna för att skapa en instans
@@ -66,14 +66,14 @@ Dessutom bör du känna till följande verktyg och tekniker:
 **Information om tentamen:**
 
 * Krav: Adobe Certified Expert - [!DNL Marketo Engage] Yrkesverksamma inom affärsverksamhet
-* Nivå: Överordnad (3-5 års erfarenhet)
+* Nivå: Masternivå (3-5 års erfarenhet)
 * Certifiering av praktikanter
-* Lösenpoäng: 30/50
+* Löpande poäng: 30/50
 * Tid: 150 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller testcenter
-* Tillgängliga språk: Engelska
+* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
+* Tillgängliga språk: engelska
 * Kostnad: $225 (global) / $150 (Indien)
-* Exam-ID: AD0-E556
+* Exam ID: AD0-E556
 
 **Självbedömning av beredskap**
 
@@ -164,31 +164,16 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 
 
 
-## Om provet
+## Om certifieringsprovet
 
 {{about-certification-exam}}
 
-## Ta provet (AD0-E556)
-
-### Tillgängliga alternativ
-
-{{PSI-note}}
-
-**PSI** (*testcenter/alternativ för japanska prov (om sådana finns)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E556" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Ta prov
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Schemalägg eller ta prov AD0-E556
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E556" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Ta prov
+   Gå till portalen för undersökningar
 </span>
 </a>
 

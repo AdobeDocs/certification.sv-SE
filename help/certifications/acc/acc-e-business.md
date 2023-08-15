@@ -4,25 +4,25 @@ description: Lär dig hur du blir en certifierad expert på Adobe Business Pract
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: User
-badge: label="Exam AD0-E327" type="positive"
+badge: label="Prov AD0-E327" type="positive"
 mini-toc-levels: 1
 exl-id: 082a21f3-1b05-47d4-add1-6b7f86779e82
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '915'
+source-wordcount: '914'
 ht-degree: 13%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Campaign Classic] Affärsexpert
 
-Lär dig hur du blir en certifierad expert på Adobe Business Practitioner.
+Lär dig hur du blir certifierad Adobe [!DNL Campaign Classic] Yrkesverksamma inom affärsverksamhet.
 
 ## Minimal upplevelse
 
 Du borde ha:
 
-* Minst 2 års omfattande [!DNL Campaign Classic] programvaruupplevelse
+* Minst 2 år av omfattande Adobe [!DNL Campaign Classic] programvaruupplevelse
 * Flerårig erfarenhet av att utveckla marknadsföringskampanjer och taktiker med hjälp av digitala flerkanalskampanjer
 * Upplev tolkning/översättning av affärskrav till åtgärdbara kampanjprodukter
 * Upplevelser med marknadsföringsstatistik som avkastning, klickfrekvens och konvertering
@@ -50,12 +50,12 @@ Du borde ha:
 **Information om tentamen:**
 
 * Nivå: Expert (1-3 års erfarenhet)
-* Lösenpoäng: 32/50
+* Löpande poäng: 32/50
 * Tid: 100 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller testcenter
-* Tillgängliga språk: Engelska
+* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
+* Tillgängliga språk: engelska
 * Kostnad: $225 (global) / $150 (Indien)
-* Exam-ID: AD0-E327
+* Exam ID: AD0-E327
 
 **Självbedömning av beredskap**
 
@@ -76,7 +76,7 @@ Avsnitt 2: Arbetsflödeshantering (22 %)
 * Utvärdera en viss uppsättning kampanjkrav och rekommendera ett visst tillvägagångssätt
 * Analysera arbetsflödesfel utifrån ett scenario
 * Ange rätt design för ett marknadsföringsarbetsflöde utifrån en uppsättning kampanjkrav
-* Tillämpa rekommenderade rutiner vid körning av arbetsflöden
+* Tillämpa rekommenderade rutiner i arbetsflöden
 
 Avsnitt 3: Datahantering (24 %)
 
@@ -170,20 +170,16 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 {{practice-test}}
 
-## Om provet
+## Om certifieringsprovet
 
 {{about-certification-exam}}
 
-## Ta provet (AD0-E327)
-
-### Tillgängliga alternativ
-
-**[!DNL Examity]** ( *online* )
+## Schemalägg eller ta prov AD0-E327
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E327" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Ta prov
+   Gå till portalen för undersökningar
 </span>
 </a>
 

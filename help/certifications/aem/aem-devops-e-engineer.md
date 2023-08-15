@@ -1,15 +1,15 @@
 ---
-title: DevOps Engineer Expert Certification
+title: DevOps-expertcertifiering
 description: Lär dig hur du blir en certifierad Adobe Experience Manager DevOps Engineer Expert.
 solution: Experience Manager
 product: Experience Manager
 role: Developer
-badge: label="Exam AD0-E124" type="positive"
+badge: label="Prov AD0-E124" type="positive"
 mini-toc-levels: 1
 exl-id: 9cfb51b0-9ab8-46fb-a111-434c13e4affa
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '950'
+source-wordcount: '926'
 ht-degree: 1%
 
 ---
@@ -25,7 +25,7 @@ Du borde ha:
 * Minst 1-3 års erfarenhet av att använda och konfigurera Adobe Cloud Manager
 * Minst två års erfarenhet av att konfigurera, implementera och hantera uppgifter för kontinuerlig integrering/kontinuerlig driftsättning
 
-Du bör känna dig trygg när du arbetar i Adobes hanterade tjänster och Adobe Experience Manager as a Cloud Service och kan konfigurera Adobe Experience Manager miljöer och infrastruktur.
+Du bör känna dig trygg när du arbetar i Adobe Managed Services och Adobe Experience Manager as a Cloud Service och kan konfigurera miljöer och infrastruktur i Adobe Experience Manager.
 
 Och du bör känna till följande tekniker och miljöer:
 
@@ -52,7 +52,7 @@ Och du bör känna till följande tekniker och miljöer:
 * Lösningskonsulter
 * Yrkesverksamma inom kundupplevelser
 * Produktägare som konstruerar och implementerar lösningar
-* Affärsanalytiker
+* Affärsanalyser
 * Lösningsarkitekter
 * Enskilda personer i partnerorganisationer och frilansare som spelar en analytikerroll för AEM lösningar
 * Marknadsföringsspecialister som vet vilka funktioner och funktioner som behövs för att engagera utvecklare och definiera en lösning för affärsbehov
@@ -61,12 +61,12 @@ Och du bör känna till följande tekniker och miljöer:
 **Information om tentamen:**
 
 * Nivå: Expert (1-3 års erfarenhet)
-* Lösenpoäng: 30/50
+* Löpande poäng: 30/50
 * Tid: 100 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller testcenter
-* Tillgängliga språk: Engelska
+* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
+* Tillgängliga språk: engelska
 * Kostnad: $225 (global) / $150 (Indien)
-* Exam-ID: AD0-E124
+* Exam ID: AD0-E124
 
 **Självbedömning av beredskap**
 
@@ -125,7 +125,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 * [Hantera miljöer](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-environments.html){target="_blank"}
 * [Komma igång med migreringsresan till AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started.html){target="_blank"}
-* [Adobe I/O integreringsöversikt](https://experienceleague.adobe.com/docs/places/using/web-service-api/adobe-i-o-integration.html){target="_blank"}
+* [Integreringsöversikt för Adobe I/O](https://experienceleague.adobe.com/docs/places/using/web-service-api/adobe-i-o-integration.html){target="_blank"}
 
 **Avsnitt 3: Konfigurera webbproxyinfrastrukturen**
 
@@ -136,7 +136,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 * [Koddistribution](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/using/code-deployment.html){target="_blank"}
 * [Konfigurera produktionsförlopp](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/using/pipelines/production-pipelines.html){target="_blank"}
-* [Arbeta med paket](https://experienceleague.adobe.com/docs/experience-manager-64/administering/contentmanagement/package-manager.html){target="_blank"}
+* [Så här arbetar du med paket](https://experienceleague.adobe.com/docs/experience-manager-64/administering/contentmanagement/package-manager.html){target="_blank"}
 * [AEM-projektstruktur](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html){target="_blank"}
 
 **Avsnitt 5: Övervaka och rapportera kvalitetsmätningar**
@@ -146,7 +146,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Introduktion till arkitekturen i AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/core-concepts/architecture.html){target="_blank"}
 * [Automatisk skalning](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html#autoscaling){target="_blank"}
 
-**Avsnitt 6: Operera Admin Console**
+**Avsnitt 6: Driva Admin Console**
 
 * [IMS-stöd för AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/security/ims-support.html#accessing-cloud-manager){target="_blank"}
 * [Användargrupper och AEM för Adobe IMS](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/adobe-ims-user-groups.html){target="_blank"}
@@ -163,31 +163,16 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 {{practice-test}}
 
-## Om provet
+## Om certifieringsprovet
 
 {{about-certification-exam}}
 
-## Ta provet (AD0-E124)
-
-### Tillgängliga alternativ
-
-{{PSI-note}}
-
-**PSI** (*testcenter/alternativ för japanska prov (om sådana finns)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E124" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Ta prov
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Schemalägg eller ta prov AD0-E124
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E124" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Ta prov
+   Gå till portalen för undersökningar
 </span>
 </a>
 

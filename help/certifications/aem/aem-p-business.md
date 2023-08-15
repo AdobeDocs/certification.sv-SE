@@ -1,32 +1,32 @@
 ---
-title: Yrkescertifiering för affärsanvändare
+title: Yrkescertifiering för Business Practizer
 description: Lär dig hur du blir certifierad Business Practitioner Professional i Adobe [!DNL Experience Manager].
 solution: Experience Manager
 product: Experience Manager
 role: User
-badge: label="Exam AD0-E126" type="positive"
+badge: label="Prov AD0-E126" type="positive"
 mini-toc-levels: 1
 exl-id: 83ee013f-aa37-409b-8bcb-385be6962b26
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '867'
-ht-degree: 5%
+source-wordcount: '865'
+ht-degree: 7%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Experience Manager] Yrkesverksamma inom affärsverksamhet
 
-Lär dig hur du blir certifierad Adobe Business Practitioner Professional.
+Lär dig hur du blir certifierad Adobe [!DNL Experience Manager] Yrkesverksamma inom affärsverksamhet.
 
 ## Minimal upplevelse
 
 Du borde ha:
 
 * Minst 0-12 månaders erfarenhet av användning och konfigurering av Adobe Cloud Manager
-* Minst 12 månaders erfarenhet av AEM funktioner som krävs för att engagera utvecklarna för att hitta lösningar
-* Minst 0-12 månaders erfarenhet av att konfigurera, implementera och hantera uppgifter för kontinuerlig integrering/kontinuerlig driftsättning
+* Minst 12 månaders erfarenhet av AEM funktioner som krävs för att engagera utvecklarna för att hitta affärslösningar
+* Minst 12 månaders erfarenhet av att konfigurera, implementera och hantera uppgifter för kontinuerlig integrering/kontinuerlig driftsättning
 
-Om du känner dig trygg när du arbetar med Adobes hanterade tjänster och Adobe [!DNL Experience Manager] as a Cloud Service, och kan konfigurera Adobe [!DNL Experience Manager] miljöer och infrastruktur.
+Om du känner dig trygg när du arbetar i Adobe Managed Services och Adobe [!DNL Experience Manager] as a Cloud Service, och kan konfigurera Adobe [!DNL Experience Manager] miljöer och infrastruktur.
 
 Dessutom bör du ha:
 
@@ -50,13 +50,13 @@ Dessutom bör du ha:
 
 **Information om tentamen:**
 
-* Nivå: Professionell (0-12 månaders erfarenhet)
-* Lösenpoäng: 33/50
+* Nivå: Professionell (0-12 månaders upplevelse)
+* Löpande poäng: 33/50
 * Tid: 110 min
 * Leverans: Bearbetad online (kräver kameraåtkomst)
-* Tillgängliga språk: Engelska
-* Kostnad: $125 (global) / $95 (Indien)
-* Exam-ID: AD0-E126
+* Tillgängliga språk: engelska
+* Kostnad: 125 USD (globalt)/95 USD (Indien)
+* Exam ID: AD0-E126
 
 **Mål och omfattning för tentamen**
 
@@ -106,14 +106,14 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 * [Uppgradera till AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/upgrading/upgrade.html){target="_blank"}
 * [Läs om AEM 6.5-funktioner](https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/troubleshooting/learn.html){target="_blank"}
 * [Adobe [!DNL Experience Manager] as a Cloud Service - Terminologi](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/terminology.html){target="_blank"}
-* [[!DNL Experience Manager] as a Cloud Service dokumentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
+* [[!DNL Experience Manager] as a Cloud Service dokumentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=sv){target="_blank"}
 * [Hantera resurser med Adobe Asset Link](https://helpx.adobe.com/se/enterprise/using/manage-assets-using-adobe-asset-link.html){target="_blank"}
 
 **Avsnitt 2: Arkitektur**
 
 * [Användarhandbok om AEM 6.4-administration](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html){target="_blank"}
 * [Användarhandbok om resurser](https://experienceleague.adobe.com/docs/experience-manager-64/assets/home.html){target="_blank"}
-* [[!DNL Experience Manager as a Cloud Service] dokumentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
+* [[!DNL Experience Manager as a Cloud Service] dokumentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=sv){target="_blank"}
 * [Dispatcher - översikt](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html){target="_blank"}
 
 **Avsnitt 3: Affärsanalys**
@@ -126,7 +126,7 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 * [Användarhandbok om AEM 6.5-utveckling](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
 * [Adobe [!DNL Experience Manager] 6.5 [!DNL Forms] Guide](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html){target="_blank"}
 * [Användarhandbok om AEM 6.5-hantering](https://experienceleague.adobe.com/docs/experience-manager-65/managing/home.html){target="_blank"}
-* [[!DNL Experience Manager as a Cloud Service] dokumentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
+* [[!DNL Experience Manager as a Cloud Service] dokumentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=sv){target="_blank"}
 * [[!DNL AEM Screens] och handbok för bästa praxis](https://experienceleague.adobe.com/docs/experience-manager-screens/using/about-guide.html){target="_blank"}
 
 **Avsnitt 4: Installation och implementering**
@@ -147,20 +147,16 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 >Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
 
 
-## Om provet
+## Om certifieringsprovet
 
 {{about-certification-exam}}
 
-## Ta provet (AD0-E126)
-
-### Tillgängliga alternativ
-
-**[!DNL Examity]** ( *online* )
+## Schemalägg eller ta prov AD0-E126
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E126" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Ta prov
+   Gå till portalen för undersökningar
 </span>
 </a>
 

@@ -4,19 +4,19 @@ description: Lär dig hur du blir certifierad som Business Practitioner Expert p
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: User
-badge: label="Exam AD0-E121" type="positive"
+badge: label="Prov AD0-E121" type="positive"
 mini-toc-levels: 1
 exl-id: 0b533269-0826-4921-a539-d281c74da63d
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1122'
+source-wordcount: '1098'
 ht-degree: 2%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Experience Manager Sites] Affärsexpert
 
-Lär dig hur du blir en certifierad expert på Adobe Business Practitioner.
+Lär dig hur du blir certifierad Adobe [!DNL Experience Manager] Yrkesverksamma inom affärsverksamhet.
 
 ## Minimal upplevelse
 
@@ -41,7 +41,7 @@ Dessutom bör du känna till följande tekniker och miljöer:
 * Användaradministration
 * Hantering av flera webbplatser
 * Övervakningsverktyg
-* Versionshantering
+* Versioner
 * Personalisering och sammanhangsnav
 * SPA
 * Taggar
@@ -62,7 +62,7 @@ Dessutom bör du känna till följande tekniker och miljöer:
 * Lösningskonsult
 * Yrkesverksamma inom kundupplevelser
 * Produktägare som konstruerar och implementerar lösningar
-* Affärsanalytiker
+* Affärsanalyser
 * Lösningsarkitekter
 * Enskilda personer i partnerorganisationer och frilansare som spelar en analytikerroll för AEM lösningar
 * Marknadsföringsspecialister som vet vilka funktioner och funktioner som behövs för att engagera utvecklare och definiera en lösning för affärsbehov
@@ -70,7 +70,7 @@ Dessutom bör du känna till följande tekniker och miljöer:
 
 **Information om tentamen:**
 
-Nivå: Expert (1-3 års erfarenhet) i korthet: Tid: 100 min Leverans: Onlinebearbetad (kräver kameraåtkomst) eller testcenter bearbetad Tillgängliga språk: Kostnad för engelska och japanska: $225 (global) / $150 (Indien) Exam ID: AD0-E121
+Nivå: Expert (1-3 års erfarenhet) Passing Score: 32/50 Time: 100 min Delivery: Online Procedated (kräver kameraåtkomst) or test center Procedred Available languages: English &amp; Japanese Cost: $225 (global) / $150 (India) Exam ID: AD0-E121
 
 **Självbedömning av beredskap**
 
@@ -88,7 +88,7 @@ Avsnitt 2: Arkitektur (24 %)
 
 * Rekommendera en informationsarkitektur för att utnyttja AEM standardfunktioner för att tillgodose verksamhetens behov med hjälp av en lokal miljö eller en värdmiljö i Adobe (molnet)
 * Beskriv hur AEM kan integreras med tredjepartstjänster
-* Bestäm hur roller och behörigheter definieras
+* Bestäm hur roller och behörigheter ska definieras
 * Beskriv cachelagringsmetoder
 
 Avsnitt 3: Affärsanalys (38 %)
@@ -97,7 +97,7 @@ Avsnitt 3: Affärsanalys (38 %)
 * Använd innehållshanteringsbegrepp för AEM moduler
 * Identifiera typiska projektintressenter
 * Tillämpa processrättsliga begrepp som är nödvändiga för att stödja samarbetet mellan alla berörda parter
-* Bestäm hur du uppfyller de centrala affärsmålen samtidigt som du ligger inom budget och/eller omfattning
+* Bestäm hur du uppfyller de centrala affärsmålen utan att överskrida budget och/eller omfattning
 * Bestäm hur frågor från utvecklare ska besvaras med hänsyn till affärsmålen
 
 Avsnitt 4: Installation och implementering (16 %)
@@ -179,31 +179,16 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 {{practice-test}}
 
-## Om provet
+## Om certifieringsprovet
 
 {{about-certification-exam}}
 
-## Ta provet (AD0-E121)
-
-### Tillgängliga alternativ
-
-{{PSI-note}}
-
-**PSI** (*testcenter/alternativ för japanska prov (om sådana finns)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E121" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Ta prov
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Schemalägg eller ta prov AD0-E121
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E121" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Ta prov
+   Gå till portalen för undersökningar
 </span>
 </a>
 

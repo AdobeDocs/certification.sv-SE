@@ -4,14 +4,14 @@ description: Översikt över certifieringsalternativ för Adobe Customer Journey
 solution: Customer Journey Analytics
 product: Customer Journey Analytics
 exl-id: 44c88dad-f8f0-4b2c-ab5a-ef0d2a498284
-source-git-commit: 7bebc5a5b45fe68474a778864beac17bc3c4dbde
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '41'
-ht-degree: 29%
+source-wordcount: '39'
+ht-degree: 30%
 
 ---
 
-# Customer Journey Analytics Certification Overview
+# Adobe [!DNL Customer Journey Analytics] Certifieringsöversikt
 
 **Professional**
 

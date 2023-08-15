@@ -4,30 +4,30 @@ description: Lär dig hur du blir certifierad Adobe [!DNL Experience Manager] Pr
 solution: Experience Manager, Experience Manager Assets
 product: Experience Manager
 role: Developer
-badge: label="Exam AD0-E129" type="positive"
+badge: label="Prov AD0-E129" type="positive"
 mini-toc-levels: 1
 exl-id: 710f6c8b-9a6c-445e-b831-a891b559f208
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '822'
+source-wordcount: '823'
 ht-degree: 3%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Experience Manager] Assets Developer Professional
 
-Lär dig hur du blir certifierad [!DNL Experience Manager] Professional.
+Lär dig hur du blir certifierad Adobe [!DNL Experience Manager] Assets Developer Professional.
 
 ## Minimal upplevelse
 
-Du bör känna dig trygg i att arbeta i Adobes hanterade tjänster och Adobe [!DNL Experience Manager as a Cloud Service]och kan installera Adobe [!DNL Experience Manager] miljöer och infrastruktur.
+Du bör känna dig trygg när du arbetar i Adobe Managed Services och Adobe [!DNL Experience Manager as a Cloud Service]och kan installera Adobe [!DNL Experience Manager] miljöer och infrastruktur.
 
 Du borde ha:
 
 * 6 månader+ CMS-upplevelse
 * 6 månader+ AEM Assets
 * 6 månader+ Java-utvecklarupplevelse
-* Lokal upplevelse och molnupplevelse
+* Lokalt och molnbaserat
 
 Dessutom bör du ha erfarenhet av följande tekniker och miljöer:
 
@@ -53,22 +53,22 @@ Dessutom bör du ha erfarenhet av följande tekniker och miljöer:
 
 * AEM
 * DevOps-ingenjörer
-* AEM
+* AEM Architects
 * Molntekniker
 * Ansvariga för webbplatser
 * Tekniska chefer
-* Programtekniker
+* Programutvecklare
 * Systemingenjörer
 
 **Information om tentamen:**
 
-* Nivå: Professionell (0-12 månaders erfarenhet)
-* Lösenpoäng: 30/50
+* Nivå: Professionell (0-12 månaders upplevelse)
+* Löpande poäng: 30/50
 * Tid: 100 min
 * Leverans: Bearbetad online (kräver kameraåtkomst)
-* Tillgängliga språk: Engelska
-* Kostnad: $125 (global) / $95 (Indien)
-* Exam-ID: AD0-E129
+* Tillgängliga språk: engelska
+* Kostnad: 125 USD (globalt)/95 USD (Indien)
+* Exam ID: AD0-E129
 
 **Självbedömning av beredskap**
 
@@ -84,7 +84,7 @@ Avsnitt 1: Resursarbetsflöden (24 %)
 * Differentiera mellan moln och lokala arbetsflöden
 * Beskriv hur du använder arbetsflödeskonsolen för att övervaka status och förlopp
 
-Avsnitt 2: Resursorganisation och resurskonsol (22 %)
+Avsnitt 2: Resursorganisation och tillgångskonsol (22 %)
 
 * Uppvisa hur du skapar och organiserar resurser i samlingar
 * Uppvisa hur du organiserar resurser med hjälp av taggar
@@ -92,7 +92,7 @@ Avsnitt 2: Resursorganisation och resurskonsol (22 %)
 * Beskriv hur du konfigurerar och genererar AEM
 * Beskriv hur du hanterar användarbehörigheter i resursmappar
 
-Avsnitt 3: Metadata för mediefiler (24 %)
+Avsnitt 3: Metadata för tillgångar (24 %)
 
 * Definiera metadatascheman
 * Bestäm hur du justerar ett lämpligt metadataram utifrån ett scenario
@@ -105,7 +105,7 @@ Avsnitt 4: Tillgångstyper (18 %)
 * Förklara innehållsfragment och modeller för innehållsfragment
 * Uppvisa hur och när innehållsfragmentvariationer ska användas
 
-Avsnitt 5: Funktioner och funktioner (12 %)
+Section 5: Asset feature sets and capabilities (12%)
 
 * Beskriv vanliga användningsområden och fördelarna med att använda Brand Portal
 * Beskriv vanliga användningsområden och fördelarna med att använda Dynamic Media
@@ -134,21 +134,21 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 * [Söka efter fasetter](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/search-facets.html#restoring-default-search-facets){target="_blank"}
 * [Materialrapporter](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/asset-reports.html){target="_blank"}
 
-**Avsnitt 3: Resursmetadata**
+**Avsnitt 3: Metadata för tillgångar**
 
 * [Metadatascheman](https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/metadata-schemas.html#default-metadata-schema-forms){target="_blank"}
 * [Förstå metadatabegrepp](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-concepts.html){target="_blank"}
 * [Metadataprofiler](https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/metadata-profiles.html#:~:text=Add%20a%20metadata%20profile.%20Tryck på%20eller%20klicka%20the och%20configure%20its%20properties%20in%20the%20Settings%20tab.){target="_blank"}
 
-**Avsnitt 4: Resurstyper**
+**Avsnitt 4: Tillgångstyper**
 
 * [Hantera videoresurser](https://experienceleague.adobe.com/docs/experience-manager-64/assets/managing/managing-video-assets.html#uploading-and-previewing-video-assets){target="_blank"}
 * [Modeller för innehållsfragment](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-models.html#creating-a-content-fragment-model){target="_blank"}
 * [Variationer – redigera innehållsfragment](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-variations.html#managing-variations){target="_blank"}
 
-**Avsnitt 5: Funktioner och funktioner**
+**Avsnitt 5: Tillgångsfunktioner**
 
-* [Översikt över [!DNL Experience Manager] Assets Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html){target="_blank"}
+* [Översikt [!DNL Experience Manager] Assets Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html){target="_blank"}
 * [Filformat som stöds](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-supported-formats.html){target="_blank"}
 * [Videoprofiler för Dynamic Media](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/video-profiles.html){target="_blank"}
 
@@ -161,20 +161,16 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 >Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
 
 
-## Om provet
+## Om certifieringsprovet
 
 {{about-certification-exam}}
 
-## Ta provet (AD0-E129)
-
-### Tillgängliga alternativ
-
-**[!DNL Examity]** ( *online* )
+## Schemalägg eller ta prov AD0-E129
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E129" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Ta prov
+   Gå till portalen för undersökningar
 </span>
 </a>
 

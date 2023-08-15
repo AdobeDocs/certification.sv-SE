@@ -5,23 +5,23 @@ solution: Commerce
 product: Magento
 role: Developer
 level: Experienced
-badge: label="Exam AD0-E710" type="positive"
+badge: label="tentamen AD0-E710" type="positive"
 mini-toc-levels: 1
 exl-id: 90ce0bb5-cfa3-4c4c-9ba0-1d63661cf593
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1365'
+source-wordcount: '1337'
 ht-degree: 0%
 
 ---
 
-# Certifieringsresa för Adobe [!DNL Commerce] Front-End Developer Expert
+# Certifieringsresa för [!DNL Adobe Commerce] Front-End Developer Expert
 
-Lär dig hur du blir en certifierad Adobe Developer-expert.
+Lär dig hur du blir certifierad [!DNL Adobe Commerce] Developer Expert.
 
 >[!NOTE]
 >
->Denna tentamen Adobe Commerce Front End Developer Expert (AD0-E710) har uppdaterats. Om du redan har börjat studera eller är schemalagd att ta den här versionen, vänligen se till att slutföra den före 18 augusti 2023. Om du precis har börjat rekommenderar vi att du [senaste versionen av denna tentamen](ac-e-fedeveloper0623.md).
+>Denna tentamen [!DNL Adobe Commerce] Front End Developer Expert (AD0-E710) har uppdaterats. Om du redan har börjat studera eller är schemalagd att ta den här versionen, vänligen se till att slutföra den före 18 augusti 2023. Om du precis har börjat rekommenderar vi att du [senaste versionen av denna tentamen](ac-e-fedeveloper0623.md).
 
 ## Minimal upplevelse
 
@@ -59,12 +59,12 @@ Dessutom bör du vara bekväm med följande tekniker:
 **Information om tentamen:**
 
 * Nivå: Expert (1-3 års erfarenhet)
-* Lösenpoäng: 33/50
+* Löpande poäng: 33/50
 * Tid: 100 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller testcenter
-* Tillgängliga språk: Engelska
+* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
+* Tillgängliga språk: engelska
 * Kostnad: $225 (global) / $150 (Indien)
-* Exam-ID: AD0-E710
+* Exam ID: AD0-E710
 
 **Självbedömning av beredskap**
 
@@ -97,7 +97,7 @@ Avsnitt 3: Format (18 %)
 * Uppvisa förmåga att åsidosätta eller utöka Magento LESS
 * Förklara grundbegreppen i LESS
 * Uppvisa förmåga att formatera e-post
-* Förklara formathierarkin (lib, moduler, teman)
+* Förklara hierarkin för format (lib, moduler, teman)
 * Uppvisa förmåga att implementera och anpassa LESS-bibliotekskomponenter
 * Identifiera skillnaderna mellan kompilering på klientsidan och på serversidan och hur den fungerar
 
@@ -139,7 +139,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 * [Temastruktur](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-structure.html){target="_blank"}
 * [Skapa ett butikstema](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-create.html){target="_blank"}
-* [Temarv](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-inherit.html){target="_blank"}
+* [Arv av teman](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-inherit.html){target="_blank"}
 * [Utöka en layout](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-extend.html){target="_blank"}
 * [E-postkommunikation](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/5-3-store-communications.html){target="_blank"}
 * [Anpassa e-postmallar](https://docs.magento.com/user-guide/marketing/email-template-custom.html){target="_blank"}
@@ -147,7 +147,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Översättningar](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/translations/xlate.html){target="_blank"}
 * [Skapa en komponentfilstruktur](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/build/module-file-structure.html#root-directory-location){target="_blank"}
 
-**Avsnitt 2: Layout XML och mallar (phtml-mallar)**
+**Avsnitt 2: XML och mallar för layout (phtml-mallar)**
 
 * [Layoutinstruktioner](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/xml-instructions.html){target="_blank"}
 * [Skapa en ny layout](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-create.html){target="_blank"}
@@ -160,12 +160,12 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Exempel på mallanpassning](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/templates/template-sample.html){target="_blank"}
 * [XSS (Cross-site scripting)](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/xss-protection.html){target="_blank"}
 
-**Avsnitt 3: Stilar**
+**Avsnitt 3: Format**
 
 * [Inkludera CSS](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/css-topics/css-themes.html){target="_blank"}
 * [CSS och LESS-förbehandling](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/css-topics/css-preprocess.html#fedg_css-import){target="_blank"}
 * [Anpassa temaformat](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/css-guide/css_quick_guide_approach.html#simple_override){target="_blank"}
-* [Mindre standard för kodning](https://developer.adobe.com/commerce/php/coding-standards/less/){target="_blank"}
+* [Mindre kodstandard](https://developer.adobe.com/commerce/php/coding-standards/less/){target="_blank"}
 * [E-postmallar](https://developer.adobe.com/commerce/frontend-core/guide/templates/email/){target="_blank"}
 * [Temastruktur](https://developer.adobe.com/commerce/frontend-core/guide/themes/structure/){target="_blank"}
 * [Lägg till anpassad CSS-preprocessor](https://developer.adobe.com/commerce/frontend-core/guide/css/custom-preprocessor/add/){target="_blank"}
@@ -183,7 +183,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Konfigurationsflöde](https://developer.adobe.com/commerce/frontend-core/ui-components/concepts/configuration-flow/){target="_blank"}
 * [Custom Knockout.js-bindningar](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/concepts/knockout-bindings.html){target="_blank"}
 * [Bindningssyntax](https://developer.adobe.com/commerce/frontend-core/ui-components/concepts/binding-syntax/){target="_blank"}
-* [jQuery-widgetar](https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/){target="_blank"}
+* [jQuery-widgets](https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/){target="_blank"}
 * [Lägga till en JavaScript-modul](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/frontend-development/add-javascript-module.html){target="_blank"}
 
 **Avsnitt 5: Administratörskonfiguration och PageBuilder**
@@ -216,31 +216,16 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 {{practice-test}}
 
-## Om provet
+## Om certifieringsprovet
 
 {{about-certification-exam}}
 
-## Ta provet (AD0-E710)
-
-### Tillgängliga alternativ
-
-{{PSI-note}}
-
-**PSI** (*testcenter/alternativ för japanska prov (om sådana finns)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E710" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Ta prov
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Schemalägg eller ta prov AD0-E710
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E710" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Ta prov
+   Gå till portalen för undersökningar
 </span>
 </a>
 

@@ -1,20 +1,20 @@
 ---
-title: Arkitektens Överordnad certifiering
-description: Lär dig hur du blir en certifierad Arkitect-Överordnad i Experience Manager Sites.
+title: Architect Master-certifiering
+description: Lär dig hur du blir certifierad Architect Master i Experience Manager Sites.
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Data Architect
 badge: label="Prov AD0-E117" type="positive"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: e27a718d0bfca70eb93196ab6978f4abb06a0106
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1722'
+source-wordcount: '1723'
 ht-degree: 7%
 
 ---
 
-# Certifieringsresa för Adobe [!DNL Experience Manager Sites] Arkitekt Överordnad
+# Certifieringsresa för Adobe [!DNL Experience Manager Sites] Architect Master
 
 >[!NOTE]
 >
@@ -22,14 +22,14 @@ ht-degree: 7%
 >
 >**Frågor?** Se vår [Vanliga frågor](#AEM-FAQ) längst ned på sidan.
 
-Lär dig hur du blir en certifierad arkitekt Överordnad.
+Lär dig hur du blir certifierad Adobe [!DNL Experience Manager Sites] Arkitektmästare.
 
 ## Minimal upplevelse
 
 Du borde ha:
 
 * Minst tre års erfarenhet som arkitekt i byggandet av AEM Sites
-* Möjlighet att arbeta i Adobes hanterade tjänster och Adobe [!DNL Experience Manager as a Cloud Service]
+* Möjlighet att arbeta i Adobe Managed Services och Adobe [!DNL Experience Manager as a Cloud Service]
 * Möjlighet att installera Adobe [!DNL Experience Manager] miljöer och infrastruktur
 
 Dessutom bör du kunna utföra följande uppgifter:
@@ -73,7 +73,7 @@ Dessutom bör du kunna utföra följande uppgifter:
 
 **Information om tentamen:**
 
-* Nivå: Överordnad (3-5 års erfarenhet)
+* Nivå: Masternivå (3-5 års erfarenhet)
 * Löpande poäng: 29/50
 * Tid: 100 min
 * Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
@@ -213,13 +213,11 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 >
 >Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
 
-## Om provet
+## Om certifieringsprovet
 
 {{about-certification-exam}}
 
-## Ta provet (AD0-E117)
-
-### Tillgängliga alternativ
+## Schemalägg eller ta prov AD0-E117
 
 >[!NOTE]
 >
@@ -235,7 +233,7 @@ Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/ce
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.
 
-## Frågor och svar för Adobe Experience Manager Sites Architect Överordnad Exam (AD0-E117) {#AEM-FAQ}
+## Frågor och svar för Adobe Experience Manager Sites Architect Master Exam (AD0-E117) {#AEM-FAQ}
 
 Certifieringsprovet AD0-E117 genomgår underhåll och är tillfälligt otillgängligt. Vi ber om ursäkt för besväret. [Registrera dig för att få meddelanden](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) när den är tillgänglig igen.
 

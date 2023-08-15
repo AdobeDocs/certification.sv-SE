@@ -5,19 +5,19 @@ solution: Real-Time Customer Data Platform
 product: Adobe Real Time Customer Data Platform
 role: User
 recommendations: disable, exclude
-badge: label="tentamen AD0-E602" type="positive"
+badge: label="Prov AD0-E602" type="positive"
 mini-toc-levels: 1
 exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
-source-git-commit: cb5a60152dea20fbe116ce445a73ce779785ba13
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '770'
+source-wordcount: '750'
 ht-degree: 2%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Real-Time CDP] Yrkesverksamma inom affärsverksamhet
 
-Lär dig hur du blir certifierad Adobe [!DNL Experience Platform] professionell.
+Lär dig hur du blir certifierad Adobe [!DNL Experience Platform] Yrkesverksamma.
 
 ## Minimal upplevelse
 
@@ -26,7 +26,7 @@ Du borde ha:
 * Upplevelse i en eller flera Real-Time CDP-miljöer
 * Förtrogenhet med teknikstackar för digital marknadsföring och olika plattformsintegreringar
 * En förståelse för dataflöden (ID-typer, ID-synk, målgrupper, segment, datamodeller)
-* 6-12 månaders erfarenhet av att skapa och aktivera målgrupper med hjälp av en CDP
+* 6-12 månaders erfarenhet av att skapa och aktivera målgrupper med CDP
 
 Upplev uppgifter som innefattar:
 
@@ -57,17 +57,17 @@ Upplev uppgifter som innefattar:
 * CDP Consultant
 * Konverterings-/optimeringskonsult
 * Ägare av marknadsföringsprodukt
-* Marknadsföringsanalytiker
+* Marknadsförare
 
 **Information om tentamen:**
 
-* Nivå: Professionell (0-12 månaders erfarenhet)
-* Lösenpoäng: 28/50
+* Nivå: Professionell (0-12 månaders upplevelse)
+* Löpande poäng: 28/50
 * Tid: 100 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller testcenter
-* Tillgängliga språk: Engelska
-* Kostnad: $125 (global) / $95 (Indien)
-* Exam-ID: AD0-E602
+* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
+* Tillgängliga språk: engelska
+* Kostnad: 125 USD (globalt)/95 USD (Indien)
+* Exam ID: AD0-E602
 
 **Mål och omfattning för tentamen**
 
@@ -117,7 +117,7 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 * [Aktivera målgruppsdata till exportmål för direktuppspelningsprofiler](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-streaming-profile-destinations.html){target="_blank"}
 * [Skapa en ny målanslutning](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html){target="_blank"}
 
-**Avsnitt 2: Identitet och datahantering**
+**Avsnitt 2: Identitet och datastyrning**
 
 * [Översikt över namnområde för identitet](https://experienceleague.adobe.com/docs/experience-platform/identity/namespaces.html?lang=sv){target="_blank"}
 * [Datastyrning - översikt](https://experienceleague.adobe.com/docs/experience-platform/data-governance/home.html){target="_blank"}
@@ -147,31 +147,16 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 
 {{practice-test}}
 
-## Om provet
+## Om certifieringsprovet
 
 {{about-certification-exam}}
 
-## Ta provet (AD0-E602)
-
-### Tillgängliga alternativ
-
-{{PSI-note}}
-
-**PSI** (*testcenter/alternativ för japanska prov (om sådana finns)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E602" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Ta prov
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Schemalägg eller ta prov AD0-E602
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E602" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Ta prov
+   Gå till portalen för undersökningar
 </span>
 </a>
 

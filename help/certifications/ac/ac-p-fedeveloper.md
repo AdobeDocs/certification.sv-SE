@@ -4,23 +4,23 @@ description: Så här blir du certifierad Adobe Developer-proffs för Adobe [!DN
 solution: Commerce
 product: Magento
 role: Developer
-badge: label="Exam AD0-E719" type="positive"
+badge: label="Prov AD0-E719" type="positive"
 mini-toc-levels: 1
 exl-id: aad1587f-f458-413a-af93-727666e94147
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1076'
+source-wordcount: '1049'
 ht-degree: 0%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Commerce] Front-end Developer Professional
 
-Lär dig hur du blir certifierad Adobe Developer Professional.
+Lär dig hur du blir certifierad [!DNL Adobe Commerce] Developer Professional.
 
 >[!NOTE]
 >
->Denna tentamen Adobe Commerce Front End Developer Professional (AD0-E719) har uppdaterats. Om du redan har börjat studera eller är schemalagd att ta den här versionen, vänligen se till att slutföra den före 18 augusti 2023. Om du precis har börjat rekommenderar vi att du [senaste versionen av denna tentamen](ac-p-fedeveloper0623.md).
+>Detta prov [!DNL Adobe Commerce] Front End Developer Professional (AD0-E719) har uppdaterats. Om du redan har börjat studera eller är schemalagd att ta den här versionen, vänligen se till att slutföra den före 18 augusti 2023. Om du precis har börjat rekommenderar vi att du [senaste versionen av denna tentamen](ac-p-fedeveloper0623.md).
 
 ## Minimal upplevelse
 
@@ -59,13 +59,13 @@ Dessutom bör du känna till följande tekniker:
 
 **Information om tentamen:**
 
-* Nivå: Professionell (0-12 månaders erfarenhet)
-* Lösenpoäng: 31/50
+* Nivå: Professionell (0-12 månaders upplevelse)
+* Löpande poäng: 31/50
 * Tid: 100 min
 * Leverans: Bearbetad online (kräver kameraåtkomst)
-* Tillgängliga språk: Engelska
-* Kostnad: $125 (global) / $95 (Indien)
-* Exam-ID: AD0-E719
+* Tillgängliga språk: engelska
+* Kostnad: 125 USD (globalt)/95 USD (Indien)
+* Exam ID: AD0-E719
 
 **Mål och omfattning för tentamen**
 
@@ -75,7 +75,7 @@ Avsnitt 1: Temahantering (temahierarki, bildkonfiguration, översättningar) (14
 * Uppvisa förmåga att skapa nya eller utöka befintliga teman
 * Uppvisa förmåga att lägga till anpassade översättningsfraser
 
-Avsnitt 2: Layout XML och mallar (28 %)
+Avsnitt 2: XML och mallar för layout (28 %)
 
 * Uppvisa förmåga att arbeta med grundläggande XML-instruktioner för layout
 * Uppvisa förmåga att använda befintliga sidlayouter
@@ -89,7 +89,7 @@ Avsnitt 3: Format (24 %)
 * Beskriv skillnaden mellan specifika partiella filer (_extends.less,_extend.less,_theme.less,_widgets.less,_module.less)
 * Visa att du kan åsidosätta eller utöka ett scenario [!DNL Magento] LESS
 * Beskriv de grundläggande begreppen för LESS
-* Förklara formathierarkin (lib, moduler, teman)
+* Förklara hierarkin för format (lib, moduler, teman)
 * Förklara kompilering på både klient- och serversidan
 
 Avsnitt 4: JavaScript (16 %)
@@ -101,7 +101,7 @@ Avsnitt 4: JavaScript (16 %)
 * Beskriv användningen av blockerad JS
 * Beskriv användningen av jQuery-widgetar
 
-Avsnitt 5: Administratörskonfiguration och sidbyggare (12 %)
+Section 5: Admin configuration and pagebuilder (12%)
 
 * Uppvisa grundläggande användning av innehållshantering
 * Beskriv steg för att tillämpa/schemalägga ett tema för ett specifikt omfång (webbplats, butik, butiksvy)
@@ -132,14 +132,14 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 * [Kommandoradsverktyg](https://devdocs.magento.com/guides/v2.4/config-guide/cli/config-cli.html){target="_blank"}
 * [Översättningar](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/translations/xlate.html){target="_blank"}
 
-**Avsnitt 2: Layout för XML och mallar**
+**Avsnitt 2: XML och mallar för layout**
 
 * [Layout](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-overview.html){target="_blank"}
 * [Teman](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-overview.html){target="_blank"}
 * [Mallar](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/templates/template-overview.html){target="_blank"}
 * [Introduktion](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/bk-extension-dev-guide.html){target="_blank"}
 
-**Avsnitt 3: Stilar**
+**Avsnitt 3: Format**
 
 * [Variabler](https://lesscss.org/features/#features-overview-feature){target="_blank"}
 * [Responsiv webbdesign](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/responsive-web-design/rwd_overview.html){target="_blank"}
@@ -155,13 +155,13 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 * [Översättningar](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/translations/xlate.html){target="_blank"}
 * [Introduktion till gränssnittskomponenter](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/bk-ui_comps.html){target="_blank"}
 * [Introduktion till JavaScript](https://devdocs.magento.com/guides/v2.4/javascript-dev-guide/bk-javascript-dev-guide.html){target="_blank"}
-* [jQuery-widgetar](https://devdocs.magento.com/guides/v2.4/javascript-dev-guide/widgets/jquery-widgets-about.html){target="_blank"}
+* [jQuery-widgets](https://devdocs.magento.com/guides/v2.4/javascript-dev-guide/widgets/jquery-widgets-about.html){target="_blank"}
 
-**Avsnitt 5: Administratörskonfiguration och pageBuilder**
+**Section 5: Admin configuration and pagebuilder**
 
 * [Referenshandbok för konfiguration](https://docs.magento.com/user-guide/configuration/general.html){target="_blank"}
 * [Introduktion till Page Builder](https://docs.magento.com/user-guide/cms/page-builder.html){target="_blank"}
-* [Genomgång del 1: Enkel sida](https://docs.magento.com/user-guide/cms/page-builder-learn.html){target="_blank"}
+* [Gå igenom del 1: Enkel sida](https://docs.magento.com/user-guide/cms/page-builder-learn.html){target="_blank"}
 * [Teman](https://docs.magento.com/user-guide/design/themes.html){target="_blank"}
 * [Översikt över kategorier](https://docs.magento.com/user-guide/catalog/categories.html){target="_blank"}
 * [Design](https://docs.magento.com/user-guide/design/design-theme.html){target="_blank"}
@@ -182,31 +182,16 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 >Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
 
 
-## Om provet
+## Om certifieringsprovet
 
 {{about-certification-exam}}
 
-## Ta provet (AD0-E719)
-
-### Tillgängliga alternativ
-
-{{PSI-note}}
-
-**PSI** (*testcenter/alternativ för japanska prov (om sådana finns)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E719" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Ta prov
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Schemalägg eller ta prov AD0-E719
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E719" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Ta prov
+   Gå till portalen för undersökningar
 </span>
 </a>
 

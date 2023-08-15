@@ -1,22 +1,22 @@
 ---
-title: Yrkescertifiering för affärsanvändare
+title: Yrkescertifiering för Business Practizer
 description: Lär dig hur du blir certifierad som Adobe [!DNL Advertising DSP] Yrkesverksamma inom affärsverksamhet.
 solution: Advertising
 product: Advertising Cloud
 role: User
-badge: label="Exam AD0-E502" type="positive"
+badge: label="Prov AD0-E502" type="positive"
 mini-toc-levels: 1
 exl-id: 15f3e05a-4896-488c-a65d-d6e8f948c8cc
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '699'
+source-wordcount: '673'
 ht-degree: 0%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Advertising DSP] Yrkesverksamma inom affärsverksamhet
 
-Lär dig hur du blir certifierad [!DNL Advertising DSP] Yrkesverksamma inom affärsverksamhet.
+Lär dig hur du blir certifierad [!DNL Adobe Advertising DSP] Yrkesverksamma inom affärsverksamhet.
 
 ## Minimal upplevelse
 
@@ -28,7 +28,7 @@ Du borde ha:
 Bekanta dig med följande verktyg och tekniker:
 
 * Program för annonstestning/felsökning (VAST INSPECTOR, utvecklingsverktyg för Chrome)
-* Analysverktyg (Adobe Analytics, Google Analytics)
+* Analysverktyg ([!DNL Adobe Analytics], Google Analytics)
 * Taggningsprogram från tredje part (Sizmek, Google tagghanterare)
 * Mediekvalitetsverktyg från tredje part (IAS, MOAT)
 * Större webbläsare
@@ -52,13 +52,13 @@ Bekanta dig med följande verktyg och tekniker:
 
 **Information om tentamen:**
 
-* Nivå: Professionell (0-12 månaders erfarenhet)
-* Lösenpoäng: 44/69
+* Nivå: Professionell (0-12 månaders upplevelse)
+* Passing Score: 44/69
 * Tid: 138 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller testcenter
-* Tillgängliga språk: Engelska
-* Kostnad: $125 (global) / $95 (Indien)
-* Exam-ID: AD0-E502
+* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
+* Tillgängliga språk: engelska
+* Kostnad: 125 USD (globalt)/95 USD (Indien)
+* Exam ID: AD0-E502
 
 **Mål och omfattning för tentamen**
 
@@ -70,7 +70,7 @@ Avsnitt 1: Konfigurera kampanjer (42 %)
 * Tillämpa processrättsliga begrepp för att skapa och tillämpa målinriktning på ersättningar
 * Tillämpa procedurbegrepp för att bifoga annonser till praktik
 * Duplicera och redigera en kampanj för ett scenario
-* Använda procedurbegrepp som krävs för att ställa in privata lager och on demand-artiklar för en kampanj
+* Använda procedurbegrepp som krävs för att ställa in privata lager och on demand-inventeringar för en kampanj
 
 Avsnitt 2: Köra och optimera kampanjer (22 %)
 
@@ -87,7 +87,7 @@ Avsnitt 3: Rapportering och analys (26 %)
 * Utvärdera resultatet för en kampanj utifrån ett scenario
 * Använd procedurbegrepp för att tilldela prestanda till en kampanj
 
-Avsnitt 4: Leverera rekommendationer för kampanjer (10 %)
+Avsnitt 4: Tillhandahålla rekommendationer för kampanjer (10 %)
 
 * Tillhandahåll uppdateringar till klienter baserat på en kampanj i ett scenario
 * För ett scenario, justera kampanjstrategin baserat på kampanjresultat
@@ -118,7 +118,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 * [Webbkonsol](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/web-console.html){target="_blank"}
 
-**Avsnitt 4: Ange rekommendationer för kampanjer**
+**Avsnitt 4: Tillhandahålla rekommendationer för kampanjer**
 
 * [Hur [!DNL Advertising] DSP optimerar era kampanjer](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html){target="_blank"}
 * [Om annonshantering i [!DNL Advertising] DSP](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/ads/ad-about.html){target="_blank"}
@@ -131,31 +131,16 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 >
 >Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
 
-## Om provet
+## Om certifieringsprovet
 
 {{about-certification-exam}}
 
-## Ta provet (AD0-E502)
-
-### Tillgängliga alternativ
-
-{{PSI-note}}
-
-**PSI** (*testcenter/alternativ för japanska prov (om sådana finns)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E502" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Ta prov
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Schemalägg eller ta prov AD0-E502
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E502" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Ta prov
+   Gå till portalen för undersökningar
 </span>
 </a>
 

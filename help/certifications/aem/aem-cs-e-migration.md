@@ -4,12 +4,12 @@ description: Lär dig hur du blir certifierad Adobe [!DNL Experience Manager] ex
 solution: Experience Manager, Experience Manager as a Cloud Service
 product: Experience Manager
 role: Developer
-badge: label="Exam AD0-E136" type="positive"
+badge: label="Prov AD0-E136" type="positive"
 mini-toc-levels: 1
 exl-id: 64b53064-8280-405b-a5f7-b50264394b82
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '819'
+source-wordcount: '817'
 ht-degree: 3%
 
 ---
@@ -64,22 +64,22 @@ Dessutom bör du känna till följande tekniker och miljöer:
 * Adobe [!DNL Experience Manager] Forms-utvecklare
 * Utvecklare/DevOps/Leads/Architects som har deltagit i flera AEM-installationer med minst 2-3 års webbapplikationsutveckling med Adobe [!DNL Experience Manager]
 
-**Information om tentamen**
+**Provinformation**
 
 * Nivå: Expert (1-3 års erfarenhet)
-* Lösenpoäng: 31/50
+* Löpande poäng: 31/50
 * Tid: 100 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller testcenter
-* Tillgängliga språk: Engelska
-* Kostnad: $125 (global) / $95 (Indien)
-* Exam-ID: AD0-E136
+* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
+* Tillgängliga språk: engelska
+* Kostnad: 125 USD (globalt)/95 USD (Indien)
+* Exam ID: AD0-E136
 
 **Mål och omfattning för tentamen**
 
 Avsnitt 1: Bedömning (32 %)
 
 * Använda BPA
-* Förbered och uppskatta en migreringsplan
+* Förbereda och uppskatta en migreringsplan
 * Utvärdera vilka användare, grupper och behörigheter som behöver flyttas
 * Granska inaktuella funktioner
 * Ange arbetsflödeskrav
@@ -93,7 +93,7 @@ Avsnitt 2: Design (16 %)
 * Förbereda konfiguration för resurser och mikrotjänster
 * Förklara cachningsstrategi
 
-Avsnitt 3: Distribution (16 %)
+Avsnitt 3: Driftsättning (16 %)
 
 * Konfigurera Cloud Manager-pipelines och koppla dem till miljöer
 * Etablera AEMaaCS-miljöer (dev, stage, prod - författare, publicera, förhandsgranska)
@@ -123,7 +123,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 **Avsnitt 1: Bedömning**
 
 
-* [[!DNL Experience Manager] as a Cloud Service användarhandbok](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
+* [[!DNL Experience Manager] as a Cloud Service användarhandbok](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=sv){target="_blank"}
 * [Migreringshandbok för Adobe [!DNL Experience Manager] as a Cloud Service för partners](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started-partners.html){target="_blank"}
 * [Viktiga ändringar i AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/aem-cloud-changes.html){target="_blank"}
 
@@ -144,7 +144,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Krav för verktyget Innehållsöverföring](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/content-transfer-tool/prerequisites-content-transfer-tool.html){target="_blank"}
 * [Felsöka AEM as a Cloud Service med hjälp av loggar](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/debugging/debugging-aem-as-a-cloud-service/logs.html){target="_blank"}
 
-**Avsnitt 5: Implementering**
+**Avsnitt 5: Genomförande**
 
 * [Använda CI/CD-pipeline i Adobe Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/cloud-manager/use-the-cicd-pipeline-in-cloud-manager-for-aem.html){target="_blank"}
 * [Distribuera till AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/deploying/overview.html){target="_blank"}
@@ -159,20 +159,16 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 
 
-## Om provet
+## Om certifieringsprovet
 
 {{about-certification-exam}}
 
-## Ta provet (AD0-E136)
-
-### Tillgängliga alternativ
-
-**[!DNL Examity]** ( *online* )
+## Schemalägg eller ta prov AD0-E136
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E136" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Ta prov
+   Gå till portalen för undersökningar
 </span>
 </a>
 

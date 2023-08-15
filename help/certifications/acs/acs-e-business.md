@@ -4,27 +4,27 @@ description: Lär dig hur du blir en certifierad expert på Adobe Business Pract
 solution: Campaign,Campaign Standard
 product: Campaign
 role: User
-badge: label="Exam AD0-E307" type="positive"
+badge: label="Prov AD0-E307" type="positive"
 mini-toc-levels: 1
 exl-id: ba66d1cc-3545-49ed-8578-1f6aa07f64e7
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '813'
+source-wordcount: '790'
 ht-degree: 8%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Campaign Standard] Affärsexpert
 
-Lär dig hur du blir en certifierad expert på Adobe Business Practitioner.
+Lär dig hur du blir certifierad Adobe [!DNL Campaign Standard] Yrkesverksamma inom affärsverksamhet.
 
 ## Minimal upplevelse
 
-Du bör ha erfarenhet av att arbeta i en kanalleveransmiljö (e-post, direktreklam, mobilt och socialt). känner till marknadsföringskampanjer som multitouch, livscykeln och reaktivering, och en förståelse för marknadsföringsstatistik som avkastning, klickfrekvens och konvertering.
+Ni bör ha erfarenhet av att arbeta i en kanalleveransmiljö (e-post, direktreklam, mobilt och socialt), ha vana vid marknadsföringskampanjer som multi-touch, livscykel och reaktivering samt förstå marknadsföringsstatistik som avkastning, klickfrekvens och konvertering.
 
 Dessutom bör du ha:
 
-* Fältupplevelse som fungerar med [!DNL Campaign Standard] med normal frekvens
+* Fältupplevelse som fungerar med Adobe [!DNL Campaign Standard] med normal frekvens
 * Möjlighet att bearbeta datafiler
 * En förståelse för begreppen relationsdatabaser, utlösare, API:er och tekniska arbetsflöden
 * En förståelse för hur man bygger upp arbetsflöden för marknadsföring och arbetar med underliggande data för att starta arbetsflöden för marknadsföring
@@ -54,12 +54,12 @@ Dessutom bör du ha:
 **Information om tentamen:**
 
 * Nivå: Expert (1-3 års erfarenhet)
-* Lösenpoäng: 30/50
+* Löpande poäng: 30/50
 * Tid: 100 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller testcenter
-* Tillgängliga språk: Engelska och japanska
+* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
+* Tillgängliga språk: engelska och japanska
 * Kostnad: $225 (global) / $150 (Indien)
-* Exam-ID: AD0-E307
+* Exam ID: AD0-E307
 
 **Självbedömning av beredskap**
 
@@ -69,7 +69,7 @@ Slutför [onlineberedskapsenkät](https://scorpion.caveon.com/launchpad/ad-q-e12
 
 Avsnitt 1: Leveranshantering (25 %)
 
-* Använda bästa praxis när det gäller att konfigurera och distribuera en leverans
+* Använda bästa praxis vid konfiguration och driftsättning av en leverans
 * Kontrollera rätt leveranskonfiguration
 * Använd e-postdesignerfunktioner i rätt scenario
 
@@ -88,14 +88,14 @@ Avsnitt 4: Rapportering (15 %)
 * Utifrån kundens krav, fastställa lämplig rapport för att generera
 * Anpassa en färdig dynamisk rapport efter ett scenario
 * Utgå från exempeldata från OTB-rapporter och tolka resultatet
-* Använd processen för att schemalägga och skicka en OOTB-rapport
+* Använd processen för att schemalägga och skicka en OTB-rapport
 
 Avsnitt 5: Felsökning (10 %)
 
 * Övervaka och identifiera fel
 * Analysera och tolka distributionsresultat
 
-Avsnitt 6: Datahantering och -administration (15%)
+Avsnitt 6: Datahantering och administration (15%)
 
 * Förklara datamodellresurser
 * Utför [!DNL Campaign Standard] administration
@@ -155,31 +155,16 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 {{practice-test}}
 
-## Om provet
+## Om certifieringsprovet
 
 {{about-certification-exam}}
 
-## Ta provet (AD0-E307)
-
-### Tillgängliga alternativ
-
-{{PSI-note}}
-
-**PSI** (*testcenter/alternativ för japanska prov (om sådana finns)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E307" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Ta prov
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Schemalägg eller ta prov AD0-E307
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E307" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Ta prov
+   Gå till portalen för undersökningar
 </span>
 </a>
 

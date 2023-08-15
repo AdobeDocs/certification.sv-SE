@@ -3,23 +3,23 @@ title: Certifiering av Core Developer Expert
 description: Lär dig hur du blir certifierad Adobe Developer-expert i Adobe [!DNL Workfront].
 solution: Workfront
 role: Developer
-badge: label="Exam AD0-E904" type="positive"
+badge: label="Prov AD0-E904" type="positive"
 mini-toc-levels: 1
 exl-id: 6f7570dc-5647-402b-a8c1-18c4fa5f85d4
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1531'
+source-wordcount: '1509'
 ht-degree: 0%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Workfront] Core Developer Expert
 
-Lär dig hur du blir en certifierad Adobe Developer-expert.
+Lär dig hur du blir certifierad Adobe [!DNL Workfront] Core Developer Expert.
 
 ## Minimal upplevelse
 
-Du bör ha minst 18-24 månaders erfarenhet av [!DNL Workfront]och kan:
+Du bör ha minst 18-24 månaders erfarenhet av Adobe [!DNL Workfront]och kan:
 
 * Navigera i [!DNL Workfront] system, förstå var funktionerna finns
 * Konfigurera alla aspekter av systemet
@@ -47,12 +47,12 @@ Du bör ha minst 18-24 månaders erfarenhet av [!DNL Workfront]och kan:
 **Information om tentamen:**
 
 * Nivå: Expert (1-3 års erfarenhet)
-* Lösenpoäng: 36/64
+* Passing Score: 36/64
 * Tid: 130 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller testcenter
-* Tillgängliga språk: Engelska
+* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
+* Tillgängliga språk: engelska
 * Kostnad: $225 (global) / $150 (Indien)
-* Exam-ID: AD0-E904
+* Exam ID: AD0-E904
 
 **Självbedömning av beredskap**
 
@@ -60,7 +60,7 @@ Slutför [onlineberedskapsenkät](https://scorpion.caveon.com/launchpad/ad-q-e90
 
 **Mål och omfattning för tentamen**
 
-Avsnitt 1: Systemadministration och installation (17 %)
+Avsnitt 1: Administrering och installation av kärnsystem (17 %)
 
 * Beskriv olika sätt att dela behörigheter och åtkomst effektivt i ett scenario.
 * Välj rätt åtkomstordning i hierarkin för ett diagram.
@@ -71,11 +71,11 @@ Avsnitt 1: Systemadministration och installation (17 %)
 * Om ett scenario har valts bör du rekommendera om ett Team ska vara standard, Kanban eller Scrum.
 * I ett scenario bör du fastställa den bästa metoden för att distribuera anpassade storyboards för Agile-team.
 
-Avsnitt 2: Intag, anpassade formulär och projekthantering (17 %)
+Avsnitt 2: Intag, anpassade formulär och projektledning (17 %)
 
-* Om ett scenario inträffar, identifiera de konfigurationsområden som behövs för att stödja arbetsallokeringarna.
+* Om du utgår från ett scenario, identifiera de konfigurationsområden som behövs för att stödja arbetsallokeringarna.
 * Om du har ett scenario måste du identifiera de nödvändiga inställningarna.
-* Om du anger ett scenario, identifierar du hur ett värde skickas till ett anpassat projektformulär.
+* Identifiera hur ett värde skickas till ett anpassat projektformulär i ett scenario.
 * Om du utgår från ett scenario, beskriv vad som måste göras för att åtgärda rapporterings- och beräkningsfel.
 * I ett scenario kan du identifiera stödelement som passar för mallar.
 
@@ -85,22 +85,22 @@ Avsnitt 3: Strategisk funktionalitet - portfölj- och programhantering, resursha
 * Om du utgår från ett scenario justerar du affärsärendet så att det återspeglar en ändring av projektets omfattning.
 * I ett scenario kan du skapa en vy som i en portfölj identifierar om ett projekt uppfyller den genomsnittliga nivån på de krav som ska uppfyllas.
 * Beskriv olika sätt att hantera risker kvalitativt eller kvantitativt i ett scenario.
-* I ett scenario bör du tillhandahålla en mekanism som säkerställer att de högst prioriterade projekten har full personal.
+* I ett scenario bör du tillhandahålla en mekanism för att säkerställa att de högst prioriterade projekten har full personal.
 * Ange grundorsaken för ett scenario.
 * Om du utgår från ett scenario måste du avgöra varför en användare är för allokerad.
 
-Avsnitt 4: Dokumenthantering och korrektur (13 %)
+Avsnitt 4: Dokumenthantering och -korrektur (13 %)
 
 * Visa när dokumenthantering ska användas jämfört med korrektur
 * I ett scenario bör du identifiera de bästa sätten att använda korrekturläsaren, inställningarna och markeringsfunktionerna
-* Om du anger ett scenario visar du hur du redigerar och anger behörigheter för en fil.
+* I ett scenario visar du hur du redigerar och anger behörigheter för en fil.
 * Visa hur du konfigurerar extern dokumentlagring med säkerhetsbegränsningar för ett scenario
 
 Avsnitt 5: Rapportering (13 %)
 
 * Beskriv olika sätt att kombinera flera datakolumner till en enda kolumn för ett scenario.
-* Visa fördelarna med att använda jokervärden med en rapport eller ett filter.
-* Identifiera överordnade-till-underordnade-relationer i en rapport.
+* Visa fördelarna med att använda jokervärden med hjälp av en rapport eller ett filter.
+* Identifiera relationer mellan överordnade och underordnade i en rapport.
 * Om du utgår från ett scenario, beskriv hur rapportering underlättar ett effektivt arbetsutförande.
 * I ett scenario, illustrera [!DNL Workfront] Rapportering för att övervaka och förbättra användarnas acceptans.
 
@@ -114,7 +114,7 @@ Avsnitt 6: Metod/bästa praxis/användningsfall (20 %)
 * I ett scenario rekommenderar du ett ramverk för styrning runt systemadministration när du expanderar en klientinstans.
 * Om du utgår från ett scenario bör du identifiera områden som ska beaktas när du expanderar en kunds instans så att fler team kan samarbeta.
 
-Avsnitt 7: Affärskonsult (8 %)
+Section 7: Business Consulting (8 %)
 
 * Om ett scenario inträffar, beskriv den process som krävs för att fullt ut stödja den insatsen.
 * Om du utgår från ett scenario, förklara hur du anpassar ett befintligt arbetsflöde för att hantera en nyligen inträffad förändring i en kritisk, viktig affärsprocess.
@@ -128,7 +128,7 @@ Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och 
 
 Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
-**Avsnitt 1: Systemadministration och installation**
+**Avsnitt 1: Administrering och installation av kärnsystem**
 
 * [Systemkonfiguration: grupper och användare](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/system-setup-groups-and-users.html%3Flang%3Dsv){target="_blank"}
 * [Hur åtkomstnivåer och behörigheter fungerar tillsammans](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/access-levels/how-access-levels-permissions-work-together.html){target="_blank"}
@@ -137,7 +137,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Mappa användarattribut och autodistribuera nya användare](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/create-manage-users/map-user-attributes.html){target="_blank"}
 * [Skapa grupper och undergrupper](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/organizational-setup/user-organization-groups.html){target="_blank"}
 
-**Avsnitt 2: Intagning, anpassade formulär och projekthantering**
+**Avsnitt 2: Intag, anpassade formulär och projektledning**
 
 * [Konfigurera globala standardprojektinställningar](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/configure-system-defaults/configure-global-default-project-settings.html){target="_blank"}
 * [Konfigurera mina inställningar](https://experienceleague.adobe.com/docs/workfront/using/basics/manage-account-profile/configure-user-profile/configure-my-settings.html){target="_blank"}
@@ -152,7 +152,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Prioritera och hantera material med portfolior](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html){target="_blank"}
 * [Skapa och redigera risker i projekt](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/define-business-case/create-edit-risks-on-projects.html){target="_blank"}
 * [Förstå och uppdatera projektprioriteringar](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/plan-a-project/project-priority.html){target="_blank"}
-* [Visa: ursprungliga utgivningsdetaljer för uppgifter och projekt](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/custom-view-samples/view-originating-issue-details-tasks-projects.html){target="_blank"}
+* [Visa: information om ursprunglig utleverans för uppgifter och projekt](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/custom-view-samples/view-originating-issue-details-tasks-projects.html){target="_blank"}
 
 **Avsnitt 4: Dokumenthantering och -korrektur**
 
@@ -199,31 +199,16 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 {{practice-test}}
 
-## Om provet
+## Om certifieringsprovet
 
 {{about-certification-exam}}
 
-## Ta provet (AD0-E904)
-
-### Tillgängliga alternativ
-
-{{PSI-note}}
-
-**PSI** (*testcenter/alternativ för japanska prov (om sådana finns)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E904" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Ta prov
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Schemalägg eller ta prov AD0-E904
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E904" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Ta prov
+   Gå till portalen för undersökningar
 </span>
 </a>
 

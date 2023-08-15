@@ -1,25 +1,25 @@
 ---
-title: Arkitekt Överordnad ny certifiering
-description: Lär dig hur du blir certifierad [!DNL Adobe Target] Arkitekt Överordnad.
+title: Arkitekt Master - ny certifiering
+description: Lär dig hur du blir certifierad [!DNL Adobe Target] Arkitektmästare.
 solution: Target
 product: Target
 role: Data Architect
-badge: label="Exam AD0-E409" type="positive"
+badge: label="Prov AD0-E409" type="positive"
 mini-toc-levels: 1
-source-git-commit: 5f155e7b81ec0e39f632416546a46d9ca7da5426
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1112'
+source-wordcount: '943'
 ht-degree: 0%
 
 ---
 
-# Certifieringsresa för [!DNL Adobe Target] Arkitekt Överordnad
+# Certifieringsresa för [!DNL Adobe Target] Architect Master
 
-Lär dig hur du blir en certifierad Överordnad för Adobe Architect.
+Lär dig hur du blir certifierad [!DNL Adobe Target] Arkitektmästare.
 
 >[!NOTE]
 >
->Det här är det senaste Överordnad provet för Adobe Target Architect. Om du redan har börjat studera eller har schemalagt [äldre version](at-m-architect.md) till 8 september 2023 för att slutföra det.
+>Det här är det senaste [!DNL Adobe Target] Arkitektprov, magisterexamen. Om du redan har börjat studera eller har schemalagt [äldre version](at-m-architect.md) du har tid till den 8 september 2023 för att slutföra det.
 
 ## Minimal upplevelse
 
@@ -64,31 +64,31 @@ Miljöer:
 * Tekniker/arkitekt för personalisering
 * Digital Solution Architect
 * Digital transformationskonsult
-* Experience optimization lead
+* Lead för upplevelseoptimering
 * Optimeringshanteraren
 * Kampanjhanterare online
 
 **Information om tentamen:**
 
-* Nivå: Överordnad (3-5 års erfarenhet)
-* Lösenpoäng: 32/50
+* Nivå: Masternivå (3-5 års erfarenhet)
+* Löpande poäng: 32/50
 * Tid: 100 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller testcenter
-* Tillgängliga språk: Engelska
+* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
+* Tillgängliga språk: engelska
 * Kostnad: $225 (global) / $150 (Indien)
-* Exam-ID: AD0-E409
+* Exam ID: AD0-E409
 
 **Mål och omfattning för tentamen**
 
 Avsnitt 1: [!DNL Adobe Target] grundläggande (13 %)
 
 * Identifiera lämpliga [!DNL Adobe Target] användning för ett visst scenario
-* Förklara de grundläggande teknikerna i [!DNL Adobe Target] implementering
+* Förklara grundläggande tekniker i [!DNL Adobe Target] implementering
 
-Avsnitt 2: Integrera med [!DNL Adobe Target] (18 %)
+Avsnitt 2: Integrering med [!DNL Adobe Target] (18 %)
 
-* Använd processen för att integrera [!DNL Adobe Target] med Adobe Analytics (A4T)
-* Använd processen för att integrera [!DNL Adobe Target] till Adobe Experience Manager
+* Använda processen för att integrera [!DNL Adobe Target] med Adobe Analytics (A4T)
+* Använda processen för att integrera [!DNL Adobe Target] till Adobe Experience Manager
 * Beskriv integrationen med Adobe Experience Cloud Solutions och Adobe Experience Platform Solutions
 * Beskriv integrationen med Adobe Experience Cloud Audiences
 
@@ -104,12 +104,12 @@ Avsnitt 4: [!DNL Adobe Target] och kontaktpunkter som stöds (6 %)
 * Beskriv implementering på serversidan
 * Beskriv implementeringskrav för mobiler, e-postmarknadsföring och API:er
 
-Avsnitt 5: Utnyttja [!DNL Adobe Target] rekommendationer (11 %)
+Avsnitt 5: Bruttoanvändning [!DNL Adobe Target] rekommendationer (11 %)
 
 * Uppvisa förståelse för rekommendationer, kataloger och kriterier
 * Använd processen för att konfigurera Target-rekommendationer
 
-Avsnitt 6: Arkitekt, design och implementering [!DNL Adobe Target] (18 %)
+Avsnitt 6: Arkitekt, utformning och implementering [!DNL Adobe Target] (18 %)
 
 * Välj rätt implementering av målbegäran (Global, Order Confirm, Hybrid) Utvärdera och utforma en [!DNL Adobe Target] implementering
 * Beskriv implementeringen av [!DNL Adobe Target] i Adobes mobilappar
@@ -154,12 +154,12 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 * [Integrera Recommendations med e-post](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/integrating-recs-email.html){target="_blank"}
 * [Formulärbaserad Experience Composer](https://experienceleague.adobe.com/docs/target/using/experiences/form-experience-composer.html){target="_blank"}
-* [Skapa JSON-erbjudanden](https://experienceleague.adobe.com/docs/target/using/experiences/offers/create-json-offer.html){target="_blank"}
+* [Create JSON offers](https://experienceleague.adobe.com/docs/target/using/experiences/offers/create-json-offer.html){target="_blank"}
 
 **Avsnitt 5**
 
 * [Rekommendationer](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations.html){target="_blank"}
-* [Recommendations FAQ](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/recommendations-faq.html){target="_blank"}
+* [RECOMMENDATIONS FAQ](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/recommendations-faq.html){target="_blank"}
 * [Feeds](https://experienceleague.adobe.com/docs/target/using/recommendations/entities/feeds.html){target="_blank"}
 * [Anpassa en design med Snabb](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-design/customizing-a-template.html){target="_blank"}
 
@@ -175,7 +175,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 [Aktivitets-QA](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
 [Felsöka innehållsleverans](https://experienceleague.adobe.com/docs/target/using/activities/troubleshoot-activities/content-trouble.html){target="_blank"}
 [Vanliga frågor om design](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-design/template-faq.html){target="_blank"}
-[Recommendations FAQ](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/recommendations-faq.html){target="_blank"}
+[RECOMMENDATIONS FAQ](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/recommendations-faq.html){target="_blank"}
 [Logga in på Platform Web SDK för Adobe Analytics for Target (A4T)](https://experienceleague.adobe.com/docs/experience-platform/edge/personalization/adobe-target/a4t/overview.html){target="_blank"}
 
 
@@ -187,26 +187,18 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 **Nu när du har loggat in är följande länkar direkt tillgängliga.**
 
-**Gör en certifieringstest**
+## Om certifieringsprovet
 
-Adobe använder två leverantörer för att administrera proffsiga tentamina, PSI och Examity.
+{{about-certification-exam}}
 
-* **PSI** erbjuder testcenter och japanska tentamina (där det finns tillgängligt)
-* **[!DNL Examity]** erbjuder ett fjärranslutet alternativ
+## Schemalägg eller ta prov AD0-E409
 
-Om du vill schemalägga, schemalägga om eller avbryta din tentamen klickar du bara på valfri leverantör och följer instruktionerna på skärmen. Så enkelt är det!
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E409" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-Profilnamnet i Adobe Credential Management System måste exakt matcha ditt Government ID. Om informationen inte är identisk eller om det inte finns någon matchning avbryts provet och du måste schemalägga om din avtalade tid utöver att betala en extra provavgift.
-
-Det går att avbryta och schemalägga om det initieras före 48 timmar före det schemalagda provbesöket. Kandidaterna måste själva ändra den här avtalade tiden.
-
-### Provnummer: AD0-E409
-
-[!BADGE Underbarhet]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E409 newtab=true"}
-
-Du kan betala för ditt certifieringsprov med hjälp av verifikation eller kreditkort. Om du vill köpa en provvoucher går du till: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}.
-
-Du kan använda verifikationskoden när du schemalägger provet. Om du har en rabatt gäller den i kassan.
+<span class="spectrum-Button-label has-no-wrap">
+   Gå till portalen för undersökningar
+</span>
+</a>
 
 >[!ENDTABS]
 
