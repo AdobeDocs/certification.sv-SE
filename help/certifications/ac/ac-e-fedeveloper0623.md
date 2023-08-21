@@ -6,9 +6,9 @@ product: Magento
 role: Developer
 badge: label="Prov AD0-E720" type="positive"
 mini-toc-levels: 1
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 8e77e973cf699bb542aa644fe55013e599748dd2
 workflow-type: tm+mt
-source-wordcount: '1046'
+source-wordcount: '1018'
 ht-degree: 0%
 
 ---
@@ -16,10 +16,6 @@ ht-degree: 0%
 # Certifieringsresa för [!DNL Adobe Commerce] Front-End Developer Expert
 
 Lär dig hur du blir certifierad [!DNL Adobe Commerce] Developer Expert.
-
->[!NOTE]
->
->Det här är det senaste [!DNL Adobe Commerce] Prova Front End Developer Expert. Om du redan har börjat studera eller har schemalagt [äldre version](ac-e-fedeveloper.md) du har tid till den 18 augusti 2023 för att slutföra det.
 
 ## Minimal upplevelse
 
