@@ -5,12 +5,12 @@ solution: Commerce
 product: Magento
 role: Data Architect
 level: Experienced
-badge: label="Prov AD0-E718" type="positive"
+badge: label="Prov AD0-E722" type="positive"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 77c33a05498833b58e467c0d332ba007cc181a7d
 workflow-type: tm+mt
-source-wordcount: '850'
+source-wordcount: '796'
 ht-degree: 0%
 
 ---
@@ -76,12 +76,12 @@ Dessutom bör du känna till följande aktiviteter och tekniker:
 **Information om tentamen:**
 
 * Nivå: Masternivå (3-5 års erfarenhet)
-* Löpande poäng: 29/50
+* Löpande poäng: 30/50
 * Tid: 120 min
 * Leverans: Bearbetad online (kräver kameraåtkomst)
 * Tillgängliga språk: engelska
 * Kostnad: $225 (global) / $150 (Indien)
-* Exam ID: AD0-E718
+* Exam ID: AD0-E722
 
 **Självbedömning av beredskap**
 
@@ -123,12 +123,6 @@ Avsnitt 4: Grunderna för efterlevnad/säkerhet (13 %)
 Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
 
 Här följer några förslag på resurser som hjälper dig att förbereda dig:
-
-**Exempelfrågor**
-
-Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer att stöta på i provet. Ingen inloggning behövs. Resultaten av exempelfrågorna lagras inte och du kan inte förutsäga dina faktiska testresultat.
-
-[Se exempelfrågor](https://scorpion.caveon.com/launchpad/ad0-e718-adobe-commerce-architect-master-copy-kzcvh7){target="_blank"}
 
 **Avsnitt 1: Design**
 
@@ -173,9 +167,9 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 
 {{about-certification-exam}}
 
-## Schemalägg eller ta prov AD0-E718
+## Schemalägg eller ta prov AD0-E722
 
-<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E718" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E722" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    Gå till portalen för undersökningar
