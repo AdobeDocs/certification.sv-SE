@@ -2,9 +2,9 @@
 user-guide-title: Certifiering i Adobe
 breadcrumb-title: Certifiering i Adobe
 user-guide-description: Läs mer om  [!DNL Experience Cloud] -certifiering på Adobe. Ta reda på vad du kan få ut av certifieringen.
-source-git-commit: 8e77e973cf699bb542aa644fe55013e599748dd2
+source-git-commit: bc8d85db13a643ee737c5443d9124fc6492c4831
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '260'
 ht-degree: 29%
 
 ---
@@ -112,6 +112,7 @@ ht-degree: 29%
          + [Yrkesverksam](/help/certifications/ame/ame-e-business.md)
       + Master {#ame-master}
          + [Arkitekt](/help/certifications/ame/ame-m-architect.md)
+         + [Arkitekt - NY](/help/certifications/ame/ame-m-architect-23-08.md)
       + [Förnyelse](/help/certifications/ame/ame-renew.md)
    + Adobe Real-Time CDP {#rtcdp}
       + [Real-Time CDP - översikt](/help/certifications/rtcdp/rtcdp-overview.md)
@@ -143,6 +144,7 @@ ht-degree: 29%
          + [Utvecklare (Core)](/help/certifications/aw/aw-core-p-developer.md)
       + Expert {#aw-expert}
          + [Utvecklare (Core)](/help/certifications/aw/aw-core-e-developer.md)
+         + [Developer (Core) - NEW](/help/certifications/aw/aw-core-e-developer-23-08.md)
          + [AEM utökad kontakt](/help/certifications/aw/aw-aem-e-connector.md)
       + [Förnyelse](/help/certifications/aw/aw-renew.md)
 + [Referenser för slutanvändare](https://learning.adobe.com/certification/credentials)
