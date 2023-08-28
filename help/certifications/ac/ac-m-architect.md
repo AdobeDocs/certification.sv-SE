@@ -8,9 +8,9 @@ level: Experienced
 badge: label="Prov AD0-E722" type="positive"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: bfde4e81ff7a942dca9b97cec28cef99c296dd1f
+source-git-commit: dca1d6b3f7c79b2fc389342829793b6a63b5ad0c
 workflow-type: tm+mt
-source-wordcount: '797'
+source-wordcount: '766'
 ht-degree: 0%
 
 ---
@@ -77,7 +77,7 @@ Dessutom bör du känna till följande aktiviteter och tekniker:
 
 * Nivå: Masternivå (3-5 års erfarenhet)
 * Löpande poäng: 30/50
-* Tid: 120 min
+* Tid: 100 min
 * Leverans: Bearbetad online (kräver kameraåtkomst)
 * Tillgängliga språk: engelska
 * Kostnad: $225 (global) / $150 (Indien)
@@ -111,12 +111,6 @@ Avsnitt 3: Konfigurera och distribuera (22 %)
 * Konfigurera alla aspekter av Adobe [!DNL Commerce] Cloud
 * Översikt och förbättrad distributionsprocess
 * Felsöka infrastruktur- och konfigurationsproblem
-
-Avsnitt 4: Grunderna för efterlevnad/säkerhet (13 %)
-
-* Förstå grunderna om efterlevnad av sekretesslagstiftning och betalningssäkerhet
-* Identifiera vanliga säkerhetsaspekter av en Adobe [!DNL Commerce] projekt
-* Identifiera bästa praxis och juridiska krav på tillgänglighet
 
 >[!TAB Förbered]
 
