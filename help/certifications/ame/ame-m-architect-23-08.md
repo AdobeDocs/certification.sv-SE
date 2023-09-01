@@ -6,36 +6,35 @@ product: Marketo
 role: Data Architect
 badge: label="Prov AD0-E560" type="positive"
 mini-toc-levels: 1
-hidefromtoc: true
-source-git-commit: 5fb76199d2e15ef486f9b91e55e908d5d5e9704c
+source-git-commit: bd9b28dd3f66055ccf2ad6f4656ba35405385111
 workflow-type: tm+mt
-source-wordcount: '983'
+source-wordcount: '992'
 ht-degree: 0%
 
 ---
 
 
-<!--This is NOT updated with the AD0-E560 information-->
-
 # Certifieringsresa för Adobe [!DNL Marketo Engage] Architect Master
 
 Lär dig hur du blir certifierad Adobe [!DNL Marketo Engage] Arkitektmästare.
 
-Adobe har lanserat ett nytt Adobe [!DNL Marketo Engage] Engage Architect-certifiering för sökande som vill bli certifierade som original. Den ersätter den tidigare processen för certifieringsintervju med Marketo Certified Solution Architect (MCSA). [Läs mer](https://solutionpartners.adobe.com/solution-partners/news/2022/02/a-new-standard-for-adobe-marketo-engage-certified-architects.html){target="_blank"}
+>[!NOTE]
+>
+>Det här är det senaste [!DNL Adobe Marketo Engage] Arkitektprov, magisterexamen. Om du redan har börjat studera eller har schemalagt [äldre version](ame-m-architect.md)måste du vara klar med provet senast den 31 oktober 2023.
 
 ## Minimal upplevelse
 
 Du borde ha:
 
-* En aktuell certifiering i Adobe [!DNL Marketo Engage] Certifierad expert på affärsverksamhet
-* Minst fem års erfarenhet, helst med flera instanser av Adobe [!DNL Marketo Engage]
+* En certifiering som certifierad expert på Marketo Engage Business Practitioner
+* Minst fem års erfarenhet, helst med flera instanser av Marketo Engage
 * En förståelse för vilken inverkan verksamheten har och effektivt förklara/informera intressenter (tekniska och icke-tekniska) på olika nivåer om deras lösning
-* Möjlighet att skapa en lösning och omvandla den till en [!DNL Marketo Engage] arkitektur, förstå de affärsprocesser som påverkas av integreringar
+* Möjligheten att skapa en lösning och omvandla den till en Marketo Engage-arkitektur, förstå de affärsprocesser som påverkas av integreringar
 * Förtrogenhet med principerna för att skapa en instans
 
 Dessutom bör du känna till följande verktyg och tekniker:
 
-* Adobe [!DNL Marketo Engage] funktioner, funktionalitet och appar
+* Funktioner, funktioner och appar för Adobe Marketo Engage
 * Databassystem
 * API-anslutning
 * CRM-plattform
@@ -68,15 +67,15 @@ Dessutom bör du känna till följande verktyg och tekniker:
 
 **Information om tentamen:**
 
-* Krav: Adobe Certified Expert - [!DNL Marketo Engage] Yrkesverksamma inom affärsverksamhet
+* Krav: Aktuell (inte utgången) Adobe [!DNL Marketo Engage] Expertcertifiering för Business Practitioner
 * Nivå: Masternivå (3-5 års erfarenhet)
 * Certifiering av praktikanter
 * Löpande poäng: 30/50
-* Tid: 150 min
+* Tid: 100 min
 * Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
 * Tillgängliga språk: engelska
 * Kostnad: $225 (global) / $150 (Indien)
-* Exam ID: AD0-E556
+* Exam ID: AD0-E560
 
 **Självbedömning av beredskap**
 
@@ -84,14 +83,14 @@ Slutför [onlineberedskapsenkät](https://scorpion.caveon.com/launchpad/ad-q-e55
 
 **Mål och omfattning för tentamen**
 
-Avsnitt 1: Projektledarskap (16 %)
+**Avsnitt 1: Projektledarskap (16 %)**
 
 * Identifiera rätt intressenter i en fallstudie
 * Utvärdera en uppsättning krav och rekommendera projektgränser, budget, resurser och omfattning
 * Bestäm vem som behöver aktiveras och driftsättas effektivt utifrån en modifierad process
 * Utvärdera en granskning och rekommendera prioriteringar och tidslinje
 
-Avsnitt 2: [!DNL Marketo Engage] Arkitekturdesign (48 %)
+**Section 2: Marketo Engage Architecture Design (48 %)**
 
 * Samla krav/behov och rekommendera en lead-hantering och livscykeldesign
 * Granska en befintlig implementering och ge resultat
@@ -103,17 +102,17 @@ Avsnitt 2: [!DNL Marketo Engage] Arkitekturdesign (48 %)
 * I ett scenario kan du beskriva olika stadier i personens livscykel som påverkas av föreslagna ändringar/krav
 * Utvärdera en uppsättning krav och rekommendera en strategi för kampanjlogik
 
-Avsnitt 3: Rapportering och attribuering (20 %)
+**Avsnitt 3: Rapportering och attribuering (20 %)**
 
 * Förklara konceptet med omdirigeringar i livscykelmodelleraren utifrån en modell att granska
 * Rekommendera ett tillvägagångssätt för rapportering av online-reklam, organisk social marknadsföring eller innehåll
-* Illustrator How to validate [!DNL Marketo Engage] rapportera när livscykeländringar spåras
+* Illustrator How to validate Marketo Engage reporting in tracking lifecycle changes
 * Identifiera mätvärden som ska användas i en viss rapporttyp
 * Identifiera hur man spårar flerkanalsattribuering för att utvärdera avkastningen
 * Identifiera och beskriv för- och nackdelar med olika attribueringsmodeller
 * Beskriv effekten av den kanal som ställts in för rapportering utifrån ett affärskrav
 
-Avsnitt 4: Avancerade åtgärder (16 %)
+**Avsnitt 4: Avancerade åtgärder (16 %)**
 
 * I ett scenario, identifiera lämpliga åtgärder för att förbättra ledning eller styrning
 * Rekommendera ett effektivt dataschema utifrån en uppsättning krav
@@ -142,6 +141,7 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 
 **Avsnitt 2: Adobe [!DNL Marketo Engage] arkitekturdesign**
 
+* [Rapportöversikt](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/reporting-overview.html){target="_blank"}
 * [Instruktioner för hur du skapar en anpassad synkroniseringsregel](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758#:~:text=First%2C%20what%20is%20a%20custom,have%20them%20sync%20to%20Marketo.){target="_blank"}
 * [The Definitive Guide to Lead Scoring](https://business.adobe.com/resources/guides/lead-scoring.html){target="_blank"}
 
@@ -161,19 +161,17 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 
 >[!IMPORTANT]
 >
->Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
+>Följande avsnitt och länkar fungerar **endast** efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
-
-
+>Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning avbryts provet och du måste schemalägga om mötet utöver att betala en extra provavgift.
 
 ## Om certifieringsprovet
 
 {{about-certification-exam}}
 
-## Schemalägg eller ta prov AD0-E556
+## Schemalägg eller ta prov AD0-E560
 
-<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E556" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E560" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    Gå till portalen för undersökningar

@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="Prov AD0-E556" type="positive"
 mini-toc-levels: 1
 exl-id: 3ce6b278-5bee-4ba3-ae5a-1d5de79d07bf
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: bd9b28dd3f66055ccf2ad6f4656ba35405385111
 workflow-type: tm+mt
-source-wordcount: '983'
+source-wordcount: '1030'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 # Certifieringsresa för Adobe [!DNL Marketo Engage] Architect Master
 
 Lär dig hur du blir certifierad Adobe [!DNL Marketo Engage] Arkitektmästare.
+
+>[!NOTE]
+>
+>Detta prov [!DNL Adobe Marketo Engage] Architect Master (AD0-E556) har uppdaterats. Om du redan har börjat studera eller är schemalagd att ta den här versionen är du noga med att slutföra den före 31 oktober 2023. Om du precis har börjat rekommenderar vi att du [den senaste versionen av detta prov (AD0-E560)](ame-m-architect-23-08.md).
 
 Adobe har lanserat ett nytt Adobe [!DNL Marketo Engage] Engage Architect-certifiering för sökande som vill bli certifierade som original. Den ersätter den tidigare processen för certifieringsintervju med Marketo Certified Solution Architect (MCSA). [Läs mer](https://solutionpartners.adobe.com/solution-partners/news/2022/02/a-new-standard-for-adobe-marketo-engage-certified-architects.html){target="_blank"}
 
