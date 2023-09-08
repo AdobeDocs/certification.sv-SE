@@ -6,9 +6,9 @@ product: Target
 role: Data Architect
 badge: label="Prov AD0-E409" type="positive"
 mini-toc-levels: 1
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 73e92181bd570f0a90d549cc38b472f791374e7a
 workflow-type: tm+mt
-source-wordcount: '943'
+source-wordcount: '917'
 ht-degree: 0%
 
 ---
@@ -16,10 +16,6 @@ ht-degree: 0%
 # Certifieringsresa för [!DNL Adobe Target] Architect Master
 
 Lär dig hur du blir certifierad [!DNL Adobe Target] Arkitektmästare.
-
->[!NOTE]
->
->Det här är det senaste [!DNL Adobe Target] Arkitektprov, magisterexamen. Om du redan har börjat studera eller har schemalagt [äldre version](at-m-architect.md) du har tid till den 8 september 2023 för att slutföra det.
 
 ## Minimal upplevelse
 

@@ -7,9 +7,10 @@ role: Data Architect
 badge: label="Prov AD0-E407" type="positive"
 mini-toc-levels: 1
 exl-id: 05041fba-a1c3-491f-9f88-59498d507e61
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+hidefromtoc: true
+source-git-commit: 73e92181bd570f0a90d549cc38b472f791374e7a
 workflow-type: tm+mt
-source-wordcount: '1122'
+source-wordcount: '1077'
 ht-degree: 4%
 
 ---
@@ -17,10 +18,6 @@ ht-degree: 4%
 # Certifieringsresa för [!DNL Adobe Target] Architect Master
 
 Lär dig hur du blir certifierad [!DNL Adobe Target] Arkitektmästare.
-
->[!NOTE]
->
->Detta prov [!DNL Adobe Target] Architect Master (AD0-E407) har uppdaterats. Om du redan har börjat studera eller är schemalagd att ta den här versionen, vänligen se till att slutföra den före 8 september 2023. Om du precis har börjat rekommenderar vi att du [senaste versionen av denna tentamen](at-m-architect0623.md).
 
 ## Minimal upplevelse
 
