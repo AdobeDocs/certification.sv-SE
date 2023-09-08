@@ -7,9 +7,9 @@ role: User
 badge: label="Prov AD0-E121" type="positive"
 mini-toc-levels: 1
 exl-id: 0b533269-0826-4921-a539-d281c74da63d
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: ef97353f3a911f22f9c801bb7aeb5f3e455e3230
 workflow-type: tm+mt
-source-wordcount: '1098'
+source-wordcount: '1129'
 ht-degree: 2%
 
 ---
@@ -183,14 +183,25 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 {{about-certification-exam}}
 
-## Schemalägg eller ta prov AD0-E121
+## Schemalägg eller ta prov AD0-E121 (engelska)
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E121" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Gå till portalen för undersökningar
+   Gå till Kontrollportalen - engelsk tentamen
 </span>
 </a>
+
+## Schemalägg eller ta prov AD0-E121-J (japanska)
+
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E121-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Gå till Visiity Portal - japanskt prov
+</span>
+</a>
+
+[Japanska instruktioner för schemaläggning](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
 >[!ENDTABS]
 
