@@ -6,9 +6,9 @@ role: Developer
 badge: label="Prov AD0-E904" type="positive"
 mini-toc-levels: 1
 exl-id: 6f7570dc-5647-402b-a8c1-18c4fa5f85d4
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 0a6cdf2e970ca534b003425500ca315af1b0add3
 workflow-type: tm+mt
-source-wordcount: '1509'
+source-wordcount: '1557'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,10 @@ ht-degree: 0%
 # Certifieringsresa för Adobe [!DNL Workfront] Core Developer Expert
 
 Lär dig hur du blir certifierad Adobe [!DNL Workfront] Core Developer Expert.
+
+>[!NOTE]
+>
+>Detta prov, Adobe [!DNL Workfront] Core Developer Expert (AD0-E904) har uppdaterats. Om du redan har börjat studera eller är schemalagd att ta den här versionen är du säker på att slutföra den före 6 november 2023. Om du precis har börjat rekommenderar vi att du [den senaste versionen av detta prov (AD0-907)](aw-core-e-developer-23-08.md).
 
 ## Minimal upplevelse
 
