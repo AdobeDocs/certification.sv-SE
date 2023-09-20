@@ -7,9 +7,9 @@ role: User,Developer,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: af895356-3e6b-424f-a637-a695b916aa47
-source-git-commit: e038284bc410843c669bf951f593f50dddefc12d
+source-git-commit: 253e2302ac0aaf3afb1cd4d68fe673a2488ee358
 workflow-type: tm+mt
-source-wordcount: '896'
+source-wordcount: '923'
 ht-degree: 8%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 8%
 
 Din Adobe-certifiering gäller i två år. Om du närmar dig den här tvåårsmärkningen är det dags att förnya din certifiering för att den ska förbli aktiv.
 
-Först väljer du lämplig nivå på fliken nedan (Professional, Expert eller Överordnad). Granska sedan noggrant vad du behöver göra för att förnya din certifiering.
+Välj först lämplig nivå på fliken nedan (Professional, Expert eller Master). Granska sedan noggrant vad du behöver göra för att förnya din certifiering.
 
 Se till att du hinner slutföra alla krav innan certifieringen upphör.
 
@@ -34,39 +34,39 @@ Observera att om din certifiering upphör att gälla måste du göra om certifie
 
 >[!NOTE]
 >
->Professionell förnyelse kommer snart.
+>Den professionella förnyelsen håller på att utvecklas. De vars certifieringar upphör att gälla får ett tillägg så att de fortfarande kan använda den här kostnadsfria förnyelsemetoden när den är tillgänglig.
 
->[!TAB Expert och Överordnad]
+>[!TAB Expert och master]
 
 Du bör vara certifierad (inte utgånget) i:
 
 * **Adobe [!DNL Campaign Classic] Expert på utvecklare**
 * **Adobe [!DNL Campaign Classic] Yrkesverksamma inom affärsverksamhet**
-* **Adobe [!DNL Campaign Classic] Arkitekt överordnad**
+* **Adobe [!DNL Campaign Classic] Arkitekt master**
 
 ## Så här förnyar du din certifiering:
 
 * **Steg 1**: Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}och sedan återgå till den här sidan
-* **Steg 2**: Granska mål och resurser för tentamen
-* **Steg 3**: Ta och godkänn provet
+* **Steg 2**: Granska testens mål och resurser
+* **Steg 3**: Ta och ta examen
 
 ### Gör dig redo
 
-**Information om tentamen**
+**Provinformation**
 
-* Lösenpoäng: 42/55
+* Passing Score: 42/55
 * Tid: 110 min
-* Kostnad: KOSTNADSFRITT/icke-procentrerat
+* Kostnad: KOSTNADSFRITT/icke-upphandlat
 * Leverans: On-demand
-* Tillgängliga språk: Engelska
-* Krav: aktuell (inte utgången) Adobe [!DNL Campaign Classic] expertcertifiering och/eller överordnad certifiering
-* Exam-ID: AD5-E823
+* Tillgängliga språk: engelska
+* Krav: aktuell (inte utgången) Adobe [!DNL Campaign Classic] expertcertifiering och/eller huvudcertifiering
+* Exempel-ID: AD5-E823
 
 **Tillämpningsområde och mål**
 
 Avsnitt 1: Installation och systemkonfiguration (23 %)
 
-* Ange vilka alternativ som ska användas (dvs. flytta saker från fas till produktion)
+* Ange vilka alternativ som ska användas för ett scenario (dvs. flytta saker från fas till produktion)
 * Möjlighet att använda paket för att migrera mellan instanser
 * Förklara hur inställningarna i guiden påverkar leveransmöjligheterna
 * Ange den underliggande infrastrukturen för värdmodellen som är tillgänglig för Adobe [!DNL Campaign Classic] v8
@@ -141,7 +141,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 ### Förnya din certifiering
 
-Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} först. Klicka sedan på länken Campaign Classic-förnyelse - AD5-823 nedan för att förnya din certifiering.
+Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} först. Klicka sedan på länken för förnyelse av Campaign Classic - AD5-823 nedan för att förnya din certifiering.
 
 [Ta Adobe [!DNL Campaign Classic] förnyelse för Business Practitioner-, Developer and Architect-provet nu - AD5-823](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E823){target="_blank"}
 

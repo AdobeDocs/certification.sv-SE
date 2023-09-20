@@ -6,9 +6,9 @@ product: Magento
 role: Developer
 badge: label="Prov AD0-E720" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8e77e973cf699bb542aa644fe55013e599748dd2
+source-git-commit: 253e2302ac0aaf3afb1cd4d68fe673a2488ee358
 workflow-type: tm+mt
-source-wordcount: '1018'
+source-wordcount: '1019'
 ht-degree: 0%
 
 ---
@@ -107,9 +107,9 @@ Avsnitt 4: JavaScript (bildwidgetar, bildbibliotek, kunddatamodul, Blockera mall
 * Uppvisa hur jQuery-widgetar används
 * Uppvisa hur JS-komponenter används med hjälp av layout-XML
 
-Avsnitt 5: Administratörskonfiguration och PageBuilder (12 %)
+Avsnitt 5: Administratörskonfiguration och Page Builder (12 %)
 
-* Uppvisa förmåga att anpassa Page Builder-material&quot;
+* Uppvisa förmåga att anpassa Page Builder-innehåll
 * Beskriv optimering i gränssnittet
 * Anpassa transaktionsmejl
 * Uppvisa hur administratörsutvecklingsverktygen används
