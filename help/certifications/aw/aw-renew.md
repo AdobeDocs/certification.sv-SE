@@ -6,7 +6,7 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: b2cc1552e144c388c3a4f23704eada204fec5c1e
+source-git-commit: 032e1a6a773a5ede4b74b4a34a3e8079990d8d91
 workflow-type: tm+mt
 source-wordcount: '3755'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Din Adobe-certifiering gäller i två år. Om du närmar dig den här tvåårsmärkningen är det dags att förnya din certifiering för att den ska förbli aktiv.
 
-Först väljer du lämplig nivå på fliken nedan (Professional, Expert eller Överordnad). Granska sedan noggrant vad du behöver göra för att förnya din certifiering.
+Välj först lämplig nivå på fliken nedan (Professional, Expert eller Master). Granska sedan noggrant vad du behöver göra för att förnya din certifiering.
 
 Se till att du hinner slutföra alla krav innan certifieringen upphör.
 
@@ -36,24 +36,24 @@ Observera att om din certifiering upphör att gälla måste du göra om certifie
 ## Instruktioner för att förnya din certifiering:
 
 * **Steg 1**: Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}och sedan återgå till den här sidan
-* **Steg 2**: Granska mål och resurser för tentamen
-* **Steg 3**: Ta och godkänn provet
+* **Steg 2**: Granska testens mål och resurser
+* **Steg 3**: Ta och ta examen
 
 ### Gör dig redo
 
 **Information om tentamen:**
 
-* Lösenpoäng: 25/34
+* Passing Score: 25/34
 * Tid: 68 min
-* Kostnad: KOSTNADSFRITT/icke-procentrerat
+* Kostnad: KOSTNADSFRITT/icke-upphandlat
 * Leverans: On-demand
-* Tillgängliga språk: Engelska
+* Tillgängliga språk: engelska
 * Krav: aktuell (inte utgången) Adobe Workfront Fusion Developer Professional-certifiering
-* Exam-ID: AD5-E830
+* Exempel-ID: AD5-E830
 
 **Tillämpningsområde och mål**
 
-Avsnitt 1: Administration och installation av huvudsystem (26 %)
+Avsnitt 1: Administrering och installation av kärnsystem (26 %)
 
 * Om du anger ett Fusion-scenario som kräver att en funktion ska kapslas i en annan funktion, väljer du rätt formaterat uttryck.
 * Om det finns ett Fusion-scenario som kräver tidszonsändring, ska du skilja mellan användaren, den synliga organisationen och var det behövs att åsidosätta tidszonen.
@@ -85,13 +85,13 @@ Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och 
 
 Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
-**Avsnitt 1: Administration och installation av huvudsystem**
+**Avsnitt 1: Administrering och installation av kärnsystem**
 
-* [Workfront Documentation](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - Funktioner i Adobe Workfront Fusion, Organisationer i Adobe Workfront Fusion, Moduler i Adobe Workfront Fusion, Scenarier i Adobe Workfront Fusion
+* [Workfront Documentation](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - Funktioner i Adobe Workfront Fusion, organisationer i Adobe Workfront Fusion, moduler i Adobe Workfront Fusion, scenarier i Adobe Workfront Fusion
 
 **Avsnitt 2: Scenariodesign och arkitektur**
 
-* [Optimering av Workfront Fusion-scenarier](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/design-optimization-and-testing/workfront-fusion-scenario-optimization.html){target="_blank"} - Självstudiekurs
+* [Workfront Fusion - scenariooptimering](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/design-optimization-and-testing/workfront-fusion-scenario-optimization.html){target="_blank"} - Självstudiekurs
 * [Workfront Documentation](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - Moduler i Adobe Workfront Fusion
 
 **Avsnitt 3: Testning och felhantering**
@@ -101,7 +101,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 **Avsnitt 4: Arbeta med API:er**
 
 * [Workfront Documentation](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - HTTP-moduler, anslutningar i Adobe Workfront Fusion, moduler i Adobe Workfront Fusion
-* [Adobe Workfront API](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-api/workfront-api.html){target="_blank"}
+* [ADOBE WORKFRONT API](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-api/workfront-api.html){target="_blank"}
 
 ## Förnya din certifiering
 
@@ -120,24 +120,24 @@ Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för h
 ## Instruktioner för att förnya din certifiering:
 
 * **Steg 1**: Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}och sedan återgå till den här sidan
-* **Steg 2**: Granska mål och resurser för tentamen
-* **Steg 3**: Ta och godkänn provet
+* **Steg 2**: Granska testens mål och resurser
+* **Steg 3**: Ta och ta examen
 
 ### Gör dig redo
 
 **Information om tentamen:**
 
-* Lösenpoäng: 25/35
+* Passing Score: 25/35
 * Tid: 70 min
-* Kostnad: KOSTNADSFRITT/icke-procentrerat
+* Kostnad: KOSTNADSFRITT/icke-upphandlat
 * Leverans: On-demand
-* Tillgängliga språk: Engelska
+* Tillgängliga språk: engelska
 * Krav: aktuell (inte utgången) Adobe Workfront Project Manager Professional-certifiering
-* Exam-ID: AD5-E833
+* Exempel-ID: AD5-E833
 
 **Tillämpningsområde och mål**
 
-Avsnitt 1: Intag och planering (29 %)
+Avsnitt 1: Intagning och planering (29 %)
 
 * Granska anpassade data utifrån en begäran för att avgöra vilken åtgärd som är lämplig. (Behandla bifogade dokument, godkännande krävs, hur fullständiga uppgifterna är, prioritet osv.)
 * Ange vilka delningsbehörigheter som krävs för en aktivitet i ett scenario. (Överväg instrumentpanel-/rapportdelning, åtgärder för en uppgift eller förfrågan, synlighet, ärvda behörigheter, flexibilitet osv.)
@@ -169,7 +169,7 @@ Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och 
 
 Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
-**Avsnitt 1: Intag och planering**
+**Avsnitt 1: Intagning och planering**
 
 * [Förstå begärandeköer](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues.html){target="_blank"}
 * [Godkänna arbete](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/work-approvals/approving-work.html){target="_blank"}
@@ -206,12 +206,12 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Använd inbyggda rapporter från Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/built-in-reports/use-workfront-built-in-reports.html){target="_blank"}
 
 
-**Avsnitt 3: Stänger**
+**Avsnitt 3: Avslutning**
 
 * [Ändra status för ett projekt](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/manage-projects/change-project-status.html){target="_blank"}
 * [Systemprojektstatus](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/statuses-priority-labels/system-project-statuses.html){target="_blank"}
 * [Använda vyn Milstolpe](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/use-milestone-view.html){target="_blank"}
-* [Översikt över ekonomiska ärenden](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/define-business-case/business-case-finances.html){target="_blank"}
+* [Översikt över finansiella fält för ärenden](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/define-business-case/business-case-finances.html){target="_blank"}
 * [Projektfinansiering som ingår i projektbaslinjer](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/project-finances-included-in-project-baselines.html#financial-information-included-in-baseline-reports){target="_blank"}
 * [Spåra arbetets förlopp med projektstatistik](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.html){target="_blank"}
 
@@ -232,24 +232,24 @@ Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för h
 ## Instruktioner för att förnya din certifiering:
 
 * **Steg 1**: Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}och sedan återgå till den här sidan
-* **Steg 2**: Granska mål och resurser för tentamen
-* **Steg 3**: Ta och godkänn provet
+* **Steg 2**: Granska testens mål och resurser
+* **Steg 3**: Ta och ta examen
 
 ### Gör dig redo
 
 **Information om tentamen:**
 
-* Lösenpoäng: 25/35
+* Passing Score: 25/35
 * Tid: 70 min
-* Kostnad: KOSTNADSFRITT/icke-procentrerat
+* Kostnad: KOSTNADSFRITT/icke-upphandlat
 * Leverans: On-demand
-* Tillgängliga språk: Engelska
+* Tillgängliga språk: engelska
 * Krav: aktuell (inte utgången) Adobe Workfront Core Developer Professional-certifiering
-* Exam-ID: AD5-E835
+* Exempel-ID: AD5-E835
 
 **Tillämpningsområde och mål**
 
-Avsnitt 1: Strategi och användning (20 %)
+Avsnitt 1: Strategi och införande (20 %)
 
 * Använd Portfolio och program
 * Använd begärandeköer
@@ -272,7 +272,7 @@ Avsnitt 4: Mätvärden och rapportering (14 %)
 * Beskriv grundläggande begrepp för att skapa, skicka och anpassa rapporter
 * Förklara hur du bygger och anpassar kontrollpaneler
 
-Avsnitt 5: Körning (29 %)
+Section 5: Execution (29%)
 
 * Uppvisa hur man ställer in arbetsflöden för godkännande och korrektur
 * Identifiera syftet med att skapa ett problem för ett projekt
@@ -286,7 +286,7 @@ Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och 
 
 Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
-**Avsnitt 1: Strategi och användning**
+**Avsnitt 1: Strategi och införande**
 
 * [Portfolio Optimizer - översikt](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/manage-projects-in-portfolio-optimizer/portfolio-optimizer-overview.html?lang=en){target="_blank"}
 * [Skapa och hantera frågeköer](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-manage-request-queues.html?lang=en){target="_blank"}
@@ -308,7 +308,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 **Avsnitt 4: Mätvärden och rapportering**
 
-* [Adobe Workfront integreringar](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/workfront-integrations-1.html?lang=en){target="_blank"}
+* [Adobe Workfront-integreringar](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/workfront-integrations-1.html?lang=en){target="_blank"}
 * [Använd Adobe Workfront-plugin-program för Creative Cloud](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.html?lang=en){target="_blank"}
 * [Skicka och dela rapporter](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/how-to-send-and-share-reports.html?lang=en){target="_blank"}
 * [Skapa instrumentpaneler](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=en){target="_blank"}
@@ -324,7 +324,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} först. Klicka sedan på länken Workfront Core Developer Professional för förnyelse av din certifiering - AD5-835 nedan.
 
-* [Workfront Core Developer Professional, förnyelse - AD5-833](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E835){target="_blank"}
+* [Workfront Core Developer Professional - förnyelse - AD5-835](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E835){target="_blank"}
 
 >[!NOTE]
 >
@@ -339,24 +339,24 @@ Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för h
 ## Instruktioner för att förnya din certifiering:
 
 * **Steg 1**: Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}och sedan återgå till den här sidan
-* **Steg 2**: Granska mål och resurser för tentamen
-* **Steg 3**: Ta och godkänn provet
+* **Steg 2**: Granska testens mål och resurser
+* **Steg 3**: Ta och ta examen
 
 ### Gör dig redo
 
 **Information om tentamen:**
 
-* Lösenpoäng: 25/35
+* Passing Score: 25/35
 * Tid: 70 min
-* Kostnad: KOSTNADSFRITT/icke-procentrerat
+* Kostnad: KOSTNADSFRITT/icke-upphandlat
 * Leverans: On-demand
-* Tillgängliga språk: Engelska
-* Krav: aktuell (inte utgången) Adobe Workfront Core Developer Expert-certifiering
-* Exam-ID: AD5-E829
+* Tillgängliga språk: engelska
+* Krav: aktuell (inte utgången) certifiering av Adobe Workfront Core Developer Expert
+* Exempel-ID: AD5-E829
 
 **Tillämpningsområde och mål**
 
-Avsnitt 1: Administration och installation av huvudsystem (27 %)
+Avsnitt 1: Administrering och installation av kärnsystem (27 %)
 
 * Välj lämpliga gruppnivåinställningar utifrån ett krav.
 * I ett scenario där ett Enterprise-konto vill säkerställa att enkel inloggning fungerar effektivt för att upprätthålla systemsäkerheten bör du identifiera bästa praxis för användare med automatisk etablering. (Ta hänsyn till Admin Console, klassisk enkel inloggning och begränsningar när du använder Admin Console)
@@ -382,7 +382,7 @@ Avsnitt 5: Rapportering (11 %)
 * Om du anger ett scenario ska du bestämma hur en fälttyp ska återges i en rapport. (Fälttyperna inkluderar formaterad text, bilder, flerval)
 * Identifiera Adobe Workfront-funktioner som stöder övervakning och som förbättrar användaracceptansen.
 
-Avsnitt 6: Metod/bästa praxis/Användningsfall (29 %)
+Avsnitt 6: Metod / Bästa praxis / Användningsfall (29%)
 
 * I ett scenario inom Workfront kan du demonstrera funktionaliteten för att ställa in spårning av produkter som ingår i en enda kampanj. (Överväg ett användningsfall för marknadsföring.)
 * I ett scenario inom Workfront kan du visa funktionalitet kring ekonomi, utnyttjande, prognoser, faktureringstaxor/register (professionella tjänster)
@@ -396,7 +396,7 @@ Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och 
 
 Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
-**Avsnitt 1: Administration och installation av huvudsystem**
+**Avsnitt 1: Administrering och installation av kärnsystem**
 
 * [Workfront-dokumentation](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - (Administration och inställningar, Hantera grupper, Agile)
 * [Skapa och ändra en grupps projektmallar](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-groups/group-objects/create-and-modify-a-groups-templates.html){target="_blank"}
@@ -408,7 +408,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Använd anslutna kort på ritytor](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/connected-cards.html){target="_blank"}
 * [Lägga till eller ta bort medlemmar från en anslagstavla](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/add-members-to-board.html){target="_blank"}
 
-**Avsnitt 2: Intagning, anpassad Forms och projekthantering**
+**Avsnitt 2: Intagning, anpassad Forms och projektledning**
 
 * [Workfront-dokumentation](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - (Administration och konfiguration, anpassade Forms, rapporter, rapportelement)
 * [Lägga till en avsnittsbrytning i ett anpassat formulär med det äldre formulärverktyget](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/add-a-section-break-to-a-custom-form.html){target="_blank"}
@@ -440,11 +440,11 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Diagrama en rapport med ett anpassat fält som har flera val](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/custom-view-samples/chart-report-by-multi-select-custom-field.html){target="_blank"}
 * [Översikt över utkast](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints-overview.html){target="_blank"}
 
-**Avsnitt 6: Metod/bästa praxis/Användningsexempel**
+**Avsnitt 6: Metod / Bästa praxis / Användningsexempel**
 
-* [as a Cloud Service dokumentation för Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"} -(Integrering med Adobe Workfront)
+* [as a Cloud Service dokumentation för Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=sv){target="_blank"} -(Integrering med Adobe Workfront)
 * [Workfront-dokumentation](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} (Rapporteringselement, projektekonomi, resursutnyttjande, användning av flexibla planeringsverktyg i ritytor, konfigurera korrekturfunktioner)
-* [System Admin Essentials - webbinarium: Vad är Workfront Governance?](https://experienceleaguecommunities.adobe.com/t5/workfront-questions/system-admin-essentials-webinar-what-is-workfront-governance-mar/m-p/480721#M13550){target="_blank"}
+* [System Admin Essentials Webinar: Vad är Workfront Governance?](https://experienceleaguecommunities.adobe.com/t5/workfront-questions/system-admin-essentials-webinar-what-is-workfront-governance-mar/m-p/480721#M13550){target="_blank"}
 * [Konfigurera metadatamappning mellan Adobe Workfront och Experience Manager Assets](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/integrations/configure-asset-metadata-mapping.html){target="_blank"}
 * [Om metadata](https://www.adobe.com/digitalimag/pdfs/about_metadata.pdf){target="_blank"}
 * [Använda vyn Milstolpe](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/use-milestone-view.html){target="_blank"}
