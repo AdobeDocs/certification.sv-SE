@@ -4,12 +4,12 @@ description: Lär dig hur du blir certifierad Adobe [!DNL Experience Platform] E
 solution: Experience Platform
 product: Experience Platform
 role: Developer
-badge: label="Prova AD0-E600 och AD7-E601" type="positive"
+badge: label="Prova AD0-E600 och AD7-E601" type="neutral"
 hidefromtoc: true
 mini-toc-levels: 1
-source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
+source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
 workflow-type: tm+mt
-source-wordcount: '1422'
+source-wordcount: '1424'
 ht-degree: 3%
 
 ---
@@ -26,6 +26,12 @@ ht-degree: 3%
 >[!IMPORTANT]
 >
 >Adobe [!DNL Experience Platform] Expertcertifieringen kräver för närvarande två prov: **Adobe [!DNL Experience Platform] Tekniska grunder (AD0-E600)** och **Adobe [!DNL Real-Time CDP] Teknisk handledare (AD7-E601)**. Från och med den 1 november 2023 kommer en ny tentamen att startas och denna tentamen kommer endast att krävas för denna certifiering.
+
+<br>
+
+[Gå till information som är specifik för krav 1](#req-1)
+
+[Gå till information som är specifik för krav 2](#req-2)
 
 <br>
 
@@ -56,12 +62,6 @@ Du borde ha:
 * Möjlighet att avgöra vilka profilattribut som behövs
 * Kunskap om hur ofta segment ska skickas ut via destinationer
 * Kunskap om hur ofta segmentmedlemskap uppdateras
-
-<br>
-
-[Gå till information för krav 1](#req-1)
-
-[Gå till Information för krav 2](#req-2)
 
 <br>
 

@@ -4,10 +4,10 @@ description: Lär dig hur du blir certifierad som Business Practitioner Expert p
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: User
-badge: label="Prov AD0-E121" type="positive"
+badge: label="Prov AD0-E121" type="neutral"
 mini-toc-levels: 1
 exl-id: 0b533269-0826-4921-a539-d281c74da63d
-source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
+source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
 workflow-type: tm+mt
 source-wordcount: '981'
 ht-degree: 2%

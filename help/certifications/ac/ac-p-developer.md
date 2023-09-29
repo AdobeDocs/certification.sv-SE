@@ -4,10 +4,10 @@ description: Så här blir du certifierad Adobe Developer-proffs i Adobe [!DNL C
 solution: Commerce
 product: Magento
 role: Developer
-badge: label="tentamen AD0-E717" type="positive"
+badge: label="tentamen AD0-E717" type="neutral"
 mini-toc-levels: 1
 exl-id: 5dc85678-91f9-4865-b310-3460081b19f8
-source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
+source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
 workflow-type: tm+mt
 source-wordcount: '1160'
 ht-degree: 0%
