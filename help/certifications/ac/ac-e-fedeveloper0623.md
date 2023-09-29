@@ -6,22 +6,48 @@ product: Magento
 role: Developer
 badge: label="Prov AD0-E720" type="positive"
 mini-toc-levels: 1
-source-git-commit: 253e2302ac0aaf3afb1cd4d68fe673a2488ee358
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1019'
+source-wordcount: '924'
 ht-degree: 0%
 
 ---
 
 # Certifieringsresa för [!DNL Adobe Commerce] Front-End Developer Expert
 
-Lär dig hur du blir certifierad [!DNL Adobe Commerce] Developer Expert.
+{{intro}}
 
-## Minimal upplevelse
+## Provbeskrivning {#exam-description}
 
-The [!DNL Adobe Commerce] Frontend Developer betraktas som en expertnivå och har minst 1-3 års praktisk erfarenhet av Adobe Commerce Frontend-utveckling. De bör kunna översätta de behov som uttryckts i uppgiftskraven till en teknisk lösning.
+{{exam-description}}
 
-Kandidaten bör vara bekväm med följande tekniker:
+<br>
+
+### Provinformation {#exam-details}
+
+* Nivå: Expert (1-3 års erfarenhet)
+* Löpande poäng: 33/50
+* Tid: 100 min
+* Leverans: Bearbetad online (kräver kameraåtkomst)
+* Tillgängliga språk: engelska
+* Kostnad: $225 (global) / $150 (Indien)
+* Exam ID: AD0-E720
+
+<br>
+
+### Målgrupp {#intended-audience}
+
+* Utvecklare
+* Leadutvecklare
+* Framtidsutvecklare
+
+<br>
+
+### Minimal upplevelse {#minimum-experience}
+
+Du bör ha minst 1-3 års praktisk erfarenhet av Adobe Commerce frontendutveckling. Du bör kunna omvandla de behov som uttryckts av uppgiftskrav till en teknisk lösning.
+
+Dessutom bör du vara bekväm med följande tekniker:
 
 * [!DNL Adobe Commerce] - version 2.4.6
 * Grundläggande förståelse av frontdelens struktur och layout
@@ -40,33 +66,13 @@ Kandidaten bör vara bekväm med följande tekniker:
 * Förståelse för Adobe Commerce Cloud infrastruktur
 * Grundläggande förståelse för kommandoverktyget Cloud CLI
 
->[!BEGINTABS]
+<br>
 
->[!TAB Gör dig redo]
+### Mål och omfattning för tentamen {#exam-objectives}
 
-**Målgrupp:**
+{{exam-objectives}}
 
-* Utvecklare
-* Leadutvecklare
-* Framtidsutvecklare
-
-**Information om tentamen:**
-
-* Nivå: Expert (1-3 års erfarenhet)
-* Löpande poäng: 33/50
-* Tid: 100 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
-* Tillgängliga språk: engelska
-* Kostnad: $225 (global) / $150 (Indien)
-* Exam ID: AD0-E720
-
-**Självbedömning av beredskap**
-
-Slutför [onlineberedskapsenkät](https://scorpion.caveon.com/launchpad/ad0-e710-adobe-commerce-front-end-developer-expert-copy-jtnjz6){target="_blank"} för att se om din nuvarande upplevelse matchar den rekommenderade lägsta kandidatkvalificeringen.
-
-**Mål och omfattning för tentamen**
-
-Avsnitt 1: Temahantering (temahierarki, bildkonfiguration, översättningar) (16 %)
+**Avsnitt 1: Temahantering (temahierarki, bildkonfiguration, översättningar) (16 %)**
 
 * Beskriv Adobe Commerce temamappstruktur och hur den relaterar till mappbaserade teman
 * Uppvisa förmåga att skapa ett nytt tema (arv/reserv, designundantag, temaegenskaper)
@@ -75,7 +81,7 @@ Avsnitt 1: Temahantering (temahierarki, bildkonfiguration, översättningar) (16
 * Uppvisa förmåga att tillämpa översättningar
 * Använd en uppsättning användningsexempel för att identifiera när filer ska placeras i program/kod eller app/design
 
-Avsnitt 2: XML och mallar för layout (phtml-mallar) (22 %)
+**Avsnitt 2: XML och mallar för layout (phtml-mallar) (22 %)**
 
 * Uppvisa möjligheten att använda XML-instruktioner för layout
 * Uppvisa förmåga att skapa nya sidlayouter
@@ -84,7 +90,7 @@ Avsnitt 2: XML och mallar för layout (phtml-mallar) (22 %)
 * Uppvisa förmåga att skapa och anpassa mallar
 * Använd säkerhet för mallar (escape-resultat)
 
-Avsnitt 3: Format (18 %)
+**Avsnitt 3: Format (18 %)**
 
 * Identifiera syftet med styles-m.less, styles-l.less, print.less
 * Beskriv skillnaden mellan specifika partiella filer (_extends.less,_extend.less,_theme.less,_widgets.less,_module.less,)
@@ -95,7 +101,7 @@ Avsnitt 3: Format (18 %)
 * Uppvisa förmåga att implementera och anpassa LESS-bibliotekskomponenter
 * Identifiera skillnaderna mellan kompilering på klientsidan och på serversidan och hur den fungerar
 
-Avsnitt 4: JavaScript (bildwidgetar, bildbibliotek, kunddatamodul, Blockera mallar) (22 %)
+**Avsnitt 4: JavaScript (bildwidgetar, bildbibliotek, kunddatamodul, Blockera mallar) (22 %)**
 
 * Uppvisa förmåga att initiera och anropa JavaScript-komponenter
 * Skilj olika användningsområden för olika JavaScript-komponenter
@@ -107,14 +113,14 @@ Avsnitt 4: JavaScript (bildwidgetar, bildbibliotek, kunddatamodul, Blockera mall
 * Uppvisa hur jQuery-widgetar används
 * Uppvisa hur JS-komponenter används med hjälp av layout-XML
 
-Avsnitt 5: Administratörskonfiguration och Page Builder (12 %)
+**Avsnitt 5: Administratörskonfiguration och Page Builder (12 %)**
 
 * Uppvisa förmåga att anpassa Page Builder-innehåll
 * Beskriv optimering i gränssnittet
 * Anpassa transaktionsmejl
 * Uppvisa hur administratörsutvecklingsverktygen används
 
-Avsnitt 6: Verktyg (CLI och Grunt) (10 %)
+**Avsnitt 6: Verktyg (CLI och Grunt) (10 %)**
 
 * Uppvisa hur grundläggande bin/Magento-kommandon används
 * Beskriv användningen av Composer-kommandon (installera, uppdatera, begära, ta bort)
@@ -122,11 +128,33 @@ Avsnitt 6: Verktyg (CLI och Grunt) (10 %)
 * Definiera konfiguration och användning av Grunt
 * Beskriv ytterligare verktyg som molnet tillhandahåller (snabbt, hämta databas, innehållsdistribution, förgreningar med hjälp av användargränssnittet)
 
->[!TAB Förbered]
+<br>
 
-Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
+### Beredskapenkät
 
-Här följer några förslag på resurser som hjälper dig att förbereda dig:
+{{readiness}}
+
+[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad0-e710-adobe-commerce-front-end-developer-expert-copy-jtnjz6){target="_blank"}
+
+<br>
+
+## Så här certifierar du dig {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Steg 1: Skapa ditt konto
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Steg 2: Förbered dig för provet
+
+**Studiematerial**
+
+{{study-materials-intro}}
 
 **Avsnitt 1: Temahantering (temahierarki, bildkonfiguration, översättningar)**
 
@@ -170,17 +198,33 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Skapa variabler](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build.html?lang=en){target="_blank"}
 * [Commerce on Cloud Infrastructure](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=en){target="_blank"}
 
->[!TAB Bli certifierad]
+<br>
 
->[!IMPORTANT]
->
-> Följande avsnitt och länkar fungerar **endast** efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
+**Gör ett övningsprov**
 
-**Nu när du har loggat in är följande länkar direkt tillgängliga.**
+{{practice-test}}
 
-**Praktiska tester kommer snart**
++++
 
-## Om certifieringsprovet
+<br>
+
++++Steg 3: Schemalägg och betala för prov
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Steg 4: Före och efter tentamen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Steg 5: Ta provet
 
 {{about-certification-exam}}
 
@@ -193,9 +237,25 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 </span>
 </a>
 
->[!ENDTABS]
++++
 
-**Frågor**
+<br>
+
++++Steg 6: Hantera dina emblem
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Förnya din certifiering
+
+{{renewing-intro}}
+
+<br>
+
+## Frågor
 
 Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

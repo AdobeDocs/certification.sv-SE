@@ -7,18 +7,50 @@ role: User
 badge: label="Prov AD0-E712" type="positive"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: 2f4cc72e494787c43205e84cae4a4f3b5ecbf900
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '932'
+source-wordcount: '732'
 ht-degree: 0%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Commerce] Yrkesverksamma inom affärsverksamhet
 
-Lär dig hur du blir certifierad Adobe Business Practitioner Professional.
+{{intro}}
 
-## Minimal upplevelse
+## Provbeskrivning {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Provinformation {#exam-details}
+
+* Nivå: Professionell (0-12 månaders upplevelse)
+* Löpande poäng: 30/50
+* Tid: 100 min
+* Leverans: Bearbetad online (kräver kameraåtkomst)
+* Tillgängliga språk: engelska
+* Kostnad: 125 USD (globalt)/95 USD (Indien)
+* Exam ID: AD0-E712
+
+<br>
+
+### Målgrupp {#intended-audience}
+
+* Affärsanalyser
+* Projektledare
+* Produktägare
+* Konsulter
+* [!DNL Adobe Commerce] strateger
+* eCommerce Admin/Director/Manager/Consultants
+* Digital Marketing Director/Manager/Developers
+* Lösningsspecialister
+* Tekniska kontoansvariga
+
+<br>
+
+### Minimal upplevelse {#minimum-experience}
 
 Du bör ha minst 0-12 månaders praktisk erfarenhet med [!DNL Magento Open Source] version 2.4.3 med hjälp av temat LUMA eller BLANK och grundläggande kunskaper i Adobe [!DNL Commerce] version 2.4.3.
 
@@ -33,43 +65,13 @@ Dessutom bör du ha en grundläggande förståelse för e-handelsupplevelsen och
 * Säkerhet och efterlevnad (GDPR, ADA, PCI DSS v3.2.1, PSD2)
 * Priser och kampanjer
 
->[!NOTE]
->
->Din certifiering gäller i två år från och med när du godkänns. Vi rekommenderar att du använder den nyare versionen när det är möjligt eftersom den omfattar nyare produktfunktioner.
+<br>
 
->[!BEGINTABS]
+### Mål och omfattning för tentamen {#exam-objectives}
 
->[!TAB Gör dig redo]
+{{exam-objectives}}
 
-**Målgrupp:**
-
-* Affärsanalyser
-* Projektledare
-* Produktägare
-* Konsulter
-* [!DNL Adobe Commerce] strateger
-* eCommerce Admin/Director/Manager/Consultants
-* Digital Marketing Director/Manager/Developers
-* Lösningsspecialister
-* Tekniska kontoansvariga
-
-**Information om tentamen:**
-
-* Nivå: Professionell (0-12 månaders upplevelse)
-* Löpande poäng: 30/50
-* Tid: 100 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
-* Tillgängliga språk: engelska
-* Kostnad: 125 USD (globalt)/95 USD (Indien)
-* Exam ID: AD0-E712
-
-**Självbedömning av beredskap**
-
-Slutför [onlineberedskapsenkät](https://scorpion.caveon.com/launchpad/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam){target="_blank"} för att se om din nuvarande upplevelse matchar den rekommenderade lägsta kandidatkvalificeringen.
-
-**Mål och omfattning för tentamen**
-
-Avsnitt 1: [!DNL Magento Open Source] kärnfunktioner (49 %)
+**Avsnitt 1: [!DNL Magento Open Source] kärnfunktioner (49 %)**
 
 * Identifiera funktionerna i [!DNL Magento Open Source]
 * Skilja rätt omfång och när de ska användas
@@ -80,13 +82,13 @@ Avsnitt 1: [!DNL Magento Open Source] kärnfunktioner (49 %)
 * Beskriv de dagliga uppgifter som ingår i butiksunderhåll
 * Förklara olika typer av innehållselement och när de ska användas
 
-Avsnitt 2: Adobe [!DNL Commerce] grunder (14 %)
+**Avsnitt 2: Adobe [!DNL Commerce] grunder (14 %)**
 
 * Identifiera de viktigaste funktionerna i Adobe [!DNL Commerce]
 * Identifiera tjänsttillägg i Adobe [!DNL Commerce]
 * Identifiera värdalternativ för Adobe [!DNL Commerce]
 
-Avsnitt 3: Grundläggande om digital marknadsföring och e-handel (24 %)
+**Avsnitt 3: Grundläggande om digital marknadsföring och e-handel (24 %)**
 
 * Identifiera de grundläggande användningsområdena för verktygen för digital marknadsföring (Google Analytics/Adobe Analytics, Google Tag Manager, e-postmarknadsföring, segmentering, sociala plugin-program)
 * Förklara de grundläggande principerna för SEO
@@ -94,23 +96,39 @@ Avsnitt 3: Grundläggande om digital marknadsföring och e-handel (24 %)
 * Identifiera nyckelfunktionerna på en e-handelswebbplats
 * Identifiera grundläggande e-handelskoncept (inklusive butiksalternativ)
 
-Avsnitt 4: Grunderna för efterlevnad/säkerhet (13 %)
+**Avsnitt 4: Grunderna för efterlevnad/säkerhet (13 %)**
 
 * Förstå grunderna om efterlevnad av sekretesslagstiftning och betalningssäkerhet
 * Identifiera vanliga säkerhetsaspekter av en Adobe [!DNL Commerce] projekt
 * Identifiera bästa praxis och juridiska krav på tillgänglighet
 
->[!TAB Förbered]
+<br>
 
-Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
+### Beredskapenkät
 
-Här följer några förslag på resurser som hjälper dig att förbereda dig:
+{{readiness}}
 
-**Exempelfrågor**
+[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam){target="_blank"}
 
-Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer att stöta på i provet. Ingen inloggning behövs. Resultaten av exempelfrågorna lagras inte och du kan inte förutsäga dina faktiska testresultat.
+<br>
 
-[Se exempelfrågor](https://scorpion.caveon.com/launchpad/ad0-e712-adobe-commerce-business-practitioner-professional-copy-bujt66){target="_blank"}
+## Så här certifierar du dig {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Steg 1: Skapa ditt konto
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Steg 2: Förbered dig för provet
+
+**Studiematerial**
+
+{{study-materials-intro}}
 
 **Avsnitt 1: [!DNL Magento Open Source] core feature**
 
@@ -158,19 +176,35 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 * [Förstå hur ADA fungerar och hur det relaterar till e-handelswebbplatser](https://magento.com/blog/best-practices/understanding-ada-compliance-and-how-it-relates-ecommerce-websites){target="_blank"}
 * [Adobe [!DNL Commerce] Guide till bästa säkerhetspraxis](https://www.adobe.com/content/dam/cc/en/security/pdfs/Adobe-Magento-Commerce-Best-Practices-Guide.pdf){target="_blank"}
 
->[!TAB Bli certifierad]
+<br>
 
->[!IMPORTANT]
->
->Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
+**Exempelfrågor**
 
-## Gör ett övningsprov
+{{sample-questions}}
 
-{{practice-test}}
+[Visa exempelfrågor](https://scorpion.caveon.com/launchpad/ad0-e712-adobe-commerce-business-practitioner-professional-copy-bujt66){target="_blank"}
 
-## Om certifieringsprovet
++++
+
+<br>
+
++++Steg 3: Schemalägg och betala för prov
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Steg 4: Före och efter tentamen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Steg 5: Ta provet
 
 {{about-certification-exam}}
 
@@ -183,7 +217,23 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Steg 6: Hantera dina emblem
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Förnya din certifiering
+
+{{renewing-intro}}
+
+<br>
 
 ## Frågor
 

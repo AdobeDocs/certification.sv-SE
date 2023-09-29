@@ -7,18 +7,46 @@ level: Experienced
 badge: label="Prov AD0-E716" type="positive"
 mini-toc-levels: 1
 exl-id: 025be894-3f29-4370-ac41-19901df4fb00
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1850'
+source-wordcount: '1707'
 ht-degree: 0%
 
 ---
 
 # Certifieringsresa för [!DNL Adobe Commerce] Developer Expert
 
-Lär dig hur du blir certifierad [!DNL Adobe Commerce] Developer Expert.
+{{intro}}
 
-## Minimal upplevelse
+## Provbeskrivning {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Provinformation {#exam-details}
+
+* Nivå: Expert (1-3 års erfarenhet)
+* Löpande poäng: 41/69
+* Tid: 138 min
+* Leverans: Bearbetad online (kräver kameraåtkomst)
+* Tillgängliga språk: engelska
+* Kostnad: $225 (global) / $150 (Indien)
+* Exam ID: AD0-E716
+
+<br>
+
+### Målgrupp {#intended-audience}
+
+* Utvecklare
+* Leadutvecklare
+* Backend Developer
+* Lösningsarkitekter
+* Tekniska ledare
+
+<br>
+
+### Minimal upplevelse {#minimum-experience}
 
 Du bör ha minst 1-3 års erfarenhet av Adobe [!DNL Commerce] och du är bekant med följande tekniker och miljöer:
 
@@ -33,39 +61,15 @@ Du bör ha minst 1-3 års erfarenhet av Adobe [!DNL Commerce] och du är bekant 
 * Versionskontrollprogram som Git
 * Cloud Architecture
 
->[!NOTE]
->
->Din certifiering gäller i två år från och med när du godkänns. Vi rekommenderar att du använder den nyare versionen när det är möjligt eftersom den omfattar nyare produktfunktioner.
+<br>
 
->[!BEGINTABS]
+### Mål och omfattning för tentamen {#exam-objectives}
 
->[!TAB Gör dig redo]
-
-**Målgrupp:**
-
-* Utvecklare
-* Leadutvecklare
-* Backend Developer
-* Lösningsarkitekter
-* Tekniska ledare
-
-**Information om tentamen:**
-
-* Nivå: Expert (1-3 års erfarenhet)
-* Löpande poäng: 41/69
-* Tid: 138 min
-* Leverans: Bearbetad online (kräver kameraåtkomst)
-* Tillgängliga språk: engelska
-* Kostnad: $225 (global) / $150 (Indien)
-* Exam ID: AD0-E716
-
-**Självbedömning av beredskap**
-
-Slutför [onlineberedskapsenkät](https://scorpion.caveon.com/launchpad/ad-q-e716-readiness-questionnaire-for-adobe-commerce-developer-expert/ad-q-e716-readiness-questionnaire-for-adobe-commerce-developer-expert){target="_blank"} för att se om din nuvarande upplevelse matchar den rekommenderade lägsta kandidatkvalificeringen.
+{{exam-objectives}}
 
 **Mål och omfattning för tentamen**
 
-Avsnitt 1: Adobe [!DNL Commerce] Arkitektur- och anpassningsmetoder (36 %)
+**Avsnitt 1: Adobe [!DNL Commerce] Arkitektur- och anpassningsmetoder (36 %)**
 
 * Uppvisa hur man effektivt använder cache i Adobe [!DNL Commerce]
 * Skapa, använda och hantera anpassade tilläggsattribut
@@ -85,40 +89,40 @@ Avsnitt 1: Adobe [!DNL Commerce] Arkitektur- och anpassningsmetoder (36 %)
 * Uppvisa förmåga att läsa in och hantera data
 * Uppvisa förmåga att använda appemulering
 
-Avsnitt 2: Arbeta med databaser och EAV (10 %)
+**Avsnitt 2: Arbeta med databaser och EAV (10 %)**
 
 * Ändra EAV-attribut och attributuppsättningar programmatiskt
 * Uppvisa förmåga att utöka databasschemat
 * Uppvisa förmåga att importera/exportera data från Adobe Commerce
 * Beskriv hur du använder korrigeringsfiler och återkommande konfigurationer för att ändra databasen
 
-Avsnitt 3: Utveckla med administratör (6 %)
+**Avsnitt 3: Utveckla med administratör (6 %)**
 
 * Uppvisa förmåga att uppdatera och skapa rutnät och formulär
 * Utöka stödrasteråtgärder
 * Uppvisa möjligheten att skapa modifieringsklasser
 * Uppvisa förmåga att begränsa åtkomst till ACL
 
-Avsnitt 4: Anpassa katalogen (6 %)
+**Avsnitt 4: Anpassa katalogen (6 %)**
 
 * Tillämpa ändringar på befintliga produkttyper och skapa nya
 * Ändra och utöka befintliga katalogenheter
 * Uppvisa förmåga att hantera index och anpassa prisutdata
 * Förklara hur lager påverkas av flera källor (programnivå)
 
-Section 5: Customizing Sales Operations (6%)
+**Section 5: Customizing Sales Operations (6%)**
 
 * Uppvisa förmåga att utveckla nya betalningsmetoder eller anpassa befintliga betalningsmetoder
 * Uppvisa förmåga att lägga till och anpassa leveransmetoder
 * Uppvisa förmåga att anpassa säljåtgärder
 * Förklara hur man anpassar summor
 
-Avsnitt 6: API:er och tjänster (4 %)
+**Avsnitt 6: API:er och tjänster (4 %)**
 
 * Uppvisa förmåga att skapa nya API:er eller utöka befintliga API:er
 * Uppvisa förmåga att använda kösystemet
 
-Avsnitt 7: Adobe [!DNL Commerce] Molnarkitektur (16 %)
+**Avsnitt 7: Adobe [!DNL Commerce] Molnarkitektur (16 %)**
 
 * Uppvisa kunskap om Adobe [!DNL Commerce] arbetsflöde för arkitektur/miljö
 * Uppvisa kunskap om molnprojektfiler, behörigheter och struktur
@@ -132,7 +136,7 @@ Avsnitt 7: Adobe [!DNL Commerce] Molnarkitektur (16 %)
 * Skilj ut när supporten ska kontaktas *Yaml-filer och -begränsningar (DIY vs supportärenden)
 * Uppvisa grundläggande kunskaper i OOTB - FASTSTLY features configuration and installation
 
-Avsnitt 8: Konfigurera/konfigurera Adobe [!DNL Commerce] Molnet (10 %)
+**Avsnitt 8: Konfigurera/konfigurera Adobe [!DNL Commerce] Molnet (10 %)**
 
 * Beskriv hur du konfigurerar/konfigurerar Adobe [!DNL Commerce] Cloud
 * Använd grundläggande molnfelsökningsinformation (hierarki av webbgränssnitt och variabler, konfigurationsprioritet)
@@ -142,18 +146,40 @@ Avsnitt 8: Konfigurera/konfigurera Adobe [!DNL Commerce] Molnet (10 %)
 * Uppvisa förståelse för förgreningar med hjälp av användargränssnittet
 * Identifiera funktionerna i Adobe Commerce Cloud-planen
 
-Avsnitt 9: [!DNL Commerce] CLI-verktyg i molnet (hantera del) (6 %)
+**Avsnitt 9: [!DNL Commerce] CLI-verktyg i molnet (hantera del) (6 %)**
 
 * Uppvisa förståelse för att uppdatera molnvariabler med CLI
 * Uppvisa förståelse för miljöhantering med CLI (exklusiva CLI-funktioner: aktivera e-post, Rebase-miljöer, snapshot, db dump, lokal miljökonfiguration)
 * Uppvisa kunskap om förgreningar med CLI
 * Uppvisa hur du felsöker molntjänster? (My SQL, Redis, tunnel:info)
 
->[!TAB Förbered]
+<br>
 
-Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
+### Beredskapenkät
 
-Här följer några förslag på resurser som hjälper dig att förbereda dig:
+{{readiness}}
+
+[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e716-readiness-questionnaire-for-adobe-commerce-developer-expert/ad-q-e716-readiness-questionnaire-for-adobe-commerce-developer-expert){target="_blank"}
+
+<br>
+
+## Så här certifierar du dig {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Steg 1: Skapa ditt konto
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Steg 2: Förbered dig för provet
+
+**Studiematerial**
+
+{{study-materials-intro}}
 
 **Avsnitt 1: Adobe [!DNL Commerce] arkitektur och anpassningsmetoder**
 
@@ -255,7 +281,6 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [[!DNL Commerce] på molninfrastruktur](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html){target="_blank"}
 * [ECE-verktygspaket](https://devdocs.magento.com/cloud/reference/ece-tools-reference.html){target="_blank"}
 
-
 **Avsnitt 8: Konfigurera/konfigurera Adobe [!DNL Commerce] Cloud**
 
 * [Hantera användaråtkomst](https://devdocs.magento.com/cloud/project/user-admin.html#cloud-user-webinterface){target="_blank"}
@@ -263,26 +288,38 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Molninfrastrukturprojekt](https://devdocs.magento.com/cloud/setup/first-time-setup-import-prepare.html#add-authentication-keys){target="_blank"}
 * [Hantera grenar med CLI](https://devdocs.magento.com/cloud/project/project-webint-branch.html){target="_blank"}
 
-
 **Avsnitt 9: [!DNL Commerce] CLI-verktyget i molnet (hantera del)**
 
 * [Ögonblicksbilder och hantering av säkerhetskopiering](https://devdocs.magento.com/cloud/project/project-webint-snap.html){target="_blank"}
 * [Hantera diskutrymme](https://devdocs.magento.com/cloud/project/manage-disk-space.html){target="_blank"}
 
+<br>
 
->[!TAB Bli certifierad]
-
->[!IMPORTANT]
->
->Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
-
-## Gör ett övningsprov
+**Gör ett övningsprov**
 
 {{practice-test}}
 
-## Om certifieringsprovet
++++
+
+<br>
+
++++Steg 3: Schemalägg och betala för prov
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Steg 4: Före och efter tentamen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Steg 5: Ta provet
 
 {{about-certification-exam}}
 
@@ -295,7 +332,23 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Steg 6: Hantera dina emblem
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Förnya din certifiering
+
+{{renewing-intro}}
+
+<br>
 
 ## Frågor
 

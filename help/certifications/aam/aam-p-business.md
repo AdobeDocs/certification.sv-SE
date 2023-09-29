@@ -8,36 +8,24 @@ level: Experienced
 badge: label="Prov AD0-E458" type="positive"
 mini-toc-levels: 1
 exl-id: 3665137b-8057-4205-ba4e-5deecf2672d6
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '907'
-ht-degree: 7%
+source-wordcount: '804'
+ht-degree: 8%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Audience Manager] Yrkesverksamma inom affärsverksamhet
 
-Lär dig certifiera dig som [!DNL Audience Manager] Yrkesverksamma inom affärsverksamhet.
+{{intro}}
 
-## Minimal upplevelse
+## Provbeskrivning {#exam-description}
 
-Ni bör ha en grundläggande förståelse för dataflöden, affärsmål och nyckeltal, med viss erfarenhet av dataanalys och strategier
+{{exam-description}}
 
->[!BEGINTABS]
+<br>
 
->[!TAB Gör dig redo]
-
-**Målgrupp:**
-
-* Digital Marketing Specialist
-* Marknadsföringsteknisk konsult
-* Målgruppsstrateg
-* Beteendekonsult
-* Digital Marketing Analyst
-* Marknadsföringsdataanalytiker
-* Data Platforms Manager
-
-**Information om tentamen:**
+### Provinformation {#exam-details}
 
 * Nivå: Professionell (0-12 månaders upplevelse)
 * Löpande poäng: 31/50
@@ -47,9 +35,31 @@ Ni bör ha en grundläggande förståelse för dataflöden, affärsmål och nyck
 * Kostnad: 125 USD (globalt)/95 USD (Indien)
 * Exam ID: AD0-E458
 
-**Mål och omfattning för tentamen**
+<br>
 
-Avsnitt 1: Skapa och syndikera segment (32 %)
+### Målgrupp {#intended-audience}
+
+* Digital Marketing Specialist
+* Marknadsföringsteknisk konsult
+* Målgruppsstrateg
+* Beteendekonsult
+* Digital Marketing Analyst
+* Marknadsföringsdataanalytiker
+* Data Platforms Manager
+
+<br>
+
+### Minimal upplevelse {#minimum-experience}
+
+Ni bör ha en grundläggande förståelse för dataflöden, affärsmål och nyckeltal, med viss erfarenhet av dataanalys och strategier
+
+<br>
+
+### Mål och omfattning för tentamen {#exam-objectives}
+
+{{exam-objectives}}
+
+**Avsnitt 1: Skapa och syndikera segment (32 %)**
 
 * Identifiera sätt att använda första-, andra- och tredjepartsdata för målinriktning och analys
 * Beskriv den grundläggande processen för aktivering av affärs- eller kampanjmål
@@ -57,42 +67,50 @@ Avsnitt 1: Skapa och syndikera segment (32 %)
 * Identifiera olika typer av destinationer
 * Identifiera olika typer av källor
 
-Section 2: Trait Creation (16%)
+**Section 2: Trait Creation (16%)**
 
 * Identifiera signaler, egenskaper, segment och målgrupper utifrån ett scenario
 * Identifiera användning av olika typer av egenskaper
 
-Avsnitt 3: Rapportering och mätningar (16 %)
+**Avsnitt 3: Rapportering och mätningar (16 %)**
 
 * Generera rapporter för att mäta aktiverings- eller kampanjmål utifrån ett scenario
 * Jämför målgrupper utifrån matchningsfrekvenser i ett scenario
 
-Avsnitt 4: Felsökning (10 %)
+**Avsnitt 4: Felsökning (10 %)**
 
 * I ett scenario felsöker du inkommande data från olika källor och källtyper
 * Validera format för inkommande datafiler
 
-Avsnitt 5: Taxonomi (12 %)
+**Avsnitt 5: Taxonomi (12 %)**
 
 * Bestäm lämplig struktur för att skapa egenskaper och segment som använder en tydlig och konsekvent nomenklatur
 * Identifiera rätt teknik för att upprätthålla en organiserad plattform med hjälp av en tydlig mappstruktur
 
-Avsnitt 6: Profilsammanfogning, ID-synkronisering och Audience Marketplace
+**Avsnitt 6: Profilsammanfogning, ID-synkronisering och Audience Marketplace**
 
 * Organisera användaregenskaper i en enda enhetlig profil för att skapa hushåll- eller enhetsbaserade målgrupper
 * Identifiera aktivering med Audience Marketplace
 
->[!TAB Förbered]
+<br>
 
-Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
+## Så här certifierar du dig {#how-to-get-certified}
 
-Här följer några förslag på resurser som hjälper dig att förbereda dig:
+{{how-to-get-certified-intro}}
 
-**Exempelfrågor**
++++Steg 1: Skapa ditt konto
 
-Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer att stöta på i provet. Ingen inloggning behövs. Resultaten av exempelfrågorna lagras inte och du kan inte förutsäga dina faktiska testresultat.
+{{create-your-account}}
 
-[Se exempelfrågor](https://scorpion.caveon.com/launchpad/ad0-e458-adobe-audience-manager-business-practitioner-professional-copy-dvaivw){target="_blank"}
++++
+
+<br>
+
++++Steg 2: Förbered dig för provet
+
+**Studiematerial**
+
+{{study-materials-intro}}
 
 **Avsnitt 1: Skapa och syndikera segment**
 
@@ -142,15 +160,35 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 * [Aktivera målgruppssegment on demand till batchdestinationer via ad hoc-aktiverings-API](https://experienceleague.adobe.com/docs/experience-platform/destinations/api/ad-hoc-activation-api.html){target="_blank"}
 * [Aktivera profiler och segment till ett mål](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-profiles-and-segments-to-a-destination.html){target="_blank"}
 
->[!TAB Bli certifierad]
+<br>
 
->[!IMPORTANT]
->
->Följande avsnitt och länkar fungerar **endast** efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
+**Exempelfrågor**
 
+{{sample-questions}}
 
+[Visa exempelfrågor](https://scorpion.caveon.com/launchpad/ad0-e458-adobe-audience-manager-business-practitioner-professional-copy-dvaivw){target="_blank"}
 
-## Om certifieringsprovet
++++
+
+<br>
+
++++Steg 3: Schemalägg och betala för prov
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Steg 4: Före och efter tentamen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Steg 5: Ta provet
 
 {{about-certification-exam}}
 
@@ -163,10 +201,27 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Steg 6: Hantera dina emblem
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Förnya din certifiering
+
+{{renewing-intro}}
+
+<br>
 
 ## Frågor
 
 Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.
+

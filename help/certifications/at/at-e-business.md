@@ -7,18 +7,45 @@ role: User
 badge: label="Prov AD0-E406" type="positive"
 mini-toc-levels: 1
 exl-id: e907929f-b4a4-45e1-ba2d-f407f46d41c6
-source-git-commit: ef97353f3a911f22f9c801bb7aeb5f3e455e3230
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1238'
-ht-degree: 0%
+source-wordcount: '1104'
+ht-degree: 1%
 
 ---
 
 # Certifieringsresa för [!DNL Adobe Target] Affärsexpert
 
-Lär dig hur du blir certifierad [!DNL Adobe Target] Yrkesverksamma inom affärsverksamhet.
+{{intro}}
 
-## Minimal upplevelse
+## Provbeskrivning {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Provinformation {#exam-details}
+
+* Nivå: Expert (1-3 års erfarenhet)
+* Passing Score: 46/68
+* Tid: 136 min
+* Leverans: Bearbetad online (kräver kameraåtkomst)
+* Tillgängliga språk: engelska, japanska
+* Kostnad: $225 (global) / $150 (Indien)
+* Exam ID: AD0-E406 (engelska), AD0-E406-J (japanska)
+
+<br>
+
+### Målgrupp {#intended-audience}
+
+* Optimering
+* Personalisering
+* Analytics 
+* Digital marknadsföring och produktmarknadsföring
+
+<br>
+
+### Minimal upplevelse {#minimum-experience}
 
 Du borde ha:
 
@@ -66,34 +93,13 @@ Miljöer:
 * Användning av mål för program med en sida
 * E-post
 
->[!NOTE]
->
->Din certifiering gäller i två år från och med när du godkänns. Vi rekommenderar att du använder den nyare versionen när det är möjligt eftersom den omfattar nyare produktfunktioner.
+<br>
 
->[!BEGINTABS]
+### Mål och omfattning för tentamen {#exam-objectives}
 
->[!TAB Gör dig redo]
+{{exam-objectives}}
 
-**Målgrupp:**
-
-* Optimering
-* Personalisering
-* Analytics 
-* Digital marknadsföring och produktmarknadsföring
-
-**Information om tentamen:**
-
-* Nivå: Expert (1-3 års erfarenhet)
-* Passing Score: 46/68
-* Tid: 136 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
-* Tillgängliga språk: engelska
-* Kostnad: $225 (global) / $150 (Indien)
-* Exam ID: AD0-E406
-
-**Mål och omfattning för tentamen**
-
-Avsnitt 1: Planering och strategi (31 %)
+**Avsnitt 1: Planering och strategi (31 %)**
 
 * Identifiera nyckeltal och omvandla dem till optimeringsmål utifrån viktiga affärsbehov
 * Identifiera möjligheter för optimering baserat på nyckeltal för företag och dataanalys
@@ -105,7 +111,7 @@ Avsnitt 1: Planering och strategi (31 %)
 * Utvärdera målgruppens behov
 * Bestäm lämpliga analysrapportkällor (dvs. Target eller Adobe Analytics)
 
-Avsnitt 2: Konfigurera, köra och hantera (42 %)
+**Avsnitt 2: Konfigurera, köra och hantera (42 %)**
 
 * Förklara användningen av formulärbaserad Experience Composer jämfört med Visual Experience Composer
 * Använda procedurer för att skapa en upplevelse med VEC
@@ -122,7 +128,7 @@ Avsnitt 2: Konfigurera, köra och hantera (42 %)
 * Tillämpa förfaranden för att genomföra verksamhets-QA
 * Tillämpa förfaranden för att hantera aktiviteter och målgrupper inom Target
 
-Avsnitt 3: Analys och rapportering (17 %)
+**Avsnitt 3: Analys och rapportering (17 %)**
 
 * Definiera och utvärdera rapportinställningar för att hjälpa till att ange elementen som visas i en rapport
 * Utvärdera och jämföra [!DNL Adobe Target] Exempelinställningar för storlekskalkylatorn när både målaktiviteter planeras och målaktiviteter valideras
@@ -131,17 +137,31 @@ Avsnitt 3: Analys och rapportering (17 %)
 * Utvärdera Experience Performance-rapporter
 * Fastställa den vinnande variationen baserat på observerad lyft, konfidensnivåer och affärsmål
 
-Avsnitt 4: Felsökning (10 %)
+**Avsnitt 4: Felsökning (10 %)**
 
 * Diagnostisera problem med aktivitetskvalifikationer
 * Använd felsökningsverktyg (inklusive Experience Cloud Debugger) för att verifiera implementeringen
 * Verifiera mätvärden och rapporter
 
->[!TAB Förbered]
+<br>
 
-Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
+## Så här certifierar du dig {#how-to-get-certified}
 
-Här följer några förslag på resurser som hjälper dig att förbereda dig:
+{{how-to-get-certified-intro}}
+
++++Steg 1: Skapa ditt konto
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Steg 2: Förbered dig för provet
+
+**Studiematerial**
+
+{{study-materials-intro}}
 
 **Avsnitt 1: Planering och strategi**
 
@@ -179,19 +199,33 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Felsöka aktivitetsfel](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/4.2-troubleshoot-activity-errors.html){target="_blank"}
 * [Felsöka integreringsfel](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/4.3-troubleshoot-integration-errors.html){target="_blank"}
 
->[!TAB Bli certifierad]
+<br>
 
->[!IMPORTANT]
->
->Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
-
-## Gör ett övningsprov
+**Gör ett övningsprov**
 
 {{practice-test}}
 
-## Om certifieringsprovet
++++
+
+<br>
+
++++Steg 3: Schemalägg och betala för prov
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Steg 4: Före och efter tentamen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Steg 5: Ta provet
 
 {{about-certification-exam}}
 
@@ -215,7 +249,23 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 [Japanska instruktioner för schemaläggning](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
->[!ENDTABS]
++++
+
+<br>
+
++++Steg 6: Hantera dina emblem
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Förnya din certifiering
+
+{{renewing-intro}}
+
+<br>
 
 ## Frågor
 

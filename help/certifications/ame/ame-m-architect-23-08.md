@@ -6,9 +6,9 @@ product: Marketo
 role: Data Architect
 badge: label="Prov AD0-E560" type="positive"
 mini-toc-levels: 1
-source-git-commit: bd9b28dd3f66055ccf2ad6f4656ba35405385111
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '992'
+source-wordcount: '796'
 ht-degree: 0%
 
 ---
@@ -16,13 +16,52 @@ ht-degree: 0%
 
 # Certifieringsresa för Adobe [!DNL Marketo Engage] Architect Master
 
-Lär dig hur du blir certifierad Adobe [!DNL Marketo Engage] Arkitektmästare.
+{{intro}}
 
 >[!NOTE]
 >
 >Det här är det senaste [!DNL Adobe Marketo Engage] Arkitektprov, magisterexamen. Om du redan har börjat studera eller har schemalagt [äldre version](ame-m-architect.md)måste du vara klar med provet senast den 31 oktober 2023.
 
-## Minimal upplevelse
+## Provbeskrivning {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Provinformation {#exam-details}
+
+* Krav: Aktuell (inte utgången) Adobe [!DNL Marketo Engage] Expertcertifiering för Business Practitioner
+* Nivå: Masternivå (3-5 års erfarenhet)
+* Certifiering av praktikanter
+* Löpande poäng: 30/50
+* Tid: 100 min
+* Leverans: Bearbetad online (kräver kameraåtkomst)
+* Tillgängliga språk: engelska
+* Kostnad: $225 (global) / $150 (Indien)
+* Exam ID: AD0-E560
+
+<br>
+
+### Målgrupp {#intended-audience}
+
+* Marknadsteknisk chef
+* Senior/Marketing Operations Manager
+* Marknadsförare
+* Senior Director/Manager for revenue operations
+* Marknadsföringsverksamhet/teknik-/automatiseringskonsulter
+* Marknadsföringsteknologer
+* Kampanjchef
+* Automatiserad marknadsföring
+* Digital marknadsföring
+* Hanterare för efterfrågegenerering
+* Lösningsarkitekt
+* Affärssystemanalytiker
+* CRM-hanterare
+* CRM/Lifecycle Marketing Manager
+
+<br>
+
+### Minimal upplevelse {#minimum-experience}
 
 Du borde ha:
 
@@ -40,48 +79,11 @@ Dessutom bör du känna till följande verktyg och tekniker:
 * CRM-plattform
 * Plattformar för marknadsföringsteknologi
 
->[!NOTE]
->
->Din certifiering gäller i två år från och med när du godkänns. Vi rekommenderar att du använder den nyare versionen när det är möjligt eftersom den omfattar nyare produktfunktioner.
+<br>
 
->[!BEGINTABS]
+### Mål och omfattning för tentamen {#exam-objectives}
 
->[!TAB Gör dig redo]
-
-**Målgrupp:**
-
-* Marknadsteknisk chef
-* Senior/Marketing Operations Manager
-* Marknadsförare
-* Senior Director/Manager for revenue operations
-* Marknadsföringsverksamhet/teknik-/automatiseringskonsulter
-* Marknadsföringsteknologer
-* Kampanjchef
-* Automatiserad marknadsföring
-* Digital marknadsföring
-* Hanterare för efterfrågegenerering
-* Lösningsarkitekt
-* Affärssystemanalytiker
-* CRM-hanterare
-* CRM/Lifecycle Marketing Manager
-
-**Information om tentamen:**
-
-* Krav: Aktuell (inte utgången) Adobe [!DNL Marketo Engage] Expertcertifiering för Business Practitioner
-* Nivå: Masternivå (3-5 års erfarenhet)
-* Certifiering av praktikanter
-* Löpande poäng: 30/50
-* Tid: 100 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
-* Tillgängliga språk: engelska
-* Kostnad: $225 (global) / $150 (Indien)
-* Exam ID: AD0-E560
-
-**Självbedömning av beredskap**
-
-Slutför [onlineberedskapsenkät](https://scorpion.caveon.com/launchpad/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam){target="_blank"} för att se om din nuvarande upplevelse matchar den rekommenderade lägsta kandidatkvalificeringen.
-
-**Mål och omfattning för tentamen**
+{{exam-objectives}}
 
 **Avsnitt 1: Projektledarskap (16 %)**
 
@@ -121,17 +123,33 @@ Slutför [onlineberedskapsenkät](https://scorpion.caveon.com/launchpad/ad-q-e55
 * Samla information om en kunds implementering och rekommendera säkerhetspraxis
 * Förklara hur arbetsytan och partitionerna kan användas för ett givet scenario
 
->[!TAB Förbered]
+<br>
 
-Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
+### Beredskapenkät
 
-Här följer några förslag på resurser som hjälper dig att förbereda dig:
+{{readiness}}
 
-**Exempelfrågor**
+[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam){target="_blank"}
 
-Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer att stöta på i provet. Ingen inloggning behövs. Resultaten av exempelfrågorna lagras inte och du kan inte förutsäga dina faktiska testresultat.
+<br>
 
-[Se exempelfrågor](https://scorpion.caveon.com/launchpad/ad0-e556-adobe-marketo-engage-architect-master-exam-copy-pewwl4){target="_blank"}
+## Så här certifierar du dig {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Steg 1: Skapa ditt konto
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Steg 2: Förbered dig för provet
+
+**Studiematerial**
+
+{{study-materials-intro}}
 
 **Avsnitt 1: Projektledarskap**
 
@@ -157,15 +175,36 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 * [Utelämna mjuka studsar](https://nation.marketo.com/t5/product-discussions/suppressing-soft-bounces-any-email-min-3x-encouraged/m-p/209411#M153533){target="_blank"}
 * [Arbetsytor och personpartitioner](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html){target="_blank"}
 
->[!TAB Bli certifierad]
 
->[!IMPORTANT]
->
->Följande avsnitt och länkar fungerar **endast** efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning avbryts provet och du måste schemalägga om mötet utöver att betala en extra provavgift.
+<br>
 
-## Om certifieringsprovet
+**Exempelfrågor**
+
+{{sample-questions}}
+
+[Visa exempelfrågor](https://scorpion.caveon.com/launchpad/ad0-e556-adobe-marketo-engage-architect-master-exam-copy-pewwl4){target="_blank"}
+
++++
+
+<br>
+
++++Steg 3: Schemalägg och betala för prov
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Steg 4: Före och efter tentamen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Steg 5: Ta provet
 
 {{about-certification-exam}}
 
@@ -178,7 +217,23 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Steg 6: Hantera dina emblem
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Förnya din certifiering
+
+{{renewing-intro}}
+
+<br>
 
 ## Frågor
 

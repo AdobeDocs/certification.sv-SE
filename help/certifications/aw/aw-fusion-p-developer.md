@@ -6,18 +6,47 @@ role: Developer
 badge: label="Prov AD0-E902" type="positive"
 mini-toc-levels: 1
 exl-id: d3d817d1-7a0c-439a-a02e-b2dcc64e4805
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1436'
+source-wordcount: '1253'
 ht-degree: 0%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Workfront Fusion] Developer Professional
 
-Lär dig hur du blir certifierad Adobe [!DNL Workfront] Developer Professional.
+{{intro}}
 
-## Minimal upplevelse
+## Provbeskrivning {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Provinformation {#exam-details}
+
+* Nivå: Professionell (0-12 månaders upplevelse)
+* Löpande poäng: 33/51
+* Tid: 102 min
+* Leverans: Bearbetad online (kräver kameraåtkomst)
+* Tillgängliga språk: engelska
+* Kostnad: 125 USD (globalt)/95 USD (Indien)
+* Exam ID: AD0-E902
+
+<br>
+
+### Målgrupp {#intended-audience}
+
+* Utvecklare, automatiseringstekniker
+* Automatisering, processoptimering och automatisering
+* Integrationskonsulter, konsulter, partners
+* Systemintegratörer/partners
+* Affärsanalytiker, tillämpade affärsanalytiker
+* Systemadministratör (IT-, MIS-, teknik-, Knowledge Systems-, AI-administratörer)
+
+<br>
+
+### Minimal upplevelse {#minimum-experience}
 
 Du borde ha:
 
@@ -32,36 +61,13 @@ Du borde ha:
 * Möjlighet att hantera organisationsteam och användare
 * En förståelse för syftet med och användningen av universella anslutningar för REST API Oauth2
 
->[!NOTE]
->
->Din certifiering gäller i två år från och med när du godkänns. Vi rekommenderar att du använder den nyare versionen när det är möjligt eftersom den omfattar nyare produktfunktioner.
+<br>
 
->[!BEGINTABS]
+### Mål och omfattning för tentamen {#exam-objectives}
 
->[!TAB Gör dig redo]
+{{exam-objectives}}
 
-**Målgrupp:**
-
-* Utvecklare, automatiseringstekniker
-* Automatisering, processoptimering och automatisering
-* Integrationskonsulter, konsulter, partners
-* Systemintegratörer/partners
-* Affärsanalytiker, tillämpade affärsanalytiker
-* Systemadministratör (IT-, MIS-, teknik-, Knowledge Systems-, AI-administratörer)
-
-**Information om tentamen:**
-
-* Nivå: Professionell (0-12 månaders upplevelse)
-* Löpande poäng: 33/51
-* Tid: 102 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
-* Tillgängliga språk: engelska
-* Kostnad: 125 USD (globalt)/95 USD (Indien)
-* Exam ID: AD0-E902
-
-**Mål och omfattning för tentamen**
-
-Avsnitt 1: Foundationstekniska begrepp (39 %)
+**Avsnitt 1: Foundationstekniska begrepp (39 %)**
 
 * Med [!DNL Fusion] scenario med ett fältformat som måste ha ett annat fältformat, tillhandahålla möjliga funktioner som kan användas för att omforma data korrekt
 * Med [!DNL Fusion] scenario där en funktion måste kapslas i en annan funktion, väljer du rätt formaterat uttryck
@@ -77,7 +83,7 @@ Avsnitt 1: Foundationstekniska begrepp (39 %)
 * Identifiera de olika alternativen i [!DNL Fusion] scenarioinställningar för att hantera scenariobehov
 * Med [!DNL Fusion] välj lämplig flödeskontroll och/eller fastställa rätt kombination av flödeskontrollmodulerna
 
-Avsnitt 2: Scenariodesign och arkitektur (35 %)
+**Avsnitt 2: Scenariodesign och arkitektur (35 %)**
 
 * Välj rätt sekvens för att tolka JSON och konvertera till paket i en lista med steg
 * Ange rätt metod för datasökning utifrån en uppsättning krav
@@ -92,7 +98,7 @@ Avsnitt 2: Scenariodesign och arkitektur (35 %)
 * Beskriver ett behov av att arkivera ett scenario längre än 60 dagar och väljer det enda möjliga sättet (import/export-plan)
 * Angivet exempel på ett fel 403: Ej tillåtet, markera felmeddelandets ursprung korrekt och orsaken
 
-Avsnitt 3: Testning och felhantering (16 %)
+**Avsnitt 3: Testning och felhantering (16 %)**
 
 * Identifiera elementen i en testplan
 * Identifiera elementen i ett testfall
@@ -101,24 +107,32 @@ Avsnitt 3: Testning och felhantering (16 %)
 * Identifiera hur du spårar, läser och löser ofullständiga körningar
 * Med [!DNL Fusion] scenario där nödvändiga data saknas, välj sätt att hantera ogiltiga data
 
-Avsnitt 4: Arbeta med API:er (10 %)
+**Avsnitt 4: Arbeta med API:er (10 %)**
 
 * Anges ett tredjeparts-API som returnerar 429: För många begäranden, identifiera en lösning för att förhindra eller hantera felet
 * Med [!DNL Fusion] scenario där ny funktionalitet inte är tillgänglig i [!DNL Workfront] identifierar du rätt referens och modultyp för den nya funktionen
 * Om det finns ett tredjepartssystem som inte har någon dedikerad app identifierar du HTTP-appen och väljer lämplig modul
 * Identifiera skillnaden mellan CRUD-åtgärder och andra gemensamma funktioner i REST API:er
 
->[!TAB Förbered]
+<br>
 
-Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
+## Så här certifierar du dig {#how-to-get-certified}
 
-Här följer några förslag på resurser som hjälper dig att förbereda dig:
+{{how-to-get-certified-intro}}
 
-**Exempelfrågor**
++++Steg 1: Skapa ditt konto
 
-Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer att stöta på i provet. Ingen inloggning behövs. Resultaten av exempelfrågorna lagras inte och du kan inte förutsäga dina faktiska testresultat.
+{{create-your-account}}
 
-[Se exempelfrågor](https://scorpion.caveon.com/launchpad/ad0-e902-adobe-workfront-fusion-developer-professional-copy-exs5g8){target="_blank"}
++++
+
+<br>
+
++++Steg 2: Förbered dig för provet
+
+**Studiematerial**
+
+{{study-materials-intro}}
 
 **Avsnitt 1: Tekniska koncept för ramverk**
 
@@ -151,16 +165,35 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 * [Program och deras moduler](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FApps_and_their_modules%2F_apps-and-their-modules.htm&amp;_LANG=enus){target="_blank"}
 * [Moduler i Adobe [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FModules%2F_modules.htm&amp;_LANG=en){target="_blank"}
 
->[!TAB Bli certifierad]
+<br>
 
->[!IMPORTANT]
->
->Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
+**Exempelfrågor**
 
+{{sample-questions}}
 
-## Om certifieringsprovet
+[Visa exempelfrågor](https://scorpion.caveon.com/launchpad/ad0-e902-adobe-workfront-fusion-developer-professional-copy-exs5g8){target="_blank"}
+
++++
+
+<br>
+
++++Steg 3: Schemalägg och betala för prov
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Steg 4: Före och efter tentamen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Steg 5: Ta provet
 
 {{about-certification-exam}}
 
@@ -173,7 +206,23 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Steg 6: Hantera dina emblem
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Förnya din certifiering
+
+{{renewing-intro}}
+
+<br>
 
 ## Frågor
 

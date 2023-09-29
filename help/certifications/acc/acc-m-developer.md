@@ -7,18 +7,45 @@ role: Data Architect
 badge: label="Prov AD0-E328" type="positive"
 mini-toc-levels: 1
 exl-id: 81b4fc87-73c8-4e8c-9a33-4c90050e6dc1
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1011'
-ht-degree: 10%
+source-wordcount: '858'
+ht-degree: 12%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Campaign Classic] Architect Master
 
-Lär dig hur du blir certifierad Adobe [!DNL Campaign Classic] Arkitektmästare.
+{{intro}}
 
-## Minimal upplevelse
+## Provbeskrivning {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Provinformation {#exam-details}
+
+* Nivå: Masternivå (3-5 års erfarenhet)
+* Löpande poäng: 30/50
+* Tid: 100 min
+* Leverans: Bearbetad online (kräver kameraåtkomst)
+* Tillgängliga språk: engelska
+* Kostnad: $225 (global) / $150 (Indien)
+* Exam ID: AD0-E328
+
+<br>
+
+### Målgrupp {#intended-audience}
+
+* Teknisk ledning med Adobe [!DNL Campaign Classic] background
+* ADOBE CERTIFIED EXPERT - [!DNL Campaign Classic] Utvecklare
+* Adobe [!DNL Campaign Classic] utvecklare eller liknande roll
+* Martech Solution Architect
+
+<br>
+
+### Minimal upplevelse {#minimum-experience}
 
 Du borde ha:
 
@@ -38,38 +65,13 @@ Du borde ha:
 * Möjlighet att erbjuda kodning på datorsidan (bästa praxis för produkten, rapportering, statistik osv.)
 * Upplevelse som beskriver skillnaderna mellan distributionsmodeller
 
->[!NOTE]
->
->Din certifiering gäller i två år från och med när du godkänns. Vi rekommenderar att du använder den nyare versionen när det är möjligt eftersom den omfattar nyare produktfunktioner.
+<br>
 
->[!BEGINTABS]
+### Mål och omfattning för tentamen {#exam-objectives}
 
->[!TAB Gör dig redo]
+{{exam-objectives}}
 
-**Målgrupp:**
-
-* Teknisk ledning med Adobe [!DNL Campaign Classic] background
-* ADOBE CERTIFIED EXPERT - [!DNL Campaign Classic] Utvecklare
-* Adobe [!DNL Campaign Classic] utvecklare eller liknande roll
-* Martech Solution Architect
-
-**Information om tentamen:**
-
-* Nivå: Masternivå (3-5 års erfarenhet)
-* Löpande poäng: 30/50
-* Tid: 100 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
-* Tillgängliga språk: engelska
-* Kostnad: $225 (global) / $150 (Indien)
-* Exam ID: AD0-E328
-
-**Självbedömning av beredskap**
-
-Slutför [onlineberedskapsenkät](https://scorpion.caveon.com/launchpad/ad-q-e318-readiness-questionnaire-for-adobe-campaign-classic-architect-master-exam/ad-q-e318-readiness-questionnaire-for-adobe-campaign-classic-architect-master-exam){target="_blank"} för att se om din nuvarande upplevelse matchar den rekommenderade lägsta kandidatkvalificeringen.
-
-**Mål och omfattning för tentamen**
-
-Avsnitt 1: Lösningsdefinition (24 %)
+**Avsnitt 1: Lösningsdefinition (24 %)**
 
 * Med hänsyn till specifika affärskrav, fastställa den information som är relevant för lösningsdesign
 * Ange rekommendationer för prestanda, infrastruktur och konfiguration för ett scenario
@@ -77,13 +79,13 @@ Avsnitt 1: Lösningsdefinition (24 %)
 * Fastställa affärskrav för att utforma en digital marknadsföringslösning
 * Ange rätt produktdistributionsmetod för ett scenario
 
-Avsnitt 2: Datalandskap (24 %)
+**Avsnitt 2: Datalandskap (24 %)**
 
 * Ange designparametrar för datamodell och integrationskarta för en Campaign-lösning med andra kundverktyg
 * I ett scenario måste du fastställa vilken lösningsdesign som krävs för att följa lagar och förordningar
 * I ett scenario, fastställa den optimala tekniska arbetsflödesdesignen
 
-Avsnitt 3: Installation och hantering (16 %)
+**Avsnitt 3: Installation och hantering (16 %)**
 
 * Verifiera konfigurationen av modulen utifrån en uppsättning nyckelmoduler
 * I ett scenario rekommenderar vi integreringslösningar för att möjliggöra integrering mellan interna och externa leverantörer med Adobe [!DNL Campaign Classic]
@@ -92,24 +94,46 @@ Avsnitt 3: Installation och hantering (16 %)
 * I ett scenario bör du ge råd om lämplig maskinvaruinfrastruktur som behövs under lösningsdesignen
 * Ange rätt metod för att främja lösningar i respektive miljö
 
-Avsnitt 4: Projektledarskap (10 %)
+**Avsnitt 4: Projektledarskap (10 %)**
 
 * Utifrån kundens krav, fastställa lämpliga aktiviteter och resurser som behövs
 * Analysera den övergripande lösningen utifrån ett scenario för att fastställa tekniska risker, antaganden, problem och beroenden
 * förmedla tekniska ACC-kunskaper till interna och externa team
 
-Avsnitt 5: Anpassning (26 %)
+**Avsnitt 5: Anpassning (26 %)**
 
 * Analysera och utforma anpassade funktioner
 * Analysera och utforma anpassade integreringar
 * Bestäm rätt metod för att utforma komplexa kampanjmallar och arbetsflöden
 * Bestäm rätt metod för att utforma lösningar med hjälp av ytterligare moduler
 
->[!TAB Förbered]
+<br>
 
-Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
+### Beredskapenkät
 
-Här följer några förslag på resurser som hjälper dig att förbereda dig:
+{{readiness}}
+
+[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e318-readiness-questionnaire-for-adobe-campaign-classic-architect-master-exam/ad-q-e318-readiness-questionnaire-for-adobe-campaign-classic-architect-master-exam){target="_blank"}
+
+<br>
+
+## Så här certifierar du dig {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Steg 1: Skapa ditt konto
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Steg 2: Förbered dig för provet
+
+**Studiematerial**
+
+{{study-materials-intro}}
 
 **Avsnitt 1: Lösningsdefinition**
 
@@ -151,16 +175,27 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Interaktion och erbjudandehantering](https://experienceleague.adobe.com/docs/campaign-classic/using/managing-offers/interaction-overview/interaction-and-offer-management.html){target="_blank"}
 * [Verksamhetsprincip](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/operating-principle.html){target="_blank"}
 
->[!TAB Bli certifierad]
++++
 
->[!IMPORTANT]
->
->Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
+<br>
 
++++Steg 3: Schemalägg och betala för prov
 
-## Om certifieringsprovet
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Steg 4: Före och efter tentamen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Steg 5: Ta provet
 
 {{about-certification-exam}}
 
@@ -173,10 +208,28 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Steg 6: Hantera dina emblem
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Förnya din certifiering
+
+{{renewing-intro}}
+
+<br>
 
 ## Frågor
 
 Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.
+
+

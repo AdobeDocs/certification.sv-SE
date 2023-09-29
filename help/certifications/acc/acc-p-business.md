@@ -7,18 +7,48 @@ role: User
 badge: label="Prov AD0-E329" type="positive"
 mini-toc-levels: 1
 exl-id: 38af77fd-8e31-4cca-b953-3f83b61d3000
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1215'
-ht-degree: 8%
+source-wordcount: '1027'
+ht-degree: 9%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Campaign Classic] Yrkesverksamma inom affärsverksamhet
 
-Lär dig hur du blir certifierad Adobe [!DNL Campaign Classic] Yrkesverksamma inom affärsverksamhet.
+{{intro}}
 
-## Minimal upplevelse
+## Provbeskrivning {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Provinformation {#exam-details}
+
+* Nivå: Professionell (0-12 månaders upplevelse)
+* Löpande poäng: 32/50
+* Tid: 100 min
+* Leverans: Bearbetad online (kräver kameraåtkomst)
+* Tillgängliga språk: engelska
+* Kostnad: 125 USD (globalt)/95 USD (Indien)
+* Exam ID: AD0-E329
+
+<br>
+
+### Målgrupp {#intended-audience}
+
+* Affärskonsult
+* Affärsanalytiker
+* Interaktionshanterare
+* Kampanjchef
+* Databasmarkör
+* Yrkesverksamma inom affärsverksamhet
+* CRM-projektledare
+
+<br>
+
+### Minimal upplevelse {#minimum-experience}
 
 Du borde ha:
 
@@ -36,41 +66,15 @@ Du borde ha:
 * Upplevelse med grundläggande HTML och personalisering
 * Hantering av prenumerationstjänster (anmälan/avanmälan)
 
->[!NOTE]
->
->Din certifiering gäller i två år från och med när du godkänns. Vi rekommenderar att du använder den nyare versionen när det är möjligt eftersom den omfattar nyare produktfunktioner.
+<br>
 
->[!BEGINTABS]
+### Mål och omfattning för tentamen {#exam-objectives}
 
->[!TAB Gör dig redo]
-
-**Målgrupp:**
-
-* Affärskonsult
-* Affärsanalytiker
-* Interaktionshanterare
-* Kampanjchef
-* Databasmarkör
-* Yrkesverksamma inom affärsverksamhet
-* CRM-projektledare
-
-**Information om tentamen:**
-
-* Nivå: Professionell (0-12 månaders upplevelse)
-* Löpande poäng: 32/50
-* Tid: 100 min
-* Leverans: Bearbetad online (kräver kameraåtkomst)
-* Tillgängliga språk: engelska
-* Kostnad: 125 USD (globalt)/95 USD (Indien)
-* Exam ID: AD0-E329
-
-**Självbedömning av beredskap**
-
-Slutför [onlineberedskapsenkät](https://scorpion.caveon.com/launchpad/ad-q-e315-readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-professional-exam/ad-q-e315-readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-professional-exam){target="_blank"} för att se om din nuvarande upplevelse matchar den rekommenderade lägsta kandidatkvalificeringen.
+{{exam-objectives}}
 
 **Mål och omfattning för tentamen**
 
-Avsnitt 1: Skapa en kampanj (29 %)
+**Avsnitt 1: Skapa en kampanj (29 %)**
 
 * Känn igen olika koncept och mål för digital marknadsföring
 * Identifiera och definiera viktiga verktyg och struktur i relation till gränssnittet
@@ -82,14 +86,14 @@ Avsnitt 1: Skapa en kampanj (29 %)
 * Identifiera var leveransresultat eller utdata finns
 * Skillnaden mellan olika fel- och varningstyper (leverans, kampanj och arbetsflödesnivå)
 
-Avsnitt 2: Arbetsflödeshantering och plattformsfunktioner (16 %)
+**Avsnitt 2: Arbetsflödeshantering och plattformsfunktioner (16 %)**
 
 * Ange i ett scenario vilka arbetsflödesaktiviteter som ska väljas
 * Skillnaden mellan kampanjarbetsflöden och tekniska arbetsflöden
 * I ett scenario avgör du vilken arbetsflödeslösning som är optimal för situationer med löpande, väntande, återkommande, avbrott
 * Identifiera de nya funktionerna i Campaign V8 jämfört med tidigare versioner
 
-Avsnitt 3: Dataåtgärder (20 %)
+**Avsnitt 3: Dataåtgärder (20 %)**
 
 * Bestäm hur du ändrar kolumner i en vy för att testa data/utdata
 * Beskriv syftet med de riktade aktiviteterna för union, skärning, uteslutning och delat arbetsflöde
@@ -98,7 +102,7 @@ Avsnitt 3: Dataåtgärder (20 %)
 * Bestäm hur du segmenterar en målgrupp och lagrar som en lista och celler
 * I ett scenario bör du fastställa den bästa metoden för att exportera data till destinationer genom att konfigurera dem
 
-Avsnitt 4: Leveranskonfiguration (28 %)
+**Avsnitt 4: Leveranskonfiguration (28 %)**
 
 * Ange rätt leveranstyp för ett scenario
 * Ange hur mallar ska skapas utifrån verksamhetskrav
@@ -109,24 +113,40 @@ Avsnitt 4: Leveranskonfiguration (28 %)
 * Ange var/hur leveransinnehåll och personalisering ska testas
 * Differentiera mellan olika leveranstillstånd som inträffar under bearbetningen och tillämpa åtgärder
 
-Avsnitt 5: Administration och rapportering (7 %)
+**Avsnitt 5: Administration och rapportering (7 %)**
 
 * Identifiera vanliga OTB-rapporter och var de finns
 * Fastställ vilken OOTB-rapport som behövs baserat på rapporteringskrav
 * Identifiera den beskrivande analysfunktionen i Adobe Campaign
 * Använd rätt behörighet för att begränsa/tillåta åtkomst till Campaign-objekt i ett scenario
 
->[!TAB Förbered]
+<br>
 
-Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
+### Beredskapenkät
 
-Här följer några förslag på resurser som hjälper dig att förbereda dig:
+{{readiness}}
 
-**Exempelfrågor**
+[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e315-readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-professional-exam/ad-q-e315-readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-professional-exam){target="_blank"}
 
-Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer att stöta på i provet. Ingen inloggning behövs. Resultaten av exempelfrågorna lagras inte och du kan inte förutsäga dina faktiska testresultat.
+<br>
 
-[Se exempelfrågor](https://scorpion.caveon.com/launchpad/ad0-e329-adobe-campaign-classic-business-practitioner-professional-copy-k5cx2p){target="_blank"}
+## Så här certifierar du dig {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Steg 1: Skapa ditt konto
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Steg 2: Förbered dig för provet
+
+**Studiematerial**
+
+{{study-materials-intro}}
 
 **Avsnitt 1: Skapa en kampanj**
 
@@ -171,16 +191,35 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 * [Kom igång med beskrivande analys](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/analyzing-populations/about-descriptive-analysis.html){target="_blank"}
 * [Kom igång med behörigheter](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management.html){target="_blank"}
 
->[!TAB Bli certifierad]
+<br>
 
->[!IMPORTANT]
->
->Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
+**Exempelfrågor**
 
+{{sample-questions}}
 
-## Om certifieringsprovet
+[Visa exempelfrågor](https://scorpion.caveon.com/launchpad/ad0-e329-adobe-campaign-classic-business-practitioner-professional-copy-k5cx2p){target="_blank"}
+
++++
+
+<br>
+
++++Steg 3: Schemalägg och betala för prov
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Steg 4: Före och efter tentamen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Steg 5: Ta provet
 
 {{about-certification-exam}}
 
@@ -193,7 +232,23 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Steg 6: Hantera dina emblem
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Förnya din certifiering
+
+{{renewing-intro}}
+
+<br>
 
 ## Frågor
 

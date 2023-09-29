@@ -6,18 +6,45 @@ product: Magento
 role: Developer
 badge: label="Prov AD0-E721" type="positive"
 mini-toc-levels: 1
-source-git-commit: 253e2302ac0aaf3afb1cd4d68fe673a2488ee358
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '860'
+source-wordcount: '788'
 ht-degree: 0%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Commerce] Front-end Developer Professional
 
-Lär dig hur du blir certifierad [!DNL Adobe Commerce] Developer Professional.
+{{intro}}
 
-## Minimal upplevelse
+## Provbeskrivning {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Provinformation {#exam-details}
+
+* Nivå: Professionell (0-12 månaders upplevelse)
+* Löpande poäng: 33/50
+* Tid: 100 min
+* Leverans: Bearbetad online (kräver kameraåtkomst)
+* Tillgängliga språk: engelska
+* Kostnad: 125 USD (globalt)/95 USD (Indien)
+* Exam ID: AD0-E721
+
+<br>
+
+### Målgrupp {#intended-audience}
+
+* Utvecklare
+* Framtidsutvecklare
+* Avancerade stapelutvecklare
+* PWA-utvecklare
+
+<br>
+
+### Minimal upplevelse {#minimum-experience}
 
 Du bör ha en praktisk upplevelse på 0-12 månader med Adobe Commerce Front-end-utveckling och möjlighet att arbeta med tekniska lösningar för att leverera enskilda komponenter.
 
@@ -42,36 +69,19 @@ Dessutom bör du känna till följande tekniker:
 * Grundläggande förståelse för kanoniska länkar samt sammanslagning av JavaScript och CSS
 * Grundläggande förståelse för Adobe Commerce molninfrastruktur
 
->[!BEGINTABS]
+<br>
 
->[!TAB Gör dig redo]
+### Mål och omfattning för tentamen {#exam-objectives}
 
-**Målgrupp:**
+{{exam-objectives}}
 
-* Utvecklare
-* Framtidsutvecklare
-* Avancerade stapelutvecklare
-* PWA-utvecklare
-
-**Information om tentamen:**
-
-* Nivå: Professionell (0-12 månaders upplevelse)
-* Löpande poäng: 33/50
-* Tid: 100 min
-* Leverans: Bearbetad online (kräver kameraåtkomst)
-* Tillgängliga språk: engelska
-* Kostnad: 125 USD (globalt)/95 USD (Indien)
-* Exam ID: AD0-E721
-
-**Mål och omfattning för tentamen**
-
-Avsnitt 1: Temahantering (temahierarki, bildkonfiguration, översättningar) (14 %)
+**Avsnitt 1: Temahantering (temahierarki, bildkonfiguration, översättningar) (14 %)**
 
 * Beskriv Adobe [!DNL Commerce] temamappstruktur
 * Uppvisa förmåga att skapa nya eller utöka befintliga teman
 * Uppvisa förmåga att lägga till anpassade översättningsfraser
 
-Avsnitt 2: XML och mallar för layout (30 %)
+**Avsnitt 2: XML och mallar för layout (30 %)**
 
 * Uppvisa förmåga att arbeta med grundläggande XML-instruktioner för layout
 * Uppvisa förmåga att använda befintliga sidlayouter
@@ -79,7 +89,7 @@ Avsnitt 2: XML och mallar för layout (30 %)
 * Uppvisa förmåga att skapa och anpassa mallar
 * Beskriv säkerhet för mallar (escape-utdata)
 
-Avsnitt 3: Format (22 %)
+**Avsnitt 3: Format (22 %)**
 
 * Beskriv syftet med styles-m.less, styles-l.less, print.less
 * Beskriv skillnaden mellan specifika partiella filer (_extends.less,_extend.less,_theme.less,_widgets.less,_module.less)
@@ -88,7 +98,7 @@ Avsnitt 3: Format (22 %)
 * Förklara hierarkin för format (lib, moduler, teman)
 * Förklara kompilering på både klient- och serversidan
 
-Avsnitt 4: JavaScript (18 %)
+**Avsnitt 4: JavaScript (18 %)**
 
 * Uppvisa förmåga att initiera och anropa JavaScript-komponenter
 * Uppvisa hur RequireJS används
@@ -97,25 +107,39 @@ Avsnitt 4: JavaScript (18 %)
 * Beskriv användningen av blockerad JS
 * Beskriv användningen av jQuery-widgetar
 
-Avsnitt 5: Administratörskonfiguration och PageBuilder (6 %)
+**Avsnitt 5: Administratörskonfiguration och PageBuilder (6 %)**
 
 * Uppvisa förmåga att anpassa Page Builder- och CMS-material&quot;
 * Använd/schemalägg ett tema för ett specifikt omfång (webbplats, butik, butiksvy)
 * Tillämpa designändringar på kategorier, produkter och CMS-sidor med administratörskonfiguration
 * Beskriv steg för att anpassa transaktionsmejl
 
-Avsnitt 6: Verktyg (CLI och Grunt) (8 %)
+**Avsnitt 6: Verktyg (CLI och Grunt) (8 %)**
 
 * Beskriv användningen av grundläggande bin/magento-kommandon
 * Beskriv användningen av Composer-kommandon (installera, uppdatera, begära, ta bort)
 * Differentiera lämplig användning för driftsättningslägen
 * Beskriv andra verktyg som molnet tillhandahåller (snabbt, hämta databas, distribuera innehåll)
 
->[!TAB Förbered]
+<br>
 
-Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
+## Så här certifierar du dig {#how-to-get-certified}
 
-Här följer några förslag på resurser som hjälper dig att förbereda dig:
+{{how-to-get-certified-intro}}
+
++++Steg 1: Skapa ditt konto
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Steg 2: Förbered dig för provet
+
+**Studiematerial**
+
+{{study-materials-intro}}
 
 **Avsnitt 1: Temahantering (temahierarki, bildkonfiguration, översättningar)**
 
@@ -156,18 +180,33 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Skapa variabler](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build.html?lang=en){target="_blank"}
 * [Commerce on Cloud Infrastructure](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=en){target="_blank"}
 
->[!TAB Bli certifierad]
+<br>
 
->[!IMPORTANT]
->
->Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
+**Gör ett övningsprov**
 
+{{practice-test}}
 
-**Nu när du har loggat in är följande länkar direkt tillgängliga.**
++++
 
-**Praktiska tester kommer snart**
+<br>
 
-## Om certifieringsprovet
++++Steg 3: Schemalägg och betala för prov
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Steg 4: Före och efter tentamen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Steg 5: Ta provet
 
 {{about-certification-exam}}
 
@@ -180,9 +219,25 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 </span>
 </a>
 
->[!ENDTABS]
++++
 
-**Frågor**
+<br>
+
++++Steg 6: Hantera dina emblem
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Förnya din certifiering
+
+{{renewing-intro}}
+
+<br>
+
+## Frågor
 
 Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

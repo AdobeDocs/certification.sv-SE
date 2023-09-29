@@ -8,18 +8,48 @@ badge: label="Prov AD0-E407" type="positive"
 mini-toc-levels: 1
 exl-id: 05041fba-a1c3-491f-9f88-59498d507e61
 hidefromtoc: true
-source-git-commit: 73e92181bd570f0a90d549cc38b472f791374e7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1077'
-ht-degree: 4%
+source-wordcount: '920'
+ht-degree: 5%
 
 ---
 
 # Certifieringsresa för [!DNL Adobe Target] Architect Master
 
-Lär dig hur du blir certifierad [!DNL Adobe Target] Arkitektmästare.
+{{intro}}
 
-## Minimal upplevelse
+## Provbeskrivning {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Provinformation {#exam-details}
+
+* Nivå: Masternivå (3-5 års erfarenhet)
+* Löpande poäng: 34/50
+* Tid: 100 min
+* Leverans: Bearbetad online (kräver kameraåtkomst)
+* Tillgängliga språk: engelska
+* Kostnad: $225 (global) / $150 (Indien)
+* Exam ID: AD0-E407
+
+<br>
+
+### Målgrupp {#intended-audience}
+
+* Optimeringstekniker/arkitekt för konverteringsgrad
+* Tekniker/arkitekt för personalisering
+* Digital Solution Architect
+* Digital transformationskonsult
+* Lead för upplevelseoptimering
+* Optimeringshanteraren
+* Kampanjhanterare online
+
+<br>
+
+### Minimal upplevelse {#minimum-experience}
 
 Du borde ha:
 
@@ -54,85 +84,73 @@ Miljöer:
 * AMS-värdmiljö
 * Adobe I/O Runtime
 
->[!BEGINTABS]
+<br>
 
->[!TAB Gör dig redo]
+### Mål och omfattning för tentamen {#exam-objectives}
 
-**Målgrupp:**
+{{exam-objectives}}
 
-* Optimeringstekniker/arkitekt för konverteringsgrad
-* Tekniker/arkitekt för personalisering
-* Digital Solution Architect
-* Digital transformationskonsult
-* Lead för upplevelseoptimering
-* Optimeringshanteraren
-* Kampanjhanterare online
-
-**Information om tentamen:**
-
-* Nivå: Masternivå (3-5 års erfarenhet)
-* Löpande poäng: 34/50
-* Tid: 100 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
-* Tillgängliga språk: engelska
-* Kostnad: $225 (global) / $150 (Indien)
-* Exam ID: AD0-E407
-
-**Mål och omfattning för tentamen**
-
-Avsnitt 1: [!DNL Adobe Target] grundläggande (12 %)
+**Avsnitt 1: [!DNL Adobe Target] grundläggande (12 %)**
 
 * Identifiera lämpliga [!DNL Adobe Target] användning för ett visst scenario
 * Förklara grundläggande tekniker i [!DNL Adobe Target] implementering
 
-Avsnitt 2: Integrering med [!DNL Adobe Target] (16 %)
+**Avsnitt 2: Integrering med [!DNL Adobe Target] (16 %)**
 
 * Använda processen för att integrera [!DNL Adobe Target] med Adobe Analytics (A4T)
 * Använda processen för att integrera [!DNL Adobe Target] till Adobe Experience Manager
 * Beskriv integrationen med andra Adobe Experience Cloud-lösningar
 * Beskriv integrationen med Adobe Experience Cloud Audiences
 
-Avsnitt 3: [!DNL Adobe Target] administration och styrning (13 %)
+**Avsnitt 3: [!DNL Adobe Target] administration och styrning (13 %)**
 
 * Definiera en pågående [!DNL Adobe Target] implementeringsstrategi och systemstyrning
 * Använda processen och bästa praxis för att hantera användare
 * Beskriv de administrativa aspekterna av implementeringsinställningarna
 
-Avsnitt 4: [!DNL Adobe Target] och kontaktpunkter som stöds (15 %)
+**Avsnitt 4: [!DNL Adobe Target] och kontaktpunkter som stöds (15 %)**
 
 * Beskriv implementering på klientsidan
 * Beskriv implementering på serversidan
 * Beskriv implementeringskrav för mobiler, e-postmarknadsföring och API:er
 
-Avsnitt 5: Bruttoanvändning [!DNL Adobe Target] rekommendationer (9 %)
+**Avsnitt 5: Bruttoanvändning [!DNL Adobe Target] rekommendationer (9 %)**
 
 * Uppvisa förståelse för rekommendationer, kataloger och miljöer
 * Använd processen för att konfigurera Target-rekommendationer
 
-Avsnitt 6: Arkitekt, utformning och implementering [!DNL Adobe Target] (15 %)
+**Avsnitt 6: Arkitekt, utformning och implementering [!DNL Adobe Target] (15 %)**
 
 * Välj rätt mbox-implementering
 * Uppvisa design av [!DNL Adobe Target] implementering
 * Beskriv implementeringen av [!DNL Adobe Target] i Adobes mobilappar
 
-Avsnitt 7: Felsökning (20 %)
+**Avsnitt 7: Felsökning (20 %)**
 
 * Felsöka mbox-fel
 * Felsöka aktivitetsfel
 * Förstå integreringsfel
 * Felsökning [!DNL Adobe Target] Recommendations-fel
 
->[!TAB Förbered]
+<br>
 
-Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
+## Så här certifierar du dig {#how-to-get-certified}
 
-Här följer några förslag på resurser som hjälper dig att förbereda dig:
+{{how-to-get-certified-intro}}
 
-**Exempelfrågor**
++++Steg 1: Skapa ditt konto
 
-Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer att stöta på i provet. Ingen inloggning behövs. Resultaten av exempelfrågorna lagras inte och du kan inte förutsäga dina faktiska testresultat.
+{{create-your-account}}
 
-[Se exempelfrågor](https://scorpion.caveon.com/launchpad/ad0-e407-adobe-target-architect-sample-exam/adobe-target-architect-sample-exam){target="_blank"}
++++
+
+<br>
+
++++Steg 2: Förbered dig för provet
+
+**Studiematerial**
+
+{{study-materials-intro}}
 
 **Avsnitt 1: [!DNL Adobe Target] grundläggande**
 
@@ -193,16 +211,35 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 * [Löst: Varför visas min historiska publik som&quot;samla in data&quot;?](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-cloud-audiences/why-is-my-historical-audience-showing-as-quot-collecting-data/m-p/286891){target="_blank"}
 * [Adobe Experience Cloud-målgrupper](https://experienceleague.adobe.com/docs/core-services/interface/services/audiences/audience-library.html){target="_blank"}
 
->[!TAB Bli certifierad]
+<br>
 
->[!IMPORTANT]
->
->Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
+**Exempelfrågor**
 
+{{sample-questions}}
 
-## Om certifieringsprovet
+[Visa exempelfrågor](https://scorpion.caveon.com/launchpad/ad0-e407-adobe-target-architect-sample-exam/adobe-target-architect-sample-exam){target="_blank"}
+
++++
+
+<br>
+
++++Steg 3: Schemalägg och betala för prov
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Steg 4: Före och efter tentamen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Steg 5: Ta provet
 
 {{about-certification-exam}}
 
@@ -215,7 +252,23 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Steg 6: Hantera dina emblem
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Förnya din certifiering
+
+{{renewing-intro}}
+
+<br>
 
 ## Frågor
 

@@ -7,18 +7,45 @@ role: Developer
 badge: label="Prov AD0-E331" type="positive"
 mini-toc-levels: 1
 exl-id: e6a7790b-4758-4bef-826c-fc3e1675faa1
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1174'
-ht-degree: 9%
+source-wordcount: '979'
+ht-degree: 11%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Campaign Classic] Developer Professional
 
-Lär dig hur du blir certifierad Adobe [!DNL Campaign Classic] Developer Professional.
+{{intro}}
 
-## Minimal upplevelse
+## Provbeskrivning {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Provinformation {#exam-details}
+
+* Nivå: Professionell (0-12 månaders upplevelse)
+* Löpande poäng: 33/50
+* Tid: 100 min
+* Leverans: Bearbetad online (kräver kameraåtkomst)
+* Tillgängliga språk: engelska
+* Kostnad: 125 USD (globalt)/95 USD (Indien)
+* Exam ID: AD0-E331
+
+<br>
+
+### Målgrupp {#intended-audience}
+
+* Associera konsult
+* Junior Technical Consultant
+* Junior Marketing Technology Enginer
+* Junior Campaign-utvecklare
+
+<br>
+
+### Minimal upplevelse {#minimum-experience}
 
 Du borde ha:
 
@@ -27,38 +54,13 @@ Du borde ha:
 * En grundläggande förståelse för automatiserad marknadsföring
 * En förståelse för databasbegrepp
 
->[!NOTE]
->
->Din certifiering gäller i två år från och med när du godkänns. Vi rekommenderar att du använder den nyare versionen när det är möjligt eftersom den omfattar nyare produktfunktioner.
+<br>
 
->[!BEGINTABS]
+### Mål och omfattning för tentamen {#exam-objectives}
 
->[!TAB Gör dig redo]
+{{exam-objectives}}
 
-**Målgrupp:**
-
-* Associera konsult
-* Junior Technical Consultant
-* Junior Marketing Technology Enginer
-* Junior Campaign-utvecklare
-
-**Information om tentamen:**
-
-* Nivå: Professionell (0-12 månaders upplevelse)
-* Löpande poäng: 33/50
-* Tid: 100 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
-* Tillgängliga språk: engelska
-* Kostnad: 125 USD (globalt)/95 USD (Indien)
-* Exam ID: AD0-E331
-
-**Självbedömning av beredskap**
-
-Slutför [onlineberedskapsenkät](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-ze1175/ad-q-e313-readiness-questionnaire-for-adobe-campaign-classic-developer-professional-exam){target="_blank"} för att se om din nuvarande upplevelse matchar den rekommenderade lägsta kandidatkvalificeringen.
-
-**Mål och omfattning för tentamen**
-
-Avsnitt 1: Systemkonfiguration (25 %)
+**Avsnitt 1: Systemkonfiguration (25 %)**
 
 * Uppvisa systemomfattande konfigurationer av inställningar i noden Administration
 * Tillämpa processen för att utöka OTB-mottagarschemat
@@ -74,7 +76,7 @@ Avsnitt 1: Systemkonfiguration (25 %)
 * Beskriv användningsfallet för företag för Message Center
 * Identifiera funktioner för import av API-data i V8
 
-Avsnitt 2: Anpassning (16 %)
+**Avsnitt 2: Anpassning (16 %)**
 
 * Använd processen för att redigera kampanjscheman
 * Identifiera inställningarna för att säkerställa korrekt schemautökning eller konfigurera anpassade scheman
@@ -85,14 +87,14 @@ Avsnitt 2: Anpassning (16 %)
 * Identifiera användningsexempel för Content Management
 * Ansök om att få uppdatera OTB-formulären
 
-Avsnitt 3: Operativ säkerhet (10 %)
+**Avsnitt 3: Operativ säkerhet (10 %)**
 
 * Beskriv processen för att lägga till användargrupper och roller
 * Använd processen för att översätta användarhanteringsmatrisen med rätt användarrättigheter och hierarki
 * Identifiera och definiera rätt behörigheter
 * Identifiera säkerhetszonen för en användargrupp
 
-Avsnitt 4: Tekniska arbetsflöden (29 %)
+**Avsnitt 4: Tekniska arbetsflöden (29 %)**
 
 * Använda processen för att importera/exportera
 * Identifiera olika datakällor som ett arbetsflöde kan komma åt
@@ -108,12 +110,12 @@ Avsnitt 4: Tekniska arbetsflöden (29 %)
 * Använd processen för att konfigurera aviseringar och godkännanden
 * Identifiera typer av kampanjdatabaser
 
-Avsnitt 5: Instansunderhåll (4 %)
+**Avsnitt 5: Instansunderhåll (4 %)**
 
 * Identifiera fel från olika tjänstloggar
 * Förklara värden för heatmap-bilder för arbetsflöden
 
-Avsnitt 6: Kampanjkonfiguration (14 %)
+**Avsnitt 6: Kampanjkonfiguration (14 %)**
 
 * Använd processen för att skapa kampanjer med Campaign-mallar
 * Beskriv processen för att skapa godkännanden
@@ -122,17 +124,33 @@ Avsnitt 6: Kampanjkonfiguration (14 %)
 * Definiera processen för att skapa den avancerade processen i arbetsflöden
 * Beskriv arbetsflödets körningsmetoder
 
->[!TAB Förbered]
+<br>
 
-Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
+### Beredskapenkät
 
-Här följer några förslag på resurser som hjälper dig att förbereda dig:
+{{readiness}}
 
-**Exempelfrågor**
+[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-ze1175/ad-q-e313-readiness-questionnaire-for-adobe-campaign-classic-developer-professional-exam){target="_blank"}
 
-Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer att stöta på i provet. Ingen inloggning behövs. Resultaten av exempelfrågorna lagras inte och du kan inte förutsäga dina faktiska testresultat.
+<br>
 
-[Se exempelfrågor](https://scorpion.caveon.com/launchpad/ad0-e331-adobe-campaign-classic-developer-professional-copy-ixmxw7){target="_blank"}
+## Så här certifierar du dig {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Steg 1: Skapa ditt konto
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Steg 2: Förbered dig för provet
+
+**Studiematerial**
+
+{{study-materials-intro}}
 
 **Avsnitt 1: Systemkonfiguration**
 
@@ -182,17 +200,35 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 * [Kom igång med arbetsflöden](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html){target="_blank"}
 * [Arbetsflödeskörning](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/troubleshooting-toc/common-general-issues-toc/workflow-execution.html){target="_blank"}
 
->[!TAB Bli certifierad]
+<br>
 
->[!IMPORTANT]
->
->Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
+**Exempelfrågor**
 
+{{sample-questions}}
 
+[Visa exempelfrågor](https://scorpion.caveon.com/launchpad/ad0-e331-adobe-campaign-classic-developer-professional-copy-ixmxw7){target="_blank"}
 
-## Om certifieringsprovet
++++
+
+<br>
+
++++Steg 3: Schemalägg och betala för prov
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Steg 4: Före och efter tentamen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Steg 5: Ta provet
 
 {{about-certification-exam}}
 
@@ -205,7 +241,23 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Steg 6: Hantera dina emblem
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Förnya din certifiering
+
+{{renewing-intro}}
+
+<br>
 
 ## Frågor
 

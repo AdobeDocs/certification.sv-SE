@@ -7,40 +7,24 @@ role: Developer
 badge: label="Prov AD0-E123" type="positive"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '697'
-ht-degree: 3%
+source-wordcount: '518'
+ht-degree: 4%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Experience Manager Sites] Developer Professional
 
-Lär dig hur du blir certifierad Adobe [!DNL Experience Manager Sites] Developer Professional.
+{{intro}}
 
-## Minimal upplevelse
+## Provbeskrivning {#exam-description}
 
-Du bör vara programutvecklare och ha:
+{{exam-description}}
 
-* 0-12 månaders erfarenhet av AEM [!DNL Platform]
-* Möjlighet att utföra komponentutveckling
-* En grundläggande förståelse av MVC-ramverket, ramverken för livscykeln och biblioteken i AEM
+<br>
 
->[!NOTE]
->
->Din certifiering gäller i två år från och med när du godkänns. Vi rekommenderar att du använder den nyare versionen när det är möjligt eftersom den omfattar nyare produktfunktioner.
-
->[!BEGINTABS]
-
->[!TAB Gör dig redo]
-
-**Målgrupp:**
-
-* AEM
-* Front End-utvecklare
-* Programutvecklare
-
-**Information om tentamen:**
+### Provinformation {#exam-details}
 
 * Nivå: Professionell (0-12 månaders upplevelse)
 * Löpande poäng: 31/50
@@ -50,9 +34,31 @@ Du bör vara programutvecklare och ha:
 * Kostnad: 125 USD (globalt)/95 USD (Indien)
 * Exam ID: AD0-E123
 
-**Mål och omfattning för tentamen**
+<br>
 
-Avsnitt 1: Konfigurationer (26 %)
+### Målgrupp {#intended-audience}
+
+* AEM
+* Front End-utvecklare
+* Programutvecklare
+
+<br>
+
+### Minimal upplevelse {#minimum-experience}
+
+Du bör vara programutvecklare och ha:
+
+* 0-12 månaders erfarenhet av AEM [!DNL Platform]
+* Möjlighet att utföra komponentutveckling
+* En grundläggande förståelse av MVC-ramverket, ramverken för livscykeln och biblioteken i AEM
+
+<br>
+
+### Mål och omfattning för tentamen {#exam-objectives}
+
+{{exam-objectives}}
+
+**Avsnitt 1: Konfigurationer (26 %)**
 
 * Identifiera syftet med AEM-konfigurationer och cachelagring
 * Identifiera rätt steg för att konfigurera flera platser i AEM
@@ -60,36 +66,44 @@ Avsnitt 1: Konfigurationer (26 %)
 * Bestäm de rätta stegen för att hantera anpassade OAK-index
 * Kontrollera hur du konfigurerar integreringen mellan OTB SAML och IMS
 
-Avsnitt 2: AEM (40 %)
+**Avsnitt 2: AEM (40 %)**
 
 * Bestäm de rätta stegen för implementering av kärnbaserade komponenter
 * Koppla samman komponentfunktioner som HTML, modeller och tjänster
 * Om du utgår från ett scenario måste du fastställa rätt steg för att utveckla arbetsflöden
 * I ett scenario kan du beskriva syftet med innehållsfragment eller upplevelsefragment
 
-Avsnitt 3: Skapa och driftsätta (12 %)
+**Avsnitt 3: Skapa och driftsätta (12 %)**
 
 * Definiera Maven-projektstruktur
 * Konfigurera projekt från arkivtyper
 
-Avsnitt 4: Miljöunderhåll (22 %)
+**Avsnitt 4: Miljöunderhåll (22 %)**
 
 * I ett scenario måste du fastställa vilka steg som krävs för att felsöka problem i AEM miljöer
 * Förklara AEM releaser
 * Identifiera hur du konfigurerar AEM mellan topologier
 * Bestäm stegen som krävs för planering och migrering till AEM as a Cloud Service
 
->[!TAB Förbered]
+<br>
 
-Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
+## Så här certifierar du dig {#how-to-get-certified}
 
-Här följer några förslag på resurser som hjälper dig att förbereda dig:
+{{how-to-get-certified-intro}}
 
-**Exempelfrågor**
++++Steg 1: Skapa ditt konto
 
-Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer att stöta på i provet. Ingen inloggning behövs. Resultaten av exempelfrågorna lagras inte och du kan inte förutsäga dina faktiska testresultat.
+{{create-your-account}}
 
-[Se exempelfrågor](https://scorpion.caveon.com/launchpad/ad3-e123-adobe-experience-manager-sites-developer-professional-sample-questions){target="_blank"}
++++
+
+<br>
+
++++Steg 2: Förbered dig för provet
+
+**Studiematerial**
+
+{{study-materials-intro}}
 
 **Avsnitt 1: Konfigurationer**
 
@@ -122,15 +136,35 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 * [[!DNL AEM as Cloud Service] videor och självstudiekurser](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html){target="_blank"}
 * [Adobe [!DNL Experience Manager] Versionsuppdateringar och färdplan](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html){target="_blank"}
 
->[!TAB Bli certifierad]
+<br>
 
->[!IMPORTANT]
->
->Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
+**Exempelfrågor**
 
-## Om certifieringsprovet
+{{sample-questions}}
+
+[Visa exempelfrågor](https://scorpion.caveon.com/launchpad/ad3-e123-adobe-experience-manager-sites-developer-professional-sample-questions){target="_blank"}
+
++++
+
+<br>
+
++++Steg 3: Schemalägg och betala för prov
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Steg 4: Före och efter tentamen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Steg 5: Ta provet
 
 {{about-certification-exam}}
 
@@ -143,10 +177,27 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Steg 6: Hantera dina emblem
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Förnya din certifiering
+
+{{renewing-intro}}
+
+<br>
 
 ## Frågor
 
 Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.
+

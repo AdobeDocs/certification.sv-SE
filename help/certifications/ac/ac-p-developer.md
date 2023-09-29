@@ -7,44 +7,24 @@ role: Developer
 badge: label="tentamen AD0-E717" type="positive"
 mini-toc-levels: 1
 exl-id: 5dc85678-91f9-4865-b310-3460081b19f8
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1348'
+source-wordcount: '1160'
 ht-degree: 0%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Commerce] Developer Professional
 
-Lär dig hur du blir certifierad [!DNL Adobe Commerce] Developer Professional.
+{{intro}}
 
-## Minimal upplevelse
+## Provbeskrivning {#exam-description}
 
-Du borde känna dig trygg när du arbetar i Adobe [!DNL Commerce] och ha en grundläggande förståelse för Adobe [!DNL Commerce] administratörsutveckling, arkitektur, EAV/database, layout/gränssnitt, utcheckning och försäljning samt katalog.
+{{exam-description}}
 
-Dessutom bör du känna till följande tekniker och miljöer:
+<br>
 
-* Adobe [!DNL Commerce] - version 2.4
-* Bra förståelse för PHP
-* Kunskap om MYSQL
-* Kunskap om objektorienterad programmering
-* Kunskap om molnarkitektur
-
->[!NOTE]
->
->Din certifiering gäller i två år från och med när du godkänns. Vi rekommenderar att du använder den nyare versionen när det är möjligt eftersom den omfattar nyare produktfunktioner.
-
->[!BEGINTABS]
-
->[!TAB Gör dig redo]
-
-**Målgrupp:**
-
-* Utvecklare
-* Leadutvecklare
-* Backend Developer
-* Lösningsarkitekter
-* Tekniska ledare
+### Provinformation {#exam-details}
 
 **Information om tentamen:**
 
@@ -56,19 +36,43 @@ Dessutom bör du känna till följande tekniker och miljöer:
 * Kostnad: 125 USD (globalt)/95 USD (Indien)
 * Exam ID: AD0-E717
 
-**Självbedömning av beredskap**
+<br>
 
-Slutför [onlineberedskapsenkät](https://scorpion.caveon.com/launchpad/ad-q-e717-readiness-questionnaire-for-adobe-commerce-developer-professional/ad-q-e717-readiness-questionnaire-for-adobe-commerce-developer-professional) för att se om din nuvarande upplevelse matchar den rekommenderade lägsta kandidatkvalificeringen.
+### Målgrupp {#intended-audience}
 
-**Mål och omfattning för tentamen**
+* Utvecklare
+* Leadutvecklare
+* Backend Developer
+* Lösningsarkitekter
+* Tekniska ledare
 
-Avsnitt 1: Arbeta med administratör (5 %)
+<br>
+
+### Minimal upplevelse {#minimum-experience}
+
+Du borde känna dig trygg när du arbetar i Adobe [!DNL Commerce] och ha en grundläggande förståelse för Adobe [!DNL Commerce] administratörsutveckling, arkitektur, EAV/database, layout/gränssnitt, utcheckning och försäljning samt katalog.
+
+Dessutom bör du känna till följande tekniker och miljöer:
+
+* Adobe [!DNL Commerce] - version 2.4
+* Bra förståelse för PHP
+* Kunskap om MYSQL
+* Kunskap om objektorienterad programmering
+* Kunskap om molnarkitektur
+
+<br>
+
+### Mål och omfattning för tentamen {#exam-objectives}
+
+{{exam-objectives}}
+
+**Avsnitt 1: Arbeta med administratör (5 %)**
 
 * Beskriv hur åtkomstkontrollistan fungerar med roller och resurser
 * Identifiera de komponenter som ska användas när du skapar eller ändrar administratörsstödrastret/-formuläret
 * Identifiera de filer som ska användas när du skapar en butiks-/administratörskonfiguration och menyalternativ
 
-Avsnitt 2: Arkitektur (29 %)
+**Avsnitt 2: Arkitektur (29 %)**
 
 * Beskriv [!DNL Magento] filstruktur
 * Beskriv [!DNL Magento] CLI-kommandon
@@ -84,7 +88,7 @@ Avsnitt 2: Arkitektur (29 %)
 * Beskriv [!DNL Magento] cachningssystem
 * Beskriv butiker, webbplatser och butiksvyer (grundläggande kunskaper)
 
-Avsnitt 3: EAV/databas (13 %)
+**Avsnitt 3: EAV/databas (13 %)**
 
 * I ett scenario ändrar/lägger du till/tar bort attributuppsättningar och/eller attribut
 * Beskriv olika typer av attribut
@@ -92,14 +96,14 @@ Avsnitt 3: EAV/databas (13 %)
 * Beskriv modeller, resursmodeller och samlingar
 * Beskriv grunderna för entitetsattributvärde (EAV)
 
-Avsnitt 4: Layout/gränssnitt (15 %)
+**Avsnitt 4: Layout/gränssnitt (15 %)**
 
 * Tillämpa ändringar på befintliga produkttyper och skapa nya
 * Ändra och utöka befintliga katalogenheter
 * Uppvisa förmåga att hantera index och anpassa prisutdata
 * Förklara hur lager påverkas av flera källor (programnivå)
 
-Avsnitt 5: Kassa och försäljning (8 %)
+**Avsnitt 5: Kassa och försäljning (8 %)**
 
 * Beskriv kundvagnskomponenter
 * Beskriv en kampanjregel för kundvagn
@@ -108,14 +112,14 @@ Avsnitt 5: Kassa och försäljning (8 %)
 * Ställ in betalnings- och leveransmetoder efter ett scenario
 * Konfigurera momsregler, valutor, kundvagn och/eller kassa för ett scenario
 
-Avsnitt 6: Katalog(8 %)
+**Avsnitt 6: Katalog(8 %)**
 
 * Identifiera grunderna för kategorihantering och produkthantering
 * Beskriv produkttyper
 * Beskriv prisregler
 * Beskriv pristyper
 
-Avsnitt 7: Adobe [!DNL Commerce] Molnarkitektur (12 %)
+**Avsnitt 7: Adobe [!DNL Commerce] Molnarkitektur (12 %)**
 
 * Definiera Adobe [!DNL Commerce] arbetsflöde för arkitektur/miljö
 * Beskriv filer, behörigheter och struktur i molnprojekt
@@ -125,7 +129,7 @@ Avsnitt 7: Adobe [!DNL Commerce] Molnarkitektur (12 %)
 * Beskriv hur man underhåller och uppgraderar ECE-verktyg
 * Identifiera när supporten ska kontaktas *Yaml-filer och -begränsningar (DIY vs supportärenden)
 
-Avsnitt 8: Konfigurera/konfigurera Adobe [!DNL Commerce] Moln (4 %)
+**Avsnitt 8: Konfigurera/konfigurera Adobe [!DNL Commerce] Moln (4 %)**
 
 * Identifiera hur du konfigurerar/konfigurerar Adobe [!DNL Commerce] Cloud
 * Definiera grundläggande molnfelsökning (webbanvändarhierarki och variabler, konfigurationsprioritet)
@@ -134,23 +138,39 @@ Avsnitt 8: Konfigurera/konfigurera Adobe [!DNL Commerce] Moln (4 %)
 * Beskriv förgreningar med användargränssnittet
 * Identifiera funktionerna i Adobe Commerce Cloud-planen
 
-Avsnitt 9: [!DNL Commerce] CLI-verktyg i molnet (hanteringsdel) (6 %)
+**Avsnitt 9: [!DNL Commerce] CLI-verktyg i molnet (hanteringsdel) (6 %)**
 
 * Beskriv Adobe exklusiva funktioner [!DNL Commerce] CLI-verktyg i molnet (exklusiva CLI-funktioner: aktivera e-post, Rebase-miljöer, ögonblicksbild, db dump, lokal miljöinställning)
 * Beskriv förgreningar med Adobe [!DNL Commerce] CLI-verktyget i molnet
 * Identifiera sätt att ansluta till molntjänster? (My SQL, Redis, tunnel:info)
 
->[!TAB Förbered]
+<br>
 
-Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
+### Beredskapenkät
 
-Här följer några förslag på resurser som hjälper dig att förbereda dig:
+{{readiness}}
 
-**Exempelfrågor**
+[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e717-readiness-questionnaire-for-adobe-commerce-developer-professional/ad-q-e717-readiness-questionnaire-for-adobe-commerce-developer-professional){target="_blank"}
 
-Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer att stöta på i provet. Ingen inloggning behövs. Resultaten av exempelfrågorna lagras inte och du kan inte förutsäga dina faktiska testresultat.
+<br>
 
-[Se exempelfrågor](https://scorpion.caveon.com/launchpad/template-for-exam-projects-copy-1fgbcj){target="_blank"}
+## Så här certifierar du dig {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Steg 1: Skapa ditt konto
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Steg 2: Förbered dig för provet
+
+**Studiematerial**
+
+{{study-materials-intro}}
 
 **Avsnitt 1: Arbeta med administratör**
 
@@ -235,17 +255,35 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 * [Hantera grenar med CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/cli-branches.html){target="_blank"}
 * [Konfigurera tjänster](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/services-yaml.html){target="_blank"}
 
->[!TAB Bli certifierad]
+<br>
 
->[!IMPORTANT]
->
->Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
+**Exempelfrågor**
 
+{{sample-questions}}
 
+[Visa exempelfrågor](https://scorpion.caveon.com/launchpad/template-for-exam-projects-copy-1fgbcj){target="_blank"}
 
-## Om certifieringsprovet
++++
+
+<br>
+
++++Steg 3: Schemalägg och betala för prov
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Steg 4: Före och efter tentamen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Steg 5: Ta provet
 
 {{about-certification-exam}}
 
@@ -258,7 +296,23 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Steg 6: Hantera dina emblem
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Förnya din certifiering
+
+{{renewing-intro}}
+
+<br>
 
 ## Frågor
 

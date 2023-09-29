@@ -6,18 +6,50 @@ role: Developer
 badge: label="Prov AD0-E905" type="positive"
 mini-toc-levels: 1
 exl-id: 08f5386c-901c-44be-9537-48c9ac5d2be2
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1011'
+source-wordcount: '819'
 ht-degree: 0%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Workfront] Core Developer Professional
 
-Lär dig hur du blir certifierad Adobe [!DNL Workfront] Core Developer Professional.
+{{intro}}
 
-## Minimal upplevelse
+## Provbeskrivning {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Provinformation {#exam-details}
+
+* Nivå: Professionell (0-12 månaders upplevelse)
+* Löpande poäng: 44/70
+* Tid: 140 min
+* Leverans: Bearbetad online (kräver kameraåtkomst)
+* Tillgängliga språk: engelska
+* Kostnad: 125 USD (globalt)/95 USD (Indien)
+* Exam ID: AD0-E905
+
+<br>
+
+### Målgrupp {#intended-audience}
+
+* Teknisk konsult
+* Systemadministratör
+* Projektledare
+* Projektsamordnare
+* Strategist
+* Resurshanteraren
+* Analytiker
+* IT-specialist
+* [!DNL Workfront] implementeringskonsult/lead
+
+<br>
+
+### Minimal upplevelse {#minimum-experience}
 
 Du borde ha:
 
@@ -36,55 +68,25 @@ Och du borde ha:
 * Förtrogenhet med inbyggda kontakter och andra Adobe [!DNL Workfront] produkter och tjänster
 * Projekthantering, bl.a. flexibel hantering och vattenfall samt resurshanteringssystem
 
->[!NOTE]
->
->Din certifiering gäller i två år från och med när du godkänns. Vi rekommenderar att du använder den nyare versionen när det är möjligt eftersom den omfattar nyare produktfunktioner.
+<br>
 
->[!BEGINTABS]
+### Mål och omfattning för tentamen {#exam-objectives}
 
->[!TAB Gör dig redo]
+{{exam-objectives}}
 
-**Målgrupp:**
-
-* Teknisk konsult
-* Systemadministratör
-* Projektledare
-* Projektsamordnare
-* Strategist
-* Resurshanteraren
-* Analytiker
-* IT-specialist
-* [!DNL Workfront] implementeringskonsult/lead
-
-**Information om tentamen:**
-
-* Nivå: Professionell (0-12 månaders upplevelse)
-* Löpande poäng: 44/70
-* Tid: 140 min
-* Leverans: Bearbetad online (kräver kameraåtkomst)
-* Tillgängliga språk: engelska
-* Kostnad: 125 USD (globalt)/95 USD (Indien)
-* Exam ID: AD0-E905
-
-**Självbedömning av beredskap**
-
-Slutför [onlineberedskapsenkät](https://scorpion.caveon.com/launchpad/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional){target="_blank"} för att se om din nuvarande upplevelse matchar den rekommenderade lägsta kandidatkvalificeringen.
-
-**Mål och omfattning för tentamen**
-
-Avsnitt 1. Strategi och intag (24 %)
+**Avsnitt 1. Strategi och intag (24 %)**
 
 * Använd portfolior och program
 * Använd begärandeköer
 * Använd anpassade formulär
 * Använd grundläggande godkännanden
 
-Avsnitt 2. Budget och planering (11 %)
+**Avsnitt 2. Budget och planering (11 %)**
 
 * Använda resursplaneraren
 * Använd konfigurationerna för att ställa in en projektmall utifrån ett scenario/en uppsättning krav
 
-Avsnitt 3. Användarupplevelse (25 %)
+**Avsnitt 3. Användarupplevelse (25 %)**
 
 * Illustrera metodtips för användarhantering när det gäller att skapa rätt användarupplevelse
 * Använd rätt inställningar för delning och åtkomsträttigheter i systemet om ett scenario inträffar
@@ -92,13 +94,13 @@ Avsnitt 3. Användarupplevelse (25 %)
 * Uppvisa hur man skapar och använder tidrapporter
 * Beskriv syfte och värde för anslutningar, plugin-program och tillägg
 
-Avsnitt 4. Mätvärden och rapporter (16 %)
+**Avsnitt 4. Mätvärden och rapporter (16 %)**
 
 * Beskriv grundläggande begrepp för att skapa, skicka och anpassa rapporter
 * Förklara hur du bygger och anpassar kontrollpaneler
 * Uppvisa hur man konfigurerar funktionella vyer av rapporter
 
-Avsnitt 5. Körning (24 %)
+**Avsnitt 5. Körning (24 %)**
 
 * Uppvisa hur man ställer in arbetsflöden för godkännande och korrektur
 * Identifiera syftet med att skapa ett problem för ett projekt
@@ -107,17 +109,33 @@ Avsnitt 5. Körning (24 %)
 * Identifiera sätt att ange tid i [!DNL Workfront]
 * Identifiera elementen i den ekonomiska spårningen i [!DNL Workfront]
 
->[!TAB Förbered]
+<br>
 
-Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
+### Beredskapenkät
 
-Här följer några förslag på resurser som hjälper dig att förbereda dig:
+{{readiness}}
 
-**Exempelfrågor**
+[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional){target="_blank"}
 
-Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer att stöta på i provet. Ingen inloggning behövs. Resultaten av exempelfrågorna lagras inte och du kan inte förutsäga dina faktiska testresultat.
+<br>
 
-[Se exempelfrågor](https://scorpion.caveon.com/launchpad/ad0-e905-adobe-workfront-developer-professional-copy-ljt8s6/ad4-e905-adobe-workfront-core-developer-professional-sample-exam){target="_blank"}
+## Så här certifierar du dig {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Steg 1: Skapa ditt konto
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Steg 2: Förbered dig för provet
+
+**Studiematerial**
+
+{{study-materials-intro}}
 
 **Avsnitt 1: Strategi och intag**
 
@@ -160,17 +178,35 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 * [Skapa ett smidigt team](https://experienceleague.adobe.com/docs/workfront/using/agile/agile-in-workfront/create-an-agile-team.html){target="_blank"}
 * [Spåra kostnader](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/track-costs.html){target="_blank"}
 
->[!TAB Bli certifierad]
+<br>
 
->[!IMPORTANT]
->
->Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
+**Exempelfrågor**
 
+{{sample-questions}}
 
+[Visa exempelfrågor](https://scorpion.caveon.com/launchpad/ad0-e905-adobe-workfront-developer-professional-copy-ljt8s6/ad4-e905-adobe-workfront-core-developer-professional-sample-exam){target="_blank"}
 
-## Om certifieringsprovet
++++
+
+<br>
+
++++Steg 3: Schemalägg och betala för prov
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Steg 4: Före och efter tentamen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Steg 5: Ta provet
 
 {{about-certification-exam}}
 
@@ -183,7 +219,23 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Steg 6: Hantera dina emblem
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Förnya din certifiering
+
+{{renewing-intro}}
+
+<br>
 
 ## Frågor
 

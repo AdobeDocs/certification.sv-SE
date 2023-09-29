@@ -7,18 +7,45 @@ role: Developer
 badge: label="Prov AD0-E125" type="positive"
 mini-toc-levels: 1
 exl-id: 6b7fa868-69f3-49b4-934e-87cf86538039
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '798'
+source-wordcount: '698'
 ht-degree: 2%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Experience Manager Forms] Developer Expert
 
-Lär dig hur du blir certifierad Adobe [!DNL Experience Manager Forms] Developer Expert.
+{{intro}}
 
-## Minimal upplevelse
+## Provbeskrivning {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Provinformation {#exam-details}
+
+* Nivå: Expert (1-3 års erfarenhet)
+* Löpande poäng: 27/50
+* Tid: 100 min
+* Leverans: Bearbetad online (kräver kameraåtkomst)
+* Tillgängliga språk: engelska
+* Kostnad: $225 (global) / $150 (Indien)
+* Exam ID: AD0-E125
+
+<br>
+
+### Målgrupp {#intended-audience}
+
+* AEM
+* AEM utvecklare
+* AEM konsulter
+* AEM Architects
+
+<br>
+
+### Minimal upplevelse {#minimum-experience}
 
 Du borde ha:
 
@@ -54,45 +81,20 @@ Dessutom bör du känna till följande tekniker och miljöer:
 * Maven
 * GIT/Versionverktyg
 
->[!NOTE]
->
->Din certifiering gäller i två år från och med när du godkänns. Vi rekommenderar att du använder den nyare versionen när det är möjligt eftersom den omfattar nyare produktfunktioner.
+<br>
 
->[!BEGINTABS]
+### Mål och omfattning för tentamen {#exam-objectives}
 
->[!TAB Gör dig redo]
+{{exam-objectives}}
 
-**Målgrupp:**
-
-* AEM
-* AEM utvecklare
-* AEM konsulter
-* AEM Architects
-
-**Information om tentamen:**
-
-* Nivå: Expert (1-3 års erfarenhet)
-* Löpande poäng: 27/50
-* Tid: 100 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
-* Tillgängliga språk: engelska
-* Kostnad: $225 (global) / $150 (Indien)
-* Exam ID: AD0-E125
-
-**Självbedömning av beredskap**
-
-Slutför [onlineberedskapsenkät](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-x38d6m/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam){target="_blank"} för att se om din nuvarande upplevelse matchar den rekommenderade lägsta kandidatkvalificeringen.
-
-**Mål och omfattning för tentamen**
-
-Avsnitt 1: Skapa och hantera Forms (36 %)
+**Avsnitt 1: Skapa och hantera Forms (36 %)**
 
 * Bygg Forms
 * Konfigurera Forms datamodell
 * Anpassa AEM Forms
 * Utveckla och använd Javascript ClientLib med GuideBridge API
 
-Avsnitt 2: Processer och arbetsflöden (34 %)
+**Avsnitt 2: Processer och arbetsflöden (34 %)**
 
 * Utforma och genomföra ett arbetsflöde för godkännande av formulär
 * Utveckla ett OSGi-paket med Document Services API
@@ -101,7 +103,7 @@ Avsnitt 2: Processer och arbetsflöden (34 %)
 * Hantera PDF med Forms eller Assembler
 * Implementera JDBC-tjänster
 
-Avsnitt 3: Administration och felsökning (18 %)
+**Avsnitt 3: Administration och felsökning (18 %)**
 
 * Felsöka och differentiera loggfiler
 * Utföra administrationsaktiviteter
@@ -109,20 +111,42 @@ Avsnitt 3: Administration och felsökning (18 %)
 * Konfigurera AEM Dispatcher för Forms
 * Navigera mellan olika konsoler
 
-Avsnitt 4: API-slutpunkter och integreringar (8 %)
+**Avsnitt 4: API-slutpunkter och integreringar (8 %)**
 
 * Integrera med Adobe Experience Cloud
 * Generera och förbruka olika slutpunktstjänster
 
-Avsnitt 5: Interaktiv kommunikation (4 %)
+**Avsnitt 5: Interaktiv kommunikation (4 %)**
 
 * Utforma, demonstrera och implementera processer för interaktiv kommunikation
 
->[!TAB Förbered]
+<br>
 
-Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
+### Beredskapenkät
 
-Här följer några förslag på resurser som hjälper dig att förbereda dig:
+{{readiness}}
+
+[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-x38d6m/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam){target="_blank"}
+
+<br>
+
+## Så här certifierar du dig {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Steg 1: Skapa ditt konto
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Steg 2: Förbered dig för provet
+
+**Studiematerial**
+
+{{study-materials-intro}}
 
 **Avsnitt 1: Skapa och hantera Forms**
 
@@ -153,17 +177,33 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Översikt över interaktion](https://experienceleague.adobe.com/docs/experience-manager-64/forms/getting-started/interactive-communications-overview.html){target="_blank"}
 * [Villkor i interaktiv kommunikation](https://experienceleague.adobe.com/docs/experience-manager-65/forms/interactive-communications/conditions-interactive-communications.html){target="_blank"}
 
->[!TAB Bli certifierad]
+<br>
 
->[!IMPORTANT]
->
->Följande avsnitt och länkar fungerar **endast** efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
-
-## Gör ett övningsprov
+**Gör ett övningsprov**
 
 {{practice-test}}
 
-## Om certifieringsprovet
++++
+
+<br>
+
++++Steg 3: Schemalägg och betala för prov
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Steg 4: Före och efter tentamen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Steg 5: Ta provet
 
 {{about-certification-exam}}
 
@@ -176,7 +216,23 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Steg 6: Hantera dina emblem
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Förnya din certifiering
+
+{{renewing-intro}}
+
+<br>
 
 ## Frågor
 

@@ -8,18 +8,51 @@ recommendations: disable, exclude
 badge: label="Prov AD0-E602" type="positive"
 mini-toc-levels: 1
 exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '750'
-ht-degree: 2%
+source-wordcount: '563'
+ht-degree: 3%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Real-Time CDP] Yrkesverksamma inom affärsverksamhet
 
-Lär dig hur du blir certifierad Adobe [!DNL Experience Platform] Yrkesverksamma.
+{{intro}}
 
-## Minimal upplevelse
+## Provbeskrivning {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Provinformation {#exam-details}
+
+* Nivå: Professionell (0-12 månaders upplevelse)
+* Löpande poäng: 28/50
+* Tid: 100 min
+* Leverans: Bearbetad online (kräver kameraåtkomst)
+* Tillgängliga språk: engelska
+* Kostnad: 125 USD (globalt)/95 USD (Indien)
+* Exam ID: AD0-E602
+
+<br>
+
+### Målgrupp {#intended-audience}
+
+* Lösningskonsult
+* Dataanalytiker
+* Marknadsförare
+* Kampanjmarknadsföringsanalytiker
+* Affärsanalytiker
+* Campaign Manager
+* CDP Consultant
+* Konverterings-/optimeringskonsult
+* Ägare av marknadsföringsprodukt
+* Marknadsförare
+
+<br>
+
+### Minimal upplevelse {#minimum-experience}
 
 Du borde ha:
 
@@ -38,73 +71,54 @@ Upplev uppgifter som innefattar:
 * Förstå högnivåfunktioner och funktioner för AEP och dess tjänster
 * Konfigurera nya mål
 
->[!NOTE]
->
->Din certifiering gäller i två år från och med när du godkänns. Vi rekommenderar att du använder den nyare versionen när det är möjligt eftersom den omfattar nyare produktfunktioner.
+<br>
 
->[!BEGINTABS]
+### Mål och omfattning för tentamen {#exam-objectives}
 
->[!TAB Gör dig redo]
+{{exam-objectives}}
 
-**Målgrupp:**
-
-* Lösningskonsult
-* Dataanalytiker
-* Marknadsförare
-* Kampanjmarknadsföringsanalytiker
-* Affärsanalytiker
-* Campaign Manager
-* CDP Consultant
-* Konverterings-/optimeringskonsult
-* Ägare av marknadsföringsprodukt
-* Marknadsförare
-
-**Information om tentamen:**
-
-* Nivå: Professionell (0-12 månaders upplevelse)
-* Löpande poäng: 28/50
-* Tid: 100 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
-* Tillgängliga språk: engelska
-* Kostnad: 125 USD (globalt)/95 USD (Indien)
-* Exam ID: AD0-E602
-
-**Mål och omfattning för tentamen**
-
-Avsnitt 1: Segment och aktivering (32 %)
+**Avsnitt 1: Segment och aktivering (32 %)**
 
 * Skapa segment och aktivera till mål
 * Konfigurera nya mål
 * Tillämpa nödvändiga begrepp för målidentiteter på mål
 * Identifiera attributmappningar och schemaläggning av segment till målet
 
-Avsnitt 2: Integritet och datahantering (20 %)
+**Avsnitt 2: Integritet och datahantering (20 %)**
 
 * Uppvisa förståelse för DULE-policyer och deras inverkan på datatillgängligheten på destinationer
 * Se till att åtgärder för integritetsskydd och datakompatibilitet följs
 
-Avsnitt 3: Affärsanalys (30 %)
+**Avsnitt 3: Affärsanalys (30 %)**
 
 * Identifiera användningsfall som knyter till nyckeltal för verksamheten
 * Analysera kundsegmentens data på plattformen
 * Uppvisa förståelse för dataflödesbegrepp
 
-Avsnitt 4: Scheman och profiler (18 %)
+**Avsnitt 4: Scheman och profiler (18 %)**
 
 * Uppvisa förståelse för Adobe [!DNL Experience Platform] begrepp
 * Använd profilfunktioner
 
->[!TAB Förbered]
+<br>
 
-Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
+## Så här certifierar du dig {#how-to-get-certified}
 
-Här följer några förslag på resurser som hjälper dig att förbereda dig:
+{{how-to-get-certified-intro}}
 
-**Exempelfrågor**
++++Steg 1: Skapa ditt konto
 
-Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer att stöta på i provet. Ingen inloggning behövs. Resultaten av exempelfrågorna lagras inte och du kan inte förutsäga dina faktiska testresultat.
+{{create-your-account}}
 
-[Se exempelfrågor](https://scorpion.caveon.com/launchpad/ad3-e602-adobe-real-time-cdp-business-practitioner-professional-sample-questions){target="_blank"}
++++
+
+<br>
+
++++Steg 2: Förbered dig för provet
+
+**Studiematerial**
+
+{{study-materials-intro}}
 
 **Avsnitt 1: Segment och aktivering**
 
@@ -135,19 +149,36 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 * [Översikt över kundprofiler i realtid](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/profile/profile-overview.html){target="_blank"}
 * [Användargränssnittshandbok för unionsschema](https://experienceleague.adobe.com/docs/experience-platform/profile/union-schemas/union-schema.html){target="_blank"}
 
->[!TAB Bli certifierad]
+<br>
 
->[!IMPORTANT]
->
->Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
+**Exempelfrågor**
 
-## Gör ett övningsprov
+{{sample-questions}}
 
-{{practice-test}}
+[Visa exempelfrågor](https://scorpion.caveon.com/launchpad/ad3-e602-adobe-real-time-cdp-business-practitioner-professional-sample-questions){target="_blank"}
 
-## Om certifieringsprovet
+
++++
+
+<br>
+
++++Steg 3: Schemalägg och betala för prov
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Steg 4: Före och efter tentamen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Steg 5: Ta provet
 
 {{about-certification-exam}}
 
@@ -160,7 +191,23 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Steg 6: Hantera dina emblem
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Förnya din certifiering
+
+{{renewing-intro}}
+
+<br>
 
 ## Frågor
 

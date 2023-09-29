@@ -8,18 +8,53 @@ level: Experienced
 badge: label="Prov AD0-E722" type="positive"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: dca1d6b3f7c79b2fc389342829793b6a63b5ad0c
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '766'
+source-wordcount: '671'
 ht-degree: 0%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Commerce] Architect Master
 
-Lär dig hur du blir certifierad [!DNL Adobe Commerce] Arkitektmästare.
 
-## Minimal upplevelse
+{{intro}}
+
+## Provbeskrivning {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Provinformation {#exam-details}
+
+* Nivå: Masternivå (3-5 års erfarenhet)
+* Löpande poäng: 30/50
+* Tid: 100 min
+* Leverans: Bearbetad online (kräver kameraåtkomst)
+* Tillgängliga språk: engelska
+* Kostnad: $225 (global) / $150 (Indien)
+* Exam ID: AD0-E722
+
+<br>
+
+### Målgrupp {#intended-audience}
+
+* Lead Software/[!DNL Adobe Commerce] Arkitekt
+* Teknisk arkitekt
+* Lösningsarkitekt
+* Technical Lead
+* Teknisk expert
+* Full Stack Developer
+* Lead Engineer
+* Associate Technical Architect
+* Senior Backend Developer
+* Programvaruutvecklare
+* Senior Technical Consultant
+
+<br>
+
+### Minimal upplevelse {#minimum-experience}
 
 Du bör ha minst 3-5 års erfarenhet som ledare [!DNL Commerce] utvecklingsprojekt och kan utforma, integrera, implementera och förklara lösningar på affärsproblem genom att använda [!DNL Adobe Commerce] tillsammans med tillhörande tjänster.
 
@@ -51,45 +86,13 @@ Dessutom bör du känna till följande aktiviteter och tekniker:
 * Skapa och ändra B2B
 * AMQP-protokoll och -kort i [!DNL Adobe Commerce] (S3)
 
->[!NOTE]
->
->Din certifiering gäller i två år från och med när du godkänns. Vi rekommenderar att du använder den nyare versionen när det är möjligt eftersom den omfattar nyare produktfunktioner.
+<br>
 
->[!BEGINTABS]
+### Mål och omfattning för tentamen {#exam-objectives}
 
->[!TAB Gör dig redo]
+{{exam-objectives}}
 
-**Målgrupp:**
-
-* Lead Software/[!DNL Adobe Commerce] Arkitekt
-* Teknisk arkitekt
-* Lösningsarkitekt
-* Technical Lead
-* Teknisk expert
-* Full Stack Developer
-* Lead Engineer
-* Associate Technical Architect
-* Senior Backend Developer
-* Programvaruutvecklare
-* Senior Technical Consultant
-
-**Information om tentamen:**
-
-* Nivå: Masternivå (3-5 års erfarenhet)
-* Löpande poäng: 30/50
-* Tid: 100 min
-* Leverans: Bearbetad online (kräver kameraåtkomst)
-* Tillgängliga språk: engelska
-* Kostnad: $225 (global) / $150 (Indien)
-* Exam ID: AD0-E722
-
-**Självbedömning av beredskap**
-
-Slutför [onlineberedskapsenkät](https://scorpion.caveon.com/launchpad/ad-q-e718-readiness-questionnaire-for-adobe-commerce-architect-master-exam){target="_blank"} för att se om din nuvarande upplevelse matchar den rekommenderade lägsta kandidatkvalificeringen.
-
-**Mål och omfattning för tentamen**
-
-Avsnitt 1: Design (46 %)
+**Avsnitt 1: Design (46 %)**
 
 * Utforma och implementera optimala lösningar för Adobe [!DNL Commerce] för att tillgodose verksamhetens behov
 * Utforma logiska och tekniska flöden
@@ -97,7 +100,7 @@ Avsnitt 1: Design (46 %)
 * Integrera Adobe [!DNL Commerce] med externa system och tjänster
 * Felsöka designflöden
 
-Avsnitt 2 - Granskning (32 %)
+**Avsnitt 2: Granskning (32 %)**
 
 * Granska och omskapa Adobe [!DNL Commerce] anpassningar
 * Utnyttja [!DNL Commerce] testramverk i hela arbetsflödet
@@ -105,18 +108,38 @@ Avsnitt 2 - Granskning (32 %)
 * Felsökning för att identifiera den grundläggande orsaken till problem med Adobe [!DNL Commerce]
 * Tvinga kodstandarder
 
-Avsnitt 3: Konfigurera och distribuera (22 %)
+**Avsnitt 3: Konfigurera och distribuera (22 %)**
 
 * Konfigurera Adobe [!DNL Commerce] och se till att projektet är optimalt konfigurerat
 * Konfigurera alla aspekter av Adobe [!DNL Commerce] Cloud
 * Översikt och förbättrad distributionsprocess
 * Felsöka infrastruktur- och konfigurationsproblem
 
->[!TAB Förbered]
+### Beredskapenkät
 
-Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
+{{readiness}}
 
-Här följer några förslag på resurser som hjälper dig att förbereda dig:
+[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e718-readiness-questionnaire-for-adobe-commerce-architect-master-exam){target="_blank"}
+
+<br>
+
+## Så här certifierar du dig {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Steg 1: Skapa ditt konto
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Steg 2: Förbered dig för provet
+
+**Studiematerial**
+
+{{study-materials-intro}}
 
 **Avsnitt 1: Design**
 
@@ -149,15 +172,27 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Översikt över initiering och bootstrap](https://devdocs.magento.com/guides/v2.4/config-guide/bootstrap/magento-bootstrap.html){target="_blank"}
 * [Snabb översikt över tjänster](https://devdocs.magento.com/cloud/cdn/cloud-fastly.html){target="_blank"}
 
->[!TAB Bli certifierad]
++++
 
->[!IMPORTANT]
->
->Följande avsnitt och länkar fungerar **endast** efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
+<br>
 
++++Steg 3: Schemalägg och betala för prov
 
+{{schedule-and-pay}}
 
-## Om certifieringsprovet
++++
+
+<br>
+
++++Steg 4: Före och efter tentamen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Steg 5: Ta provet
 
 {{about-certification-exam}}
 
@@ -170,7 +205,23 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Steg 6: Hantera dina emblem
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Förnya din certifiering
+
+{{renewing-intro}}
+
+<br>
 
 ## Frågor
 

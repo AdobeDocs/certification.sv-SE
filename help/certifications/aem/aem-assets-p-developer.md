@@ -7,18 +7,49 @@ role: Developer
 badge: label="Prov AD0-E129" type="positive"
 mini-toc-levels: 1
 exl-id: 710f6c8b-9a6c-445e-b831-a891b559f208
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '823'
-ht-degree: 3%
+source-wordcount: '630'
+ht-degree: 4%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Experience Manager] Assets Developer Professional
 
-Lär dig hur du blir certifierad Adobe [!DNL Experience Manager] Assets Developer Professional.
+{{intro}}
 
-## Minimal upplevelse
+## Provbeskrivning {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Provinformation {#exam-details}
+
+* Nivå: Professionell (0-12 månaders upplevelse)
+* Löpande poäng: 30/50
+* Tid: 100 min
+* Leverans: Bearbetad online (kräver kameraåtkomst)
+* Tillgängliga språk: engelska
+* Kostnad: 125 USD (globalt)/95 USD (Indien)
+* Exam ID: AD0-E129
+
+<br>
+
+### Målgrupp {#intended-audience}
+
+* AEM
+* DevOps-ingenjörer
+* AEM Architects
+* Molntekniker
+* Ansvariga för webbplatser
+* Tekniska chefer
+* Programutvecklare
+* Systemingenjörer
+
+<br>
+
+### Minimal upplevelse {#minimum-experience}
 
 Du bör känna dig trygg när du arbetar i Adobe Managed Services och Adobe [!DNL Experience Manager as a Cloud Service]och kan installera Adobe [!DNL Experience Manager] miljöer och infrastruktur.
 
@@ -41,42 +72,13 @@ Dessutom bör du ha erfarenhet av följande tekniker och miljöer:
 * Dev, sandlåda
 * Lokal miljö
 
->[!NOTE]
->
->Din certifiering gäller i två år från och med när du godkänns. Vi rekommenderar att du använder den nyare versionen när det är möjligt eftersom den omfattar nyare produktfunktioner.
+<br>
 
->[!BEGINTABS]
+### Mål och omfattning för tentamen {#exam-objectives}
 
->[!TAB Gör dig redo]
+{{exam-objectives}}
 
-**Målgrupp:**
-
-* AEM
-* DevOps-ingenjörer
-* AEM Architects
-* Molntekniker
-* Ansvariga för webbplatser
-* Tekniska chefer
-* Programutvecklare
-* Systemingenjörer
-
-**Information om tentamen:**
-
-* Nivå: Professionell (0-12 månaders upplevelse)
-* Löpande poäng: 30/50
-* Tid: 100 min
-* Leverans: Bearbetad online (kräver kameraåtkomst)
-* Tillgängliga språk: engelska
-* Kostnad: 125 USD (globalt)/95 USD (Indien)
-* Exam ID: AD0-E129
-
-**Självbedömning av beredskap**
-
-Slutför [onlineberedskapsenkät](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam-copy-b9x6ey/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam){target="_blank"} för att se om din nuvarande upplevelse matchar den rekommenderade lägsta kandidatkvalificeringen.
-
-**Mål och omfattning för tentamen**
-
-Avsnitt 1: Resursarbetsflöden (24 %)
+**Avsnitt 1: Resursarbetsflöden (24 %)**
 
 * Förklara processen att anpassa OTB-arbetsflöden
 * Identifiera när man ska skapa eller anpassa resursarbetsflöden för att uppfylla kundernas behov
@@ -84,7 +86,7 @@ Avsnitt 1: Resursarbetsflöden (24 %)
 * Differentiera mellan moln och lokala arbetsflöden
 * Beskriv hur du använder arbetsflödeskonsolen för att övervaka status och förlopp
 
-Avsnitt 2: Resursorganisation och tillgångskonsol (22 %)
+**Avsnitt 2: Resursorganisation och tillgångskonsol (22 %)**
 
 * Uppvisa hur du skapar och organiserar resurser i samlingar
 * Uppvisa hur du organiserar resurser med hjälp av taggar
@@ -92,36 +94,52 @@ Avsnitt 2: Resursorganisation och tillgångskonsol (22 %)
 * Beskriv hur du konfigurerar och genererar AEM
 * Beskriv hur du hanterar användarbehörigheter i resursmappar
 
-Avsnitt 3: Metadata för tillgångar (24 %)
+**Avsnitt 3: Metadata för tillgångar (24 %)**
 
 * Definiera metadatascheman
 * Bestäm hur du justerar ett lämpligt metadataram utifrån ett scenario
 * I ett scenario avgör du hur metadataprofiler kan användas för att uppfylla kraven
 * Förstå hur Cascading Metadata Schemas fungerar
 
-Avsnitt 4: Tillgångstyper (18 %)
+**Avsnitt 4: Tillgångstyper (18 %)**
 
 * Beskriv vilka OOTB-funktioner som är tillgängliga för tillgångstyper
 * Förklara innehållsfragment och modeller för innehållsfragment
 * Uppvisa hur och när innehållsfragmentvariationer ska användas
 
-Section 5: Asset feature sets and capabilities (12%)
+**Section 5: Asset feature sets and capabilities (12%)**
 
 * Beskriv vanliga användningsområden och fördelarna med att använda Brand Portal
 * Beskriv vanliga användningsområden och fördelarna med att använda Dynamic Media
 * Beskriv alternativ för att utnyttja AEM med Creative Cloud
 
->[!TAB Förbered]
+<br>
 
-Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
+### Beredskapenkät
 
-Här följer några förslag på resurser som hjälper dig att förbereda dig:
+{{readiness}}
 
-**Exempelfrågor**
+[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam-copy-b9x6ey/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam){target="_blank"}
 
-Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer att stöta på i provet. Ingen inloggning behövs. Resultaten av exempelfrågorna lagras inte och du kan inte förutsäga dina faktiska testresultat.
+<br>
 
-[Se exempelfrågor](https://scorpion.caveon.com/launchpad/ad0-e129-adobe-experience-manager-assets-developer-professional-copy-ms27zq){target="_blank"}
+## Så här certifierar du dig {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Steg 1: Skapa ditt konto
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Steg 2: Förbered dig för provet
+
+**Studiematerial**
+
+{{study-materials-intro}}
 
 **Avsnitt 1: Resursarbetsflöden**
 
@@ -152,16 +170,35 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 * [Filformat som stöds](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-supported-formats.html){target="_blank"}
 * [Videoprofiler för Dynamic Media](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/video-profiles.html){target="_blank"}
 
->[!TAB Bli certifierad]
+<br>
 
->[!IMPORTANT]
->
->Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
+**Exempelfrågor**
 
+{{sample-questions}}
 
-## Om certifieringsprovet
+[Visa exempelfrågor](https://scorpion.caveon.com/launchpad/ad0-e129-adobe-experience-manager-assets-developer-professional-copy-ms27zq){target="_blank"}
+
++++
+
+<br>
+
++++Steg 3: Schemalägg och betala för prov
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Steg 4: Före och efter tentamen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Steg 5: Ta provet
 
 {{about-certification-exam}}
 
@@ -174,7 +211,23 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Steg 6: Hantera dina emblem
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Förnya din certifiering
+
+{{renewing-intro}}
+
+<br>
 
 ## Frågor
 

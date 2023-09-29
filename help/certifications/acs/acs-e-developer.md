@@ -7,18 +7,47 @@ role: Developer
 badge: label="Prov AD0-E306" type="positive"
 mini-toc-levels: 1
 exl-id: be24274b-7a61-47f5-9947-984015c07a96
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1073'
-ht-degree: 12%
+source-wordcount: '930'
+ht-degree: 14%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Campaign Standard] Developer Expert
 
-Lär dig hur du blir certifierad Adobe [!DNL Campaign Standard] Developer Expert.
+{{intro}}
 
-## Minimal upplevelse
+## Provbeskrivning {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Provinformation {#exam-details}
+
+* Nivå: Expert (1-3 års erfarenhet)
+* Löpande poäng: 29/50
+* Tid: 100 min
+* Leverans: Bearbetad online (kräver kameraåtkomst)
+* Tillgängliga språk: engelska
+* Kostnad: $225 (global) / $150 (Indien)
+* Exam ID: AD0-E306
+
+<br>
+
+### Målgrupp {#intended-audience}
+
+* Administratör för automatiserad marknadsföring
+* Adobe Experience Cloud-utvecklare
+* E-postmarknadsföringsanalytiker
+* Programutvecklare
+* Kampanjutvecklare
+* Marknadsförare
+
+<br>
+
+### Minimal upplevelse {#minimum-experience}
 
 Du borde ha:
 
@@ -40,40 +69,13 @@ Du borde ha:
 * Upplev transaktionsmeddelanden och meddelandeleverans i flera kanaler
 * Upplevelse med hanterade paket
 
->[!NOTE]
->
->Din certifiering gäller i två år från och med när du godkänns. Vi rekommenderar att du använder den nyare versionen när det är möjligt eftersom den omfattar nyare produktfunktioner.
+<br>
 
->[!BEGINTABS]
+### Mål och omfattning för tentamen {#exam-objectives}
 
->[!TAB Gör dig redo]
+{{exam-objectives}}
 
-**Målgrupp:**
-
-* Administratör för automatiserad marknadsföring
-* Adobe Experience Cloud-utvecklare
-* E-postmarknadsföringsanalytiker
-* Programutvecklare
-* Kampanjutvecklare
-* Marknadsförare
-
-**Information om tentamen:**
-
-* Nivå: Expert (1-3 års erfarenhet)
-* Löpande poäng: 29/50
-* Tid: 100 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
-* Tillgängliga språk: engelska
-* Kostnad: $225 (global) / $150 (Indien)
-* Exam ID: AD0-E306
-
-**Självbedömning av beredskap**
-
-Slutför [onlineberedskapsenkät](https://scorpion.caveon.com/launchpad/ad-q-e306-readiness-questionnaire-for-adobe-campaign-standard-developer-expert-exam){target="_blank"} för att se om din nuvarande upplevelse matchar den rekommenderade lägsta kandidatkvalificeringen.
-
-**Mål och omfattning för tentamen**
-
-Avsnitt 1: Datamodellering och datahantering (26 %)
+**Avsnitt 1: Datamodellering och datahantering (26 %)**
 
 * Omvandla ett klientbehov till en anpassad resurs efter ett scenario
 * Bestäm hur skärm- och filterdefinitioner ska konfigureras
@@ -82,7 +84,7 @@ Avsnitt 1: Datamodellering och datahantering (26 %)
 * Felsöka problem med datamodellering
 * Fastställa rätt metod för att bygga tekniska arbetsflöden
 
-Avsnitt 2: Kampanjhantering (50 %)
+**Avsnitt 2: Kampanjhantering (50 %)**
 
 * Felsöka arbetsflödesfel
 * Bestäm rätt strategi för att skapa kampanjer
@@ -95,7 +97,7 @@ Avsnitt 2: Kampanjhantering (50 %)
 * Identifiera rätt sätt att bygga e-postmeddelanden med hjälp av den kreativa designern
 * Bestäm rätt metod för att skapa anpassade rapporter
 
-Avsnitt 3: Administration (24%)
+**Avsnitt 3: Administration (24%)**
 
 * Bestäm rätt metod för att skapa säkerhetsgrupper och organisationsenheter för användare
 * Identifiera rätt sätt att hantera och distribuera paket
@@ -104,9 +106,33 @@ Avsnitt 3: Administration (24%)
 * Bestäm rätt sätt att skapa varumärken
 * Bestäm rätt metod för att utveckla kanalkonfigurationer
 
->[!TAB Förbered]
+<br>
 
-Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
+### Beredskapenkät
+
+{{readiness}}
+
+[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e306-readiness-questionnaire-for-adobe-campaign-standard-developer-expert-exam){target="_blank"}
+
+<br>
+
+## Så här certifierar du dig {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Steg 1: Skapa ditt konto
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Steg 2: Förbered dig för provet
+
+**Studiematerial**
+
+{{study-materials-intro}}
 
 **Avsnitt 1: Datamodellering och datahantering**
 
@@ -151,19 +177,33 @@ Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och 
 * [Om kanalkonfiguration](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html){target="_blank"}
 * [Kom igång med kommunikationskanaler](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/get-started-communication-channels.html){target="_blank"}
 
->[!TAB Bli certifierad]
+<br>
 
->[!IMPORTANT]
->
->Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
-
-## Gör ett övningsprov
+**Gör ett övningsprov**
 
 {{practice-test}}
 
-## Om certifieringsprovet
++++
+
+<br>
+
++++Steg 3: Schemalägg och betala för prov
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Steg 4: Före och efter tentamen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Steg 5: Ta provet
 
 {{about-certification-exam}}
 
@@ -176,7 +216,23 @@ Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och 
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Steg 6: Hantera dina emblem
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Förnya din certifiering
+
+{{renewing-intro}}
+
+<br>
 
 ## Frågor
 

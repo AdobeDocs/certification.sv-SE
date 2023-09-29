@@ -7,40 +7,36 @@ role: User
 badge: label="Prov AD0-E502" type="positive"
 mini-toc-levels: 1
 exl-id: 15f3e05a-4896-488c-a65d-d6e8f948c8cc
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '539'
 ht-degree: 0%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Advertising DSP] Yrkesverksamma inom affärsverksamhet
 
-Lär dig hur du blir certifierad [!DNL Adobe Advertising DSP] Yrkesverksamma inom affärsverksamhet.
+{{intro}}
 
-## Minimal upplevelse
+## Provbeskrivning {#exam-description}
 
-Du borde ha:
+{{exam-description}}
 
-* 6+ månaders erfarenhet med [!DNL Adobe Advertising]
-* Upplevelser i planering och mätning av nyckeltal för prestandaindikatorer inom medieinköp
+<br>
 
-Bekanta dig med följande verktyg och tekniker:
+### Provinformation {#exam-details}
 
-* Program för annonstestning/felsökning (VAST INSPECTOR, utvecklingsverktyg för Chrome)
-* Analysverktyg ([!DNL Adobe Analytics], Google Analytics)
-* Taggningsprogram från tredje part (Sizmek, Google tagghanterare)
-* Mediekvalitetsverktyg från tredje part (IAS, MOAT)
-* Större webbläsare
-* Annonsbörser, SSP och DMP
+* Nivå: Professionell (0-12 månaders upplevelse)
+* Passing Score: 44/69
+* Tid: 138 min
+* Leverans: Bearbetad online (kräver kameraåtkomst)
+* Tillgängliga språk: engelska
+* Kostnad: 125 USD (globalt)/95 USD (Indien)
+* Exam ID: AD0-E502
 
->[!NOTE]
->
->Din certifiering gäller i två år från och med när du godkänns. Vi rekommenderar att du använder den nyare versionen när det är möjligt eftersom den omfattar nyare produktfunktioner.
+<br>
 
->[!BEGINTABS]
-
->[!TAB Gör dig redo]
+### Målgrupp {#intended-audience}
 
 **Målgrupp:**
 
@@ -50,19 +46,31 @@ Bekanta dig med följande verktyg och tekniker:
 * Kampanjchef
 * Medieköpare
 
-**Information om tentamen:**
+<br>
 
-* Nivå: Professionell (0-12 månaders upplevelse)
-* Passing Score: 44/69
-* Tid: 138 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
-* Tillgängliga språk: engelska
-* Kostnad: 125 USD (globalt)/95 USD (Indien)
-* Exam ID: AD0-E502
+### Minimal upplevelse {#minimum-experience}
 
-**Mål och omfattning för tentamen**
+Du borde ha:
 
-Avsnitt 1: Konfigurera kampanjer (42 %)
+* 6+ månaders erfarenhet med [!DNL Adobe Advertising]
+* Upplevelser i planering och mätning av nyckeltal för prestandaindikatorer inom medieinköp
+
+Du bör också känna till följande verktyg och tekniker:
+
+* Program för annonstestning/felsökning (VAST INSPECTOR, utvecklingsverktyg för Chrome)
+* Analysverktyg ([!DNL Adobe Analytics], Google Analytics)
+* Taggningsprogram från tredje part (Sizmek, Google tagghanterare)
+* Mediekvalitetsverktyg från tredje part (IAS, MOAT)
+* Större webbläsare
+* Annonsbörser, SSP och DMP
+
+<br>
+
+### Mål och omfattning för tentamen {#exam-objectives}
+
+{{exam-objectives}}
+
+**Avsnitt 1: Konfigurera kampanjer (42 %)**
 
 * Med tanke på behovet av en kampanj, fastställa strategin för den kampanjen
 * Skapa en ny kampanj utifrån ett scenario
@@ -72,14 +80,14 @@ Avsnitt 1: Konfigurera kampanjer (42 %)
 * Duplicera och redigera en kampanj för ett scenario
 * Använda procedurbegrepp som krävs för att ställa in privata lager och on demand-inventeringar för en kampanj
 
-Avsnitt 2: Köra och optimera kampanjer (22 %)
+**Avsnitt 2: Köra och optimera kampanjer (22 %)**
 
 * Använd procedurmässiga koncept för att säkerställa att kampanjer körs på rätt sätt
 * Använda procedurbegrepp för att optimera en kampanj
 * Använda procedurbegrepp för att felsöka en kampanj
 * I ett scenario kan du hantera integreringar med plattformsoberoende lösningar
 
-Avsnitt 3: Rapportering och analys (26 %)
+**Avsnitt 3: Rapportering och analys (26 %)**
 
 * Läs data inom plattformen utifrån ett scenario
 * Skapa och läs anpassade rapporter utifrån ett scenario
@@ -87,19 +95,32 @@ Avsnitt 3: Rapportering och analys (26 %)
 * Utvärdera resultatet för en kampanj utifrån ett scenario
 * Använd procedurbegrepp för att tilldela prestanda till en kampanj
 
-Avsnitt 4: Tillhandahålla rekommendationer för kampanjer (10 %)
+**Avsnitt 4: Tillhandahålla rekommendationer för kampanjer (10 %)**
 
 * Tillhandahåll uppdateringar till klienter baserat på en kampanj i ett scenario
 * För ett scenario, justera kampanjstrategin baserat på kampanjresultat
 
->[!TAB Förbered]
+<br>
 
-Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
+## Så här certifierar du dig {#how-to-get-certified}
 
-Här följer några förslag på resurser som hjälper dig att förbereda dig:
+{{how-to-get-certified-intro}}
+
++++Steg 1: Skapa ditt konto
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Steg 2: Förbered dig för provet
+
+**Studiematerial**
+
+{{study-materials-intro}}
 
 **Avsnitt 1: Konfigurera kampanjer**
-
 
 * [Om Audience Management i [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/audiences/audience-about.html){target="_blank"}
 * [Översikt över inventeringsfunktioner i [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/inventory-overview.html){target="_blank"}
@@ -123,15 +144,27 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Hur [!DNL Advertising] DSP optimerar era kampanjer](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html){target="_blank"}
 * [Om annonshantering i [!DNL Advertising] DSP](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/ads/ad-about.html){target="_blank"}
 
->[!TAB Bli certifierad]
++++
 
->[!IMPORTANT]
->
->Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
+<br>
 
-## Om certifieringsprovet
++++Steg 3: Schemalägg och betala för prov
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Steg 4: Före och efter tentamen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Steg 5: Ta provet
 
 {{about-certification-exam}}
 
@@ -144,7 +177,23 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Steg 6: Hantera dina emblem
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Förnya din certifiering
+
+{{renewing-intro}}
+
+<br>
 
 ## Frågor
 

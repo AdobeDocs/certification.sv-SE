@@ -7,48 +7,24 @@ role: User
 badge: label="Prov AD0-E126" type="positive"
 mini-toc-levels: 1
 exl-id: 83ee013f-aa37-409b-8bcb-385be6962b26
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '865'
-ht-degree: 7%
+source-wordcount: '686'
+ht-degree: 9%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Experience Manager] Yrkesverksamma inom affärsverksamhet
 
-Lär dig hur du blir certifierad Adobe [!DNL Experience Manager] Yrkesverksamma inom affärsverksamhet.
+{{intro}}
 
-## Minimal upplevelse
+## Provbeskrivning {#exam-description}
 
-Du borde ha:
+{{exam-description}}
 
-* Minst 0-12 månaders erfarenhet av användning och konfigurering av Adobe Cloud Manager
-* Minst 12 månaders erfarenhet av AEM funktioner som krävs för att engagera utvecklarna för att hitta affärslösningar
-* Minst 12 månaders erfarenhet av att konfigurera, implementera och hantera uppgifter för kontinuerlig integrering/kontinuerlig driftsättning
+<br>
 
-Om du känner dig trygg när du arbetar i Adobe Managed Services och Adobe [!DNL Experience Manager] as a Cloud Service, och kan konfigurera Adobe [!DNL Experience Manager] miljöer och infrastruktur.
-
-Dessutom bör du ha:
-
-* Möjligheten att använda AEM produkter för att hantera innehåll och skapa digitala upplevelser
-* En förståelse för vilka moduler som finns
-* Mer information om moduler som Sites, Assets och Forms
-
->[!NOTE]
->
->Din certifiering gäller i två år från och med när du godkänns. Vi rekommenderar att du använder den nyare versionen när det är möjligt eftersom den omfattar nyare produktfunktioner.
-
->[!BEGINTABS]
-
->[!TAB Gör dig redo]
-
-**Målgrupp:**
-
-* Lösningskonsult
-* Konsumentupplevelser
-* Produktägare för en lösning som ska utformas och implementeras, affärsanalytiker, lösningsarkitekt
-
-**Information om tentamen:**
+### Provinformation {#exam-details}
 
 * Nivå: Professionell (0-12 månaders upplevelse)
 * Löpande poäng: 33/50
@@ -58,22 +34,52 @@ Dessutom bör du ha:
 * Kostnad: 125 USD (globalt)/95 USD (Indien)
 * Exam ID: AD0-E126
 
-**Mål och omfattning för tentamen**
+<br>
 
-Avsnitt 1: Utbildning (22 %)
+### Målgrupp {#intended-audience}
+
+* Lösningskonsult
+* Konsumentupplevelser
+* Produktägare för en lösning som ska utformas och implementeras, affärsanalytiker, lösningsarkitekt
+
+<br>
+
+### Minimal upplevelse {#minimum-experience}
+
+Du borde ha:
+
+* Minst 0-12 månaders erfarenhet av användning och konfigurering av Adobe Cloud Manager
+* Minst 12 månaders erfarenhet av AEM funktioner som krävs för att engagera utvecklarna för att hitta affärslösningar
+* Minst 12 månaders erfarenhet av att konfigurera, implementera och hantera uppgifter för kontinuerlig integrering/kontinuerlig driftsättning
+
+Du bör känna dig trygg när du arbetar i Adobe Managed Services och Adobe [!DNL Experience Manager] as a Cloud Service, och kan konfigurera Adobe [!DNL Experience Manager] miljöer och infrastruktur.
+
+Dessutom bör du ha:
+
+* Möjligheten att använda AEM produkter för att hantera innehåll och skapa digitala upplevelser
+* En förståelse för vilka moduler som finns
+* Mer information om moduler som Sites, Assets och Forms
+
+<br>
+
+### Mål och omfattning för tentamen {#exam-objectives}
+
+{{exam-objectives}}
+
+**Avsnitt 1: Utbildning (22 %)**
 
 * Identifiera AEM funktioner
 * Beskriv AEM funktioner som uppfyller företagets behov
 * Beskriv de procedurbegrepp som krävs för att genomföra utbildning för innehållsredigerare
 
-Avsnitt 2: Arkitektur (22 %)
+**Avsnitt 2: Arkitektur (22 %)**
 
 * Identifiera den informationsarkitektur som är lämplig för att uppfylla företagets behov med hjälp av en lokal miljö eller en Adobe-miljö (molnet)
 * Beskriv hur AEM ansluter till tredjepartstjänster
 * Identifiera var roller och behörigheter ska definieras
 * I ett scenario definierar du tillgängliga cachelagringsmetoder
 
-Avsnitt 3: Affärsanalys (43 %)
+**Avsnitt 3: Affärsanalys (43 %)**
 
 * I ett scenario kan du identifiera standardmoduler för AEM som åtgärdar kundaffärsproblem
 * Identifiera begrepp för innehållshantering för AEM moduler
@@ -82,22 +88,30 @@ Avsnitt 3: Affärsanalys (43 %)
 * Beskriv ett korrekt tillvägagångssätt för att uppfylla affärsmålen samtidigt som du ligger inom budget och/eller omfattning
 * Identifiera sätt att koppla samman affärsmål med utvecklingsteamet
 
-Avsnitt 4: Installation och implementering (13 %)
+**Avsnitt 4: Installation och implementering (13 %)**
 
 * Identifiera bästa AEM för att använda innehållskomponenter
 * Identifiera korrekt implementering av en funktion i ett scenario
 
->[!TAB Förbered]
+<br>
 
-Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
+## Så här certifierar du dig {#how-to-get-certified}
 
-Här följer några förslag på resurser som hjälper dig att förbereda dig:
+{{how-to-get-certified-intro}}
 
-**Exempelfrågor**
++++Steg 1: Skapa ditt konto
 
-Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer att stöta på i provet. Ingen inloggning behövs. Resultaten av exempelfrågorna lagras inte och du kan inte förutsäga dina faktiska testresultat.
+{{create-your-account}}
 
-[Se exempelfrågor](https://scorpion.caveon.com/launchpad/ad0-e126-adobe-experience-manager-business-practitioner-professional-copy-ddww4w){target="_blank"}
++++
+
+<br>
+
++++Steg 2: Förbered dig för provet
+
+**Studiematerial**
+
+{{study-materials-intro}}
 
 **Avsnitt 1: Utbildning**
 
@@ -138,16 +152,35 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 * [Integrera med Adobe [!DNL Target]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/sites/integrations/integrating-adobe-target.html){target="_blank"}
 * [AEM [!DNL Sites] videor och självstudiekurser](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
 
->[!TAB Bli certifierad]
+<br>
 
->[!IMPORTANT]
->
->Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
+**Exempelfrågor**
 
+{{sample-questions}}
 
-## Om certifieringsprovet
+[Visa exempelfrågor](https://scorpion.caveon.com/launchpad/ad0-e126-adobe-experience-manager-business-practitioner-professional-copy-ddww4w){target="_blank"}
+
++++
+
+<br>
+
++++Steg 3: Schemalägg och betala för prov
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Steg 4: Före och efter tentamen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Steg 5: Ta provet
 
 {{about-certification-exam}}
 
@@ -160,7 +193,23 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Steg 6: Hantera dina emblem
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Förnya din certifiering
+
+{{renewing-intro}}
+
+<br>
 
 ## Frågor
 

@@ -7,18 +7,50 @@ role: User
 badge: label="Prov AD0-E307" type="positive"
 mini-toc-levels: 1
 exl-id: ba66d1cc-3545-49ed-8578-1f6aa07f64e7
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '790'
-ht-degree: 8%
+source-wordcount: '637'
+ht-degree: 11%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Campaign Standard] Affärsexpert
 
-Lär dig hur du blir certifierad Adobe [!DNL Campaign Standard] Yrkesverksamma inom affärsverksamhet.
+{{intro}}
 
-## Minimal upplevelse
+## Provbeskrivning {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Provinformation {#exam-details}
+
+* Nivå: Expert (1-3 års erfarenhet)
+* Löpande poäng: 30/50
+* Tid: 100 min
+* Leverans: Bearbetad online (kräver kameraåtkomst)
+* Tillgängliga språk: engelska och japanska
+* Kostnad: $225 (global) / $150 (Indien)
+* Exam ID: AD0-E307
+
+<br>
+
+### Målgrupp {#intended-audience}
+
+* E-postmarknadschef
+* Digital Marketing Manager
+* Kampanjspecialist
+* Marknadsförare
+* Kampanjproduktchef
+* Kampanjanalytiker
+* Dataanalyshanterare
+* CRM-hanterare
+* Lösningshanterare
+
+<br>
+
+### Minimal upplevelse {#minimum-experience}
 
 Ni bör ha erfarenhet av att arbeta i en kanalleveransmiljö (e-post, direktreklam, mobilt och socialt), ha vana vid marknadsföringskampanjer som multi-touch, livscykel och reaktivering samt förstå marknadsföringsstatistik som avkastning, klickfrekvens och konvertering.
 
@@ -31,81 +63,73 @@ Dessutom bör du ha:
 * Rapporter konfigureras
 * En förståelse för konfiguration och godkännande av kampanjleverans
 
->[!NOTE]
->
->Din certifiering gäller i två år från och med när du godkänns. Vi rekommenderar att du använder den nyare versionen när det är möjligt eftersom den omfattar nyare produktfunktioner.
+<br>
 
->[!BEGINTABS]
+### Mål och omfattning för tentamen {#exam-objectives}
 
->[!TAB Gör dig redo]
+{{exam-objectives}}
 
-**Målgrupp:**
-
-* E-postmarknadschef
-* Digital Marketing Manager
-* Kampanjspecialist
-* Marknadsförare
-* Kampanjproduktchef
-* Kampanjanalytiker
-* Dataanalyshanterare
-* CRM-hanterare
-* Lösningshanterare
-
-**Information om tentamen:**
-
-* Nivå: Expert (1-3 års erfarenhet)
-* Löpande poäng: 30/50
-* Tid: 100 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
-* Tillgängliga språk: engelska och japanska
-* Kostnad: $225 (global) / $150 (Indien)
-* Exam ID: AD0-E307
-
-**Självbedömning av beredskap**
-
-Slutför [onlineberedskapsenkät](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-nxam4m/ad-q-e307-readiness-questionnaire-for-adobe-campaign-standard-business-practitioner-expert-exam){target="_blank"} för att se om din nuvarande upplevelse matchar den rekommenderade lägsta kandidatkvalificeringen.
-
-**Mål och omfattning för tentamen**
-
-Avsnitt 1: Leveranshantering (25 %)
+**Avsnitt 1: Leveranshantering (25 %)**
 
 * Använda bästa praxis vid konfiguration och driftsättning av en leverans
 * Kontrollera rätt leveranskonfiguration
 * Använd e-postdesignerfunktioner i rätt scenario
 
-Avsnitt 2: Kampanjhantering (25 %)
+**Avsnitt 2: Kampanjhantering (25 %)**
 
 * Använda konfigurationer för att köra arbetsflöden
 * Använda bästa praxis vid planering, konturering och ändring av en kampanj
 
-Avsnitt 3: Kravanalys (10 %)
+**Avsnitt 3: Kravanalys (10 %)**
 
 * Utforma ett nytt arbetsflöde baserat på verksamhets-/kampanjkrav
 * Tolka kundkrav
 
-Avsnitt 4: Rapportering (15 %)
+**Avsnitt 4: Rapportering (15 %)**
 
 * Utifrån kundens krav, fastställa lämplig rapport för att generera
 * Anpassa en färdig dynamisk rapport efter ett scenario
 * Utgå från exempeldata från OTB-rapporter och tolka resultatet
 * Använd processen för att schemalägga och skicka en OTB-rapport
 
-Avsnitt 5: Felsökning (10 %)
+**Avsnitt 5: Felsökning (10 %)**
 
 * Övervaka och identifiera fel
 * Analysera och tolka distributionsresultat
 
-Avsnitt 6: Datahantering och administration (15%)
+**Avsnitt 6: Datahantering och administration (15%)**
 
 * Förklara datamodellresurser
 * Utför [!DNL Campaign Standard] administration
 * Använda processen för att skapa målgrupper
 
->[!TAB Förbered]
+<br>
 
-Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
+### Beredskapenkät
 
-Här följer några förslag på resurser som hjälper dig att förbereda dig:
+{{readiness}}
+
+[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-nxam4m/ad-q-e307-readiness-questionnaire-for-adobe-campaign-standard-business-practitioner-expert-exam){target="_blank"}
+
+<br>
+
+## Så här certifierar du dig {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Steg 1: Skapa ditt konto
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Steg 2: Förbered dig för provet
+
+**Studiematerial**
+
+{{study-materials-intro}}
 
 **Avsnitt 1: Leveranshantering**
 
@@ -143,19 +167,33 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [ [!DNL Campaign Standard] Kom igång med datamodell](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/get-started-data-model.html){target="_blank"}
 * [Kom igång med [!DNL Campaign Standard] administration](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/get-started-campaign-administration.html){target="_blank"}
 
->[!TAB Bli certifierad]
+<br>
 
->[!IMPORTANT]
->
->Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
-
-## Gör ett övningsprov
+**Gör ett övningsprov**
 
 {{practice-test}}
 
-## Om certifieringsprovet
++++
+
+<br>
+
++++Steg 3: Schemalägg och betala för prov
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Steg 4: Före och efter tentamen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Steg 5: Ta provet
 
 {{about-certification-exam}}
 
@@ -168,10 +206,27 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Steg 6: Hantera dina emblem
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Förnya din certifiering
+
+{{renewing-intro}}
+
+<br>
 
 ## Frågor
 
 Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.
+

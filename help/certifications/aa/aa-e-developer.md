@@ -8,18 +8,44 @@ level: Experienced
 badge: label="tentamen AD0-E209" type="positive"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: ef97353f3a911f22f9c801bb7aeb5f3e455e3230
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '949'
+source-wordcount: '809'
 ht-degree: 3%
 
 ---
 
-# Certifieringsresa för [!DNL Adobe Analytics] Developer Expert
+# Certifieringsresa för Adobe [!DNL Analytics] Developer Expert
 
-Lär dig hur du blir certifierad [!DNL Adobe Analytics] Developer Expert.
+{{intro}}
 
-## Minimal upplevelse
+## Provbeskrivning {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Provinformation {#exam-details}
+
+* Nivå: Expert (1-3 års erfarenhet)
+* Löpande poäng: 31/50
+* Tid: 120 min
+* Leverans: Bearbetad online (kräver kameraåtkomst)
+* Tillgängliga språk: engelska, japanska
+* Kostnad: 225 USD (globalt) och 150 USD (Indien)
+* Exam ID: AD0-E209 (engelska), AD0-E209-J (japanska)
+
+<br>
+
+### Målgrupp {#intended-audience}
+
+* Implementeringsspecialister/ingenjörer
+* Utvecklare
+* Arkitekter
+
+<br>
+
+### Minimal upplevelse {#minimum-experience}
 
 Du bör ha erfarenhet som implementeringskonsult i en blandad roll med ungefär två års erfarenhet av [!DNL Adobe Analytics] implementering. Ni fungerar som en länk mellan IT och företaget, översätter verksamhetskraven till en teknisk lösning (SDR) och bygger på krav från analytikern, förstår vilken typ av variabel som behövs, var och hur data ska samlas in, utformar datamodellen (datalagret), konfigurerar och underhåller tagghanteringslösningen.
 
@@ -48,48 +74,24 @@ Miljöer:
 * Den digitala marknadsföringens område
 * Minimal kunskap om backend-utvecklingsmiljöer som PC, Mac, Android/iOS (grundläggande funktioner, inte utveckling)
 
->[!NOTE]
->
->Din certifiering gäller i två år från och med när du godkänns. Vi rekommenderar att du använder den nyare versionen när det är möjligt eftersom den omfattar nyare produktfunktioner.
+### Mål och omfattning för tentamen {#exam-objectives}
 
->[!BEGINTABS]
-
->[!TAB Gör dig redo]
-
-**Målgrupp:**
-
-* Implementeringsspecialister/ingenjörer
-* Utvecklare
-* Arkitekter
-
-**Information om tentamen:**
-
-* Nivå: Expert (1-3 års erfarenhet)
-* Löpande poäng: 31/50
-* Tid: 120 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
-* Tillgängliga språk: engelska
-* Kostnad: 225 USD (globalt) och 150 USD (Indien)
-* Exam ID: AD0-E209
-
-**Självbedömning av beredskap**
-
-Slutför [onlineberedskapsenkät](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-hp0hz5/ad-q-e209-readiness-questionnaire-for-adobe-analytics-developer-expert-exam){target="_blank"} för att se om din nuvarande upplevelse matchar den rekommenderade lägsta kandidatkvalificeringen.
+{{exam-objectives}}
 
 **Mål och omfattning för tentamen**
 
-Avsnitt 1: Förstå analyser i Adobe Experience Cloud ekosystem (10 %)
+**Avsnitt 1: Förstå analyser i Adobe Experience Cloud ekosystem (10 %)**
 
 * Uppvisa kunskap om hur man använder Adobe Experience Cloud ID
 * Uppvisa förståelse för Adobe Launch
 * Uppvisa förståelse för vanliga integreringar i Adobe Experience Cloud ekosystem
 
-Avsnitt 2: Strategi och design baserad på en referens för lösningsdesign (SDR) (6 %)
+**Avsnitt 2: Strategi och design baserad på en referens för lösningsdesign (SDR) (6 %)**
 
 * Tolka en referens för lösningsdesign för att utveckla effektiv kod för datainhämtning
 * Använd Tech Spec för att fylla i dataobjekt
 
-Avsnitt 3: Analysimplementering och konfiguration (36 %)
+**Avsnitt 3: Analysimplementering och konfiguration (36 %)**
 
 * Bestäm vilken miljö som ska distribueras [!DNL Adobe Analytics] Code
 * Kör en minimal distributionskod för Analytics-spårning
@@ -98,30 +100,52 @@ Avsnitt 3: Analysimplementering och konfiguration (36 %)
 * Använda ett datalager i en distribution
 * Kör avancerade spårningsfunktioner som länkspårning och produktsträngar
 
-Avsnitt 4: Tagghanteringssystem (20 %)
+**Avsnitt 4: Tagghanteringssystem (20 %)**
 
 * Räkna upp krav för att distribuera Adobe Experience Platform Launch i [!DNL Adobe Analytics]
 * Använda processer för att konfigurera webbplatstaggning med Adobe Launch
 * Räkna upp krav för att aktivera tillägg och starta Adobe
 * Skapa regler och dataelement
 
-Avsnitt 5: Mobiltjänster (8 %)
+**Avsnitt 5: Mobiltjänster (8 %)**
 
 * Använda processer för att konfigurera och köra en grundläggande predistributionskod för mobila enheter
 * Uppvisa förståelse för bearbetningsregler och mobila tjänster
 
-Avsnitt 6: Testning, validering och felsökning (20 %)
+**Avsnitt 6: Testning, validering och felsökning (20 %)**
 
 * Felsöka JavaScript-fel
 * Felsökning [!DNL Adobe Analytics] variabler
 * Rekommendera bästa praxis för testning och felsökning
 * Felsöka ett [!DNL Adobe Analytics] serveranrop under hela livscykeln (dvs. från beacon-begäran till att visas i rapporten)
 
->[!TAB Förbered]
+<br>
 
-Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
+### Beredskapenkät
 
-Här följer några förslag på resurser som hjälper dig att förbereda dig:
+{{readiness}}
+
+[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-hp0hz5/ad-q-e209-readiness-questionnaire-for-adobe-analytics-developer-expert-exam){target="_blank"}
+
+<br>
+
+## Så här certifierar du dig {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Steg 1: Skapa ditt konto
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Steg 2: Förbered dig för provet
+
+**Studiematerial**
+
+{{study-materials-intro}}
 
 **Avsnitt 1: Analysförståelse i Adobe Experience Cloud ekosystem**
 
@@ -157,20 +181,33 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Aktivera, felsöka och anpassa [!DNL Adobe Analytics] Activity Map](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/activity-map/enabling-debugging-and-customizing-the-activity-map.html){target="_blank"}
 * [Optimera prestanda för Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html){target="_blank"}
 
+<br>
 
->[!TAB Bli certifierad]
-
->[!IMPORTANT]
->
->Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
-
-## Gör ett övningsprov
+**Gör ett övningsprov**
 
 {{practice-test}}
 
-## Om certifieringsprovet
++++
+
+<br>
+
++++Steg 3: Schemalägg och betala för prov
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Steg 4: Före och efter tentamen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Steg 5: Ta provet
 
 {{about-certification-exam}}
 
@@ -194,7 +231,24 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 [Japanska instruktioner för schemaläggning](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
->[!ENDTABS]
++++
+
+<br>
+
++++Steg 6: Hantera dina emblem
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Förnya din certifiering
+
+{{renewing-intro}}
+
+<br>
+
 
 ## Frågor
 

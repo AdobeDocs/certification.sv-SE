@@ -7,45 +7,36 @@ role: User
 badge: label="Prov AD0-E555" type="positive"
 mini-toc-levels: 1
 exl-id: df1a2c71-5216-47d1-a971-5c07dd3e2d2a
-source-git-commit: ef97353f3a911f22f9c801bb7aeb5f3e455e3230
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1050'
+source-wordcount: '862'
 ht-degree: 0%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Marketo Engage] Professional
 
-Lär dig hur du blir certifierad Adobe [!DNL Marketo] Professional.
+{{intro}}
 
-## Minimal upplevelse
+## Provbeskrivning {#exam-description}
 
-Du borde ha:
+{{exam-description}}
 
-* Ungefär 6 månaders praktisk erfarenhet
-* Förmåga att förstå de marknadsföringsbehov som uppgiftskrav innebär för att kunna använda en teknisk lösning
-* Möjlighet att bygga ett enkelt program från början till slut
-* Möjlighet att skapa en smart lista och smart kampanj
-* Kunskap om hur man skapar segmenteringar
-* En förståelse för datagranskning (rensning)
-* En förståelse för Database (How to create people, Activity Log, unsubscribe, blockeringslista, email invalid concepts)
-* Förmågan att förstå vikten av sekretesslagstiftning
-* Förståelse för e-postmarknadsföring
+<br>
 
-Och du bör känna till följande verktyg och tekniker:
+### Provinformation {#exam-details}
 
-* Adobe [!DNL Marketo Engage]
-* Excel- eller Google-blad/dokument
+* Nivå: Professionell (0-12 månaders upplevelse)
+* Passing Score: 36/55
+* Tid: 110 min
+* Leverans: Bearbetad online (kräver kameraåtkomst)
+* Tillgängliga språk: engelska, japanska
+* Kostnad: 125 USD (globalt)/95 USD (Indien)
+* Exam ID: AD0-E555 (engelska), AD0-E555-J (japanska)
 
->[!NOTE]
->
->Din certifiering gäller i två år från och med när du godkänns. Vi rekommenderar att du använder den nyare versionen när det är möjligt eftersom den omfattar nyare produktfunktioner.
+<br>
 
->[!BEGINTABS]
-
->[!TAB Gör dig redo]
-
-**Målgrupp:**
+### Målgrupp {#intended-audience}
 
 * Kampanjverksamhetens specialist/koordinator
 * Database Marketing Manager / Specialist / Coordinator
@@ -61,23 +52,34 @@ Och du bör känna till följande verktyg och tekniker:
 * Marknadsföringsteknikens koordinator/specialist/Associate
 * Medlemmar i marknadsföringsteam
 
-**Information om tentamen:**
+<br>
 
-* Nivå: Professionell (0-12 månaders upplevelse)
-* Passing Score: 36/55
-* Tid: 110 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
-* Tillgängliga språk: engelska
-* Kostnad: 125 USD (globalt)/95 USD (Indien)
-* Exam ID: AD0-E555
+### Minimal upplevelse {#minimum-experience}
 
-**Självbedömning av beredskap**
+Du borde ha:
 
-Slutför [onlineberedskapsenkät](https://scorpion.caveon.com/launchpad/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam){target="_blank"} för att se om din nuvarande upplevelse matchar den rekommenderade lägsta kandidatkvalificeringen.
+* Ungefär 6 månaders praktisk erfarenhet
+* Förmåga att förstå de marknadsföringsbehov som uppgiftskrav innebär för att kunna använda en teknisk lösning
+* Möjlighet att bygga ett enkelt program från början till slut
+* Möjlighet att skapa en smart lista och smart kampanj
+* Kunskap om hur man skapar segmenteringar
+* En förståelse för datagranskning (rensning)
+* En förståelse för Database (How to create people, Activity Log, unsubscribe, blockeringslista, email invalid concepts)
+* Förmågan att förstå vikten av sekretesslagstiftning
+* Förståelse för e-postmarknadsföring
 
-**Mål och omfattning för tentamen**
+Dessutom bör du känna till följande verktyg och tekniker:
 
-Avsnitt 1: Bygga och förvalta program (39 %)
+* Adobe [!DNL Marketo Engage]
+* Excel- eller Google-blad/dokument
+
+<br>
+
+### Mål och omfattning för tentamen {#exam-objectives}
+
+{{exam-objectives}}
+
+**Avsnitt 1: Bygga och förvalta program (39 %)**
 
 * Ange en lämplig rapporteringsstrategi för att utföra en analys utifrån ett affärsbehov/en fråga
 * Analysera data för att besvara affärsfrågor
@@ -86,7 +88,7 @@ Avsnitt 1: Bygga och förvalta program (39 %)
 * Analysera rapportdata för att sammanfatta och dra slutsatser
 * Känn igen avvikelser och avvikelser i rapporter
 
-Avsnitt 2: Byggtillgångar (19 %)
+**Avsnitt 2: Byggtillgångar (19 %)**
 
 * Hantera filer i Design Studio (överföra/ersätta bilder och filer).
 * Skapa/ändra ett formulär med Formulärredigeraren.
@@ -96,7 +98,7 @@ Avsnitt 2: Byggtillgångar (19 %)
 * Skilj skillnaden mellan utkast och godkända tillgångar.
 * Skilj skillnaden mellan lokala och globala resurser.
 
-Avsnitt 3: Definiera och inrikta er på målgrupper (33 %)
+**Avsnitt 3: Definiera och inrikta er på målgrupper (33 %)**
 
 * Skapa/ändra smarta listor.
 * Förstå flödesstegen för Smart Campaign.
@@ -111,23 +113,39 @@ Avsnitt 3: Definiera och inrikta er på målgrupper (33 %)
 * Förstå hur Smart Campaign triggar och filtrerar arbetet.
 * Differentiera de olika listimporterna.
 
-Avsnitt 4: Analysera och skapa rapporter (9 %)
+**Avsnitt 4: Analysera och skapa rapporter (9 %)**
 
 * Förklara standarden Adobe [!DNL Marketo Engage] rapporter och när de ska användas (e-postlänkens prestanda, e-postprestanda, landningssidans prestanda, personprestanda, programprestanda, webbsidans aktivitet osv.)
 * Sammanställ information och mätvärden på kontrollpanelen (Email Program Dashboard, Engagement Program Dashboard)
 * Jämför mätvärden för e-postinsikter
 
->[!TAB Förbered]
+<br>
 
-Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
+### Beredskapenkät
 
-Här följer några förslag på resurser som hjälper dig att förbereda dig:
+{{readiness}}
 
-**Exempelfrågor**
+[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam){target="_blank"}
 
-Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer att stöta på i provet. Ingen inloggning behövs. Resultaten av exempelfrågorna lagras inte och du kan inte förutsäga dina faktiska testresultat.
+<br>
 
-[Se exempelfrågor](https://scorpion.caveon.com/launchpad/ad0-e555-adobe-marketo-engage-professional-copy-nppnkv){target="_blank"}
+## Så här certifierar du dig {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Steg 1: Skapa ditt konto
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Steg 2: Förbered dig för provet
+
+**Studiematerial**
+
+{{study-materials-intro}}
 
 **Avsnitt 1: Bygga och hantera program**
 
@@ -160,16 +178,35 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 * [Översikt över rapporttyp](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html){target="_blank"}
 * [Hantera rapportprenumerationer](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.html){target="_blank"}
 
->[!TAB Bli certifierad]
+<br>
 
->[!IMPORTANT]
->
->Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
+**Exempelfrågor**
 
+{{sample-questions}}
 
-## Om certifieringsprovet
+[Visa exempelfrågor](https://scorpion.caveon.com/launchpad/ad0-e555-adobe-marketo-engage-professional-copy-nppnkv){target="_blank"}
+
++++
+
+<br>
+
++++Steg 3: Schemalägg och betala för prov
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Steg 4: Före och efter tentamen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Steg 5: Ta provet
 
 {{about-certification-exam}}
 
@@ -193,7 +230,23 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 
 [Japanska instruktioner för schemaläggning](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
->[!ENDTABS]
++++
+
+<br>
+
++++Steg 6: Hantera dina emblem
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Förnya din certifiering
+
+{{renewing-intro}}
+
+<br>
 
 ## Frågor
 

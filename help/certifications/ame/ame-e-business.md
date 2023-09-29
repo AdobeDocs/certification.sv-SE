@@ -7,20 +7,55 @@ role: User
 badge: label="Prov AD0-E559" type="positive"
 mini-toc-levels: 1
 exl-id: 88f9cbfb-c9bc-4d27-a9de-1199c5cd013e
-source-git-commit: ef97353f3a911f22f9c801bb7aeb5f3e455e3230
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1419'
+source-wordcount: '1268'
 ht-degree: 0%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Marketo Engage] Affärsexpert
 
-Lär dig hur du blir certifierad Adobe [!DNL Marketo Engage] Yrkesverksamma inom affärsverksamhet.
+{{intro}}
 
-## Minimal upplevelse
+## Provbeskrivning {#exam-description}
 
-Du borde ha:
+{{exam-description}}
+
+<br>
+
+### Provinformation {#exam-details}
+
+* Nivå: Expert (1-3 års erfarenhet)
+* Löpande poäng: 32/50
+* Tid: 110 min
+* Leverans: Bearbetad online (kräver kameraåtkomst)
+* Tillgängliga språk: engelska, japanska
+* Kostnad: $225 (global) / $150 (Indien)
+* Exam ID: AD0-E559 (engelska), AD0-E559-J (japanska)
+
+<br>
+
+### Målgrupp {#intended-audience}
+
+* Marknadsförare/specialist/expert/analytiker
+* Digital Marketing Manager/specialist/expert/analytiker
+* Kampanjchef/specialist/expert/analytiker
+* [!DNL Marketo Engage] konsulter
+* Digital/marketing automation manager/specialist/expert/analytiker
+* Marknadsförare av marknadsföringssystem
+* Hanterare för efterfrågegenerering
+* E-postmarknadschef
+* Intäktsförvaltare
+* Driftansvarig för tillväxt
+* Martech Architect
+* Marknadsteknisk chef
+* Integrerade kampanjansvariga
+* Systemanalytiker
+
+<br>
+
+### Minimal upplevelse {#minimum-experience}
 
 * Ungefär 18 månaders erfarenhet av Adobe [!DNL Marketo Engage] funktioner som behövs för att skapa marknadsföringskampanjer och använda kundbeteendedata
 
@@ -39,48 +74,13 @@ Dessutom bör du känna till följande verktyg och tekniker:
 * Microsoft Office
 * Grundläggande HTML
 
->[!NOTE]
->
->Din certifiering gäller i två år från och med när du godkänns. Vi rekommenderar att du använder den nyare versionen när det är möjligt eftersom den omfattar nyare produktfunktioner.
+<br>
 
->[!BEGINTABS]
+### Mål och omfattning för tentamen {#exam-objectives}
 
->[!TAB Gör dig redo]
+{{exam-objectives}}
 
-**Målgrupp:**
-
-* Marknadsförare/specialist/expert/analytiker
-* Digital Marketing Manager/specialist/expert/analytiker
-* Kampanjchef/specialist/expert/analytiker
-* [!DNL Marketo Engage] konsulter
-* Digital/marketing automation manager/specialist/expert/analytiker
-* Marknadsförare av marknadsföringssystem
-* Hanterare för efterfrågegenerering
-* E-postmarknadschef
-* Intäktsförvaltare
-* Driftansvarig för tillväxt
-* Martech Architect
-* Marknadsteknisk chef
-* Integrerade kampanjansvariga
-* Systemanalytiker
-
-**Information om tentamen:**
-
-* Nivå: Expert (1-3 års erfarenhet)
-* Löpande poäng: 32/50
-* Tid: 110 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
-* Tillgängliga språk: engelska och japanska
-* Kostnad: $225 (global) / $150 (Indien)
-* Exam ID: AD0-E559
-
-**Självbedömning av beredskap**
-
-Slutför [onlineberedskapsenkät](https://scorpion.caveon.com/launchpad/ad-q-e558-readiness-questionnaire-for-adobe-marketo-engage-business-practitioner-expert-exam){target="_blank"} för att se om din nuvarande upplevelse matchar den rekommenderade lägsta kandidatkvalificeringen.
-
-**Mål och omfattning för tentamen**
-
-Avsnitt 1: Administration och underhåll (12 %)
+**Avsnitt 1: Administration och underhåll (12 %)**
 
 * Bestämma mappningsprocessen mellan Marketo och CRM
 * Identifiera vad som hände med en resurs med granskningsspåret
@@ -89,7 +89,7 @@ Avsnitt 1: Administration och underhåll (12 %)
 * Identifiera CRM-plattformar med inbyggd Marketo-synkronisering
 * I ett scenario letar du reda på var information refereras
 
-Avsnitt 2: Marknadsföringsaktiviteter/Campaign Management (46 %)
+**Avsnitt 2: Marknadsföringsaktiviteter/Campaign Management (46 %)**
 
 * Uppvisa förståelse för smarta kampanjer, logik, begränsningar och flödessteg
 * Ange nästa steg för ett scenario
@@ -106,7 +106,7 @@ Avsnitt 2: Marknadsföringsaktiviteter/Campaign Management (46 %)
 * Felsöka kommunikationsgränser
 * Använd information från webbinarier i ett händelseprogram
 
-Avsnitt 3: Leadhantering (12 %)
+**Avsnitt 3: Leadhantering (12 %)**
 
 * Ange de viktigaste beslutspunkterna när livscykelmodellen definieras
 * Använda bästa praxis för poängsättning av leads
@@ -114,19 +114,19 @@ Avsnitt 3: Leadhantering (12 %)
 * Tolka lead-aktivitetsloggen
 * Identifiera skapskällan utifrån ett scenario
 
-Avsnitt 4: Datahantering (10 %)
+**Avsnitt 4: Datahantering (10 %)**
 
 * Uppvisa hur man skapar ett datahanteringsprogram
 * Analysera en förekomsts datakvalitet
 * Identifiera några viktiga delar av Marketo datalagringspolicy när det gäller smarta listor
 * Sammanfatta hur segmentering fungerar
 
-Avsnitt 5: Rapportering (4 %)
+**Avsnitt 5: Rapportering (4 %)**
 
 * Utifrån resultatet av en kampanj kan du avgöra hur ett program ska skapas för att ge bästa möjliga rapportering
 * I ett scenario kan man undersöka och tilldela lämpliga förvärvsprogram
 
-Avsnitt 6: Bästa praxis (16 %)
+**Avsnitt 6: Bästa praxis (16 %)**
 
 * Uppvisa hur relevant poängsättningen är i samarbetet inom marknadsföring och försäljning
 * Fördelarna med mappstrukturen och namnkonventioner
@@ -134,11 +134,33 @@ Avsnitt 6: Bästa praxis (16 %)
 * Förklara processen för att utföra en kvalitetskontroll av alla Marketo-program
 * Förklara processen att utföra en kvalitetskontroll på ett e-postmeddelande
 
->[!TAB Förbered]
+<br>
 
-Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
+### Beredskapenkät
 
-Här följer några förslag på resurser som hjälper dig att förbereda dig:
+{{readiness}}
+
+[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e558-readiness-questionnaire-for-adobe-marketo-engage-business-practitioner-expert-exam){target="_blank"}
+
+<br>
+
+## Så här certifierar du dig {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Steg 1: Skapa ditt konto
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Steg 2: Förbered dig för provet
+
+**Studiematerial**
+
+{{study-materials-intro}}
 
 **Avsnitt 1: Administration och underhåll**
 
@@ -204,19 +226,33 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [The Definitive Guide to Lead Scoring](https://www.marketo.com/definitive-guides/lead-scoring/){target="_blank"}
 * [Förstå mappar](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.html){target="_blank"}
 
->[!TAB Bli certifierad]
+<br>
 
->[!IMPORTANT]
->
->Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
-
-## Gör ett övningsprov
+**Gör ett övningsprov**
 
 {{practice-test}}
 
-## Om certifieringsprovet
++++
+
+<br>
+
++++Steg 3: Schemalägg och betala för prov
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Steg 4: Före och efter tentamen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Steg 5: Ta provet
 
 {{about-certification-exam}}
 
@@ -240,10 +276,27 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 [Japanska instruktioner för schemaläggning](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
->[!ENDTABS]
++++
+
+<br>
+
++++Steg 6: Hantera dina emblem
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Förnya din certifiering
+
+{{renewing-intro}}
+
+<br>
 
 ## Frågor
 
 Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.
+

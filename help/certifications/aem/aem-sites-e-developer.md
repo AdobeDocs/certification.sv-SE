@@ -7,18 +7,44 @@ role: Developer
 badge: label="Prov AD0-E134" type="positive"
 mini-toc-levels: 1
 exl-id: 4b97177a-38aa-4082-95da-1e4c9962f3c8
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '789'
-ht-degree: 5%
+source-wordcount: '635'
+ht-degree: 7%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Experience Manager Sites] Developer Expert
 
-Lär dig hur du blir certifierad Adobe [!DNL Experience Manager] Developer Expert.
+{{intro}}
 
-## Minimal upplevelse
+## Provbeskrivning {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Provinformation {#exam-details}
+
+* Nivå: Expert (1-3 års erfarenhet)
+* Passing Score: 26/50
+* Tid: 100 min
+* Leverans: Bearbetad online (kräver kameraåtkomst)
+* Tillgängliga språk: engelska
+* Kostnad: $225 (global) / $150 (Indien)
+* Exam ID: AD0-E134
+
+<br>
+
+### Målgrupp {#intended-audience}
+
+* AEM
+* AEM Senior Developers
+* AEM ledande utvecklare
+
+<br>
+
+### Minimal upplevelse {#minimum-experience}
 
 Du borde ha:
 
@@ -28,7 +54,7 @@ Du borde ha:
 * Kunskap om ramverk och bibliotek i AEM
 * En förståelse för AEM livscykel
 
-Dessutom är du bekant med följande tekniker och miljöer:
+Dessutom bör du känna till följande tekniker och miljöer:
 
 * JVM
 * Lägre/förproduktionsmiljöer
@@ -39,37 +65,13 @@ Dessutom är du bekant med följande tekniker och miljöer:
 * Utvecklings- och paketeringsverktyg
 * Kommandoradsverktyg
 
->[!NOTE]
->
->Din certifiering gäller i två år från och med när du godkänns. Vi rekommenderar att du använder den nyare versionen när det är möjligt eftersom den omfattar nyare produktfunktioner.
+<br>
 
->[!BEGINTABS]
+### Mål och omfattning för tentamen {#exam-objectives}
 
->[!TAB Gör dig redo]
+{{exam-objectives}}
 
-**Målgrupp:**
-
-* AEM
-* AEM Senior Developers
-* AEM ledande utvecklare
-
-**Information om tentamen:**
-
-* Nivå: Expert (1-3 års erfarenhet)
-* Passing Score: 26/50
-* Tid: 100 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
-* Tillgängliga språk: engelska
-* Kostnad: $225 (global) / $150 (Indien)
-* Exam ID: AD0-E134
-
-**Självbedömning av beredskap**
-
-Slutför [onlineberedskapsenkät](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-9ts38u/ad-q-e116-readiness-questionnaire-for-adobe-aem-developer-expert-exam){target="_blank"} för att se om din nuvarande upplevelse matchar den rekommenderade lägsta kandidatkvalificeringen.
-
-**Mål och omfattning för tentamen**
-
-Avsnitt 1: Konfigurationer (22 %)
+**Avsnitt 1: Konfigurationer (22 %)**
 
 * Identifiera stegen för att skapa och hantera AEM dispatcherkonfigurationer
 * Bestäm de rätta stegen för att konfigurera multi-tenancy
@@ -77,7 +79,7 @@ Avsnitt 1: Konfigurationer (22 %)
 * I ett scenario måste du fastställa rätt metod för att skapa och hantera anpassade OAK-index
 * Kontrollera hur du konfigurerar integreringen mellan OTB SAML och LDAP
 
-Avsnitt 2: AEM (44 %)
+**Avsnitt 2: AEM (44 %)**
 
 * Identifiera de rätta stegen för att implementera SPA struktur, mallar och komponenter
 * Skapa anpassade komponenter som HTML, modeller och tjänster
@@ -86,23 +88,45 @@ Avsnitt 2: AEM (44 %)
 * I ett scenario ska du fastställa metoden för tredjepartsintegrering
 * Fastställa metoden för att implementera en headless- eller hybridimplementering
 
-Avsnitt 3: Skapa och driftsätta (14 %)
+**Avsnitt 3: Skapa och driftsätta (14 %)**
 
 * Identifiera stegen för att konfigurera och underhålla hantering av användarberoenden för front-end och back-end
 * Identifiera rätt arketyp när du skapar projekt
 
-Avsnitt 4: Miljöunderhåll (22 %)
+**Avsnitt 4: Miljöunderhåll (22 %)**
 
 * Ange vilka steg som krävs för att hantera AEM miljöer
 * Förklara konfigurationsstegen för versionshantering
 * Rekommendera och implementera lösningar för att synkronisera innehåll/konfigurationer i olika AEM miljöer
 * Fastställa vilka steg som krävs för planering och implementering av AEM uppgraderingar och datamigrering/uppgifter
 
->[!TAB Förbered]
+<br>
 
-Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
+### Beredskapenkät
 
-Här följer några förslag på resurser som hjälper dig att förbereda dig:
+{{readiness}}
+
+[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-9ts38u/ad-q-e116-readiness-questionnaire-for-adobe-aem-developer-expert-exam){target="_blank"}
+
+<br>
+
+## Så här certifierar du dig {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Steg 1: Skapa ditt konto
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Steg 2: Förbered dig för provet
+
+**Studiematerial**
+
+{{study-materials-intro}}
 
 **Avsnitt 1: Konfiguration**
 
@@ -137,19 +161,27 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Användarhandbok om AEM 6.5-administration](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
 * [Användarhandbok för distribution av AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html){target="_blank"}
 
->[!TAB Bli certifierad]
++++
 
->[!IMPORTANT]
->
->Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
+<br>
 
-## Gör ett övningsprov
++++Steg 3: Schemalägg och betala för prov
 
-{{practice-test}}
+{{schedule-and-pay}}
 
-## Om certifieringsprovet
++++
+
+<br>
+
++++Steg 4: Före och efter tentamen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Steg 5: Ta provet
 
 {{about-certification-exam}}
 
@@ -162,7 +194,23 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Steg 6: Hantera dina emblem
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Förnya din certifiering
+
+{{renewing-intro}}
+
+<br>
 
 ## Frågor
 

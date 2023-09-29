@@ -7,18 +7,49 @@ role: Developer
 badge: label="Prov AD0-E127" type="positive"
 mini-toc-levels: 1
 exl-id: 7d265887-c32f-4931-ba80-40ffde12df51
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '825'
-ht-degree: 5%
+source-wordcount: '645'
+ht-degree: 6%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Experience Manager Forms] Backend Developer Professional
 
-Lär dig hur du blir certifierad Adobe [!DNL Experience Manager Forms] Backend Developer Professional.
+{{intro}}
 
-## Minimal upplevelse
+## Provbeskrivning {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Provinformation {#exam-details}
+
+* Nivå: Professionell (0-12 månaders upplevelse)
+* Löpande poäng: 29/50
+* Tid: 100 min
+* Leverans: Bearbetad online (kräver kameraåtkomst)
+* Tillgängliga språk: engelska
+* Kostnad: 125 USD (globalt)/95 USD (Indien)
+* Exam ID: AD0-E127
+
+<br>
+
+### Målgrupp {#intended-audience}
+
+* AEM Developer
+* DevOps-tekniker
+* AEM
+* Molntekniker
+* Webbplatstillförlitlighetstekniker
+* Technical Manager
+* Programutvecklare
+* Systemtekniker
+
+<br>
+
+### Minimal upplevelse {#minimum-experience}
 
 Du bör vara en utvecklare av backend-formulär och ha:
 
@@ -40,45 +71,20 @@ Du bör känna till följande tekniker och miljöer:
 * Dev, sandlåda
 * Lokal miljö
 
->[!NOTE]
->
->Din certifiering gäller i två år från och med när du godkänns. Vi rekommenderar att du använder den nyare versionen när det är möjligt eftersom den omfattar nyare produktfunktioner.
+<br>
 
->[!BEGINTABS]
+### Mål och omfattning för tentamen {#exam-objectives}
 
->[!TAB Gör dig redo]
+{{exam-objectives}}
 
-**Målgrupp:**
-
-* AEM Developer
-* DevOps-tekniker
-* AEM
-* Molntekniker
-* Webbplatstillförlitlighetstekniker
-* Technical Manager
-* Programutvecklare
-* Systemtekniker
-
-**Information om tentamen:**
-
-* Nivå: Professionell (0-12 månaders upplevelse)
-* Löpande poäng: 29/50
-* Tid: 100 min
-* Leverans: Bearbetad online (kräver kameraåtkomst)
-* Tillgängliga språk: engelska
-* Kostnad: 125 USD (globalt)/95 USD (Indien)
-* Exam ID: AD0-E127
-
-**Mål och omfattning för tentamen**
-
-Avsnitt 1: Skapa och hantera Forms (26 %)
+**Avsnitt 1: Skapa och hantera Forms (26 %)**
 
 * Ange vilka steg som krävs för att bygga AEM Forms
 * Beskriv Forms datamodell
 * Identifiera steg för att anpassa AEM Forms
 * I ett scenario måste du identifiera steg för att använda Javascript ClientLib med hjälp av GuideBridge API
 
-Avsnitt 2: Processer och arbetsflöden (34 %)
+**Avsnitt 2: Processer och arbetsflöden (34 %)**
 
 * Identifiera stegen för ett arbetsflöde för formulärgodkännande utifrån ett scenario
 * Identifiera funktioner i ett OSGi-paket med Document Services API
@@ -87,7 +93,7 @@ Avsnitt 2: Processer och arbetsflöden (34 %)
 * I ett scenario kan du manipulera ett PDF med hjälp av Forms- eller Assembler-tjänster
 * Beskriv sätt att implementera JDBC-tjänster
 
-Avsnitt 3: Administration och felsökning (21 %)
+**Avsnitt 3: Administration och felsökning (21 %)**
 
 * Identifiera problem som genererats i loggfiler
 * Identifiera stegen för att utföra administrationsaktiviteter i ett scenario
@@ -95,26 +101,34 @@ Avsnitt 3: Administration och felsökning (21 %)
 * Beskriv stegen för AEM Dispatcher-konfiguration för Forms
 * Beskriv stegen för att navigera i olika konsoler
 
-Avsnitt 4: API-slutpunkter och integreringar (10 %)
+**Avsnitt 4: API-slutpunkter och integreringar (10 %)**
 
 * Beskriv i ett scenario hur du integrerar AEM med Adobe Experience Cloud
 * Identifiera stegen för att generera olika slutpunktstjänster
 
-Avsnitt 5: Interaktiv kommunikation (9 %)
+**Avsnitt 5: Interaktiv kommunikation (9 %)**
 
 * I ett scenario visar och implementerar man processer för interaktiv kommunikation
 
->[!TAB Förbered]
+<br>
 
-Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
+## Så här certifierar du dig {#how-to-get-certified}
 
-Här följer några förslag på resurser som hjälper dig att förbereda dig:
+{{how-to-get-certified-intro}}
 
-**Exempelfrågor**
++++Steg 1: Skapa ditt konto
 
-Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer att stöta på i provet. Ingen inloggning behövs. Resultaten av exempelfrågorna lagras inte och du kan inte förutsäga dina faktiska testresultat.
+{{create-your-account}}
 
-[Se exempelfrågor](https://scorpion.caveon.com/launchpad/ad0-e127-adobe-experience-manager-backend-forms-developer-professional-copy-7s2acv){target="_blank"}
++++
+
+<br>
+
++++Steg 2: Förbered dig för provet
+
+**Studiematerial**
+
+{{study-materials-intro}}
 
 **Avsnitt 1: Skapa och hantera Forms**
 
@@ -143,16 +157,35 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 * [as a Cloud Service dokumentation för Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=sv){target="_blank"}
 * [Användarhandbok om Adobe Experience Manager 6.4 Forms](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html){target="_blank"}
 
->[!TAB Bli certifierad]
+<br>
 
->[!IMPORTANT]
->
->Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
+**Exempelfrågor**
 
+{{sample-questions}}
 
-## Om certifieringsprovet
+[Visa exempelfrågor](https://scorpion.caveon.com/launchpad/ad0-e127-adobe-experience-manager-backend-forms-developer-professional-copy-7s2acv){target="_blank"}
+
++++
+
+<br>
+
++++Steg 3: Schemalägg och betala för prov
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Steg 4: Före och efter tentamen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Steg 5: Ta provet
 
 {{about-certification-exam}}
 
@@ -165,10 +198,28 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Steg 6: Hantera dina emblem
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Förnya din certifiering
+
+{{renewing-intro}}
+
+<br>
 
 ## Frågor
 
 Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.
+
+

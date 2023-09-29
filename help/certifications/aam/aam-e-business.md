@@ -7,20 +7,48 @@ role: User,Developer
 badge: label="Prov AD0-E457" type="positive"
 mini-toc-levels: 1
 exl-id: 71141d87-828c-4c28-a6e2-0e12e885e1ad
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '940'
-ht-degree: 6%
+source-wordcount: '815'
+ht-degree: 7%
 
 ---
 
 # Certifieringsresa för [!DNL Adobe Audience Manager] Affärsexpert
 
-Lär dig hur du blir certifierad [!DNL Adobe Audience Manager] Yrkesverksamma inom affärsverksamhet.
+{{intro}}
 
-## Minimal upplevelse
+## Provbeskrivning {#exam-description}
 
-Din certifiering gäller i två år från och med när du godkänns. Vi rekommenderar att du använder den nyare versionen när det är möjligt eftersom den omfattar nyare produktfunktioner.
+{{exam-description}}
+
+<br>
+
+### Provinformation {#exam-details}
+
+* Nivå: Expert (1-3 års erfarenhet)
+* Löpande poäng: 36/50
+* Tid: 100 min
+* Leverans: Bearbetad online (kräver kameraåtkomst)
+* Tillgängliga språk: engelska
+* Kostnad: 225 USD (globalt) och 150 USD (Indien)
+* Exam ID: AD0-E457
+
+<br>
+
+### Målgrupp {#intended-audience}
+
+* Digital Marketing Specialist
+* Marknadsföringsteknisk konsult
+* Målgruppsstrateg
+* Beteendekonsult
+* Digital Marketing Analyst
+* Marknadsföringsdataanalytiker
+* Data Platforms Manager
+
+<br>
+
+### Minimal upplevelse {#minimum-experience}
 
 Du borde ha:
 
@@ -47,74 +75,68 @@ Miljöer:
 * Digital marknadsföring
 * Data och analys
 
->[!NOTE]
->
->Din certifiering gäller i två år från och med när du godkänns. Vi rekommenderar att du använder den nyare versionen när det är möjligt eftersom den omfattar nyare produktfunktioner.
+<br>
 
->[!BEGINTABS]
+### Mål och omfattning för tentamen {#exam-objectives}
 
->[!TAB Gör dig redo]
+{{exam-objectives}}
 
-**Målgrupp:**
-
-* Digital Marketing Specialist
-* Marknadsföringsteknisk konsult
-* Målgruppsstrateg
-* Beteendekonsult
-* Digital Marketing Analyst
-* Marknadsföringsdataanalytiker
-* Data Platforms Manager
-
-**Information om tentamen:**
-
-* Nivå: Expert (1-3 års erfarenhet)
-* Löpande poäng: 36/50
-* Tid: 100 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
-* Tillgängliga språk: engelska
-* Kostnad: 225 USD (globalt) och 150 USD (Indien)
-* Exam ID: AD0-E457
-
-**Självbedömning av beredskap**
-
-Slutför [onlineberedskapsenkät](https://scorpion.caveon.com/launchpad/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam){target="_blank"} för att se om din nuvarande upplevelse matchar den rekommenderade lägsta kandidatkvalificeringen.
-
-**Mål och omfattning för tentamen**
-
-Avsnitt 1: Skapa och syndikera segment (25 %)
+**Avsnitt 1: Skapa och syndikera segment (25 %)**
 
 * Bestäm lämplig metod för att skapa segment med hjälp av första-, andra- och tredjepartsdata för målinriktning och analys
 * I ett scenario rekommenderar vi aktiveringssegment som är anpassade efter affärs- eller kampanjmålen
 * Bestäm lämplig metod för att syndikera segment till mål för aktivering
 * Differentiera mellan olika typer av destinationer
 
-Avsnitt 2: Skapa spår (17 %)
+**Avsnitt 2: Skapa spår (17 %)**
 
 * Rekommendera egenskaper för en viss målgruppsstrategi
 * Bestäm rätt metod för att skapa och uppdatera regelbaserade och/eller anpassade egenskaper
 
-Avsnitt 3: Rapportering och mått (22 %)
+**Avsnitt 3: Rapportering och mått (22 %)**
 
 * Analysera rapporter utifrån ett scenario för att hitta de affärsmål som kan uppnås
 * Analysera målgruppsoptimering utifrån ett scenario
 
-Avsnitt 4: Felsökning och administration (26 %)
+**Avsnitt 4: Felsökning och administration (26 %)**
 
 * I ett scenario kontrollerar du målgruppens leveransinformation för att säkerställa behov av schemalagd leverans
 * Bestäm lämplig metod för att validera inkommande offlinefiler
 * Ange rätt metod för att utföra QA mot ID-synkronisering i ett scenario
 * Bestäm lämplig metod för att navigera och aktivera från Adobe Audience Marketplace
 
-Avsnitt 5: Taxonomi (10 %)
+**Avsnitt 5: Taxonomi (10 %)**
 
 * Bestäm lämplig struktur för att skapa egenskaper och segment som använder en tydlig och konsekvent nomenklatur
 * Identifiera rätt teknik för att upprätthålla en organiserad plattform med hjälp av en tydlig mappstruktur
 
->[!TAB Förbered]
+<br>
 
-Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
+### Beredskapenkät
 
-Här följer några förslag på resurser som hjälper dig att förbereda dig:
+{{readiness}}
+
+[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam){target="_blank"}
+
+<br>
+
+## Så här certifierar du dig {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Steg 1: Skapa ditt konto
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Steg 2: Förbered dig för provet
+
+**Studiematerial**
+
+{{study-materials-intro}}
 
 **Avsnitt 1: Skapa och syndikera segment**
 
@@ -156,17 +178,33 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Klassificera traits med en gemensam taxonomi](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-common-taxonomy.html){target="_blank"}
 * [Mapp-traits: Om](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/about-folder-traits.html){target="_blank"}
 
->[!TAB Bli certifierad]
+<br>
 
->[!IMPORTANT]
->
->Följande avsnitt och länkar fungerar **endast** efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
-
-## Gör ett övningsprov
+**Gör ett övningsprov**
 
 {{practice-test}}
 
-## Om certifieringsprovet
++++
+
+<br>
+
++++Steg 3: Schemalägg och betala för prov
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Steg 4: Före och efter tentamen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Steg 5: Ta provet
 
 {{about-certification-exam}}
 
@@ -179,10 +217,28 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Steg 6: Hantera dina emblem
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Förnya din certifiering
+
+{{renewing-intro}}
+
+<br>
 
 ## Frågor
 
 Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.
+
+<!--divider-->

@@ -7,18 +7,48 @@ role: Developer
 badge: label="Prov AD0-E136" type="positive"
 mini-toc-levels: 1
 exl-id: 64b53064-8280-405b-a5f7-b50264394b82
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '817'
-ht-degree: 3%
+source-wordcount: '678'
+ht-degree: 4%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Experience Manager] as a Cloud Service Migration Expert
 
-Lär dig hur du blir certifierad Adobe [!DNL Experience Manager] Expert.
+{{intro}}
 
-## Minimal upplevelse
+## Provbeskrivning {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Provinformation {#exam-details}
+
+* Nivå: Expert (1-3 års erfarenhet)
+* Löpande poäng: 31/50
+* Tid: 100 min
+* Leverans: Bearbetad online (kräver kameraåtkomst)
+* Tillgängliga språk: engelska
+* Kostnad: 125 USD (globalt)/95 USD (Indien)
+* Exam ID: AD0-E136
+
+<br>
+
+### Målgrupp {#intended-audience}
+
+* Utvecklare som har erfarenhet av Adobe [!DNL Experience Manager]
+* Utvecklare som har deltagit i minst en molnmigrering
+* Adobe [!DNL Experience Manager] Webbutvecklare
+* Adobe [!DNL Experience Manager] Sites Architect
+* Adobe [!DNL Experience Manager] Resursutvecklare
+* Adobe [!DNL Experience Manager] Forms-utvecklare
+* Utvecklare/DevOps/Leads/Architects som har deltagit i flera AEM-installationer med minst 2-3 års webbapplikationsutveckling med Adobe [!DNL Experience Manager]
+
+<br>
+
+### Minimal upplevelse {#minimum-experience}
 
 Du borde ha:
 
@@ -46,37 +76,13 @@ Dessutom bör du känna till följande tekniker och miljöer:
 * Molnloggar testas i lokal miljö
 * Gränssnitt i molnkonsolen
 
->[!NOTE]
->
->Din certifiering gäller i två år från och med när du godkänns. Vi rekommenderar att du använder den nyare versionen när det är möjligt eftersom den omfattar nyare produktfunktioner.
+<br>
 
->[!BEGINTABS]
+### Mål och omfattning för tentamen {#exam-objectives}
 
->[!TAB Gör dig redo]
+{{exam-objectives}}
 
-**Målgrupp:**
-
-* Utvecklare som har erfarenhet av Adobe [!DNL Experience Manager]
-* Utvecklare som har deltagit i minst en molnmigrering
-* Adobe [!DNL Experience Manager] Webbutvecklare
-* Adobe [!DNL Experience Manager] Sites Architect
-* Adobe [!DNL Experience Manager] Resursutvecklare
-* Adobe [!DNL Experience Manager] Forms-utvecklare
-* Utvecklare/DevOps/Leads/Architects som har deltagit i flera AEM-installationer med minst 2-3 års webbapplikationsutveckling med Adobe [!DNL Experience Manager]
-
-**Provinformation**
-
-* Nivå: Expert (1-3 års erfarenhet)
-* Löpande poäng: 31/50
-* Tid: 100 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
-* Tillgängliga språk: engelska
-* Kostnad: 125 USD (globalt)/95 USD (Indien)
-* Exam ID: AD0-E136
-
-**Mål och omfattning för tentamen**
-
-Avsnitt 1: Bedömning (32 %)
+**Avsnitt 1: Bedömning (32 %)**
 
 * Använda BPA
 * Förbereda och uppskatta en migreringsplan
@@ -87,19 +93,19 @@ Avsnitt 1: Bedömning (32 %)
 * Förklara implementeringen av tillgångar och dess inverkan
 * Identifiera Dispatcher-relaterade krav
 
-Avsnitt 2: Design (16 %)
+**Avsnitt 2: Design (16 %)**
 
 * Granska befintliga komponenter och validera med den senaste versionen
 * Förbereda konfiguration för resurser och mikrotjänster
 * Förklara cachningsstrategi
 
-Avsnitt 3: Driftsättning (16 %)
+**Avsnitt 3: Driftsättning (16 %)**
 
 * Konfigurera Cloud Manager-pipelines och koppla dem till miljöer
 * Etablera AEMaaCS-miljöer (dev, stage, prod - författare, publicera, förhandsgranska)
 * Hantera driftsättningsprocessen med Adobe IO CLI
 
-Avsnitt 4: Migrering (20 %)
+**Avsnitt 4: Migrering (20 %)**
 
 * Utföra tester
 * Förbereda en strategi för resursmigrering
@@ -107,21 +113,34 @@ Avsnitt 4: Migrering (20 %)
 * Utför migreringsverktyg (innehållsöverföring, modernisering, omfaktorisering). Rapportera och förfina resultat, särskilt viktiga resultat som inte hanteras med verktyg
 * Planera support efter publicering
 
-Avsnitt 5: Implementering (16 %)
+**Avsnitt 5: Implementering (16 %)**
 
 * Slå samman flera projekt till ett enda projekt som ska distribueras via rörledningen i Adobe
 * Hantera rapportskript för användar-/gruppbehörighet
 * Konfigurera lokala SDK:er
 * Uppdatera konfigurationer baserat på tillgängliga runmodes på AEM as a Cloud Service
 
->[!TAB Förbered]
+<br>
 
-Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
+## Så här certifierar du dig {#how-to-get-certified}
 
-Här följer några förslag på resurser som hjälper dig att förbereda dig:
+{{how-to-get-certified-intro}}
+
++++Steg 1: Skapa ditt konto
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Steg 2: Förbered dig för provet
+
+**Studiematerial**
+
+{{study-materials-intro}}
 
 **Avsnitt 1: Bedömning**
-
 
 * [[!DNL Experience Manager] as a Cloud Service användarhandbok](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=sv){target="_blank"}
 * [Migreringshandbok för Adobe [!DNL Experience Manager] as a Cloud Service för partners](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started-partners.html){target="_blank"}
@@ -149,17 +168,27 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Använda CI/CD-pipeline i Adobe Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/cloud-manager/use-the-cicd-pipeline-in-cloud-manager-for-aem.html){target="_blank"}
 * [Distribuera till AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/deploying/overview.html){target="_blank"}
 
->[!TAB Bli certifierad]
++++
 
->[!IMPORTANT]
->
->Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
+<br>
 
++++Steg 3: Schemalägg och betala för prov
 
+{{schedule-and-pay}}
 
-## Om certifieringsprovet
++++
+
+<br>
+
++++Steg 4: Före och efter tentamen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Steg 5: Ta provet
 
 {{about-certification-exam}}
 
@@ -172,7 +201,23 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Steg 6: Hantera dina emblem
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Förnya din certifiering
+
+{{renewing-intro}}
+
+<br>
 
 ## Frågor
 

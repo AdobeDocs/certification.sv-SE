@@ -7,18 +7,49 @@ role: User
 badge: label="Prov AD0-E121" type="positive"
 mini-toc-levels: 1
 exl-id: 0b533269-0826-4921-a539-d281c74da63d
-source-git-commit: ef97353f3a911f22f9c801bb7aeb5f3e455e3230
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1129'
+source-wordcount: '981'
 ht-degree: 2%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Experience Manager Sites] Affärsexpert
 
-Lär dig hur du blir certifierad Adobe [!DNL Experience Manager] Yrkesverksamma inom affärsverksamhet.
+{{intro}}
 
-## Minimal upplevelse
+## Provbeskrivning {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Provinformation {#exam-details}
+
+* Nivå: Expert (1-3 års erfarenhet)
+* Löpande poäng: 32/50
+* Tid: 100 min
+* Leverans: Bearbetad online (kräver kameraåtkomst)
+* Tillgängliga språk: engelska, japanska
+* Kostnad: $225 (global) / $150 (Indien)
+* Exam ID: AD0-E121 (engelska), AD0-E121-J (japanska)
+
+<br>
+
+### Målgrupp {#intended-audience}
+
+* Lösningskonsult
+* Yrkesverksamma inom kundupplevelser
+* Produktägare som konstruerar och implementerar lösningar
+* Affärsanalyser
+* Lösningsarkitekter
+* Enskilda personer i partnerorganisationer och frilansare som spelar en analytikerroll för AEM lösningar
+* Marknadsföringsspecialister som vet vilka funktioner och funktioner som behövs för att engagera utvecklare och definiera en lösning för affärsbehov
+* Kunder som använder produkten (dvs. Power Users)
+
+<br>
+
+### Minimal upplevelse {#minimum-experience}
 
 Du borde ha:
 
@@ -49,49 +80,26 @@ Dessutom bör du känna till följande tekniker och miljöer:
 * Allmän förståelse för webben
 * Responsiva webbdesignkoncept
 
->[!NOTE]
->
->Din certifiering gäller i två år från och med när du godkänns. Vi rekommenderar att du använder den nyare versionen när det är möjligt eftersom den omfattar nyare produktfunktioner.
+<br>
 
->[!BEGINTABS]
+### Mål och omfattning för tentamen {#exam-objectives}
 
->[!TAB Gör dig redo]
+{{exam-objectives}}
 
-**Målgrupp:**
-
-* Lösningskonsult
-* Yrkesverksamma inom kundupplevelser
-* Produktägare som konstruerar och implementerar lösningar
-* Affärsanalyser
-* Lösningsarkitekter
-* Enskilda personer i partnerorganisationer och frilansare som spelar en analytikerroll för AEM lösningar
-* Marknadsföringsspecialister som vet vilka funktioner och funktioner som behövs för att engagera utvecklare och definiera en lösning för affärsbehov
-* Kunder som använder produkten (dvs. Power Users)
-
-**Information om tentamen:**
-
-Nivå: Expert (1-3 års erfarenhet) Passing Score: 32/50 Time: 100 min Delivery: Online Procedated (kräver kameraåtkomst) or test center Procedred Available languages: English &amp; Japanese Cost: $225 (global) / $150 (India) Exam ID: AD0-E121
-
-**Självbedömning av beredskap**
-
-Slutför [onlineberedskapsenkät](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-wdx3m2/ad-q-e121-readiness-questionnaire-for-adobe-aem-business-practitioner-expert-exam){target="_blank"} för att se om din nuvarande upplevelse matchar den rekommenderade lägsta kandidatkvalificeringen.
-
-**Mål och omfattning för tentamen**
-
-Avsnitt 1: Utbildning (22 %)
+**Avsnitt 1: Utbildning (22 %)**
 
 * Visa AEM funktioner
 * Rekommendera hur ni kan utnyttja AEM funktioner för att tillgodose företagets behov
 * Tillämpa procedurbegrepp som krävs för att genomföra utbildning för innehållsredigerare
 
-Avsnitt 2: Arkitektur (24 %)
+**Avsnitt 2: Arkitektur (24 %)**
 
 * Rekommendera en informationsarkitektur för att utnyttja AEM standardfunktioner för att tillgodose verksamhetens behov med hjälp av en lokal miljö eller en värdmiljö i Adobe (molnet)
 * Beskriv hur AEM kan integreras med tredjepartstjänster
 * Bestäm hur roller och behörigheter ska definieras
 * Beskriv cachelagringsmetoder
 
-Avsnitt 3: Affärsanalys (38 %)
+**Avsnitt 3: Affärsanalys (38 %)**
 
 * Mappa standardmoduler av AEM till olika affärsproblem för kunden
 * Använd innehållshanteringsbegrepp för AEM moduler
@@ -100,16 +108,38 @@ Avsnitt 3: Affärsanalys (38 %)
 * Bestäm hur du uppfyller de centrala affärsmålen utan att överskrida budget och/eller omfattning
 * Bestäm hur frågor från utvecklare ska besvaras med hänsyn till affärsmålen
 
-Avsnitt 4: Installation och implementering (16 %)
+**Avsnitt 4: Installation och implementering (16 %)**
 
 * Bestäm hur du konfigurerar och använder innehållskomponenter för att visa AEM bästa praxis
 * Kontrollera att funktionerna implementerats korrekt och hitta och beskriv fel som uppstår
 
->[!TAB Förbered]
+<br>
 
-Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
+### Beredskapenkät
 
-Här följer några förslag på resurser som hjälper dig att förbereda dig:
+{{readiness}}
+
+[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-wdx3m2/ad-q-e121-readiness-questionnaire-for-adobe-aem-business-practitioner-expert-exam){target="_blank"}
+
+<br>
+
+## Så här certifierar du dig {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Steg 1: Skapa ditt konto
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Steg 2: Förbered dig för provet
+
+**Studiematerial**
+
+{{study-materials-intro}}
 
 **Avsnitt 1: Utbildning**
 
@@ -167,19 +197,33 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Lokaliseringsfunktioner för kärnkomponenterna](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/get-started/localization.html){target="_blank"}
 * [Sökfunktion](https://experienceleague.adobe.com/docs/experience-manager-64/communities/authoring/search.html){target="_blank"}
 
->[!TAB Bli certifierad]
+<br>
 
->[!IMPORTANT]
->
->Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
-
-## Gör ett övningsprov
+**Gör ett övningsprov**
 
 {{practice-test}}
 
-## Om certifieringsprovet
++++
+
+<br>
+
++++Steg 3: Schemalägg och betala för prov
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Steg 4: Före och efter tentamen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Steg 5: Ta provet
 
 {{about-certification-exam}}
 
@@ -203,7 +247,23 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 [Japanska instruktioner för schemaläggning](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
->[!ENDTABS]
++++
+
+<br>
+
++++Steg 6: Hantera dina emblem
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Förnya din certifiering
+
+{{renewing-intro}}
+
+<br>
 
 ## Frågor
 

@@ -1,24 +1,57 @@
 ---
 title: Certifiering av affärsman
-description: Lär dig hur du blir certifierad som expert på Adobe Business Practitioner i [!DNL Adobe Analytics]
+description: Lär dig certifiera dig som [!DNL Adobe Analytics] Affärsexpert
 solution: Analytics
 product: Analytics
 role: User
 badge: label="Prov AD0-E208" type="positive"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: ef97353f3a911f22f9c801bb7aeb5f3e455e3230
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1031'
-ht-degree: 2%
+source-wordcount: '883'
+ht-degree: 3%
 
 ---
 
 # Certifieringsresa för [!DNL Adobe Analytics] Affärsexpert
 
-Lär dig hur du blir certifierad [!DNL Adobe Analytics] Yrkesverksamma inom affärsverksamhet.
+{{intro}}
 
-## Minimal upplevelse
+## Provbeskrivning {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Provinformation {#exam-details}
+
+* **Nivå:** Expert (1-3 års erfarenhet)
+* **Lösenpoäng:** 31/50
+* **Tid:** 120 min
+* **Leverans:** Bearbetad online (kräver kameraåtkomst)
+* **Tillgängliga språk:** Engelska, japanska
+* **Kostnad:** $225 (global) / $150 (Indien)
+* **Exam-ID:** AD0-E208 (engelska), AD0-E208-J (japanska)
+
+<br>
+
+### Målgrupp {#intended-audience}
+
+* Digitala marknadsförare
+* Affärsanalyser
+* Affärskonsulter
+* Dataanalytiker
+* Webbanalyser
+* Digitala analytiker
+* Media-/marknadsföringsanalytiker
+* Produktägare och -chefer
+* Användargränssnittsanalytiker
+* Konverterings-/optimeringsspecialister
+
+<br>
+
+### Minimal upplevelse {#minimum-experience}
 
 Du borde ha:
 
@@ -34,7 +67,7 @@ Du borde ha:
 * En grundläggande förståelse för hur digital analys filtrerar/strukturerar data
 * Kunskap om integrationen av [!DNL Adobe Analytics] med andra Adobe-lösningar
 
-### Dessutom bör du känna till följande tekniker och miljöer:
+Dessutom bör du känna till följande tekniker och miljöer:
 
 * FTP-klient
 * Aktuell [!DNL Adobe Analytics] Arbetsytefunktioner och andra rapportalternativ utanför arbetsytan (t.ex. schemalägg projekt och schemalägg rapporter)
@@ -46,50 +79,19 @@ Du borde ha:
 * Adobe Help Center
 * Alternativ för dataexport (ex. högerklicka för att exportera, hämta .csv, datafeeds, extrahera Data Warehouse)
 
->[!NOTE]
->
->Din certifiering gäller i två år från och med när du godkänns. Vi rekommenderar att du använder den nyare versionen när det är möjligt eftersom den omfattar nyare produktfunktioner.
+<br>
 
->[!BEGINTABS]
+### Mål och omfattning för tentamen {#exam-objectives}
 
->[!TAB Gör dig redo]
+{{exam-objectives}}
 
-**Målgrupp:**
-
-* Digitala marknadsförare
-* Affärsanalyser
-* Affärskonsulter
-* Dataanalytiker
-* Webbanalyser
-* Digitala analytiker
-* Media-/marknadsföringsanalytiker
-* Produktägare och -chefer
-* Användargränssnittsanalytiker
-* Konverterings-/optimeringsspecialister
-
-**Information om tentamen:**
-
-* **Nivå:** Expert (1-3 års erfarenhet)
-* **Lösenpoäng:** 31/50
-* **Tid:** 120 min
-* **Leverans:** Bearbetad online (kräver kameraåtkomst) eller >testcenter
-* **Tillgängliga språk:** Engelska
-* **Kostnad:** $225 (global) / $150 (Indien)
-* **Exam-ID:** AD0-E208
-
-**Självbedömning av beredskap**
-
-Slutför [onlineberedskapsenkät](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam/adq-e208){target="_blank"} för att se om din nuvarande upplevelse matchar den rekommenderade lägsta kandidatkvalificeringen.
-
-**Mål och omfattning för tentamen**
-
-Avsnitt 1: Förstå analyser i Adobe Experience Cloud ekosystem (10 %)
+**Avsnitt 1: Förstå analyser i Adobe Experience Cloud ekosystem (10 %)**
 
 * Uppvisa kunskap om hur man använder Adobe Experience Cloud ID
 * Uppvisa förståelse för Adobe Launch
 * Uppvisa förståelse för vanliga integreringar i Adobe Experience Cloud ekosystem
 
-Avsnitt 2: Rapportering och introduktion av instrumentpaneler för projekt (30 %)
+**Avsnitt 2: Rapportering och introduktion av instrumentpaneler för projekt (30 %)**
 
 * Tänk på fördelarna med att använda ett rapportverktyg baserat på ett givet scenario
 * Jämför bortfalls- och flödesvisualisering och lämpliga variabeltyper för rapportering
@@ -101,7 +103,7 @@ Avsnitt 2: Rapportering och introduktion av instrumentpaneler för projekt (30 %
 * I ett scenario måste du fastställa vilken artikel som ska användas
 * Använda processen för att skapa, konfigurera och använda mobilstyrkort
 
-Avsnitt 3: Segmentering och beräknade värden (22 %)
+**Avsnitt 3: Segmentering och beräknade värden (22 %)**
 
 * Bestäm hur du utvecklar och konfigurerar segment
 * Använda processen för att dela segment med andra i organisationen
@@ -109,14 +111,14 @@ Avsnitt 3: Segmentering och beräknade värden (22 %)
 * Tillämpa segment på projekt och komponenter
 * Använd processen för att generera beräknade och/eller segmenterade mätvärden
 
-Avsnitt 4: Allmän verktygsinformation och felsökning (12 %)
+**Avsnitt 4: Allmän verktygsinformation och felsökning (12 %)**
 
 * Analysera rapporter och identifiera problem med datakvaliteten
 * Definiera olika typer av dimensioner och parametrar som finns i [!DNL Adobe Analytics] (Vars, props och events)
 * Bestäm hur data ska hämtas in och ut från [!DNL Adobe Analytics]
 * Identifiera information från marknadsförings-URL:er
 
-Section 5: Administration (10%)
+**Section 5: Administration (10%)**
 
 * Konfigurera [!UICONTROL Marknadsföringskanal] rapporter med [!UICONTROL Marknadsföringskanal] bearbetningsregler
 * Använd processen för att konfigurera klassificeringsimporteraren och regelbyggaren
@@ -124,11 +126,33 @@ Section 5: Administration (10%)
 * Använd [!UICONTROL Datafeed] Administratörsgränssnitt för chef
 * Förståelse av datastyrning
 
->[!TAB Förbered]
+<br>
 
-Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
+### Beredskapenkät
 
-Här följer några förslag på resurser som hjälper dig att förbereda dig:
+{{readiness}}
+
+[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam/adq-e208){target="_blank"}
+
+<br>
+
+## Så här certifierar du dig {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Steg 1: Skapa ditt konto
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Steg 2: Förbered dig för provet
+
+**Studiematerial**
+
+{{study-materials-intro}}
 
 **Avsnitt 1: Affärsanalys**
 
@@ -161,19 +185,31 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Vanliga frågor](https://experienceleague.adobe.com/docs/analytics/technotes/data-governance/gdpr-faq.html){target="_blank"}
 * [Arbetsflöde för Classification Rule Builder](https://experienceleague.adobe.com/docs/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html){target="_blank"}
 
->[!TAB Bli certifierad]
-
->[!IMPORTANT]
->
->Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning avbryts provet och du måste schemalägga om mötet utöver att betala en extra provavgift.
-
-## Gör ett övningsprov
+**Gör ett övningsprov**
 
 {{practice-test}}
 
-## Om certifieringsprovet
++++
+
+<br>
+
++++Steg 3: Schemalägg och betala för prov
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Steg 4: Före och efter tentamen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Steg 5: Ta provet
 
 {{about-certification-exam}}
 
@@ -197,7 +233,23 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 [Japanska instruktioner för schemaläggning](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
->[!ENDTABS]
++++
+
+<br>
+
++++Steg 6: Hantera dina emblem
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Förnya din certifiering
+
+{{renewing-intro}}
+
+<br>
 
 ## Frågor
 

@@ -6,44 +6,24 @@ role: Developer
 badge: label="Prov AD0-E903" type="positive"
 mini-toc-levels: 1
 exl-id: 5bb372b4-6237-44f9-ac71-6093e2f0d03f
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1549'
+source-wordcount: '1352'
 ht-degree: 0%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Workfront] Project Manager Professional
 
-Lär dig hur du blir certifierad Adobe [!DNL Workfront] Project Manager Professional.
+{{intro}}
 
-## Minimal upplevelse
+## Provbeskrivning {#exam-description}
 
-Du borde ha:
+{{exam-description}}
 
-* En förståelse för arbetsprocessen från en första arbetsbegäran till slutförande eller har exponerats för projekt- eller arbetshantering
-* har genomgått självstudiekurser eller bootläger eller har varit en [!DNL Workfront] användare i 6-12 månader så att de förstår grundläggande funktioner
-* En förståelse för hur man konfigurerar, spårar och övervakar rapportdata
+<br>
 
->[!NOTE]
->
->Din certifiering gäller i två år från och med när du godkänns. Vi rekommenderar att du använder den nyare versionen när det är möjligt eftersom den omfattar nyare produktfunktioner.
-
->[!BEGINTABS]
-
->[!TAB Gör dig redo]
-
-**Målgrupp:**
-
-* Projektledare, projektledare, planerare
-* SCRUM Master
-* [!DNL Workfront] kraftfull användare
-* Systemadministratör
-* Programansvarig, portföljförvaltare
-* Director, chef
-* Resurshanterare, trafikansvarig
-
-**Information om tentamen - Adobe [!DNL Workfront] Projektledare**
+### Provinformation {#exam-details}
 
 * Nivå: Professionell (0-12 månaders upplevelse)
 * Löpande poäng: 45/70
@@ -53,13 +33,35 @@ Du borde ha:
 * Kostnad: 125 USD (globalt)/95 USD (Indien)
 * Exam ID: AD0-E903
 
-**Självbedömning av beredskap**
+<br>
 
-Slutför [onlineberedskapsenkät](https://scorpion.caveon.com/launchpad/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional){target="_blank"} för att se om din nuvarande upplevelse matchar den rekommenderade lägsta kandidatkvalificeringen.
+### Målgrupp {#intended-audience}
 
-**Mål och omfattning för tentamen**
+* Projektledare, projektledare, planerare
+* SCRUM Master
+* [!DNL Workfront] kraftfull användare
+* Systemadministratör
+* Programansvarig, portföljförvaltare
+* Director, chef
+* Resurshanterare, trafikansvarig
 
-Avsnitt 1: Intagning och planering (30 %)
+<br>
+
+### Minimal upplevelse {#minimum-experience}
+
+Du borde ha:
+
+* En förståelse för arbetsprocessen från en första arbetsbegäran till slutförande eller har exponerats för projekt- eller arbetshantering
+* har genomgått självstudiekurser eller bootläger eller har varit en [!DNL Workfront] användare i 6-12 månader så att de förstår grundläggande funktioner
+* En förståelse för hur man konfigurerar, spårar och övervakar rapportdata
+
+<br>
+
+### Mål och omfattning för tentamen {#exam-objectives}
+
+{{exam-objectives}}
+
+**Avsnitt 1: Intagning och planering (30 %)**
 
 * Identifiera olika sätt att få meddelande om en arbetsförfrågan
 * Granska anpassade data utifrån en begäran för att avgöra vilken åtgärd som är lämplig.
@@ -71,7 +73,7 @@ Avsnitt 1: Intagning och planering (30 %)
 * Identifiera rätt fält för att visa en specifik tilldelad resurs
 * Fastställ inmatnings- eller planeringsrapporter/kontrollpaneler som är till hjälp för personen under arbetsinsatsen eller planeringsfasen i projektet/arbetsprocessen
 
-Avsnitt 2: Kör (50 %)
+**Avsnitt 2: Kör (50 %)**
 
 * Identifiera sätt att förstå, använda och mäta milstolpar i ett projekt
 * Skapa [!DNL Workfront] Godkännanden för enstaka användning och när ett godkännande skulle användas
@@ -92,30 +94,44 @@ Avsnitt 2: Kör (50 %)
 * Identifiera olika typer av rapporter som finns i [!DNL Workfront]
 * Beskriv stegen som krävs för att skapa en anpassad rapport
 
-Avsnitt 3: Stängning (20 %)
+**Avsnitt 3: Stängning (20 %)**
 
 * Ange vilka aktiviteter som behöver utföras eller vilka åtgärder som ska utlösas med en viss objektstatus
 * Ange vilken typ av rapport och vilket rapportelement som ska användas för att ändra en uppgiftslista eller rapport
 * Identifiera olika jokertecken som kan användas i rapporter
 * Identifiera de projektelement som kan användas för att mäta projektframgången
 
->[!TAB Förbered]
+<br>
 
-Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
+### Beredskapenkät
 
-Här följer några förslag på resurser som hjälper dig att förbereda dig:
+{{readiness}}
 
-**Exempelfrågor**
+[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional){target="_blank"}
 
-Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer att stöta på i provet. Ingen inloggning behövs. Resultaten av exempelfrågorna lagras inte och du kan inte förutsäga dina faktiska testresultat.
+<br>
 
-[Se exempelfrågor](https://scorpion.caveon.com/launchpad/ad4-e903-adobe-workfront-project-manager-certified-professional-exam-sample-exam){target="_blank"}
+## Så här certifierar du dig {#how-to-get-certified}
 
-**Rekommenderad kurs:**
+{{how-to-get-certified-intro}}
+
++++Steg 1: Skapa ditt konto
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Steg 2: Förbered dig för provet
+
+**Rekommenderad utbildningskurs**
 
 [Grundläggande teamutbildning för planerare i nya [!DNL Workfront] upplevelse](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/core-team-training-program-for-planners.html){target="_blank"}
 
-**Ytterligare resurser:**
+**Studiematerial**
+
+{{study-materials-intro}}
 
 **Avsnitt 1: Intagning och planering**
 
@@ -160,16 +176,35 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 * [Projektets tidslinje](https://www.workfront.com/project-management/knowledge-areas/time-management/project-timeline){target="_blank"}
 * [Skapa projekt](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FProjects%2FCreate_projects%2F_create-projects-overview.htm&amp;_LANG=enus){target="_blank"}
 
->[!TAB Bli certifierad]
+<br>
 
->[!IMPORTANT]
->
->Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
+**Exempelfrågor**
 
+{{sample-questions}}
 
-## Om certifieringsprovet
+[Visa exempelfrågor](https://scorpion.caveon.com/launchpad/ad4-e903-adobe-workfront-project-manager-certified-professional-exam-sample-exam){target="_blank"}
+
++++
+
+<br>
+
++++Steg 3: Schemalägg och betala för prov
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Steg 4: Före och efter tentamen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Steg 5: Ta provet
 
 {{about-certification-exam}}
 
@@ -182,7 +217,23 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Steg 6: Hantera dina emblem
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Förnya din certifiering
+
+{{renewing-intro}}
+
+<br>
 
 ## Frågor
 

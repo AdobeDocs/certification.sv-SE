@@ -7,18 +7,45 @@ role: User
 badge: label="Prov AD0-E408" type="positive"
 mini-toc-levels: 1
 exl-id: e67e66a3-d3cc-4907-beb4-956940181279
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '867'
+source-wordcount: '698'
 ht-degree: 1%
 
 ---
 
 # Certifieringsresa för [!DNL Adobe Target] Yrkesverksamma inom affärsverksamhet
 
-Lär dig hur du blir certifierad [!DNL Adobe Target] Yrkesverksamma inom affärsverksamhet.
+{{intro}}
 
-## Minimal upplevelse
+## Provbeskrivning {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Provinformation {#exam-details}
+
+* Nivå: Professionell (0-12 månaders upplevelse)
+* Löpande poäng: 31/50
+* Tid: 100 min
+* Leverans: Bearbetad online (kräver kameraåtkomst)
+* Tillgängliga språk: engelska, japanska
+* Kostnad: 125 USD (globalt)/95 USD (Indien)
+* Exam ID: AD0-E408 (engelska), AD0-E408-J (japanska)
+
+<br>
+
+### Målgrupp {#intended-audience}
+
+* Optimering
+* Personalisering
+* Analytics 
+* Digital marknadsföring och produktmarknadsföring
+
+<br>
+
+### Minimal upplevelse {#minimum-experience}
 
 Du borde ha:
 
@@ -29,34 +56,13 @@ Du borde ha:
 * En grundläggande kunskap om trestegsarbetsflödet (upplevelser, målgruppsanpassning, mål och inställningar, inklusive alla rapportkällor)
 * Möjlighet att läsa och förstå aktivitetsrapporteringsresultat
 
->[!NOTE]
->
->Din certifiering gäller i två år från och med när du godkänns. Vi rekommenderar att du använder den nyare versionen när det är möjligt eftersom den omfattar nyare produktfunktioner.
+<br>
 
->[!BEGINTABS]
+### Mål och omfattning för tentamen {#exam-objectives}
 
->[!TAB Gör dig redo]
+{{exam-objectives}}
 
-**Målgrupp:**
-
-* Optimering
-* Personalisering
-* Analytics 
-* Digital marknadsföring och produktmarknadsföring
-
-**Information om tentamen:**
-
-* Nivå: Professionell (0-12 månaders upplevelse)
-* Löpande poäng: 31/50
-* Tid: 100 min
-* Leverans: Bearbetad online (kräver kameraåtkomst)
-* Tillgängliga språk: engelska
-* Kostnad: 125 USD (globalt)/95 USD (Indien)
-* Exam ID: AD0-E408
-
-**Mål och omfattning för tentamen**
-
-Avsnitt 1: Planering och strategi (26 %)
+**Avsnitt 1: Planering och strategi (26 %)**
 
 * Identifiera nyckeltal för företag
 * I ett scenario med nyckeltal för företag och dataanalys kan ni identifiera möjligheter till optimering
@@ -67,7 +73,7 @@ Avsnitt 1: Planering och strategi (26 %)
 * Utvärdera målgruppens behov utifrån ett scenario
 * Beskriv lämpliga källor för analysrapportering (dvs. Target eller Adobe Analytics)
 
-Avsnitt 2: Konfigurera, köra och hantera (50 %)
+**Avsnitt 2: Konfigurera, köra och hantera (50 %)**
 
 * Förklara användningen av formulärbaserad Experience Composer jämfört med Visual Experience Composer
 * Beskriv procedurer för att skapa en upplevelse med VEC
@@ -84,7 +90,7 @@ Avsnitt 2: Konfigurera, köra och hantera (50 %)
 * Beskriv förfaranden för att genomföra verksamhets-QA
 * Beskriv procedurer för att hantera aktiviteter och målgrupper inom Target
 
-Avsnitt 3: Analys och rapportering (16 %)
+**Avsnitt 3: Analys och rapportering (16 %)**
 
 * Beskriv inställningar för att hjälpa dig att ange elementen som visas i en rapport
 * Beskriv skillnaden i [!DNL Adobe Target] Beräkna samplingsstorlek mellan planering och validering
@@ -93,23 +99,31 @@ Avsnitt 3: Analys och rapportering (16 %)
 * Beskriv funktionerna i Experience Performance-rapporter (MVT)
 * Beskriv de bästa metoderna som ska följas vid körning av A/B-tester
 
-Avsnitt 4: Felsökning (8 %)
+**Avsnitt 4: Felsökning (8 %)**
 
 * Identifiera kvalificeringsproblem för aktivitet utifrån ett scenario
 * Identifiera funktionerna i felsökningsverktygen för webbläsare (inklusive Experience Cloud Debugger)
 * Identifiera mätvärden och rapporter
 
->[!TAB Förbered]
+<br>
 
-Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
+## Så här certifierar du dig {#how-to-get-certified}
 
-Här följer några förslag på resurser som hjälper dig att förbereda dig:
+{{how-to-get-certified-intro}}
 
-**Exempelfrågor**
++++Steg 1: Skapa ditt konto
 
-Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer att stöta på i provet. Ingen inloggning behövs. Resultaten av exempelfrågorna lagras inte och du kan inte förutsäga dina faktiska testresultat.
+{{create-your-account}}
 
-[Se exempelfrågor](https://scorpion.caveon.com/launchpad/ad0-e408-adobe-target-business-practitioner-professional-copy-5axknr){target="_blank"}
++++
+
+<br>
+
++++Steg 2: Förbered dig för provet
+
+**Studiematerial**
+
+{{study-materials-intro}}
 
 **Avsnitt 1: Planering och strategi**
 
@@ -141,16 +155,35 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 * [[!DNL Adobe Target] Användarhandbok för yrkesverksamma](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
 * [Adobe Experience Cloud Debugger - översikt](https://experienceleague.adobe.com/docs/debugger/using/experience-cloud-debugger.html){target="_blank"}
 
->[!TAB Bli certifierad]
+<br>
 
->[!IMPORTANT]
->
->Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
+**Exempelfrågor**
 
+{{sample-questions}}
 
-## Om certifieringsprovet
+[Visa exempelfrågor](https://scorpion.caveon.com/launchpad/ad0-e408-adobe-target-business-practitioner-professional-copy-5axknr){target="_blank"}
+
++++
+
+<br>
+
++++Steg 3: Schemalägg och betala för prov
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Steg 4: Före och efter tentamen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Steg 5: Ta provet
 
 {{about-certification-exam}}
 
@@ -163,7 +196,25 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 </span>
 </a>
 
->[!ENDTABS]
+[Japanska instruktioner för schemaläggning](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
+
++++
+
+<br>
+
++++Steg 6: Hantera dina emblem
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Förnya din certifiering
+
+{{renewing-intro}}
+
+<br>
 
 ## Frågor
 

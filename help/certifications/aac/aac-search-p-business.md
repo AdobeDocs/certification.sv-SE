@@ -8,18 +8,44 @@ role: User
 badge: label="Prov AD0-E501" type="positive"
 mini-toc-levels: 1
 exl-id: f89a197f-dfe9-4e53-a783-97326bd6d934
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '880'
-ht-degree: 0%
+source-wordcount: '732'
+ht-degree: 1%
 
 ---
 
 # Certifieringsresa för [!DNL Adobe Advertising Search] Yrkesverksamma inom affärsverksamhet
 
-Lär dig hur du blir certifierad [!DNL Adobe Advertising Search] Yrkesverksamma inom affärsverksamhet.
+{{intro}}
 
-## Minimal upplevelse
+## Provbeskrivning {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Provinformation {#exam-details}
+
+* Nivå: Professionell (0-12 månaders upplevelse)
+* Löpande poäng: 35/50
+* Tid: 100 min
+* Leverans: Bearbetad online (kräver kameraåtkomst)
+* Tillgängliga språk: engelska
+* Kostnad: 125 USD (globalt)/95 USD (Indien)
+* Exam ID: AD0-E501
+
+<br>
+
+### Målgrupp {#intended-audience}
+
+* Sök efter kampanjansvariga för marknadsföring
+* Yrkesverksamma inom sökmarknadsföring
+* Individer som regelbundet använder Sök för att köra och hantera sökkampanjer
+
+<br>
+
+### Minimal upplevelse {#minimum-experience}
 
 Du borde ha:
 
@@ -28,7 +54,7 @@ Du borde ha:
 * Upplevelser i [!DNL Advertising Search] och är bekanta med automatiserad sökbudgivning, kampanjhantering,
 * En förståelse för Portfolio-teorin
 
-Arbeta med följande funktioner:
+Du bör även ha erfarenhet av att arbeta med följande funktioner:
 
 * Skapa varje aspekt av Portfolio
 * Skapa anpassade simuleringar för att avgöra när portföljer är klara för optimering
@@ -51,37 +77,13 @@ Arbeta med följande funktioner:
 * Målgruppsmodifierare
 * Annonsjustering för lagerställe
 
->[!NOTE]
->
->Din certifiering gäller i två år från och med när du godkänns. Vi rekommenderar att du använder den nyare versionen när det är möjligt eftersom den omfattar nyare produktfunktioner.
+<br>
 
->[!BEGINTABS]
+### Mål och omfattning för tentamen {#exam-objectives}
 
->[!TAB Gör dig redo]
+{{exam-objectives}}
 
-**Målgrupp:**
-
-* Sök efter kampanjansvariga för marknadsföring
-* Yrkesverksamma inom sökmarknadsföring
-* Individer som regelbundet använder Sök för att köra och hantera sökkampanjer
-
-**Information om tentamen:**
-
-* Nivå: Professionell (0-12 månaders upplevelse)
-* Löpande poäng: 35/50
-* Tid: 100 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
-* Tillgängliga språk: engelska
-* Kostnad: 125 USD (globalt)/95 USD (Indien)
-* Exam ID: AD0-E501
-
-**Självbedömning av beredskap**
-
-Slutför [onlineberedskapsenkät](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-2yfz3t/ad-q-e501-readiness-questionnaire-for-adobe-advertising-cloud-search-business-practitioner-professional-exam){target="_blank"} för att se om din nuvarande upplevelse matchar den rekommenderade lägsta kandidatkvalificeringen.
-
-**Mål och omfattning för tentamen**
-
-Avsnitt 1: Portfolio och optimeringar (54 %)
+**Avsnitt 1: Portfolio och optimeringar (54 %)**
 
 * För ett scenario, välja ut och konfigurera automatiserade anbudsstrategier
 * Utifrån sina affärsstrategier, definiera och skapa mål för nyckeltal i Portfolio
@@ -90,27 +92,49 @@ Avsnitt 1: Portfolio och optimeringar (54 %)
 * Utvärdera och felsök Portfolio prestanda efter ett scenario
 * Om du utgår från ett scenario ska du avgöra hur du kontinuerligt justerar inställningarna för Portfolio
 
-Avsnitt 2: Rapporter, insikter och verktyg (14 %)
+**Avsnitt 2: Rapporter, insikter och verktyg (14 %)**
 
 * Använda processrelaterade koncept för att skapa och schemalägga rapporter utifrån affärsbehov
 * fastställa optimal budgetallokering med hjälp av tillgängliga plattformsövergripande AI-verktyg för Portfolio och tillämpa vid behov
 * Skapa och definiera anpassade simuleringar för Portfolio-analys och -prognos utifrån ett användningsexempel
 
-Avsnitt 3: Kampanjadministration (22 %)
+**Avsnitt 3: Kampanjadministration (22 %)**
 
 * Ställ in konton
 * Bygg, hantera och organisera alla aspekter av kampanjer
 
-Avsnitt 4: Mått (10 %)
+**Avsnitt 4: Mått (10 %)**
 
 * Fastställ ett affärsscenario för uppföljning av kampanjkonvertering och tillämpa
 * I ett scenario kan du felsöka måttproblem för kampanjkonvertering
 
->[!TAB Förbered]
+<br>
 
-Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
+### Beredskapenkät
 
-Här följer några förslag på resurser som hjälper dig att förbereda dig:
+{{readiness}}
+
+[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-2yfz3t/ad-q-e501-readiness-questionnaire-for-adobe-advertising-cloud-search-business-practitioner-professional-exam){target="_blank"}.
+
+<br>
+
+## Så här certifierar du dig {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Steg 1: Skapa ditt konto
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Steg 2: Förbered dig för provet
+
+**Studiematerial**
+
+{{study-materials-intro}}
 
 **Avsnitt 1: Portfolio och optimering**
 
@@ -147,16 +171,27 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Marketo Measure hjälpdokumentation](https://experienceleague.adobe.com/docs/marketo-measure/using/home.html){target="_blank"}
 * [Konverteringsvariabler (eVars)](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/conversion-var-admin.html){target="_blank"}
 
->[!TAB Bli certifierad]
++++
 
->[!IMPORTANT]
->
->Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
+<br>
 
++++Steg 3: Schemalägg och betala för prov
 
-## Om certifieringsprovet
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Steg 4: Före och efter tentamen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Steg 5: Ta provet
 
 {{about-certification-exam}}
 
@@ -169,10 +204,29 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Steg 6: Hantera dina emblem
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Förnya din certifiering
+
+{{renewing-intro}}
+
+<br>
 
 ## Frågor
 
 Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.
+
+
+

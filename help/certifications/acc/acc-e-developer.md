@@ -7,18 +7,44 @@ role: Developer
 badge: label="Prov AD0-E330" type="positive"
 mini-toc-levels: 1
 exl-id: 0c827fe3-b56b-4130-8436-2d3698c2e30b
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1117'
-ht-degree: 10%
+source-wordcount: '961'
+ht-degree: 11%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Campaign Classic] Developer Expert
 
-Lär dig hur du blir certifierad Adobe [!DNL Campaign Classic] Utvecklarexpert.
+{{intro}}
 
-## Minimal upplevelse
+## Provbeskrivning {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Provinformation {#exam-details}
+
+* Nivå: Expert (1-3 års erfarenhet)
+* Löpande poäng: 34/50
+* Tid: 100 min
+* Leverans: Bearbetad online (kräver kameraåtkomst)
+* Tillgängliga språk: engelska
+* Kostnad: $225 (global) / $150 (Indien)
+* Exam ID: AD0-E330
+
+<br>
+
+### Målgrupp {#intended-audience}
+
+* Teknisk konsult
+* Marknadsföringstekniker
+* Adobe [!DNL Campaign Classic] utvecklare
+
+<br>
+
+### Minimal upplevelse {#minimum-experience}
 
 Du borde ha:
 
@@ -30,37 +56,13 @@ Du borde ha:
 * Möjlighet att felsöka kampanjimplementeringar
 * Grundläggande förståelse för serverkonfigurationer relaterade till Campaign
 
->[!NOTE]
->
->Din certifiering gäller i två år från och med när du godkänns. Vi rekommenderar att du använder den nyare versionen när det är möjligt eftersom den omfattar nyare produktfunktioner.
+<br>
 
->[!BEGINTABS]
+### Mål och omfattning för tentamen {#exam-objectives}
 
->[!TAB Gör dig redo]
+{{exam-objectives}}
 
-**Målgrupp:**
-
-* Teknisk konsult
-* Marknadsföringstekniker
-* Adobe [!DNL Campaign Classic] utvecklare
-
-**Provinformation**
-
-* Nivå: Expert (1-3 års erfarenhet)
-* Löpande poäng: 34/50
-* Tid: 100 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
-* Tillgängliga språk: engelska
-* Kostnad: $225 (global) / $150 (Indien)
-* Exam ID: AD0-E330
-
-**Självbedömning av beredskap**
-
-Slutför [onlineberedskapsenkät](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-21ocv4/ad-q-e312-readiness-questionnaire-adobe-campaign-classic-developer-expert-exam){target="_blank"} för att se om din nuvarande upplevelse matchar den rekommenderade lägsta kandidatkvalificeringen.
-
-**Mål och omfattning för tentamen**
-
-Avsnitt 1: Systemkonfiguration (16 %)
+**Avsnitt 1: Systemkonfiguration (16 %)**
 
 * Använd konfigurationsinställningar och standardinställningar för hela systemet
 * Välj lämplig Adobe Campaign-funktion för att implementera ett användningsfall med olika parametrar
@@ -68,7 +70,7 @@ Avsnitt 1: Systemkonfiguration (16 %)
 * Implementera anpassade konfigurationer
 * Identifiera konfigurationsfunktioner för Campaign Control Panel
 
-Avsnitt 2: Anpassning (22 %)
+**Avsnitt 2: Anpassning (22 %)**
 
 * Använd bästa praxis för att utforma en datamodell utifrån en uppsättning krav
 * Beskriv implementeringen av API:er i Campaign
@@ -78,14 +80,14 @@ Avsnitt 2: Anpassning (22 %)
 * I ett scenario, förstå hur du använder SQL-skript i Adobe [!DNL Campaign Classic]
 * Beskriv vanliga OTB-funktioner
 
-Avsnitt 3: Åtkomsthantering (8 %)
+**Avsnitt 3: Åtkomsthantering (8 %)**
 
 * Konfigurera säkerhetsinställningar för en operator för ett scenario
 * Beskriv hur inställningar för åtkomsthantering konfigureras baserat på lösningsdesigndokumentet
 * Beskriv åtkomsthantering med Campaign Control-panelen
 * Identifiera begränsningarna för datapartitionering och när sysfilter ska användas
 
-Avsnitt 4: Dataintegrering (16 %)
+**Avsnitt 4: Dataintegrering (16 %)**
 
 * Välj det bästa sättet att integrera med externa datakällor för ett scenario
 * Implementera bästa praxis för databearbetning i arbetsflöden
@@ -93,7 +95,7 @@ Avsnitt 4: Dataintegrering (16 %)
 * Identifiera säkerhets- och nätverksinställningar för integrering med Adobe Campaign från ett externt system
 * Konfigurera CRUD-processen på ett schema utanför Adobe Campaign
 
-Avsnitt 5: Instansunderhåll (12 %)
+**Avsnitt 5: Instansunderhåll (12 %)**
 
 * Förstå och agera på heatmap-kartan för arbetsflöden
 * Uppvisa processen för att skapa ett anpassat arbetsflöde eller en rapport för instansövervakning
@@ -101,7 +103,7 @@ Avsnitt 5: Instansunderhåll (12 %)
 * Förklara hur tjänster och processer påverkar systemet
 * Uppvisa grundläggande systemrevisionsstatistik/-kontroller
 
-Avsnitt 6: Kampanjkonfiguration (25 %)
+**Avsnitt 6: Kampanjkonfiguration (25 %)**
 
 * Använd avancerade personaliseringstekniker
 * Konfigurera och använda anpassade målmappningar
@@ -112,11 +114,33 @@ Avsnitt 6: Kampanjkonfiguration (25 %)
 * Beskriv arbetsflödesmetoder som har en negativ inverkan på prestandan
 * Anges ett användningsexempel, rekommenderar avancerad arbetsflödesdesign för målinriktning
 
->[!TAB Förbered]
+<br>
 
-Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
+### Beredskapenkät
 
-Här följer några förslag på resurser som hjälper dig att förbereda dig:
+{{readiness}}
+
+[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-21ocv4/ad-q-e312-readiness-questionnaire-adobe-campaign-classic-developer-expert-exam){target="_blank"}
+
+<br>
+
+## Så här certifierar du dig {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Steg 1: Skapa ditt konto
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Steg 2: Förbered dig för provet
+
+**Studiematerial**
+
+{{study-materials-intro}}
 
 **Avsnitt 1: Systemkonfiguration**
 
@@ -173,19 +197,27 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Om mallar](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html){target="_blank"}
 * [Använd en anpassad mottagartabell](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/about-custom-recipient-table.html){target="_blank"}
 
->[!TAB Bli certifierad]
++++
 
->[!IMPORTANT]
->
->Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
+<br>
 
-## Gör ett övningsprov
++++Steg 3: Schemalägg och betala för prov
 
-{{practice-test}}
+{{schedule-and-pay}}
 
-## Om certifieringsprovet
++++
+
+<br>
+
++++Steg 4: Före och efter tentamen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Steg 5: Ta provet
 
 {{about-certification-exam}}
 
@@ -198,7 +230,23 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Steg 6: Hantera dina emblem
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Förnya din certifiering
+
+{{renewing-intro}}
+
+<br>
 
 ## Frågor
 

@@ -7,9 +7,9 @@ role: Developer
 badge: label="Prova AD0-E600 och AD7-E601" type="positive"
 hidefromtoc: true
 mini-toc-levels: 1
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1530'
+source-wordcount: '1422'
 ht-degree: 3%
 
 ---
@@ -17,11 +17,30 @@ ht-degree: 3%
 
 # Certifieringsresa för Adobe [!DNL Experience Platform] Expert
 
-Lär dig hur du blir certifierad Adobe [!DNL Experience Platform] Expert.
+{{intro}}
 
-## Minimal upplevelse
+## Provbeskrivning {#exam-description}
 
-Om du vill bli certifierad med prov måste du skicka två olika tentamen med en proktor på plats, online eller på plats, där det är möjligt.
+{{exam-description}}
+
+>[!IMPORTANT]
+>
+>Adobe [!DNL Experience Platform] Expertcertifieringen kräver för närvarande två prov: **Adobe [!DNL Experience Platform] Tekniska grunder (AD0-E600)** och **Adobe [!DNL Real-Time CDP] Teknisk handledare (AD7-E601)**. Från och med den 1 november 2023 kommer en ny tentamen att startas och denna tentamen kommer endast att krävas för denna certifiering.
+
+<br>
+
+### Målgrupp {#intended-audience}
+
+* Dataarkitekt/ingenjör
+* Solution Architect eller MSA
+* Enterprise Architect
+* Product Manager
+* Marknadsföringsteknologichef
+* Teknisk konsult
+
+<br>
+
+### Minimal upplevelse {#minimum-experience}
 
 Du borde ha:
 
@@ -38,29 +57,19 @@ Du borde ha:
 * Kunskap om hur ofta segment ska skickas ut via destinationer
 * Kunskap om hur ofta segmentmedlemskap uppdateras
 
->[!NOTE]
->
->Din certifiering gäller i två år från och med när du godkänns. Vi rekommenderar att du använder den nyare versionen när det är möjligt eftersom den omfattar nyare produktfunktioner.
+<br>
 
->[!BEGINTABS]
+[Gå till information för krav 1](#req-1)
 
->[!TAB Gör dig redo]
+[Gå till Information för krav 2](#req-2)
 
-**Målgrupp:**
+<br>
 
-* Dataarkitekt/ingenjör
-* Solution Architect eller MSA
-* Enterprise Architect
-* Product Manager
-* Marknadsföringsteknologichef
-* Teknisk konsult
-
-
-**Krav 1: AD0-E600 Adobe [!DNL Experience Platform] Teknisk grund**
+## Krav 1: Information för Adobe [!DNL Experience Platform] Tekniska grunder (AD0-E600) {#req-1}
 
 Provet AD0-E600 avser att verifiera färdigheter och kunskaper som omfattar grundläggande funktioner och uppgifter som utförs ofta i Adobe [!DNL Experience Platform] på expertnivå.
 
-**Information om tentamen:**
+### Information om provet för AD0-E600 {#exam-details-600}
 
 * Nivå: Expert (1-3 års erfarenhet)
 * Löpande poäng: 35/50
@@ -70,15 +79,19 @@ Provet AD0-E600 avser att verifiera färdigheter och kunskaper som omfattar grun
 * Kostnad: $225 (global) / $150 (Indien)
 * Exam ID: AD0-E600
 
-**Mål och omfattning för prov**
+<br>
 
-Avsnitt 1: Datamodellering (20 %)
+### Mål och omfattning för AD0-E600 {#exam-objectives}
+
+{{exam-objectives}}
+
+**Avsnitt 1: Datamodellering (20 %)**
 
 * Analysera källdata för att utvärdera primär och sekundär identitet för sammanfogning av profiler
 * Uppvisa kunskap i hur man använder användargränssnittet för att skapa/redigera XDM-scheman.
 * Identifiera DULE-vägledning
 
-Avsnitt 2: Datainmatning (36 %)
+**Avsnitt 2: Datainmatning (36 %)**
 
 * Uppvisa hur man formaterar och förbereder data för konsumtion
 * Uppvisa hur du ansluter datakällor med OTB-anslutningar
@@ -87,7 +100,7 @@ Avsnitt 2: Datainmatning (36 %)
 * Uppvisa hur dataidentifiering kan utföras på källdata
 * Uppvisa hur man omvandlar data till XDM
 
-Avsnitt 3: Enhetliga profiler (34 %)
+**Avsnitt 3: Enhetliga profiler (34 %)**
 
 * Validera profiler och inmatning av händelsedata
 * Definiera mellanslag för identitetsnamn
@@ -95,19 +108,30 @@ Avsnitt 3: Enhetliga profiler (34 %)
 * Identifiera hur man förbättrar profiler med hjälp av datavetenskapens modelleringstjänster
 * Uppvisa hur man bygger upp ett segment med segmentbyggaren och hur segmenteringstjänsten fungerar
 
-Avsnitt 4: Aktivering (10 %)
+**Avsnitt 4: Aktivering (10 %)**
 
 * Uppvisa hur man ställer in en destination och hur segmentaktiveringen fungerar
 * Uppvisa och förstå API för dataåtkomst och exportera data via Real-Time CDP
 
-Ta ett frågeformulär för att ta reda på om ni uppfyller minimikraven.
+<br>
 
+## Så här certifierar du dig (AD0-E600) {#how-to-get-certified}
 
->[!TAB Förbered]
+{{how-to-get-certified-intro}}
 
-Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
++++Steg 1: Skapa ditt konto
 
-Här följer några förslag på resurser som hjälper dig att förbereda dig:
+{{create-your-account}}
+
++++
+
+<br>
+
++++Steg 2: Förbered dig för provet
+
+**Studiematerial**
+
+{{study-materials-intro}}
 
 **Avsnitt 1: Datamodellering**
 
@@ -132,17 +156,33 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 * [Översikt över mål](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.htmll?lang=sv){target="_blank"}
 
->[!TAB Bli certifierad]
+<br>
 
->[!IMPORTANT]
->
->Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
-
-## Gör ett övningsprov
+**Gör ett övningsprov**
 
 {{practice-test}}
 
-## Om certifieringsprovet
++++
+
+<br>
+
++++Steg 3: Schemalägg och betala för prov
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Steg 4: Före och efter tentamen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Steg 5: Ta provet
 
 {{about-certification-exam}}
 
@@ -155,18 +195,25 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 </span>
 </a>
 
++++
 
->[!ENDTABS]
+<br>
 
->[!BEGINTABS]
++++Steg 6: Hantera dina emblem
 
->[!TAB Gör dig redo]
+{{manage-your-badges}}
 
-**Krav 2: AD7-E601 Adobe Real-Time CDP Technical Practitioner**
++++
+
+<br>
+
+## Krav 2: Information för Adobe [!DNL Real-Time CDP] Teknisk handledare (AD7-E601) {#req-2}
 
 AD7-E601-provet handlar om att skapa, hantera och förstå kundprofiler, segmentering, destinationer mellan olika källor och andra ämnen. Provet avser den grundläggande kompetens och kunskap som behövs för att använda CDP i realtid för målgruppssegmentering, destinationsexport och aktivering i realtid för enhetliga profiler som följer data- och integritetslagstiftningen. Kandidaterna ska ha erfarenhet av CDP (Customer Data Platforms) och kunskaper om Adobe [!DNL Experience Platform].
 
-**Information om tentamen:**
+<br>
+
+### Information om provet för AD7-E601
 
 * Nivå: Expert (1-3 års erfarenhet)
 * Passing Score: 25/34
@@ -176,11 +223,11 @@ AD7-E601-provet handlar om att skapa, hantera och förstå kundprofiler, segment
 * Kostnad: $225 (global) / $150 (Indien)
 * Exam ID: AD7-E601
 
-**Självbedömning av beredskap**
+<br>
 
-Slutför [onlineberedskapsenkät](https://scorpion.caveon.com/launchpad/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam){target="_blank"} för att se om din nuvarande upplevelse matchar den rekommenderade lägsta kandidatkvalificeringen.
+### Mål och omfattning för AD7-E601
 
-**Räckvidd och mål för proven**
+{{exam-objectives}}
 
 Avsnitt 1: Validering (41 %)
 
@@ -200,7 +247,33 @@ Avsnitt 3: Destinationer (27 %)
 * Använd de begrepp som krävs för att konfigurera ett eller flera destinationer när målgrupper skickas/exporteras baserat på affärsanvändningsfall
 * Uppvisa förståelse för att exportera segment via mål
 
->[!TAB Förbered]
+<br>
+
+### Frågeformulär för beredskap för AD7-E601
+
+{{readiness}}
+
+[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam){target="_blank"}
+
+<br>
+
+## Så här certifierar du dig (AD7-E601)
+
+{{how-to-get-certified-intro}}
+
++++Steg 1: Skapa ditt konto
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Steg 2: Förbered dig för provet
+
+**Studiematerial**
+
+{{study-materials-intro}}
 
 **Avsnitt 1: Validering**
 
@@ -262,33 +335,62 @@ Avsnitt 3: Destinationer (27 %)
 * [Konfigurera ett socialt mål](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-a-social-destination.html){target="_blank"}
 * [Aktivera data till andra program än Adobe](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-data-to-non-adobe-applications.html){target="_blank"}
 
->[!TAB Bli certifierad]
+<br>
 
->[!IMPORTANT]
->
->Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
-
-## Gör ett övningsprov
+**Gör ett övningsprov**
 
 {{practice-test}}
 
-## Om certifieringsprovet
++++
+
+<br>
+
++++Steg 3: Schemalägg och betala för prov
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Steg 4: Före och efter tentamen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Steg 5: Ta provet
 
 {{about-certification-exam}}
 
-## Schemalägg eller ta prov AD0-E601
+## Schemalägg eller ta prov AD7-E601
 
-<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E601" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD7-E601" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    Gå till portalen för undersökningar
 </span>
 </a>
 
++++
 
->[!ENDTABS]
+<br>
+
++++Steg 6: Hantera dina emblem
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Förnya din certifiering
+
+{{renewing-intro}}
+
+<br>
 
 ## Frågor
 

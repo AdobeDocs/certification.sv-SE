@@ -7,18 +7,49 @@ role: Developer
 badge: label="Prov AD0-E124" type="positive"
 mini-toc-levels: 1
 exl-id: 9cfb51b0-9ab8-46fb-a111-434c13e4affa
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '926'
+source-wordcount: '769'
 ht-degree: 1%
 
 ---
 
 # Certifieringsresa för Adobe Experience Manager DevOps Engineer Expert
 
-Lär dig hur du blir certifierad Adobe DevOps Engineer Expert.
+{{intro}}
 
-## Minimal upplevelse
+## Provbeskrivning {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Provinformation {#exam-details}
+
+* Nivå: Expert (1-3 års erfarenhet)
+* Löpande poäng: 30/50
+* Tid: 100 min
+* Leverans: Bearbetad online (kräver kameraåtkomst)
+* Tillgängliga språk: engelska
+* Kostnad: $225 (global) / $150 (Indien)
+* Exam ID: AD0-E124
+
+<br>
+
+### Målgrupp {#intended-audience}
+
+* Lösningskonsulter
+* Yrkesverksamma inom kundupplevelser
+* Produktägare som konstruerar och implementerar lösningar
+* Affärsanalyser
+* Lösningsarkitekter
+* Enskilda personer i partnerorganisationer och frilansare som spelar en analytikerroll för AEM lösningar
+* Marknadsföringsspecialister som vet vilka funktioner och funktioner som behövs för att engagera utvecklare och definiera en lösning för affärsbehov
+* Kunder som använder produkten (dvs. avancerade användare)
+
+<br>
+
+### Minimal upplevelse {#minimum-experience}
 
 Du borde ha:
 
@@ -27,7 +58,7 @@ Du borde ha:
 
 Du bör känna dig trygg när du arbetar i Adobe Managed Services och Adobe Experience Manager as a Cloud Service och kan konfigurera miljöer och infrastruktur i Adobe Experience Manager.
 
-Och du bör känna till följande tekniker och miljöer:
+Dessutom bör du känna till följande tekniker och miljöer:
 
 * Cloud Manager
 * Adobe IO CLI
@@ -39,81 +70,72 @@ Och du bör känna till följande tekniker och miljöer:
 * Dev, sandlåda
 * Lokal miljö
 
->[!NOTE]
->
->Din certifiering gäller i två år från och med när du godkänns. Vi rekommenderar att du använder den nyare versionen när det är möjligt eftersom den omfattar nyare produktfunktioner.
+<br>
 
->[!BEGINTABS]
+### Mål och omfattning för tentamen {#exam-objectives}
 
->[!TAB Gör dig redo]
+{{exam-objectives}}
 
-**Målgrupp:**
-
-* Lösningskonsulter
-* Yrkesverksamma inom kundupplevelser
-* Produktägare som konstruerar och implementerar lösningar
-* Affärsanalyser
-* Lösningsarkitekter
-* Enskilda personer i partnerorganisationer och frilansare som spelar en analytikerroll för AEM lösningar
-* Marknadsföringsspecialister som vet vilka funktioner och funktioner som behövs för att engagera utvecklare och definiera en lösning för affärsbehov
-* Kunder som använder produkten (dvs. avancerade användare)
-
-**Information om tentamen:**
-
-* Nivå: Expert (1-3 års erfarenhet)
-* Löpande poäng: 30/50
-* Tid: 100 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
-* Tillgängliga språk: engelska
-* Kostnad: $225 (global) / $150 (Indien)
-* Exam ID: AD0-E124
-
-**Självbedömning av beredskap**
-
-Slutför [onlineberedskapsenkät](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ejk3tx/ad-q-e124-readiness-questionnaire-for-adobe-aem-devops-engineer-expert-exam){target="_blank"} för att se om din nuvarande upplevelse matchar den rekommenderade lägsta kandidatkvalificeringen.
-
-**Mål och omfattning för tentamen**
-
-Avsnitt 1: Konfigurera Adobe Experience Manager (18 %)
+**Avsnitt 1: Konfigurera Adobe Experience Manager (18 %)**
 
 * Bestäm rätt metod för att konfigurera grundläggande Adobe Experience Manager-inställningar
 * I ett scenario kan du felsöka Adobe Experience Manager-problem
 * Bestäm rätt metod för att konfigurera OSGi
 
-Avsnitt 2: Operate Cloud Manager och Cloud Manager API (20 %)
+**Avsnitt 2: Operate Cloud Manager och Cloud Manager API (20 %)**
 
 * Bestäm rätt metod för att hantera miljöinställningar i Cloud Manager via användargränssnittet
 * Identifiera rätt metod för att etablera program och miljöer i Cloud Manager
 * Identifiera rätt metod att migrera till Adobe Experience Manager as a Cloud Service
 * Bestäm rätt metod för att konfigurera integreringar på Adobe I/O
 
-Avsnitt 3: Konfigurera webbproxyinfrastrukturen (12 %)
+**Avsnitt 3: Konfigurera webbproxyinfrastrukturen (12 %)**
 
 * Identifiera rätt metod för att hantera Dispatcher-konfigurationer
 * I ett scenario felsöker du problem med cachning
 
-Avsnitt 4: Bygg och driftsätta (28 %)
+**Avsnitt 4: Bygg och driftsätta (28 %)**
 
 * Identifiera rätt metod för att hantera distributioner av Cloud Manager
 * Analysera läget för en Cloud Manager-pipeline utifrån ett scenario
 * Identifiera rätt metod för att hantera innehållspaket i flera Adobe Experience Manager-instanser
 * Bestäm rätt metod för att göra ändringar i Maven-filer som stöder rörledningar
 
-Avsnitt 5: Övervaka och rapportera kvalitetsstatistik (14 %)
+**Avsnitt 5: Övervaka och rapportera kvalitetsstatistik (14 %)**
 
 * Bestäm rätt metod för att samla in resultatvärden och rapporter
 * Fastställa rätt metod för att skala infrastrukturen
 
-Avsnitt 6: Använd Admin Console (8 %)
+**Avsnitt 6: Använd Admin Console (8 %)**
 
 * Bestäm vilken metod som ska användas för att skicka in en supportförfrågan i Admin Console
 * Identifiera rätt metod för att konfigurera federerad enkel inloggning och synkronisera Adobe Experience Manager-användare och -grupper
 
->[!TAB Förbered]
+### Beredskapenkät
 
-Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
+{{readiness}}
 
-Här följer några förslag på resurser som hjälper dig att förbereda dig:
+[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ejk3tx/ad-q-e124-readiness-questionnaire-for-adobe-aem-devops-engineer-expert-exam){target="_blank"}
+
+<br>
+
+## Så här certifierar du dig {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Steg 1: Skapa ditt konto
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Steg 2: Förbered dig för provet
+
+**Studiematerial**
+
+{{study-materials-intro}}
 
 **Avsnitt 1: Konfigurera Adobe Experience Manager**
 
@@ -151,19 +173,27 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [IMS-stöd för AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/security/ims-support.html#accessing-cloud-manager){target="_blank"}
 * [Användargrupper och AEM för Adobe IMS](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/adobe-ims-user-groups.html){target="_blank"}
 
->[!TAB Bli certifierad]
++++
 
->[!IMPORTANT]
->
->Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
+<br>
 
-## Gör ett övningsprov
++++Steg 3: Schemalägg och betala för prov
 
-{{practice-test}}
+{{schedule-and-pay}}
 
-## Om certifieringsprovet
++++
+
+<br>
+
++++Steg 4: Före och efter tentamen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Steg 5: Ta provet
 
 {{about-certification-exam}}
 
@@ -176,7 +206,23 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Steg 6: Hantera dina emblem
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Förnya din certifiering
+
+{{renewing-intro}}
+
+<br>
 
 ## Frågor
 

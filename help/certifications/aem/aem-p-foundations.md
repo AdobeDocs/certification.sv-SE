@@ -7,16 +7,41 @@ role: User
 badge: label="Prov AD0-E132" type="positive"
 mini-toc-levels: 1
 exl-id: a1ea92d3-9b7b-4aeb-80f7-0c07e6d332c0
-source-git-commit: b7518560c9ab89e0cdb6a45853244d1790f81b44
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '603'
-ht-degree: 3%
+source-wordcount: '468'
+ht-degree: 4%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Experience Manager] Technical Foundations Professional
 
-Lär dig hur du blir certifierad Adobe [!DNL Experience Manager] Professional.
+{{intro}}
+
+## Provbeskrivning {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Provinformation {#exam-details}
+
+* Nivå: Professionell (0-12 månaders upplevelse)
+* Löpande poäng: 38/60
+* Tid: 120 min
+* Leverans: Bearbetad online (kräver kameraåtkomst)
+* Tillgängliga språk: engelska
+* Kostnad: 125 USD (globalt)/95 USD (Indien)
+* Exam ID: AD0-E132
+
+<br>
+
+### Målgrupp {#intended-audience}
+
+* AEM
+* Tekniska leads
+
+<br>
 
 ## Minimal upplevelse
 
@@ -39,32 +64,13 @@ Dessutom bör du känna till följande tekniker och miljöer:
 * Olika AEM
 * Synkronisera innehåll/miljöer
 
->[!NOTE]
->
->Din certifiering gäller i två år från och med när du godkänns. Vi rekommenderar att du använder den nyare versionen när det är möjligt eftersom den omfattar nyare produktfunktioner.
+<br>
 
->[!BEGINTABS]
+### Mål och omfattning för tentamen {#exam-objectives}
 
->[!TAB Gör dig redo]
+{{exam-objectives}}
 
-**Målgrupp:**
-
-* AEM
-* Tekniska leads
-
-**Information om tentamen:**
-
-* Nivå: Professionell (0-12 månaders upplevelse)
-* Löpande poäng: 38/60
-* Tid: 120 min
-* Leverans: Bearbetad online (kräver kameraåtkomst)
-* Tillgängliga språk: engelska
-* Kostnad: 125 USD (globalt)/95 USD (Indien)
-* Exam ID: AD0-E132
-
-**Mål och omfattning för tentamen**
-
-Avsnitt 1: Skapa innehåll (33 %)
+**Avsnitt 1: Skapa innehåll (33 %)**
 
 * Hantera innehållssidor
 * Replikera innehåll
@@ -75,7 +81,7 @@ Avsnitt 1: Skapa innehåll (33 %)
 * Använd procedurmässiga begrepp för att översätta innehåll
 * Använda flera webbplatser och live-kopior
 
-Avsnitt 2: Implementering (42 %)
+**Avsnitt 2: Implementering (42 %)**
 
 * Använda procedurbegrepp för att skapa komponenter
 * Skapa redigerbara mallar
@@ -86,23 +92,37 @@ Avsnitt 2: Implementering (42 %)
 * Utöka kärnkomponenterna
 * Strukturinnehållsmodellering
 
-Avsnitt 3: Installation och driftsättning (13 %)
+**Avsnitt 3: Installation och driftsättning (13 %)**
 
 * Installera paket
 * Distribuera paket
 * Installera AEM
 
-Avsnitt 4: Underhåll och användaradministration (12%)
+**Avsnitt 4: Underhåll och användaradministration (12%)**
 
 * Hantera användaråtkomst
 * Ändra OSGI-konfigurationer
 * Skapa frågor
 
->[!TAB Förbered]
+<br>
 
-Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
+## Så här certifierar du dig {#how-to-get-certified}
 
-Här följer några förslag på resurser som hjälper dig att förbereda dig:
+{{how-to-get-certified-intro}}
+
++++Steg 1: Skapa ditt konto
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Steg 2: Förbered dig för provet
+
+**Studiematerial**
+
+{{study-materials-intro}}
 
 **Avsnitt 1: Skapa innehåll**
 
@@ -131,16 +151,27 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Användaradministration och -säkerhet](https://experienceleague.adobe.com/docs/experience-manager-65/administering/security/security.html){target="_blank"}
 * [Konfigurationsinställningar för OSGi](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/osgi-configuration-settings.html){target="_blank"}
 
->[!TAB Bli certifierad]
++++
 
->[!IMPORTANT]
->
->Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
+<br>
 
++++Steg 3: Schemalägg och betala för prov
 
-## Om certifieringsprovet
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Steg 4: Före och efter tentamen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Steg 5: Ta provet
 
 {{about-certification-exam}}
 
@@ -153,10 +184,28 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Steg 6: Hantera dina emblem
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Förnya din certifiering
+
+{{renewing-intro}}
+
+<br>
 
 ## Frågor
 
 Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.
+
+

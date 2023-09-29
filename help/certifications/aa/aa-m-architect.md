@@ -8,18 +8,47 @@ role: Data Architect,Developer
 badge: label="Prov AD0-E207" type="positive"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '755'
-ht-degree: 4%
+source-wordcount: '573'
+ht-degree: 6%
 
 ---
 
 # Certifieringsresa för [!DNL Adobe Analytics] Architect Master
 
-Lär dig hur du blir certifierad [!DNL Analytics] Arkitektmästare.
+{{intro}}
 
-## Minimal upplevelse
+## Provbeskrivning {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Provinformation {#exam-details}
+
+* Nivå: Masternivå (3-5 års erfarenhet)
+* Löpande poäng: 33/50
+* Tid: 100 min
+* Leverans: Bearbetad online (kräver kameraåtkomst)
+* Tillgängliga språk: engelska
+* Kostnad: $225 (global) / $150 (Indien)
+* Exam ID: AD0-E207
+
+<br>
+
+### Målgrupp {#intended-audience}
+
+* Lösningsarkitekt
+* Technical Manager
+* Dataarkitektur
+* Analystekniker
+* Analysstrateg
+* Multilösningstekniker
+
+<br>
+
+### Minimal upplevelse {#minimum-experience}
 
 Du bör ha minst 3-4 års erfarenhet av att designa [!DNL Adobe Analytics] arkitektur, datalagerspecifikationer och tagghantering, liksom en grundläggande förståelse för JavaScript-kod.
 
@@ -33,42 +62,19 @@ Dessutom ansvarar du för att omvandla verksamhetskrav till spårningsspecifikat
 * Optimeringsverktyg
 * Kodredigerare
 
->[!NOTE]
->
->Din certifiering gäller i två år från och med när du godkänns. Vi rekommenderar att du använder den nyare versionen när det är möjligt eftersom den omfattar nyare produktfunktioner.
+<br>
 
->[!BEGINTABS]
+### Mål och omfattning för tentamen {#exam-objectives}
 
->[!TAB Gör dig redo]
+{{exam-objectives}}
 
-**Målgrupp:**
-
-* Lösningsarkitekt
-* Technical Manager
-* Dataarkitektur
-* Analystekniker
-* Analysstrateg
-* Multilösningstekniker
-
-**Information om tentamen:**
-
-* Nivå: Masternivå (3-5 års erfarenhet)
-* Löpande poäng: 33/50
-* Tid: 100 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
-* Tillgängliga språk: engelska
-* Kostnad: $225 (global) / $150 (Indien)
-* Exam ID: AD0-E207
-
-**Mål och omfattning för tentamen**
-
-Avsnitt 1: Upptäckt (18 %)
+**Avsnitt 1: Upptäckt (18 %)**
 
 * Uppvisa förmåga att granska webbplatser
 * Undersök kundernas behov för att bygga upp affärskrav
 * Skapa mätramverk utifrån ett scenario
 
-Avsnitt 2: Lösningsdesign (54 %)
+**Avsnitt 2: Lösningsdesign (54 %)**
 
 * Omvandla affärskrav till variabler och mätvärden
 * Uppvisa förmåga att hantera inställningar för rapportsviter
@@ -77,7 +83,7 @@ Avsnitt 2: Lösningsdesign (54 %)
 * Skriv tekniska specifikationer för webbplatsutvecklare
 * Skapa användare/grupper i Experience Cloud
 
-Avsnitt 3: Efterimplementering (28 %)
+**Avsnitt 3: Efterimplementering (28 %)**
 
 * Validera spårning via webbläsarutvecklingsverktyg och Adobe-rapporter med en uppsättning krav
 * Tillämpa procedurbegrepp för att hantera dataextrahering och relationer
@@ -85,17 +91,25 @@ Avsnitt 3: Efterimplementering (28 %)
 * I ett scenario hanterar du datakällor och anslutningar
 * Konfigurera nödvändiga segment och beräknade mätvärden för att uppfylla verksamhetskrav
 
->[!TAB Förbered]
+<br>
 
-Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
+## Så här certifierar du dig {#how-to-get-certified}
 
-Här följer några förslag på resurser som hjälper dig att förbereda dig:
+{{how-to-get-certified-intro}}
 
-**Exempelfrågor**
++++Steg 1: Skapa ditt konto
 
-Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer att stöta på i provet. Ingen inloggning behövs. Resultaten av exempelfrågorna lagras inte och du kan inte förutsäga dina faktiska testresultat.
+{{create-your-account}}
 
-[Se exempelfrågor](https://scorpion.caveon.com/launchpad/ad0-e207-adobe-analytics-architect-master-copy-y9f8t1){target="_blank"}
++++
+
+<br>
+
++++Steg 2: Förbered dig för provet
+
+**Studiematerial**
+
+{{study-materials-intro}}
 
 **Avsnitt 1: Upptäckt**
 
@@ -132,16 +146,35 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 * [Datainfogningsprocess](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/data-insertion-api/overview/c_data_insertion_process.md){target="_blank"}
 * [Implementera Experience Cloud på webbplatser med självstudiekursen Taggar](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html){target="_blank"}
 
->[!TAB Bli certifierad]
+<br>
 
->[!IMPORTANT]
->
->Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
+**Exempelfrågor**
 
+{{sample-questions}}
 
-## Om certifieringsprovet
+[Visa exempelfrågor](https://scorpion.caveon.com/launchpad/ad0-e207-adobe-analytics-architect-master-copy-y9f8t1){target="_blank"}
+
++++
+
+<br>
+
++++Steg 3: Schemalägg och betala för prov
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Steg 4: Före och efter tentamen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Steg 5: Ta provet
 
 {{about-certification-exam}}
 
@@ -154,10 +187,27 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Steg 6: Hantera dina emblem
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Förnya din certifiering
+
+{{renewing-intro}}
+
+<br>
 
 ## Frågor
 
 Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Ytterligare frågor? E-post `certif@adobe.com`
+Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.
+

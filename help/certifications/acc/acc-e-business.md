@@ -7,18 +7,48 @@ role: User
 badge: label="Prov AD0-E327" type="positive"
 mini-toc-levels: 1
 exl-id: 082a21f3-1b05-47d4-add1-6b7f86779e82
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '914'
-ht-degree: 13%
+source-wordcount: '761'
+ht-degree: 15%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Campaign Classic] Affärsexpert
 
-Lär dig hur du blir certifierad Adobe [!DNL Campaign Classic] Yrkesverksamma inom affärsverksamhet.
+{{intro}}
 
-## Minimal upplevelse
+## Provbeskrivning {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Provinformation {#exam-details}
+
+* Nivå: Expert (1-3 års erfarenhet)
+* Löpande poäng: 32/50
+* Tid: 100 min
+* Leverans: Bearbetad online (kräver kameraåtkomst)
+* Tillgängliga språk: engelska
+* Kostnad: $225 (global) / $150 (Indien)
+* Exam ID: AD0-E327
+
+<br>
+
+### Målgrupp {#intended-audience}
+
+* Affärskonsult
+* Affärsanalytiker
+* Interaktionshanterare
+* Kampanjchef
+* Databasmarkör
+* Yrkesverksamma inom affärsverksamhet
+* CRM-projektledare
+
+<br>
+
+### Minimal upplevelse {#minimum-experience}
 
 Du borde ha:
 
@@ -29,41 +59,13 @@ Du borde ha:
 * En förståelse för typologitillämpning, åtkomsthantering, webbteknik och databasmarknadsföring
 * Medvetenhet om de juridiska och etiska riktlinjerna för marknadsföring
 
->[!NOTE]
->
->Din certifiering gäller i två år från och med när du godkänns. Vi rekommenderar att du använder den nyare versionen när det är möjligt eftersom den omfattar nyare produktfunktioner.
+<br>
 
->[!BEGINTABS]
+### Mål och omfattning för tentamen {#exam-objectives}
 
->[!TAB Gör dig redo]
+{{exam-objectives}}
 
-**Målgrupp:**
-
-* Affärskonsult
-* Affärsanalytiker
-* Interaktionshanterare
-* Kampanjchef
-* Databasmarkör
-* Yrkesverksamma inom affärsverksamhet
-* CRM-projektledare
-
-**Information om tentamen:**
-
-* Nivå: Expert (1-3 års erfarenhet)
-* Löpande poäng: 32/50
-* Tid: 100 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
-* Tillgängliga språk: engelska
-* Kostnad: $225 (global) / $150 (Indien)
-* Exam ID: AD0-E327
-
-**Självbedömning av beredskap**
-
-Slutför [onlineberedskapsenkät](https://scorpion.caveon.com/launchpad/readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-expert-exam){target="_blank"} för att se om din nuvarande upplevelse matchar den rekommenderade lägsta kandidatkvalificeringen.
-
-**Mål och omfattning för tentamen**
-
-Avsnitt 1: Kampanjhantering (20 %)
+**Avsnitt 1: Kampanjhantering (20 %)**
 
 * Använd bästa praxis för att skapa en kampanj
 * Ange rätt kampanjmall för ett scenario
@@ -71,14 +73,14 @@ Avsnitt 1: Kampanjhantering (20 %)
 * Beskriv målmappningar
 * Förklara hur du konfigurerar webbprogram och webbformulär
 
-Avsnitt 2: Arbetsflödeshantering (22 %)
+**Avsnitt 2: Arbetsflödeshantering (22 %)**
 
 * Utvärdera en viss uppsättning kampanjkrav och rekommendera ett visst tillvägagångssätt
 * Analysera arbetsflödesfel utifrån ett scenario
 * Ange rätt design för ett marknadsföringsarbetsflöde utifrån en uppsättning kampanjkrav
 * Tillämpa rekommenderade rutiner i arbetsflöden
 
-Avsnitt 3: Datahantering (24 %)
+**Avsnitt 3: Datahantering (24 %)**
 
 * Förklara de grundläggande begreppen för relationsdatabaser
 * Fastställa olika datakällor som ett arbetsflöde kan komma åt
@@ -88,29 +90,51 @@ Avsnitt 3: Datahantering (24 %)
 * Använda stegen för att konfigurera ett fördefinierat filter
 * Ange lämplig inmatningsblankett utifrån ett affärskrav
 
-Avsnitt 4: Leveranshantering (14 %)
+**Avsnitt 4: Leveranshantering (14 %)**
 
 * Använda stegen för att skapa/konfigurera leveranser
 * Välj och konfigurera lämplig korrekturläsare för godkännanden för ett scenario
 * Analysera och tolka leveransrevisioner
 
-Avsnitt 5: Rapportering (12 %)
+**Avsnitt 5: Rapportering (12 %)**
 
 * Ange vilka rapporter som är lämpliga för att generera ett scenario
 * Tolka inbyggda rapporter
 * Förklara effekten av rensning/tömning av loggar på rapportering
 
-Avsnitt 6: Administration (8 %)
+**Avsnitt 6: Administration (8 %)**
 
 * Förklara effekten av tömning av loggar till rapporter
 * Bevilja rätt tillstånd och tillgång med tanke på verksamhetskraven
 * Använda stegen för att aktivera SFTP via kontrollpanelen
 
->[!TAB Förbered]
+<br>
 
-Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
+### Beredskapenkät
 
-Här följer några förslag på resurser som hjälper dig att förbereda dig:
+{{readiness}}
+
+[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-expert-exam){target="_blank"}
+
+<br>
+
+## Så här certifierar du dig {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Steg 1: Skapa ditt konto
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Steg 2: Förbered dig för provet
+
+**Studiematerial**
+
+{{study-materials-intro}}
 
 **Avsnitt 1: Kampanjhantering**
 
@@ -157,20 +181,33 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Kom igång med behörigheter](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management.html){target="_blank"}
 * [Om SFTP-hantering](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/about-sftp-management.html){target="_blank"}
 
+<br>
 
->[!TAB Bli certifierad]
-
->[!IMPORTANT]
->
->Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
-
-## Gör ett övningsprov
+**Gör ett övningsprov**
 
 {{practice-test}}
 
-## Om certifieringsprovet
++++
+
+<br>
+
++++Steg 3: Schemalägg och betala för prov
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Steg 4: Före och efter tentamen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Steg 5: Ta provet
 
 {{about-certification-exam}}
 
@@ -183,7 +220,23 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Steg 6: Hantera dina emblem
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Förnya din certifiering
+
+{{renewing-intro}}
+
+<br>
 
 ## Frågor
 

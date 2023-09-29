@@ -8,18 +8,48 @@ level: Experienced
 badge: label="Prov AD0-E708" type="positive"
 mini-toc-levels: 1
 exl-id: 1f44f543-4303-43b8-a42e-431f504d7a03
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1417'
+source-wordcount: '1265'
 ht-degree: 0%
 
 ---
 
 # Certifieringsresa för [!DNL Adobe Commerce] Affärsexpert
 
-Lär dig hur du blir certifierad [!DNL Adobe Commerce] Yrkesverksamma inom affärsverksamhet.
+{{intro}}
 
-## Minimal upplevelse
+## Provbeskrivning {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Provinformation {#exam-details}
+
+* Nivå: Expert (1-3 års erfarenhet)
+* Löpande poäng: 31/50
+* Tid: 100 min
+* Leverans: Bearbetad online (kräver kameraåtkomst)
+* Tillgängliga språk: engelska
+* Kostnad: $225 (global) / $150 (Indien)
+* Exam ID: AD0-E708
+
+<br>
+
+### Målgrupp {#intended-audience}
+
+* Affärsanalytiker
+* Handelsstrateg
+* Konsult
+* Teknisk projektledare/teknisk kontoansvarig
+* Application Architect/Solution Architect/Specialist
+* Byråadministratör/Director/chef/konsult
+* Digital Marketing Director/Manager/Developer
+
+<br>
+
+### Minimal upplevelse {#minimum-experience}
 
 Du bör ha cirka 1-3 års [!DNL Commerce] upplevelser och en bred förståelse för e-handelsupplevelsen.
 
@@ -33,48 +63,20 @@ Du bör ha erfarenhet av:
 * Grundläggande förståelse för anpassningsbara program, moln och serverinfrastruktur
 * Modern e-handelsterminologi
 
-Och du bör känna dig trygg med följande tekniker:
+Dessutom bör du vara bekväm med följande tekniker:
 
 * Adobe [!DNL Commerce] - version 2.4
 * Analys- och prestandaverktyg: Google Analytics, tagghanterare, SWAT, New Relic, Fast, Google Lightroom
 * Säkerhetsverktyg: PCI-kompatibilitet, ADA, GDPR osv.
 * Cloud eller lokal arkitektur
 
->[!NOTE]
->
->Din certifiering gäller i två år från och med när du godkänns. Vi rekommenderar att du använder den nyare versionen när det är möjligt eftersom den omfattar nyare produktfunktioner.
+<br>
 
->[!BEGINTABS]
+### Mål och omfattning för tentamen {#exam-objectives}
 
->[!TAB Gör dig redo]
+{{exam-objectives}}
 
-**Målgrupp:**
-
-* Affärsanalytiker
-* Handelsstrateg
-* Konsult
-* Teknisk projektledare/teknisk kontoansvarig
-* Application Architect/Solution Architect/Specialist
-* Byråadministratör/Director/chef/konsult
-* Digital Marketing Director/Manager/Developer
-
-**Information om tentamen:**
-
-* Nivå: Expert (1-3 års erfarenhet)
-* Löpande poäng: 31/50
-* Tid: 100 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
-* Tillgängliga språk: engelska
-* Kostnad: $225 (global) / $150 (Indien)
-* Exam ID: AD0-E708
-
-**Självbedömning av beredskap**
-
-Slutför [onlineberedskapsenkät](https://scorpion.caveon.com/launchpad/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam){target="_blank"} för att se om din nuvarande upplevelse matchar den rekommenderade lägsta kandidatkvalificeringen.
-
-**Mål och omfattning för tentamen**
-
-Avsnitt 1: Kärnfunktioner/Allmän konfiguration (46 %)
+**Avsnitt 1: Kärnfunktioner/Allmän konfiguration (46 %)**
 
 * Identifiera funktionerna i Adobe [!DNL Commerce] Open Source Edition och [!DNL Commerce] Edition
 * Skilj skillnaderna mellan alla utgåvor av Adobe [!DNL Commerce] produkter
@@ -90,18 +92,18 @@ Avsnitt 1: Kärnfunktioner/Allmän konfiguration (46 %)
 * Konfigurera och ändra transaktionsmeddelanden
 * Förklara de inbyggda funktionerna för självbetjäning och lojalitetsprogram i B2B
 
-Avsnitt 2: Marknadsföring (10 %)
+**Avsnitt 2: Marknadsföring (10 %)**
 
 * Uppvisa förmåga att skapa kampanjer som uppfyller specifika affärskriterier och hur det avgör det slutliga priset
 * Uppvisa förmåga att hantera kategorier och produkter
 * Förstå olika priskonfigurationer och hur de påverkar det slutliga priset
 
-Avsnitt 3: Digital marknadsföring (4 %)
+**Avsnitt 3: Digital marknadsföring (4 %)**
 
 * Rekommendera bästa praxis för SEO med inbyggda funktioner
 * Utvärdera gemensamma mätvärden i Google Analytics och BI
 
-Avsnitt 4: Tilläggsmoduler och ytterligare produkter (18 %)
+**Avsnitt 4: Tilläggsmoduler och ytterligare produkter (18 %)**
 
 * Beskriv B2B-funktionaliteten och hur den hänger samman med vanliga B2B-scenarier
 * Använd affärskrav för att föreslå en lösning med MSI
@@ -111,25 +113,47 @@ Avsnitt 4: Tilläggsmoduler och ytterligare produkter (18 %)
 * Förstå hur man tillämpar skräddarsydda priser för B2B-kunder
 * Förstå skillnaderna mellan Adobe [!DNL Commerce] produktrekommendationer från Adobe Sensei
 
-Avsnitt 5: Systemarkitektur (10 %)
+**Avsnitt 5: Systemarkitektur (10 %)**
 
 * Utvärdera kraven för att avgöra vilka webbplatser, butiker och butiksvyer som krävs
 * Identifiera och analysera prestandamätningar för att göra förbättringar
 * Förstå tillgängliga metoder för att integrera externt system med Adobe [!DNL Commerce]
 * Skillnaden mellan headless-metoder och traditionella
 
-Avsnitt 6: Efterlevnad/säkerhet (12 %)
+**Avsnitt 6: Efterlevnad/säkerhet (12 %)**
 
 * Uppvisa hur man säkrar Adobe [!DNL Commerce] dataåtkomst med roller och behörigheter
 * Förstå grunderna om efterlevnad av sekretesslagstiftning och betalningssäkerhet
 * Förklara vanliga säkerhetsaspekter på Adobe [!DNL Commerce] projekt
 * Förstå grunderna i skattelagstiftning och hur man konfigurerar
 
->[!TAB Förbered]
+<br>
 
-Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
+### Beredskapenkät
 
-Här följer några förslag på resurser som hjälper dig att förbereda dig:
+{{readiness}}
+
+[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam){target="_blank"}
+
+<br>
+
+## Så här certifierar du dig {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Steg 1: Skapa ditt konto
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Steg 2: Förbered dig för provet
+
+**Studiematerial**
+
+{{study-materials-intro}}
 
 **Avsnitt 1: Kärnfunktioner/allmän konfiguration**
 
@@ -209,19 +233,33 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Säkerhet](https://devdocs.magento.com/guides/v2.4/architecture/security_intro.html){target="_blank"}
 * [Skatteriktlinjer per land](https://docs.magento.com/user-guide/tax/international-tax-guidelines.html){target="_blank"}
 
->[!TAB Bli certifierad]
+<br>
 
->[!IMPORTANT]
->
->Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
-
-## Gör ett övningsprov
+**Gör ett övningsprov**
 
 {{practice-test}}
 
-## Om certifieringsprovet
++++
+
+<br>
+
++++Steg 3: Schemalägg och betala för prov
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Steg 4: Före och efter tentamen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Steg 5: Ta provet
 
 {{about-certification-exam}}
 
@@ -234,7 +272,23 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Steg 6: Hantera dina emblem
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Förnya din certifiering
+
+{{renewing-intro}}
+
+<br>
 
 ## Frågor
 

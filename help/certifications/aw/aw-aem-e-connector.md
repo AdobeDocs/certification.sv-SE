@@ -6,18 +6,45 @@ role: Developer
 badge: label="Prov AD0-E906" type="positive"
 mini-toc-levels: 1
 exl-id: f00092c9-1288-447f-adcd-229cf325bc3e
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '867'
+source-wordcount: '684'
 ht-degree: 0%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Workfront] for [!DNL Experience Manager] Förbättrad Connector Expert
 
-Lär dig hur du blir en certifierad expert från Adobe.
+{{intro}}
 
-## Minimal upplevelse
+## Provbeskrivning {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Provinformation {#exam-details}
+
+* Nivå: Expert (1-3 års erfarenhet)
+* Löpande poäng: 34/55
+* Tid: 110 min
+* Leverans: Bearbetad online (kräver kameraåtkomst)
+* Tillgängliga språk: engelska
+* Kostnad: $225 (global) / $150 (Indien)
+* Exam ID: AD0-E906
+
+<br>
+
+### Målgrupp {#intended-audience}
+
+* Konsulter för partnerlösningar
+* Implementeringsspecialister
+* Integrationsspecialister
+* Utvecklare eller arkitekter
+
+<br>
+
+### Minimal upplevelse {#minimum-experience}
 
 Du borde ha uppnått ett eller flera av följande certifikat:
 
@@ -36,34 +63,13 @@ Och du borde ha:
 * En förståelse för taxonomier och AEM, AEM arbetsflöden, JCR, Sling, OSGi och databaser
 * Kunskap om bästa praxis inom arbetsledning
 
->[!NOTE]
->
->Din certifiering gäller i två år från och med när du godkänns. Vi rekommenderar att du använder den nyare versionen när det är möjligt eftersom den omfattar nyare produktfunktioner.
+<br>
 
->[!BEGINTABS]
+### Mål och omfattning för tentamen {#exam-objectives}
 
->[!TAB Gör dig redo]
+{{exam-objectives}}
 
-**Målgrupp:**
-
-* Konsulter för partnerlösningar
-* Implementeringsspecialister
-* Integrationsspecialister
-* Utvecklare eller arkitekter
-
-**Information om tentamen:**
-
-* Nivå: Expert (1-3 års erfarenhet)
-* Löpande poäng: 34/55
-* Tid: 110 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
-* Tillgängliga språk: engelska
-* Kostnad: $225 (global) / $150 (Indien)
-* Exam ID: AD0-E906
-
-**Mål och omfattning för tentamen**
-
-Avsnitt 1: Tekniska krav (25 %)
+**Avsnitt 1: Tekniska krav (25 %)**
 
 * Använd [!DNL Workfront] Anpassad Forms
 * Visa dokumenthantering för ett scenario
@@ -71,14 +77,14 @@ Avsnitt 1: Tekniska krav (25 %)
 * Ange hur värden skickas till ett scenario [!DNL Workfront] anpassade formulär
 * Felsöka kod på serversidan
 
-Avsnitt 2: Konfiguration (26 %)
+**Avsnitt 2: Konfiguration (26 %)**
 
 * Illustrator best practices for user management
 * Använda procedurbegrepp som krävs för att ändra befintliga arbetsflöden AEM resurser
 * Fatta beslut som krävs för att anpassa metadatamatchemat för olika resurstyper
 * Använd AEM som krävs för att driftsätta OSGi-paket, resurser, metadatamatchemat, taggning och behörigheter
 
-Avsnitt 3: Affärspraxis (21 %)
+**Avsnitt 3: Affärspraxis (21 %)**
 
 * Tolka klientbehov för att rekommendera lämpliga arbetsflödesstrategier
 * Uppvisa hur man konfigurerar [!DNL Workfront] arbetsflöden för godkännande och korrektur
@@ -86,22 +92,30 @@ Avsnitt 3: Affärspraxis (21 %)
 * Uppvisa förståelse för att spåra slutprodukter som en del av kampanjhanteringen
 * Om du utgår från ett scenario bör du identifiera de viktigaste aspekterna av ändringshantering för en [!DNL Workfront] implementering
 
-Avsnitt 4: Installation och konfigurering av koppling (28 %)
+**Avsnitt 4: Installation och konfigurering av koppling (28 %)**
 
 * Validera krav i AEM
 * Identifiera funktionerna för den koppling som ska implementeras i ett kundanvändningsexempel
 
->[!TAB Förbered]
+<br>
 
-Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
+## Så här certifierar du dig {#how-to-get-certified}
 
-Här följer några förslag på resurser som hjälper dig att förbereda dig:
+{{how-to-get-certified-intro}}
 
-**Exempelfrågor**
++++Steg 1: Skapa ditt konto
 
-Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer att stöta på i provet. Ingen inloggning behövs. Resultaten av exempelfrågorna lagras inte och du kan inte förutsäga dina faktiska testresultat.
+{{create-your-account}}
 
-[Se exempelfrågor](https://scorpion.caveon.com/launchpad/ad3-e906-adobe-workfront-for-experience-manager-enhanced-connector-certified-expert-sample-questions){target="_blank"}
++++
+
+<br>
+
++++Steg 2: Förbered dig för provet
+
+**Studiematerial**
+
+{{study-materials-intro}}
 
 **Avsnitt 1: Tekniska krav**
 
@@ -136,16 +150,35 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 * [Konfigurera [!DNL Workfront] for [!DNL Experience Manager] förbättrad koppling](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-connector-configure.html){target="_blank"}
 * [Adobe [!DNL Experience Manager Assets] integrering med Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-integrations.html){target="_blank"}
 
->[!TAB Bli certifierad]
+<br>
 
->[!IMPORTANT]
->
->Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
+**Exempelfrågor**
 
+{{sample-questions}}
 
-## Om certifieringsprovet
+[Visa exempelfrågor](https://scorpion.caveon.com/launchpad/ad3-e906-adobe-workfront-for-experience-manager-enhanced-connector-certified-expert-sample-questions){target="_blank"}
+
++++
+
+<br>
+
++++Steg 3: Schemalägg och betala för prov
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Steg 4: Före och efter tentamen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Steg 5: Ta provet
 
 {{about-certification-exam}}
 
@@ -158,7 +191,23 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Steg 6: Hantera dina emblem
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Förnya din certifiering
+
+{{renewing-intro}}
+
+<br>
 
 ## Frågor
 

@@ -6,18 +6,48 @@ product: Journey Optimizer
 role: Developer
 badge: label="Prov AD0-E603" type="positive"
 exl-id: 4b405a01-b95c-46de-aaab-9fbacc25c6fc
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '733'
-ht-degree: 4%
+source-wordcount: '581'
+ht-degree: 5%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Journey Optimizer] Developer Expert
 
-Lär dig hur du blir certifierad Adobe [!DNL Journey Optimizer] Developer Expert.
+{{intro}}
 
-## Minimal upplevelse
+## Provbeskrivning {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Provinformation {#exam-details}
+
+* Nivå: Expert (1-3 års erfarenhet)
+* Löpande poäng: 31/51
+* Tid: 110 min
+* Leverans: Bearbetad online (kräver kameraåtkomst)
+* Tillgängliga språk: engelska
+* Kostnad: $225 (global) / $150 (Indien)
+* Exam ID: AD0-E603
+
+<br>
+
+### Målgrupp {#intended-audience}
+
+* Dataarkitektur
+* Datatekniker
+* Lösningsarkitekt
+* Enterprise Architect
+* Utvecklare av marknadsföringsautomatisering
+* CDP-utvecklare
+* CDP-arkitekt
+
+<br>
+
+### Minimal upplevelse {#minimum-experience}
 
 Du bör ha minst ett års erfarenhet av att arbeta med olika CDP- och marknadsföringssystem och kunna utföra följande uppgifter:
 
@@ -37,48 +67,20 @@ Du bör ha minst ett års erfarenhet av att arbeta med olika CDP- och marknadsf�
 * Reserapportering
 * Testning/validering av resor
 
->[!NOTE]
->
->Din certifiering gäller i två år från och med när du godkänns. Vi rekommenderar att du använder den nyare versionen när det är möjligt eftersom den omfattar nyare produktfunktioner.
+<br>
 
->[!BEGINTABS]
+### Mål och omfattning för tentamen {#exam-objectives}
 
->[!TAB Gör dig redo]
+{{exam-objectives}}
 
-**Målgrupp:**
-
-* Dataarkitektur
-* Datatekniker
-* Lösningsarkitekt
-* Enterprise Architect
-* Utvecklare av marknadsföringsautomatisering
-* CDP-utvecklare
-* CDP-arkitekt
-
-**Information om tentamen:**
-
-* Nivå: Expert (1-3 års erfarenhet)
-* Löpande poäng: 31/51
-* Tid: 110 min
-* Leverans: Bearbetad online (kräver kameraåtkomst) eller via testcenter
-* Tillgängliga språk: engelska
-* Kostnad: $225 (global) / $150 (Indien)
-* Exam ID: AD0-E603
-
-**Självbedömning av beredskap**
-
-Slutför [onlineberedskapsenkät](https://scorpion.caveon.com/launchpad/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam-copy-jnq9sq/ad-q-e603-readiness-questionnaire-for-adobe-journey-optimizer-developer-expert-exam){target="_blank"} för att se om din nuvarande upplevelse matchar den rekommenderade lägsta kandidatkvalificeringen.
-
-**Mål och omfattning för tentamen**
-
-Avsnitt 1: Administration och konfiguration (17 %)
+**Avsnitt 1: Administration och konfiguration (17 %)**
 
 * Identifiera rollerna och vilka behörigheter som gäller för varje roll
 * Beskriv hur du tilldelar/återställer/tar bort en sandlåda
 * Uppvisa förståelse för kanaladministration
 * Uppvisa förståelse för händelser/åtgärder/datakällor
 
-Avsnitt 2: Adobe Experience Platform Foundation (33 %)
+**Avsnitt 2: Adobe Experience Platform Foundation (33 %)**
 
 * Uppvisa förståelse för Experience Data Model (XDM)
 * Förklara hur du konfigurerar datakällor och matar in data
@@ -86,28 +88,50 @@ Avsnitt 2: Adobe Experience Platform Foundation (33 %)
 * Förklara hur du konfigurerar scheman för AJO
 * Bestäm hur kundprofilen i realtid fungerar i AJO
 
-Avsnitt 3: Offer decisioning (11 %)
+**Avsnitt 3: Offer decisioning (11 %)**
 
 * Uppvisa förståelse för att skapa och hantera erbjudanden och komponenter
 * Uppvisa hur man använder testprofiler för att köra erbjudandesimulering
 
-Avsnitt 4: Innehållsredigering (20 %)
+**Avsnitt 4: Innehållsredigering (20 %)**
 
 * Uppvisa en förståelse för hur man skapar e-post, SMS i appmeddelanden och push-meddelanden
 * Uppvisa förståelse för innehållshantering och personalisering med hjälp av hjälpfunktioner
 * Uppvisa förståelse för att validera, granska och publicera ett meddelande
 
-Avsnitt 5: Journey Orchestration (19 %)
+**Avsnitt 5: Journey Orchestration (19 %)**
 
 * Förklara processen att skapa en flerkanalsresa
 * Identifiera var rapportpanelerna ska nås
 * Uppvisa hur man testar och validerar en resa
 
->[!TAB Förbered]
+<br>
 
-Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
+### Beredskapenkät
 
-Här följer några förslag på resurser som hjälper dig att förbereda dig:
+{{readiness}}
+
+[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam-copy-jnq9sq/ad-q-e603-readiness-questionnaire-for-adobe-journey-optimizer-developer-expert-exam){target="_blank"}
+
+<br>
+
+## Så här certifierar du dig {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Steg 1: Skapa ditt konto
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Steg 2: Förbered dig för provet
+
+**Studiematerial**
+
+{{study-materials-intro}}
 
 **Avsnitt 1: Administration och konfiguration**
 
@@ -169,19 +193,33 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
    * Segment
    * Profiler och identitet
 
->[!TAB Bli certifierad]
+<br>
 
->[!IMPORTANT]
->
->Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
-
-## Gör ett övningsprov
+**Gör ett övningsprov**
 
 {{practice-test}}
 
-## Om certifieringsprovet
++++
+
+<br>
+
++++Steg 3: Schemalägg och betala för prov
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Steg 4: Före och efter tentamen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Steg 5: Ta provet
 
 {{about-certification-exam}}
 
@@ -194,7 +232,23 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Steg 6: Hantera dina emblem
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Förnya din certifiering
+
+{{renewing-intro}}
+
+<br>
 
 ## Frågor
 

@@ -8,18 +8,44 @@ level: Experienced
 badge: label="Prov AD0-E213" type="positive"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: c661d42a32717320031da2289509ffcf6f5bc945
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1116'
+source-wordcount: '946'
 ht-degree: 3%
 
 ---
 
 # Certifieringsresa för [!DNL Adobe Analytics] Developer Professional
 
-Lär dig hur du blir certifierad [!DNL Adobe Analytics] Developer Professional.
+{{intro}}
 
-## Minimal upplevelse
+## Provbeskrivning {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Provinformation {#exam-details}
+
+* Nivå: Professionell (0-12 månaders upplevelse)
+* Löpande poäng: 31/50
+* Tid: 100 min
+* Leverans: Bearbetad online (kräver kameraåtkomst)
+* Tillgängliga språk: engelska
+* Kostnad: 125 USD (globalt) och 95 USD (Indien)
+* Exam ID: AD0-E213
+
+<br>
+
+### Målgrupp {#intended-audience}
+
+* Implementeringsspecialister/ingenjörer
+* Utvecklare
+* Arkitekter
+
+<br>
+
+### Minimal upplevelse {#minimum-experience}
 
 Du borde ha:
 
@@ -27,7 +53,7 @@ Du borde ha:
 * Upplevelser som stöder implementeringsteamen inom analys i en bro mellan IT och företaget för att förstå hur affärskraven övergår till en teknisk lösning (SDR), och baserat på krav från analytikern
 * Förstå vilken typ av variabel som behövs, var och hur data ska samlas in, utforma datamodellen (datalagret), konfigurera och underhålla tagghanteringslösningen
 
-Upplev följande uppgifter:
+Du bör även ha erfarenhet av följande uppgifter:
 
 * Tolka ett SDR (Solutions Design Document) och förstå syftet med allt [!DNL Adobe Analytics] insamlade variabler
 * Understanding and work with Adobe (Experience Platform) Launch
@@ -41,44 +67,24 @@ Upplev följande uppgifter:
 * Utföra grundläggande rapporter från Analysis Workspace och förstå de data som finns tillgängliga från [!DNL Adobe Analytics] Data Warehouse
 * Grundläggande upplevelse med Adobe Experience Platform Launch (Adobe Launch)
 
->[!NOTE]
->
->Din certifiering gäller i två år från och med när du godkänns. Vi rekommenderar att du använder den nyare versionen när det är möjligt eftersom den omfattar nyare produktfunktioner.
+<br>
 
->[!BEGINTABS]
+### Mål och omfattning för tentamen {#exam-objectives}
 
->[!TAB Gör dig redo]
+{{exam-objectives}}
 
-**Målgrupp:**
-
-* Implementeringsspecialister/ingenjörer
-* Utvecklare
-* Arkitekter
-
-**Information om tentamen:**
-
-* Nivå: Professionell (0-12 månaders upplevelse)
-* Löpande poäng: 31/50
-* Tid: 100 min
-* Leverans: Bearbetad online (kräver kameraåtkomst)
-* Tillgängliga språk: engelska
-* Kostnad: 125 USD (globalt) och 95 USD (Indien)
-* Exam ID: AD0-E213
-
-**Mål och omfattning för tentamen**
-
-Avsnitt 1: Analyser i Adobe Experience Cloud ekosystem (14 %)
+**Avsnitt 1: Analyser i Adobe Experience Cloud ekosystem (14 %)**
 
 * Identifiera funktioner och funktionalitet för Adobe Experience Cloud ID.
 * Identifiera användning för Adobe Launch.
 * Identifiera hur man aktiverar/stöder [!DNL Adobe Analytics] i Adobe Experience Cloud Eco-system.
 
-Avsnitt 2: Analysstrategi och design baserad på SDR (12 %)
+**Avsnitt 2: Analysstrategi och design baserad på SDR (12 %)**
 
 * Ange vilka dataobjekt som ska fyllas i med hjälp av en referens för lösningsdesign.
 * Identifiera hur datainhämtningen ska implementeras i ett Tech Spec-dokument.
 
-Avsnitt 3: Analysimplementering och konfiguration (30 %)
+**Avsnitt 3: Analysimplementering och konfiguration (30 %)**
 
 * Identifiera stegen som ska distribueras [!DNL Adobe Analytics] Kod.
 * Identifiera funktioner med minimal driftsättningskod för Analytics-spårning.
@@ -87,36 +93,44 @@ Avsnitt 3: Analysimplementering och konfiguration (30 %)
 * Identifiera egenskaperna för ett datalager och datalagervärden.
 * Identifiera App Measurement-funktioner för att spåra funktioner som länkspårning och e-handelsspårning.
 
-Avsnitt 4: Tag Management Systems (18 %)
+**Avsnitt 4: Tag Management Systems (18 %)**
 
 * Identifiera om kraven har uppfyllts med hjälp av taggrevisioner.
 * Identifiera stegen för att konfigurera webbplatstaggning med Adobe Launch.
 * I ett scenario kan du identifiera hur du aktiverar, ändrar och felsöker tillägg i Adobe Launch.
 * Identifiera hur du skapar regler och dataelement.
 
-Avsnitt 5: Komponenter i [!DNL Adobe Analytics] (8 %)
+**Avsnitt 5: Komponenter i [!DNL Adobe Analytics] (8 %)**
 
 * Identifiera funktionerna i [!DNL Adobe Analytics] API (dataflöde, lagerställe, datakällor, rapporter).
 * Identifiera bearbetningsregelernas egenskaper.
 
-Avsnitt 6: Testning, validering och felsökning (18 %)
+**Avsnitt 6: Testning, validering och felsökning (18 %)**
 
 * Identifiera innebörden av vanliga JavaScript-fel.
 * Identifiera innebörden av vanliga [!DNL Adobe Analytics] variabelfel.
 * I ett scenario bör du identifiera de bästa metoderna för testning och felsökningsvalidering som ska följas.
 * Identifiera hur man spårar en [!DNL Adobe Analytics] serversamtal (dvs. Från beacon-begäran till visning i rapporten.)
 
->[!TAB Förbered]
+<br>
 
-Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
+## Så här certifierar du dig {#how-to-get-certified}
 
-Här följer några förslag på resurser som hjälper dig att förbereda dig:
+{{how-to-get-certified-intro}}
 
-**Exempelfrågor**
++++Steg 1: Skapa ditt konto
 
-Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer att stöta på i provet. Ingen inloggning behövs. Resultaten av exempelfrågorna lagras inte och du kan inte förutsäga dina faktiska testresultat.
+{{create-your-account}}
 
-[Se exempelfrågor](https://scorpion.caveon.com/launchpad/ad3-e213-adobe-analytics-developer-professional-sample-questions){target="_blank"}
++++
+
+<br>
+
++++Steg 2: Förbered dig för provet
+
+**Studiematerial**
+
+{{study-materials-intro}}
 
 **Avsnitt 1: Analyser i Adobe Experience Cloud ekosystem**
 
@@ -162,15 +176,41 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 * [Spåra klickad komponent med [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/analytics/track-clicked-component.html){target="_blank"}
 * [[!DNL Adobe Analytics] Implementeringsfelsökning - verktyg](https://www.thelearningproject.in/posts/adobe-analytics-implementation-debugging-tools/){target="_blank"}
 
->[!TAB Bli certifierad]
+<br>
 
->[!IMPORTANT]
->
->Följande avsnitt och länkar fungerar **endast**  efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Dessutom finns ditt profilnamn i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} måste matcha ditt myndighets-ID. Om informationen inte är identisk eller om det inte finns någon matchning kommer anbudsgivaren att avsluta provet och du kommer att behöva boka om din avtalade tid utöver att betala en extra provavgift.*
+**Exempelfrågor**
 
-## Om certifieringsprovet
+{{sample-questions}}
+
+[Visa exempelfrågor](https://scorpion.caveon.com/launchpad/ad3-e213-adobe-analytics-developer-professional-sample-questions){target="_blank"}
+
+<br>
+
+**Gör ett övningsprov**
+
+{{practice-test}}
+
++++
+
+<br>
+
++++Steg 3: Schemalägg och betala för prov
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Steg 4: Före och efter tentamen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Steg 5: Ta provet
 
 {{about-certification-exam}}
 
@@ -183,10 +223,27 @@ Med exempelfrågorna kan du se vilken typ av objekt och vilket format du kommer 
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Steg 6: Hantera dina emblem
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Förnya din certifiering
+
+{{renewing-intro}}
+
+<br>
 
 ## Frågor
 
 Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.
+
