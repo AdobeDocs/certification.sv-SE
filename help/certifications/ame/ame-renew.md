@@ -7,7 +7,7 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
-source-git-commit: bd9b28dd3f66055ccf2ad6f4656ba35405385111
+source-git-commit: 454d5ffed9f3442674df989145e33d50c0994b27
 workflow-type: tm+mt
 source-wordcount: '1804'
 ht-degree: 0%
@@ -38,7 +38,7 @@ Observera att om din certifiering upphör att gälla måste du göra om certifie
 
 >[!TAB Expert]
 
-Du bör vara certifierad (inte utgånget) i:
+## Du bör vara certifierad (inte utgånget) i:
 
 * Adobe Marketo Engage Business Practitioner Expert
 
