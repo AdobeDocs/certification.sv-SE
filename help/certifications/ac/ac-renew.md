@@ -7,7 +7,7 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: 454d5ffed9f3442674df989145e33d50c0994b27
+source-git-commit: b67862a7cbbb13b49ac0298d4bde9b231203cd44
 workflow-type: tm+mt
 source-wordcount: '2462'
 ht-degree: 0%
@@ -248,54 +248,54 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 **Avsnitt 1**
 
-[Skapa en åtkomstkontrollistregel (ACL)](https://developer.adobe.com/commerce/php/tutorials/backend/create-access-control-list-rule){target="_blank"}
-[Lägga till ett administratörsrutnät](https://developer.adobe.com/commerce/php/development/components/add-admin-grid/){target="_blank"}
-[system.xml, referens](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-systemxml.html){target="_blank"}
+* [Skapa en åtkomstkontrollistregel (ACL)](https://developer.adobe.com/commerce/php/tutorials/backend/create-access-control-list-rule){target="_blank"}
+* [Lägga till ett administratörsrutnät](https://developer.adobe.com/commerce/php/development/components/add-admin-grid/){target="_blank"}
+* [system.xml, referens](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-systemxml.html){target="_blank"}
 
 **Avsnitt 2**
 
-[Routning](https://developer.adobe.com/commerce/php/development/components/routing/){target="_blank"}
-[URL-omskrivningar](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html){target="_blank"}
-[Konfiguration av cachetyp](https://developer.adobe.com/commerce/php/development/cache/partial/cache-type/){target="_blank"}
-[Omfång för webbplats, lagring och visning](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html){target="_blank"}
-[Kommandoradsverktyg](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html){target="_blank"}
-[Konfiguration för beroendeinjektion](https://developer.adobe.com/commerce/php/development/build/dependency-injection-file/){target="_blank"}
-[Skapa en modul](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/create-module.html){target="_blank"}
-[Indexering](https://developer.adobe.com/commerce/php/development/components/indexing/){target="_blank"}
-[Översättningar](https://developer.adobe.com/commerce/frontend-core/guide/translations/){target="_blank"}
-[Plugins](https://developer.adobe.com/commerce/php/development/components/plugins/){target="_blank"}
+* [Dirigering](https://developer.adobe.com/commerce/php/development/components/routing/){target="_blank"}
+* [URL-omskrivningar](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html){target="_blank"}
+* [Konfiguration av cachetyp](https://developer.adobe.com/commerce/php/development/cache/partial/cache-type/){target="_blank"}
+* [Omfång för webbplats, lagring och visning](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html){target="_blank"}
+* [Kommandoradsverktyg](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html){target="_blank"}
+* [Konfiguration för beroendeinjektion](https://developer.adobe.com/commerce/php/development/build/dependency-injection-file/){target="_blank"}
+* [Skapa en modul](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/create-module.html){target="_blank"}
+* [Indexering](https://developer.adobe.com/commerce/php/development/components/indexing/){target="_blank"}
+* [Översättningar](https://developer.adobe.com/commerce/frontend-core/guide/translations/){target="_blank"}
+* [Plugins](https://developer.adobe.com/commerce/php/development/components/plugins/){target="_blank"}
 
 **Avsnitt 3**
 
-[Attributuppsättningar](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html){target="_blank"}
-[EAV- och tilläggsattribut](https://developer.adobe.com/commerce/php/development/components/attributes/){target="_blank"}
-[Konfigurera deklarativt schema](https://developer.adobe.com/commerce/php/development/components/declarative-schema/configuration/){target="_blank"}
-[Skapa en komponentfilstruktur](https://developer.adobe.com/commerce/php/development/build/component-file-structure/){target="_blank"}
+* [Attributuppsättningar](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html){target="_blank"}
+* [EAV- och tilläggsattribut](https://developer.adobe.com/commerce/php/development/components/attributes/){target="_blank"}
+* [Konfigurera deklarativt schema](https://developer.adobe.com/commerce/php/development/components/declarative-schema/configuration/){target="_blank"}
+* [Skapa en komponentfilstruktur](https://developer.adobe.com/commerce/php/development/build/component-file-structure/){target="_blank"}
 
 **Avsnitt 4**
 
-[Innehållsblock](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html){target="_blank"}
-[Visa modeller](https://developer.adobe.com/commerce/php/development/components/view-models/){target="_blank"}
-[Layoutinstruktioner](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/){target="_blank"}
-[Temastruktur](https://developer.adobe.com/commerce/frontend-core/guide/themes/structure/){target="_blank"}
-[Anropa och initiera JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/init/){target="_blank"}
-[Privat innehåll](https://developer.adobe.com/commerce/php/development/cache/page/private-content/){target="_blank"}
+* [Innehållsblock](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html){target="_blank"}
+* [Visa modeller](https://developer.adobe.com/commerce/php/development/components/view-models/){target="_blank"}
+* [Layoutinstruktioner](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/){target="_blank"}
+* [Temastruktur](https://developer.adobe.com/commerce/frontend-core/guide/themes/structure/){target="_blank"}
+* [Anropa och initiera JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/init/){target="_blank"}
+* [Privat innehåll](https://developer.adobe.com/commerce/php/development/cache/page/private-content/){target="_blank"}
 
 **Avsnitt 5**
 
-[Kundkonfiguration](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/point-of-purchase/cart/cart-configuration.html){target="_blank"}
-[Skapa en kundvagnsprisregel](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html){target="_blank"}
-[Lägg till anpassade fält som påverkar andra utcheckningsfält](https://developer.adobe.com/commerce/php/tutorials/frontend/custom-checkout/add-checkbox/){target="_blank"}
-[Citattabell](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/tables/sales-flat-quote-table.html){target="_blank"}
-[Anpassa listan över leveransmetoder](https://developer.adobe.com/commerce/php/tutorials/frontend/custom-checkout/add-shipping-methods/){target="_blank"}
-[Inställningar för momskonfiguration](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-settings-general.html){target="_blank"}
+* [Kundkonfiguration](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/point-of-purchase/cart/cart-configuration.html){target="_blank"}
+* [Skapa en kundvagnsprisregel](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html){target="_blank"}
+* [Lägg till anpassade fält som påverkar andra utcheckningsfält](https://developer.adobe.com/commerce/php/tutorials/frontend/custom-checkout/add-checkbox/){target="_blank"}
+* [Citattabell](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/tables/sales-flat-quote-table.html){target="_blank"}
+* [Anpassa listan över leveransmetoder](https://developer.adobe.com/commerce/php/tutorials/frontend/custom-checkout/add-shipping-methods/){target="_blank"}
+* [Inställningar för momskonfiguration](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-settings-general.html){target="_blank"}
 
 **Avsnitt 6**
 
-[Ändra en katalog](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-modify.html){target="_blank"}
-[Skapa en produkt](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}
-[Katalogprisregler](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog.html){target="_blank"}
-[Grupppriser](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/pricing/product-price-group.html){target="_blank"}
+* [Ändra en katalog](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-modify.html){target="_blank"}
+* [Skapa en produkt](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}
+* [Katalogprisregler](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog.html){target="_blank"}
+* [Grupppriser](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/pricing/product-price-group.html){target="_blank"}
 
 ### Förnya din certifiering
 
