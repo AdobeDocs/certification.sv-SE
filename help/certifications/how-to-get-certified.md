@@ -4,9 +4,9 @@ description: Lär dig certifiera dig på Adobe. Hitta alla resurser ni behöver 
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 6720c1d3d305ba3dd5ccd25c6d4231893a69b26a
+source-git-commit: 84e304f413b4c0b33159203b9c55eda3a9776ac1
 workflow-type: tm+mt
-source-wordcount: '1414'
+source-wordcount: '1471'
 ht-degree: 1%
 
 ---
@@ -37,11 +37,17 @@ Underlighet:
 
 >[!TAB Ta ditt prov]
 
+**Din Adobe ID**
+
 Dina [profil](https://www.certmetrics.com/adobe/candidate/demographics.aspx){target="_blank"} namnet i Adobe Credential Management System måste exakt matcha ditt Government ID. Om informationen inte är identisk eller om det inte finns någon matchning avbryts provet och du måste schemalägga om mötet utöver att betala en extra provavgift.
+
+**Avbryta och omplanera**
 
 Det går att avbryta och schemalägga om det initieras före 48 timmar före det schemalagda provbesöket. Kandidaterna måste själva ändra den här avtalade tiden.
 
 Varken Adobe Support eller Examity kan bearbeta begäranden om omplanering och annullering. För annulleringar under 48 timmar tas en avgift ut utöver examensavgiften.
+
+**Efter provet**
 
 När du har avslutat en tentamen får du ett tillfälligt pass eller misslyckande. Slutpoängen kan ta upp till 72 timmar att fylla i. Resultat- och poängrapporten finns på fliken Historik i [Adobe Credential Manager](https://www.certmetrics.com/adobe){target="_blank"}.
 
@@ -49,9 +55,19 @@ Om du inte klarar en Adobe-certifieringstest på ditt första försök måste du
 
 >[!TAB Studiekostnad]
 
-Detta är de aktuella kostnaderna för certifieringsprov.
+**Examineringspriser för certifiering**
 
-![Exempel på prisbricka](/help/certifications/assets/exam_costs_new.png)
+| Adobe-certifiering | Pris (USD) | Indienpris (US-dollar) |
+| ------- | ------- | ------- |
+| Adobe Certified Professional | $125 | $95 |
+| Adobe Certified Expert | $225 | $150 |
+| Adobe Certified Master | $225 | $150 |
+
+**Förnyelsepriser**
+
+De flesta certifieringsförnyelser **kostnadsfritt**. För certifieringar som inte har något alternativ för kostnadsfri förnyelse måste du göra om den fullständiga certifieringstest som förnyar din certifiering.
+
+**Betalning för prov**
 
 Du kan betala för ditt certifieringsprov med hjälp av verifikation eller kreditkort. Om du vill köpa en provvoucher går du till: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
