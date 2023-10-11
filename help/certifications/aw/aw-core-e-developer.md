@@ -6,9 +6,9 @@ role: Developer
 badge: label="Prov AD0-E904" type="neutral"
 mini-toc-levels: 1
 exl-id: 6f7570dc-5647-402b-a8c1-18c4fa5f85d4
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: d7fbe49828eebfab713b0ece434355543ce7f897
 workflow-type: tm+mt
-source-wordcount: '1404'
+source-wordcount: '1400'
 ht-degree: 0%
 
 ---
@@ -158,7 +158,7 @@ Du bör ha minst 18-24 månaders erfarenhet av Adobe [!DNL Workfront]och kan:
 
 **Avsnitt 1: Administrering och installation av kärnsystem**
 
-* [Systemkonfiguration: grupper och användare](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/system-setup-groups-and-users.html%3Flang%3Dsv){target="_blank"}
+* [Systemkonfiguration: grupper och användare](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/system-setup-groups-and-users.html){target="_blank"}
 * [Hur åtkomstnivåer och behörigheter fungerar tillsammans](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/access-levels/how-access-levels-permissions-work-together.html){target="_blank"}
 * [Systemprojektstatus](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/statuses-priority-labels/system-project-statuses.html){target="_blank"}
 * [Spark-Starts](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/kick-starts/kick-starts.html){target="_blank"}
@@ -184,7 +184,7 @@ Du bör ha minst 18-24 månaders erfarenhet av Adobe [!DNL Workfront]och kan:
 
 **Avsnitt 4: Dokumenthantering och -korrektur**
 
-* [Förstå skillnaden mellan ett dokument och ett korrektur](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/document-vs-proof.html%3Flang%3Dzh-Hant){target="_blank"}
+* [Förstå skillnaden mellan ett dokument och ett korrektur](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/document-vs-proof.html){target="_blank"}
 * [God praxis - korrektur](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/proofing-bp.html){target="_blank"}
 * [Redigera projekt](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/manage-projects/edit-projects.html){target="_blank"}
 * [Länka dokument från externa program](https://experienceleague.adobe.com/docs/workfront/using/documents/add-new-documents-to-workfront/link-documents-from-external-apps.html){target="_blank"}
