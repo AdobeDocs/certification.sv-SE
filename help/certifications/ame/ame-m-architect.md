@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="Prov AD0-E556" type="neutral"
 mini-toc-levels: 1
 exl-id: 3ce6b278-5bee-4ba3-ae5a-1d5de79d07bf
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 7473424c80c0df6d796910b18f1d770b2a30fe1c
 workflow-type: tm+mt
-source-wordcount: '834'
+source-wordcount: '886'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,10 @@ Adobe har lanserat ett nytt Adobe [!DNL Marketo Engage] Engage Architect-certifi
 <br>
 
 ### Provinformation {#exam-details}
+
+>[!IMPORTANT]
+>
+>Certifieringen har en förutsättning. Du MÅSTE ha en aktiv (inte utgången) Adobe [!DNL Marketo Engage] Yrkesverksamma inom affärsverksamhet **Expert** Certifiering för att ta Adobe [!DNL Marketo Engage] Arkitektprov, magisterexamen.
 
 * Krav: Adobe Certified Expert - [!DNL Marketo Engage] Yrkesverksamma inom affärsverksamhet
 * Nivå: Masternivå (3-5 års erfarenhet)
@@ -209,6 +213,10 @@ Dessutom bör du känna till följande verktyg och tekniker:
 {{about-certification-exam}}
 
 ## Schemalägg eller ta prov AD0-E556
+
+>[!IMPORTANT]
+>
+>Certifieringen har en förutsättning. Du MÅSTE ha en aktiv (inte utgången) Adobe [!DNL Marketo Engage] Yrkesverksamma inom affärsverksamhet **Expert** Certifiering för att ta Adobe [!DNL Marketo Engage] Arkitektprov, magisterexamen.
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E556" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
