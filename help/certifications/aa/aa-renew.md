@@ -7,14 +7,14 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
-source-git-commit: 48edcca053ec160cc9dce8c1e4ebe178db54cf44
+source-git-commit: 5d6ce2be3c7db142840cc67bc0f7054e25fff951
 workflow-type: tm+mt
-source-wordcount: '2061'
+source-wordcount: '2067'
 ht-degree: 1%
 
 ---
 
-# Förnya [!DNL Adobe Analytics] certifiering
+# Förnya Adobe [!DNL Analytics] certifiering
 
 Din Adobe-certifiering gäller i två år. Om du närmar dig den här tvåårsmärkningen är det dags att förnya din certifiering för att den ska förbli aktiv.
 
@@ -32,7 +32,7 @@ Observera att om din certifiering upphör att gälla måste du göra om certifie
 
 >[!TAB Professional]
 
-+++[!DNL Adobe Analytics] Developer Professional
++++Adobe [!DNL Analytics] Developer Professional
 
 ## Instruktioner för att förnya din certifiering:
 
@@ -146,6 +146,8 @@ Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för h
 >Det här provet är kostnadsfritt, öppet och obearbetat. Du får ta tentamen upp till tre gånger. Om du inte lyckas efter det tredje försöket måste du vänta **30 dagar** för att försöka igen. Om du inte följer reglerna kan certifieringen återkallas.
 
 +++
+
++++Adobe [!DNL Analytics] Yrkesverksamma inom affärsverksamhet
 
 ## Instruktioner för att förnya din certifiering:
 
