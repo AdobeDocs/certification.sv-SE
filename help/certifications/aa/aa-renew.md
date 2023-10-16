@@ -7,9 +7,9 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
-source-git-commit: f2a35b41805e12a8193e7e774f8041e5459d7eae
+source-git-commit: 48edcca053ec160cc9dce8c1e4ebe178db54cf44
 workflow-type: tm+mt
-source-wordcount: '1298'
+source-wordcount: '2061'
 ht-degree: 1%
 
 ---
@@ -147,11 +147,96 @@ Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för h
 
 +++
 
-+++[!DNL Adobe Analytics] Yrkesverksamma inom affärsverksamhet
+## Instruktioner för att förnya din certifiering:
+
+* **Steg 1**: Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}och sedan återgå till den här sidan
+* **Steg 2**: Granska testens mål och resurser
+* **Steg 3**: Ta och ta examen
+
+### Gör dig redo
+
+**Information om tentamen:**
+
+* Passing Score: 26/35
+* Tid: 70 min
+* Kostnad: KOSTNADSFRITT/icke-upphandlat
+* Leverans: On-demand
+* Tillgängliga språk: engelska
+* Krav: aktuell (inte utgången) Adobe Analytics Business Practitioner Professional-certifiering
+* Exempel-ID: AD5-E832
+
+**Tillämpningsområde och mål**
+
+Avsnitt 1: Affärsanalys
+
+1.1 Utifrån ett affärsbehov/-fråga kan du identifiera den lämpligaste rapporteringsstrategin för att utföra en analys 4 % 1.2 Analysera data för att besvara affärsfrågor och rekommendera nya optimeringshypoteser 4 % 1.3 Identifiera konverteringsgrupper (som ett koncept för att förstå affärsanalyser) 4 % 1.4 Tolka SDR (Interpret Solution Design Reference) för att fastställa vilka data som är tillgängliga i rapporter 4 % 1.5 Analysera rapportdata för att sammanfatta och dra slutsatser 6 1,6 Undersök avvikande värden och avvikelser i rapporter 4%
+
+Avsnitt 2: Rapportering och introduktion av projekt
+
+2.1 Utnyttja fördelarna med att använda ett rapporteringsverktyg baserat på ett givet scenario 2 % 2.2 Jämför bortfalls- och flödesvisualisering och lämpliga variabeltyper för rapportering 4 % 2.3 Använda processen för att schemalägga projekt, och Data Warehouse 2 % 2.4 Använda processen för att dela projekt- och rapportkontrollpaneler för olika användare och/eller grupper (delning har ändrats) 2 % 2.5 Använd processen för att ange aviseringar ts 2% 2.6 Använda processen för att söka efter dimensioner/komponenter (fördefinierade och anpassade) 4% 2.7 Använda processen för att skapa en visualisering 6% 2.8 I ett scenario bör du fastställa vilket objekt som ska användas med 6% 2.9 Använda processen för att skapa, konfigurera och använda mobilstyrkort 2%
+
+Avsnitt 3: Segmentering och beräknade värden
+
+3.1 Bestäm hur man utvecklar och konfigurerar segment med hjälp av bästa praxis 6 % 3.2 Använda processen för att dela segment med andra i organisationen 4 % 3.3 Jämför segment 4 % 3.4 Använda segment i projekt och komponenter 4 % 3.5 Använda processen för att generera beräknade och/eller segmenterade värden 4 %
+
+Avsnitt 4: Allmän verktygsinformation och felsökning
+
+4.1 Analysera rapporter och differentiera problem med datakvalitet jämfört med implementeringsproblem 4% 4.2 Definiera olika typer av dimensioner och parametrar som finns i Adobe Analytics (evar, props och events) 4% 4.3 Bestäm hur data ska hämtas in och ut från Adobe Analytics 2% 4.4 Identifiera information från marknadsförings-URL:er 2%
+
+Avsnitt 5: Administration
+
+5.1 Använd processen för att konfigurera Marketing Channel-rapporterna med regler för bearbetning av marknadsföringskanaler 2 % 5.2 Använd processen för att konfigurera klassificeringsimporteraren och regel Builder 2 % 5.3 Använd processen för att konfigurera ett virtuellt rapportpaket baserat på ett befintligt segment 2 % 5.4 Använd gränssnittet för Data Feed Manager 2 % 5.5 Förstå datastyrning 2 %
+
+## Förbered
+
+Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
+
+Här följer några förslag på resurser som hjälper dig att förbereda dig:
+
+Avsnitt 1
+
+[Översikt över bidragsanalys](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html)
+[Analysis Workspace - översikt](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html)
+[Konverteringsström](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/funnels.html)
+[Postdimensioner](https://experienceleague.adobe.com/docs/analytics/components/dimensions/entry-dimensions.html)
+
+Avsnitt 2
+
+[Dela projekt](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html)
+[Komponenter - översikt](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html)
+[Varningsverktyg](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/alert-builder.html)
+[Skapa ett mobilstyrkort](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/create-scorecard.html)
+
+Avsnitt 3
+
+[Segmentjämförelse](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html)
+[Bygg mätvärden](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html)
+[Använda nedrullningsbara filter i Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-drop-down-filters.html)
+[Tagga segment](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-tag.html)
+
+Avsnitt 4
+
+[Felsöka tagningar och datasläppningar](https://experienceleague.adobe.com/docs/analytics/technotes/event/spikes-drops.html)
+[Anpassade händelser](https://experienceleague.adobe.com/docs/analytics/components/metrics/custom-events.html)
+[Hämta PDF eller CSV-filer](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html)
+[A Beginner&#39;s Guide to URL Parameters](https://www.semrush.com/blog/url-parameters/)
+
+Avsnitt 5
+
+[Bearbetningsregler för marknadsföringskanaler](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/marketing-channels/c-rules.html)
+[Klassificeringsöversikt](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html)
+[Skapa virtuella rapportsviter](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-workflow/vrs-create.html)
+[Frågor och svar om sekretesskrav](https://experienceleague.adobe.com/docs/experience-platform/privacy/regulations/faq.html)
+
+## Förnya din certifiering
+
+Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} först. Om du vill förnya din certifiering klickar du på länken AD5-E832 Adobe Analytics Business Practitioner Professional Renewal Exam (AD5-E832) nedan.
+
+* [AD5-E832 Adobe Analytics Business Practitioner Professional Renewal Exam](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E832){target="_blank"}
 
 >[!NOTE]
 >
->Förnyelse kommer snart.
+>Det här provet är kostnadsfritt, öppet och obearbetat. Du får ta tentamen upp till tre gånger. Om du inte lyckas efter det tredje försöket måste du vänta **30 dagar** för att försöka igen. Om du inte följer reglerna kan certifieringen återkallas.
 
 +++
 

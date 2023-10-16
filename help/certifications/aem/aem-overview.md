@@ -2,11 +2,11 @@
 title: Experience Manager Certification Overview
 description: Översikt över certifieringsalternativ för Adobe Experience Manager
 solution: Experience Manager
-exl-id: 75f283b8-017d-464d-b7d4-a6bd2d20b90c
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+exl-id: abec7565-58dd-46d7-bebc-5676a22201e2
+source-git-commit: 48edcca053ec160cc9dce8c1e4ebe178db54cf44
 workflow-type: tm+mt
-source-wordcount: '347'
-ht-degree: 2%
+source-wordcount: '101'
+ht-degree: 7%
 
 ---
 
@@ -34,31 +34,6 @@ Om du vill ha information om hur du förnyar din befintliga certifiering kan du 
 
 **Master**
 
->[!NOTE]
->
->The **Adobe Experience Manager Architect Sites Master-prov (AD0-E117)** genomgår underhåll och är tillfälligt otillgänglig. Vi ber om ursäkt för besväret. [Registrera dig för att få meddelanden](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) när den är tillgänglig igen.
->
->**Frågor?** Se vår [Vanliga frågor](#AEM-FAQ) längst ned på sidan.
-
 * [Arkitekt (platser)](/help/certifications/aem/aem-sites-m-architect.md) <!--AD0-E117-->
 
-
-
-## Frågor och svar för Adobe Experience Manager Sites Architect Master Exam (AD0-E117) {#AEM-FAQ}
-
-Certifieringsprovet AD0-E117 genomgår underhåll och är tillfälligt otillgängligt. Vi ber om ursäkt för besväret. [Registrera dig för att få meddelanden](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) när den är tillgänglig igen.
-
-**Vad händer om jag redan har schemalagt min tentamen?**
-
-Alla schemalagda AD0-E117-prov har avbrutits. De sökande som påverkas måste schemalägga provet igen när den nya versionen blir tillgänglig.
-
-**Jag har redan betalat för provet. Får jag pengarna tillbaka?**
-
-* Om du har betalat för din tentamen med ett kreditkort via Examity, kommer du att återbetalas till fullo.  
-* Om du har betalat med en verifikation återställs din kod och du kan använda den på din nya provavtalade tid.  
-* Om din voucher förfaller innan du kan använda den, ger vi dig en ny voucher när du är klar att schemalägga.
-
-**Jag måste förnya min certifiering före oktober; kommer detta att påverka min förnyelse?**
-
-Nej. Du kommer att kunna förnya via kontinuerlig undervisning. Se till att följa instruktionerna och proceduren i [Förnya din certifiering](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"}.
-
+Besök [Förnya din certifiering](/help/certifications/renew.md) för att se om det finns något förnyelsealternativ för den här produkten.

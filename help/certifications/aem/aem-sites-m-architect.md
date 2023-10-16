@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="Prov AD0-E117" type="neutral"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 48edcca053ec160cc9dce8c1e4ebe178db54cf44
 workflow-type: tm+mt
-source-wordcount: '1541'
+source-wordcount: '1470'
 ht-degree: 8%
 
 ---
@@ -17,10 +17,6 @@ ht-degree: 8%
 # Certifieringsresa för Adobe [!DNL Experience Manager Sites] Architect Master
 
 {{intro}}
-
->[!NOTE]
->
->Detta prov (AD0-E117 / AD0-E117-J) genomgår underhåll och är för närvarande inte tillgängligt. Vi ber om ursäkt för besväret. [Registrera dig för att få meddelanden](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) när den är tillgänglig igen.<br><br>**Frågor?** Se vår [Vanliga frågor](#AEM-FAQ) längst ned på sidan.
 
 ## Provbeskrivning {#exam-description}
 
@@ -253,11 +249,25 @@ Dessutom bör du kunna utföra följande uppgifter:
 
 {{about-certification-exam}}
 
-## Schemalägg eller ta prov AD0-E117 / AD0-E117-J
+## Schemalägg eller ta prov AD0-E117 (engelska)
 
->[!NOTE]
->
->Detta prov (AD0-E117 / AD0-E117-J) genomgår underhåll och är för närvarande inte tillgängligt. Vi ber om ursäkt för besväret. [Registrera dig för att få meddelanden](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) när den är tillgänglig igen.<br><br>**Frågor?** Se vår [Vanliga frågor](#AEM-FAQ) längst ned på sidan.
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E117" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Gå till Kontrollportalen - engelsk tentamen
+</span>
+</a>
+
+## Schemalägg eller ta prov AD0-E117-J (japanska)
+
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E117-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Gå till Visiity Portal - japanskt prov
+</span>
+</a>
+
+[Japanska instruktioner för schemaläggning](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
 +++
 
