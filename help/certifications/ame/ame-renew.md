@@ -7,7 +7,7 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
-source-git-commit: 7da1f48bc18af4b6a3cecc8a525220643fa75e1d
+source-git-commit: b6f4b0796e4d67efe7457f582fb97f9b4d5727db
 workflow-type: tm+mt
 source-wordcount: '2812'
 ht-degree: 0%
@@ -117,7 +117,7 @@ Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och 
 
 Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
-**Avsnitt 1 **
+**Avsnitt 1**
 
 * [Förstå engagemangsprogram](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.html){target="_blank"}
 * [Enkel poängsättning](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/quick-wins/simple-scoring.html){target="_blank"}
@@ -133,7 +133,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Skapa en programkanal](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/create-a-program-channel.html){target="_blank"}
 * [Förstå periodkostnader](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.html){target="_blank"}
 
-**Avsnitt 2 **
+**Avsnitt 2**
 
 * [Lägg till bilder och filer i Marketo](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.html){target="_blank"}
 * [Växla synlighet för ett formulärfält dynamiskt](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.html){target="_blank"}
@@ -157,7 +157,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Uppdatera en lista eller smart lista](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/refresh-a-list-or-smart-list.html){target="_blank"}
 * [Använd inbyggda/systemsmarta listor](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.html){target="_blank"}
 
-**Avsnitt 4 **
+**Avsnitt 4**
 
 * [Översikt över rapporttyp](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html){target="_blank"}
 * [Prestandarapport för landningssida](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.html){target="_blank"}
