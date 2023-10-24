@@ -6,7 +6,8 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
-source-git-commit: 145533f97dbe8eaf68f5436e7946b9fe97fc6703
+hidefromtoc: true
+source-git-commit: 3b78b716c20aa0319ac892947b22523dd607c522
 workflow-type: tm+mt
 source-wordcount: '5347'
 ht-degree: 5%
@@ -32,7 +33,7 @@ Om du är osäker på om du är berättigad, kontrollera [här](https://solution
 För att vara berättigad måste din certifiering uppfylla **alla** av följande kriterier:
 
 * Den måste ha gått ut mellan 1 januari 2020 och 23 april 2023.
-* Det måste vara expertnivå eller Överordnad nivå.
+* Det måste vara expert- eller mallnivå.
 * Det måste finnas en aktuell tentamen tillgänglig. (Om certifieringen inte längre har någon aktiv tentamen är den inte berättigad till omstartsprogrammet.)
 * Den måste finnas med på förteckningen över kvalificerade certifikat nedan:
 
@@ -47,8 +48,8 @@ För att vara berättigad måste din certifiering uppfylla **alla** av följande
 | AD0-E103 | [!DNL Adobe Experience Manager Sites] Developer Expert |
 | AD0-E116 | [!DNL Adobe Experience Manager Sites] Developer Expert |
 | AD0-E106 | [!DNL Adobe Experience Manager] Dev/Ops-tekniker, expert |
-| AD0-E117 | [!DNL Adobe Experience Manager Sites] Arkitekt Överordnad |
-| AD0-E104 | [!DNL Adobe Experience Manager Sites] Arkitekt Överordnad |
+| AD0-E117 | [!DNL Adobe Experience Manager Sites] Architect Master |
+| AD0-E104 | [!DNL Adobe Experience Manager Sites] Architect Master |
 
 **[!DNL Adobe Analytics]**
 
@@ -56,15 +57,15 @@ För att vara berättigad måste din certifiering uppfylla **alla** av följande
 | ------- | ------- |
 | AD0-E201 | [!DNL Adobe Analytics] Developer Expert |
 | AD0-E202 | [!DNL Adobe Analytics] Affärsexpert |
-| AD0-E200 | [!DNL Adobe Analytics] Arkitekt Överordnad |
-| AD0-E207 | [!DNL Adobe Analytics] Arkitekt Överordnad |
+| AD0-E200 | [!DNL Adobe Analytics] Architect Master |
+| AD0-E207 | [!DNL Adobe Analytics] Architect Master |
 
 **Adobe Audience Manager**
 
 | Provnings-ID | Provnamn |
 | ------- | ------- |
-| AD0-E454 | [!DNL Adobe Audience Manager] Arkitekt Överordnad |
-| AD0-E452 | [!DNL Adobe Audience Manager] Arkitekt Överordnad |
+| AD0-E454 | [!DNL Adobe Audience Manager] Architect Master |
+| AD0-E452 | [!DNL Adobe Audience Manager] Architect Master |
 | AD0-E453 | [!DNL Adobe Audience Manager] Affärsexpert |
 
 **Adobe Campaign Classic**
@@ -73,8 +74,8 @@ För att vara berättigad måste din certifiering uppfylla **alla** av följande
 | ------- | ------- |
 | AD0-E300 | Adobe [!DNL Campaign Classic] Sites Business Practitioner Expert |
 | AD0-E314 | Adobe [!DNL Campaign Classic] Sites Business Practitioner Expert |
-| AD0-E318 | Adobe [!DNL Campaign Classic] Arkitekt Överordnad |
-| AD0-E303 | Adobe [!DNL Campaign Classic] Arkitekt Överordnad |
+| AD0-E318 | Adobe [!DNL Campaign Classic] Architect Master |
+| AD0-E303 | Adobe [!DNL Campaign Classic] Architect Master |
 | AD0-E312 | Adobe [!DNL Campaign Classic] Developer Expert |
 | AD0-E308 | Adobe [!DNL Campaign Classic] Developer Expert |
 
@@ -98,7 +99,7 @@ För att vara berättigad måste din certifiering uppfylla **alla** av följande
 | Provnings-ID | Provnamn |
 | ------- | ------- |
 | AD0-E401 | [!DNL Adobe Target] Affärsexpert |
-| AD0-E402 | [!DNL Adobe Target] Arkitekt Överordnad |
+| AD0-E402 | [!DNL Adobe Target] Architect Master |
 
 +++
 
@@ -134,7 +135,7 @@ För att vara berättigad måste din certifiering uppfylla **alla** av följande
 
   Du meddelas av Adobe Credential Team när kundens referens har granskats. Om din referens inte godkänns kan du skicka in den igen tills du har lyckats, så länge som det är innan certifieringen upphör att gälla.
 
-### Kurser och kursbedömningar för experter och Överordnad:
+### Kurser och kursbedömningar för expert och master:
 
 | Kurs | Kursutvärdering |
 | ------- | ------- |
@@ -169,7 +170,7 @@ För att vara berättigad måste din certifiering uppfylla **alla** av följande
 
   Du meddelas av Adobe Credential Team när kundens referens har granskats. Om din referens inte godkänns kan du skicka in den igen tills du har lyckats, så länge som det är innan certifieringen upphör att gälla.
 
-### Kurser och kursbedömningar för experter och Överordnad:
+### Kurser och kursbedömningar för expert och master:
 
 | Kurs | Kursutvärdering |
 | ------- | ------- |
@@ -202,7 +203,7 @@ För att vara berättigad måste din certifiering uppfylla **alla** av följande
 
   Du meddelas av Adobe Credential Team när kundens referens har granskats. Om din referens inte godkänns kan du skicka in den igen tills du har lyckats, så länge som det är innan certifieringen upphör att gälla.
 
-### Kurser och kursbedömningar för experter och Överordnad:
+### Kurser och kursbedömningar för expert och master:
 
 | Kurs | Kursutvärdering |
 | ------- | ------- |
@@ -293,7 +294,7 @@ Adobe Audience Manager Business Practitioner Expert Restart-provet ADS-E826 är 
 
 +++
 
-+++ADS-E825 Adobe Audience Manager **Arkitekt** Överordnad Restart-prov
++++ADS-E825 Adobe Audience Manager **Arkitekt** Master Restart-prov
 
 **Instruktioner för att starta om din certifiering:**
 
@@ -305,13 +306,13 @@ Adobe Audience Manager Business Practitioner Expert Restart-provet ADS-E826 är 
 
 **Information om tentamen:**
 
-* Nivå: Överordnad (3-5 års erfarenhet)
+* Nivå: Masternivå (3-5 års erfarenhet)
 * Löpande poäng: 22/29
 * Tid: 58 min
 * Leverans: On-demand/icke-upphandling
 * Tillgängliga språk: engelska
 * Kostnad: KOSTNADSFRITT
-* Exempel-ID: ADS-E825 - Överordnad omstart av Adobe Audience Manager Architect
+* Exempel-ID: ADS-E825 - Adobe Audience Manager Architect Master Restart
 
 **Tillämpningsområde och mål:**
 
@@ -383,7 +384,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 ### Starta om certifieringen
 
-Provet Adobe Audience Manager Architect Överordnad Restart ADS-E825 är kostnadsfritt, öppet och icke-belagt. Du får ta tentamen upp till tre gånger. Om du inte lyckas efter det tredje försöket måste du vänta **30 dagar** för att försöka igen. Om du inte följer reglerna kan certifieringen återkallas.
+Adobe Audience Manager Architect Master Restart-provet ADS-E825 är kostnadsfritt, öppet och icke-belagt. Du får ta tentamen upp till tre gånger. Om du inte lyckas efter det tredje försöket måste du vänta **30 dagar** för att försöka igen. Om du inte följer reglerna kan certifieringen återkallas.
 
 <a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E825" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -587,7 +588,7 @@ Adobe [!DNL Campaign Standard] Business Practitioner Expert - omstartsprovet ADS
 
 +++
 
-+++ADS-E823 Adobe **Campaign Classic** Expert och/eller Överordnad Restart-prov
++++ADS-E823 Adobe **Campaign Classic** Expert and/or Master Restart - tentamen
 
 **Instruktioner för att starta om din certifiering:**
 
@@ -599,13 +600,13 @@ Adobe [!DNL Campaign Standard] Business Practitioner Expert - omstartsprovet ADS
 
 **Information om tentamen:**
 
-* Nivå: Expert (1-3 års erfarenhet) och Överordnad (3-5 års erfarenhet)
+* Nivå: Expert (1-3 års erfarenhet) och Mästare (3-5 års erfarenhet)
 * Passing Score: 42/55
 * Tid: 110 min
 * Leverans: On-demand/icke-upphandling
 * Tillgängliga språk: engelska
 * Kostnad: KOSTNADSFRITT
-* Exam ID: ADS-E823 - Adobe [!DNL Campaign Classic] Expert och/eller Överordnad omstart
+* Exam ID: ADS-E823 - Adobe [!DNL Campaign Classic] Expert- och/eller huvudomstart
 
 **Tillämpningsområde och mål**
 
