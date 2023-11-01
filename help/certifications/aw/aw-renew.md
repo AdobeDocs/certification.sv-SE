@@ -6,7 +6,7 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: 27be1766b071d4761aa8330c391bbf2a054128ee
+source-git-commit: 6790d5bdc7a3a8f77463f917c169f2c202d1438b
 workflow-type: tm+mt
 source-wordcount: '3755'
 ht-degree: 0%
@@ -239,7 +239,7 @@ Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för h
 
 **Information om tentamen:**
 
-* Passing Score: 27/35
+* Passing Score: 25/35
 * Tid: 70 min
 * Kostnad: KOSTNADSFRITT/icke-upphandlat
 * Leverans: On-demand
@@ -346,7 +346,7 @@ Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för h
 
 **Information om tentamen:**
 
-* Passing Score: 25/35
+* Passing Score: 27/35
 * Tid: 70 min
 * Kostnad: KOSTNADSFRITT/icke-upphandlat
 * Leverans: On-demand
