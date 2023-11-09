@@ -7,9 +7,9 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: 93a9fd071d4a4564ae86a2ca15ac8d57b52b79e6
+source-git-commit: a655a968f0a02df60600881d166cc49471d07b0b
 workflow-type: tm+mt
-source-wordcount: '2462'
+source-wordcount: '2490'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,10 @@ Observera att om din certifiering upphör att gälla måste du göra om certifie
 >[!BEGINTABS]
 
 >[!TAB Professional]
+
+>[!NOTE]
+>
+>Den kontinuerliga förnyelsemetoden för alla Adobe Commerce Professional-certifieringar är **upphörde den 10 november 2023**. Det kommer fortfarande att finnas kostnadsfri förnyelse för dessa certifieringar via förnyelseprov.
 
 ## Kostnadsfri kontinuerlig utbildningsförnyelse finns tillgänglig för:
 

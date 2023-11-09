@@ -4,9 +4,9 @@ description: Läs mer om  [!DNL Experience Cloud] -certifiering på Adobe. Ta re
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: bc8d85db13a643ee737c5443d9124fc6492c4831
+source-git-commit: a655a968f0a02df60600881d166cc49471d07b0b
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '402'
 ht-degree: 8%
 
 ---
@@ -17,7 +17,7 @@ Läs mer om certifiering på Adobe och vad certifieringen kan göra för dig.
 
 ![Banderoll](/help/certifications/assets/home_banner_smallwide.png)
 
-Adobe Certification Program har tagits fram för att bestyrka dina färdigheter i Adobe [!DNL Experience Cloud] produkter. Genom att bli Adobe Certified kan du visa upp din expertis och imponera på både kunder och arbetsgivare.
+Adobe program för digital upplevelse har tagits fram för att hjälpa er att bevisa att ni är skickliga i Adobe [!DNL Experience Cloud] produkter. Genom att bli Adobe Certified kan du visa upp din expertis och imponera på både kunder och arbetsgivare.
 
 Adobe [!DNL Experience Cloud] är en serie digitala marknadsföringslösningar som gör det möjligt för företag att leverera personaliserade kundupplevelser över flera kanaler, inklusive webben, mobiler, e-post och sociala medier. Adobe [!DNL Experience Cloud] innehåller ett antal produkter, t.ex. Adobe [!DNL Real-Time CDP], ADOBE [!DNL Experience Manager], ADOBE [!DNL Commerce], ADOBE [!DNL Journey Optimizer], ADOBE [!DNL Customer Analytics], med mera.
 
@@ -35,11 +35,11 @@ Hämta en Adobe [!DNL Experience Cloud] certifieringen har många fördelar:
 * **Kostnadsfria praktiska tester:** Adobe erbjuder kostnadsfria provprov för att säkerställa att du är helt redo för din provperiod.
 * **Gratis certifieringsförnyelser:** Certifieringarna i Adobe gäller i två år, och de flesta certifieringar kan förnyas kostnadsfritt genom att man antingen genomför en ondemand-, icke-processinriktad tentamen eller slutför en uppsättning löpande utbildningsaktiviteter.
 
-Adobe Certification Program är avsett för utvecklare, yrkesverksamma och arkitekter inom en rad olika områden. Oavsett om du är en erfaren expert eller bara börjar om kan certifieringen hjälpa dig att höja din karriär och ligga steget före konkurrenterna.
+Adobe Digital Experience Credential Program är avsett för yrkesverksamma inom en rad olika områden, bland annat utvecklare, yrkesverksamma och arkitekter. Oavsett om du är en erfaren expert eller bara börjar om kan certifieringen hjälpa dig att höja din karriär och ligga steget före konkurrenterna.
 
 ## Kom igång
 
-Lås upp din yrkesmässiga potential redan idag genom att lära dig mer om Adobe Certification Program.
+Lås upp din yrkespotential idag genom att lära dig mer om Adobe Digital Experience Credential Program.
 
 <a href="https://experienceleague.adobe.com/docs/certification/certification/getting-started.html" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6"><span class="spectrum-Button-label has-no-wrap">Kom igång</span></a>
 
