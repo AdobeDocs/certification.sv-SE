@@ -1,10 +1,10 @@
 ---
 title: Expertcertifieringar
 description: Översikt över certifieringsalternativ för expertanvändare
-source-git-commit: c830fda9da1da53807369d72dbfbacf9d17d4d13
+source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
 workflow-type: tm+mt
 source-wordcount: '76'
-ht-degree: 35%
+ht-degree: 53%
 
 ---
 
@@ -12,26 +12,26 @@ ht-degree: 35%
 
 **Analytics** 
 
-* [Affärskommunikation](/help/certifications/aa/aa-e-business.md) <!--AD0-E208-->
+* [Yrkesverksam](/help/certifications/aa/aa-e-business.md) <!--AD0-E208-->
 * [Utvecklare](/help/certifications/aa/aa-e-developer.md) <!--AD0-E209-->
 
 **Audience Manager**
 
-* [Affärskommunikation](/help/certifications/aam/aam-e-business.md) <!--AD0-E457-->
+* [Yrkesverksam](/help/certifications/aam/aam-e-business.md) <!--AD0-E457-->
 
 **Campaign Classic**
 
-* [Affärskommunikation](/help/certifications/acc/acc-e-business.md) <!--AD0-E327-->
+* [Yrkesverksam](/help/certifications/acc/acc-e-business.md) <!--AD0-E327-->
 * [Utvecklare](/help/certifications/acc/acc-e-developer.md) <!--AD0-E330-->
 
 **Campaign Standard**
 
-* [Affärskommunikation](/help/certifications/acs/acs-e-business.md) <!--AD0-E307-->
+* [Yrkesverksam](/help/certifications/acs/acs-e-business.md) <!--AD0-E307-->
 * [Utvecklare](/help/certifications/acs/acs-e-developer.md) <!--AD0-E306-->
 
 **Commerce**
 
-* [Affärskommunikation](/help/certifications/ac/ac-e-business.md) <!--AD0-E708-->
+* [Yrkesverksam](/help/certifications/ac/ac-e-business.md) <!--AD0-E708-->
 * [Utvecklare](/help/certifications/ac/ac-e-developer.md) <!--AD0-E716-->
 * [Utvecklare](/help/certifications/ac/ac-e-fedeveloper.md) <!--AD0-E710-->
 
@@ -41,7 +41,7 @@ ht-degree: 35%
 
 **Experience Manager**
 
-* [Affärskommunikation (platser)](/help/certifications/aem/aem-sites-e-business.md) <!--AD0-E121-->
+* [Affärsman (Sites)](/help/certifications/aem/aem-sites-e-business.md) <!--AD0-E121-->
 * [Utvecklare (platser)](/help/certifications/aem/aem-sites-e-developer.md) <!--AD0-E134-->
 * [DevOps](/help/certifications/aem/aem-devops-e-engineer.md) <!--AD0-E124-->
 * [Utvecklare (Forms)](/help/certifications/aem/aem-forms-e-developer.md) <!--AD0-E125-->
@@ -49,7 +49,7 @@ ht-degree: 35%
 
 **Marketo Engage**
 
-* [Affärskommunikation](/help/certifications/ame/ame-e-business.md) <!--AD0-E559-->
+* [Yrkesverksam](/help/certifications/ame/ame-e-business.md) <!--AD0-E559-->
 
 **Real-Time CDP**
 
@@ -57,7 +57,7 @@ ht-degree: 35%
 
 **Target**
 
-* [Affärskommunikation](/help/certifications/at/at-e-business.md) <!--AD0-E406-->
+* [Yrkesverksam](/help/certifications/at/at-e-business.md) <!--AD0-E406-->
 
 **Workfront**
 
@@ -67,5 +67,4 @@ ht-degree: 35%
 >[!MORELIKETHIS]
 >
 >* [Professionella tekniska certifieringar](professional.md)
->* [Överordnad tekniska certifieringar](master.md)
-
+>* [Tekniska certifieringar](master.md)

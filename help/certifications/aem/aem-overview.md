@@ -3,10 +3,10 @@ title: Experience Manager Certification Overview
 description: Översikt över certifieringsalternativ för Adobe Experience Manager
 solution: Experience Manager
 exl-id: abec7565-58dd-46d7-bebc-5676a22201e2
-source-git-commit: 48edcca053ec160cc9dce8c1e4ebe178db54cf44
+source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
 workflow-type: tm+mt
 source-wordcount: '101'
-ht-degree: 7%
+ht-degree: 9%
 
 ---
 
@@ -18,7 +18,7 @@ Om du vill ha information om hur du förnyar din befintliga certifiering kan du 
 
 **Professional**
 
-* [Affärskommunikation](/help/certifications/aem/aem-p-business.md) <!--AD0-E126-->
+* [Yrkesverksam](/help/certifications/aem/aem-p-business.md) <!--AD0-E126-->
 * [Utvecklare (platser)](/help/certifications/aem/aem-sites-p-developer.md) <!--AD0-E123-->
 * [Utvecklare (resurser)](/help/certifications/aem/aem-assets-p-developer.md) <!--AD0-E129-->
 * [Back-end Developer (Forms)](/help/certifications/aem/aem-forms-p-bedeveloper.md) <!--AD0-E127-->
@@ -26,7 +26,7 @@ Om du vill ha information om hur du förnyar din befintliga certifiering kan du 
 
 **Expert**
 
-* [Affärskommunikation (platser)](/help/certifications/aem/aem-sites-e-business.md) <!--AD0-E121-->
+* [Affärsman (Sites)](/help/certifications/aem/aem-sites-e-business.md) <!--AD0-E121-->
 * [Utvecklare (platser)](/help/certifications/aem/aem-sites-e-developer.md) <!--AD0-E134-->
 * [DevOps](/help/certifications/aem/aem-devops-e-engineer.md) <!--AD0-E124-->
 * [Utvecklare (Forms)](/help/certifications/aem/aem-forms-e-developer.md) <!--AD0-E125-->
