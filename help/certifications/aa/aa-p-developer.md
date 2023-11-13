@@ -8,9 +8,9 @@ level: Experienced
 badge: label="Prov AD0-E213" type="neutral"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 7e8e35f64fad7e82c6560eac5ba04d1e9ebbd937
 workflow-type: tm+mt
-source-wordcount: '946'
+source-wordcount: '958'
 ht-degree: 3%
 
 ---
@@ -111,6 +111,14 @@ Du bör även ha erfarenhet av följande uppgifter:
 * Identifiera innebörden av vanliga [!DNL Adobe Analytics] variabelfel.
 * I ett scenario bör du identifiera de bästa metoderna för testning och felsökningsvalidering som ska följas.
 * Identifiera hur man spårar en [!DNL Adobe Analytics] serversamtal (dvs. Från beacon-begäran till visning i rapporten.)
+
+<br>
+
+### Beredskapenkät
+
+{{readiness}}
+
+[Ta ett frågeformulär om beredskap online](https://sei.caveon.com/launchpad/ad-q-e213-readiness-questionnaire-for-adobe-analytics-developer-professional-exam){target="_blank"}
 
 <br>
 
