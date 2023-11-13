@@ -6,7 +6,7 @@ product: Experience Manager
 role: User,Developer,Data Architect
 hidefromtoc: true
 exl-id: e7f1d21d-8e4a-4cbf-b1e5-379c194e0073
-source-git-commit: 72c191b0f6c62776b9cd02e1ae504d105ae6b827
+source-git-commit: 11fd762f20fc6f16fe31e919775b0260ebc41b8b
 workflow-type: tm+mt
 source-wordcount: '2066'
 ht-degree: 2%
@@ -92,43 +92,43 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 **Avsnitt 1**
 
-* [Skapa innehållsfragment](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-feature-video-use.html)
-* [Om Adobe Experience Manager Assets som en DAM-lösning](https://experienceleague.adobe.com/docs/experience-manager-65/assets/assets.html)
-* [Format som stöds i Adobe Experience Manager Assets](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/assets-formats.html#:~:text=Not%20applicable-,Supported%20raster%20image%20formats%20in%20Experience%20Manager,-The%20supported%20raster)
-* [Översikt](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/content-transformer/overview.html)
-* [Introduktion till AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-65/forms/getting-started/introduction-aem-forms.html)
-* [Tagga sidor](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/page-tagging-feature-video-use.html)
+* [Skapa innehållsfragment](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-feature-video-use.html){target="_blank"}
+* [Om Adobe Experience Manager Assets som en DAM-lösning](https://experienceleague.adobe.com/docs/experience-manager-65/assets/assets.html){target="_blank"}
+* [Format som stöds i Adobe Experience Manager Assets](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/assets-formats.html#:~:text=Not%20applicable-,Supported%20raster%20image%20formats%20in%20Experience%20Manager,-The%20supported%20raster){target="_blank"}
+* [Översikt](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/content-transformer/overview.html){target="_blank"}
+* [Introduktion till AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-65/forms/getting-started/introduction-aem-forms.html){target="_blank"}
+* [Tagga sidor](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/page-tagging-feature-video-use.html){target="_blank"}
 
 **Avsnitt 2**
 
-* [Konfigurera åtkomst till AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/overview.html#:~:text=The%20AEM%20Users%20product%20profile%20affords%20users%20read%2Donly%20access%20to%20AEM%20via%20membership%20in%20AEM%E2%80%99s%20Contributors%20group.)
-* [AEM användare, grupper och behörigheter](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/aem-users-groups-and-permissions.html)
-* [Webbplatskartor](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/seo/sitemaps.html)
-* [Bästa praxis för integrering mellan Adobe Experience Manager och Creative Cloud](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/aem-cc-integration-best-practices.html)
-* [AEM-CIF kärnkomponenter och integrering med Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/integrations/aep.html)
-* [Användaradministration och -säkerhet](https://experienceleague.adobe.com/docs/experience-manager-65/administering/security/security.html)
-* [Admin Console - översikt](https://helpx.adobe.com/se/enterprise/using/admin-console.html)
-* [AEM Publish](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/caching/publish.html)
+* [Konfigurera åtkomst till AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/overview.html#:~:text=The%20AEM%20Users%20product%20profile%20affords%20users%20read%2Donly%20access%20to%20AEM%20via%20membership%20in%20AEM%E2%80%99s%20Contributors%20group.){target="_blank"}
+* [AEM användare, grupper och behörigheter](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/aem-users-groups-and-permissions.html){target="_blank"}
+* [Webbplatskartor](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/seo/sitemaps.html){target="_blank"}
+* [Bästa praxis för integrering mellan Adobe Experience Manager och Creative Cloud](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/aem-cc-integration-best-practices.html){target="_blank"}
+* [AEM-CIF kärnkomponenter och integrering med Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/integrations/aep.html){target="_blank"}
+* [Användaradministration och -säkerhet](https://experienceleague.adobe.com/docs/experience-manager-65/administering/security/security.html){target="_blank"}
+* [Admin Console - översikt](https://helpx.adobe.com/se/enterprise/using/admin-console.html){target="_blank"}
+* [AEM Publish](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/caching/publish.html){target="_blank"}
 
 **Avsnitt 3**
 
-* [Introduktion till AEM Screens](https://experienceleague.adobe.com/docs/experience-manager-screens/using/overview/introduction.html)
-* [Stärk din digitala upplevelse med AEM as a Cloud Service](https://blog.developer.adobe.com/empower-your-digital-experience-with-aem-as-a-cloud-service-683d39eb98e3)
-* [Introduktion till Adobe Experience Manager som headless CMS](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/introduction.html)
-* [Hantera produkter, hjälp och support från det att de skapas tills de levereras.](https://business.adobe.com/products/experience-manager/guides/aem-guides.html)
-* [Översikt över Experience Manager Assets Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html)
-* [Projektroller och ansvarsområden](https://experienceleague.adobe.com/docs/experience-manager-screens/using/overview/roles-responsibilities.html)
-* [Lägga till sidanteckningar](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/fundamentals/annotations.html)
-* [Snabbstartsguide till redigering av sidor](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/getting-started/quick-start.html)
-* [Använda uppkopplade resurser med AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/sharing/connected-assets.html)
-* [Planering](https://experienceleague.adobe.com/docs/experience-manager-64/developing/testing/planning.html#before-you-start)
-* [Definiera testfall](https://experienceleague.adobe.com/docs/experience-manager-64/developing/testing/test-cases.html)
+* [Introduktion till AEM Screens](https://experienceleague.adobe.com/docs/experience-manager-screens/using/overview/introduction.html){target="_blank"}
+* [Stärk din digitala upplevelse med AEM as a Cloud Service](https://blog.developer.adobe.com/empower-your-digital-experience-with-aem-as-a-cloud-service-683d39eb98e3){target="_blank"}
+* [Introduktion till Adobe Experience Manager som headless CMS](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/introduction.html){target="_blank"}
+* [Hantera produkter, hjälp och support från det att de skapas tills de levereras.](https://business.adobe.com/products/experience-manager/guides/aem-guides.html){target="_blank"}
+* [Översikt över Experience Manager Assets Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html){target="_blank"}
+* [Projektroller och ansvarsområden](https://experienceleague.adobe.com/docs/experience-manager-screens/using/overview/roles-responsibilities.html){target="_blank"}
+* [Lägga till sidanteckningar](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/fundamentals/annotations.html){target="_blank"}
+* [Snabbstartsguide till redigering av sidor](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/getting-started/quick-start.html){target="_blank"}
+* [Använda uppkopplade resurser med AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/sharing/connected-assets.html){target="_blank"}
+* [Planering](https://experienceleague.adobe.com/docs/experience-manager-64/developing/testing/planning.html#before-you-start){target="_blank"}
+* [Definiera testfall](https://experienceleague.adobe.com/docs/experience-manager-64/developing/testing/test-cases.html){target="_blank"}
 
 **Avsnitt 4**
 
-* [Launches](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/launches.html)
-* [Använda arbetsflödesredigeraren](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/workflow/use-the-workflow-editor.html)
-* [Resursadministratörssökspår](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/assets-admin-search-rail.html#:~:text=The%20Assets%20admin%20search%20rail,using%20custom%20criteria%20in%20Omnisearch.&amp;text=The%20asset%20set%20in%20Search,Rail%20configuration%20for%20AEM%20assets.)
+* [Launches](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/launches.html){target="_blank"}
+* [Använda arbetsflödesredigeraren](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/workflow/use-the-workflow-editor.html){target="_blank"}
+* [Resursadministratörssökspår](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/assets-admin-search-rail.html#:~:text=The%20Assets%20admin%20search%20rail,using%20custom%20criteria%20in%20Omnisearch.&amp;text=The%20asset%20set%20in%20Search,Rail%20configuration%20for%20AEM%20assets.){target="_blank"}
 
 ## Förnya din certifiering
 
@@ -139,6 +139,8 @@ Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för h
 >[!NOTE]
 >
 >Det här provet är kostnadsfritt, öppet och obearbetat. Du får ta tentamen upp till tre gånger. Om du inte lyckas efter det tredje försöket måste du vänta **30 dagar** för att försöka igen. Om du inte följer reglerna kan certifieringen återkallas.
+
++++
 
 +++Adobe [!DNL Experience Manager] Developer Professional
 
