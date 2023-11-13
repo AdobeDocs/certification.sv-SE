@@ -6,9 +6,9 @@ product: Experience Manager
 role: User,Developer,Data Architect
 hidefromtoc: true
 exl-id: e7f1d21d-8e4a-4cbf-b1e5-379c194e0073
-source-git-commit: b67862a7cbbb13b49ac0298d4bde9b231203cd44
+source-git-commit: 72c191b0f6c62776b9cd02e1ae504d105ae6b827
 workflow-type: tm+mt
-source-wordcount: '1292'
+source-wordcount: '2066'
 ht-degree: 2%
 
 ---
@@ -31,9 +31,11 @@ Observera att om din certifiering upphör att gälla måste du göra om certifie
 
 >[!TAB Professional]
 
++++Adobe [!DNL Experience Manager] Yrkesverksamma inom affärsverksamhet
+
 ## Du bör ha följande **aktiv** certifiering:
 
-Adobe Experience Manager Developer Professional
+* Adobe [!DNL Experience Manager] Yrkesverksamma inom affärsverksamhet
 
 ## Instruktioner för att förnya din certifiering:
 
@@ -41,11 +43,120 @@ Adobe Experience Manager Developer Professional
 * **Steg 2**: Granska testens mål och resurser
 * **Steg 3**: Ta och ta examen
 
-### Gör dig redo
+## Gör dig redo
 
 **Information om tentamen:**
 
-* Nivå: Expert (0-12 månaders erfarenhet)
+* Nivå: Professionell (0-12 månaders upplevelse)
+* Passing Score: 26/34
+* Tid: 68 minuter
+* Leverans: On-demand/icke-upphandling
+* Tillgängliga språk: engelska
+* Kostnad: KOSTNADSFRITT
+* Exam ID: AD5-E843 Adobe [!DNL Experience Manager] Yrkesverksamma inom affärsverksamhet
+
+**Tillämpningsområde och mål:**
+
+Avsnitt 1: Utbildning 23 %
+
+* Identifiera AEM funktioner
+* Beskriv AEM funktioner som uppfyller företagets behov
+* Beskriv de procedurbegrepp som krävs för att genomföra utbildning för innehållsredigerare
+
+Avsnitt 2: Arkitektur 23 %
+
+* Identifiera den informationsarkitektur som är lämplig för att uppfylla företagets behov med hjälp av en lokal miljö eller en Adobe-miljö (molnet)
+* Beskriv hur AEM ansluter till tredjepartstjänster
+* Identifiera var roller och behörigheter ska definieras
+* I ett scenario definierar du tillgängliga cachelagringsmetoder
+
+Avsnitt 3: Affärsanalys 42 %
+
+* I ett scenario kan du identifiera standardmoduler för AEM som åtgärdar kundaffärsproblem
+* Identifiera begrepp för innehållshantering för AEM moduler
+* Identifiera typiska projektintressenter
+* Identifiera realistiska samarbetsscenarier mellan berörda team
+* Beskriv ett korrekt tillvägagångssätt för att uppfylla affärsmålen samtidigt som du ligger inom budget och/eller omfattning
+* Identifiera sätt att koppla samman affärsmål med utvecklingsteamet
+
+Avsnitt 4: Installation och implementering 12 %
+
+* Identifiera bästa AEM för att använda innehållskomponenter
+* Identifiera korrekt implementering av en funktion i ett scenario
+
+## Förbered
+
+Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
+
+Här följer några förslag på resurser som hjälper dig att förbereda dig:
+
+**Avsnitt 1**
+
+* [Skapa innehållsfragment](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-feature-video-use.html)
+* [Om Adobe Experience Manager Assets som en DAM-lösning](https://experienceleague.adobe.com/docs/experience-manager-65/assets/assets.html)
+* [Format som stöds i Adobe Experience Manager Assets](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/assets-formats.html#:~:text=Not%20applicable-,Supported%20raster%20image%20formats%20in%20Experience%20Manager,-The%20supported%20raster)
+* [Översikt](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/content-transformer/overview.html)
+* [Introduktion till AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-65/forms/getting-started/introduction-aem-forms.html)
+* [Tagga sidor](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/page-tagging-feature-video-use.html)
+
+**Avsnitt 2**
+
+* [Konfigurera åtkomst till AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/overview.html#:~:text=The%20AEM%20Users%20product%20profile%20affords%20users%20read%2Donly%20access%20to%20AEM%20via%20membership%20in%20AEM%E2%80%99s%20Contributors%20group.)
+* [AEM användare, grupper och behörigheter](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/aem-users-groups-and-permissions.html)
+* [Webbplatskartor](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/seo/sitemaps.html)
+* [Bästa praxis för integrering mellan Adobe Experience Manager och Creative Cloud](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/aem-cc-integration-best-practices.html)
+* [AEM-CIF kärnkomponenter och integrering med Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/integrations/aep.html)
+* [Användaradministration och -säkerhet](https://experienceleague.adobe.com/docs/experience-manager-65/administering/security/security.html)
+* [Admin Console - översikt](https://helpx.adobe.com/se/enterprise/using/admin-console.html)
+* [AEM Publish](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/caching/publish.html)
+
+**Avsnitt 3**
+
+* [Introduktion till AEM Screens](https://experienceleague.adobe.com/docs/experience-manager-screens/using/overview/introduction.html)
+* [Stärk din digitala upplevelse med AEM as a Cloud Service](https://blog.developer.adobe.com/empower-your-digital-experience-with-aem-as-a-cloud-service-683d39eb98e3)
+* [Introduktion till Adobe Experience Manager som headless CMS](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/introduction.html)
+* [Hantera produkter, hjälp och support från det att de skapas tills de levereras.](https://business.adobe.com/products/experience-manager/guides/aem-guides.html)
+* [Översikt över Experience Manager Assets Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html)
+* [Projektroller och ansvarsområden](https://experienceleague.adobe.com/docs/experience-manager-screens/using/overview/roles-responsibilities.html)
+* [Lägga till sidanteckningar](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/fundamentals/annotations.html)
+* [Snabbstartsguide till redigering av sidor](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/getting-started/quick-start.html)
+* [Använda uppkopplade resurser med AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/sharing/connected-assets.html)
+* [Planering](https://experienceleague.adobe.com/docs/experience-manager-64/developing/testing/planning.html#before-you-start)
+* [Definiera testfall](https://experienceleague.adobe.com/docs/experience-manager-64/developing/testing/test-cases.html)
+
+**Avsnitt 4**
+
+* [Launches](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/launches.html)
+* [Använda arbetsflödesredigeraren](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/workflow/use-the-workflow-editor.html)
+* [Resursadministratörssökspår](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/assets-admin-search-rail.html#:~:text=The%20Assets%20admin%20search%20rail,using%20custom%20criteria%20in%20Omnisearch.&amp;text=The%20asset%20set%20in%20Search,Rail%20configuration%20for%20AEM%20assets.)
+
+## Förnya din certifiering
+
+Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} först. Klicka på knappen nedan om du vill förnya certifieringen.
+
+[!BADGE Take the Adobe [!DNL Experience Manager]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E843 newtab=true"}
+
+>[!NOTE]
+>
+>Det här provet är kostnadsfritt, öppet och obearbetat. Du får ta tentamen upp till tre gånger. Om du inte lyckas efter det tredje försöket måste du vänta **30 dagar** för att försöka igen. Om du inte följer reglerna kan certifieringen återkallas.
+
++++Adobe [!DNL Experience Manager] Developer Professional
+
+## Du bör ha följande **aktiv** certifiering:
+
+* Adobe [!DNL Experience Manager] Developer Professional
+
+## Instruktioner för att förnya din certifiering:
+
+* **Steg 1**: Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}och sedan återgå till den här sidan
+* **Steg 2**: Granska testens mål och resurser
+* **Steg 3**: Ta och ta examen
+
+## Gör dig redo
+
+**Information om tentamen:**
+
+* Nivå: Professionell (0-12 månaders upplevelse)
 * Passing Score: 26/34
 * Tid: 68 minuter
 * Leverans: On-demand/icke-upphandling
@@ -57,21 +168,32 @@ Adobe Experience Manager Developer Professional
 
 **Avsnitt 1: Konfigurationer (26 %)**
 
-Identifiera syftet med konfigurationer för AEM och cachelagring Ange rätt steg för att konfigurera flera platser i AEM Förklara hur du skapar och hanterar OSGi-konfigurationer Ange rätt steg för att hantera anpassade OAK-index Ange rätt steg för att konfigurera OTB SAML- eller IMS-integrering
+* Identifiera syftet med AEM-konfigurationer och cachelagring
+* Identifiera rätt steg för att konfigurera flera platser i AEM
+* Förklara hur du skapar och hanterar OSGi-konfigurationer
+* Bestäm de rätta stegen för att hantera anpassade OAK-index
+* Kontrollera hur du konfigurerar integreringen mellan OTB SAML och IMS
 
 **Avsnitt 2: AEM (40 %)**
 
-Bestäm de rätta stegen för att implementera kärnbaserade komponenter i funktionen Connect-komponent, inklusive HTML, modeller och tjänster I ett scenario, fastställa de rätta stegen för att utveckla arbetsflöden I ett scenario, skissera syftet med innehållsfragment eller upplevelsefragment
+* Bestäm de rätta stegen för implementering av kärnbaserade komponenter
+* Koppla samman komponentfunktioner som HTML, modeller och tjänster
+* Om du utgår från ett scenario måste du fastställa rätt steg för att utveckla arbetsflöden
+* I ett scenario kan du beskriva syftet med innehållsfragment eller upplevelsefragment
 
 **Avsnitt 3: Byggnad och driftsättning (12 %)**
 
-Definiera Maven-projektstruktur Konfigurera projekt från arkivtyper
+* Definiera Maven-projektstruktur
+* Konfigurera projekt från arkivtyper
 
 **Avsnitt 4: Miljöunderhåll (22 %)**
 
-I ett scenario ska du fastställa vilka steg som krävs för att felsöka problem i AEM miljöer Förklara AEM underhållsreleaser Identifiera hur du konfigurerar AEM mellan topologier Ange vilka steg som krävs för planering och migrering till AEM as a Cloud Service
+* I ett scenario måste du fastställa vilka steg som krävs för att felsöka problem i AEM miljöer
+* Förklara AEM releaser
+* Identifiera hur du konfigurerar AEM mellan topologier
+* Bestäm stegen som krävs för planering och migrering till AEM as a Cloud Service
 
-### Förbered
+## Förbered
 
 Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
 
@@ -116,15 +238,17 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Komma igång med migreringsresan till AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started.html){target="_blank"}
 * [Använda Best Practice Analyzer](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/best-practices-analyzer/using-best-practices-analyzer.html){target="_blank"}
 
-### Förnya din certifiering
+## Förnya din certifiering
 
 Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} först. Klicka på knappen nedan om du vill förnya certifieringen.
 
-[!BADGE Take the Adobe [!DNL Experience Manager] Developer Professional AD5-E837]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E837 newtab=true&quot;}
+[!BADGE Take the Adobe [!DNL Experience Manager]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E837 newtab=true"}
 
 >[!NOTE]
 >
 >Det här provet är kostnadsfritt, öppet och obearbetat. Du får ta tentamen upp till tre gånger. Om du inte lyckas efter det tredje försöket måste du vänta **30 dagar** för att försöka igen. Om du inte följer reglerna kan certifieringen återkallas.
+
++++
 
 >[!TAB Expert och master]
 
@@ -160,7 +284,6 @@ Först väljer du **två kurser** för att slutföra och genomföra varje kursbe
 >Om du håller flera [!DNL Adobe Experience Manager] Expert- och Master-certifieringar, uppfyller förnyelsekraven för endast en certifiering och resten förnyas automatiskt.
 
 ## Kurser och kursbedömningar för Expert and Master:
-
 
 | Kurser för expert och master | Kursutvärdering |
 | ------- | ------- |
