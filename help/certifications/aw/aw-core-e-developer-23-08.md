@@ -6,9 +6,9 @@ role: Developer
 badge: label="Prov AD0-E907" type="neutral"
 mini-toc-levels: 1
 exl-id: dc74de79-c945-47a4-a13b-e027182919a5
-source-git-commit: d7fbe49828eebfab713b0ece434355543ce7f897
+source-git-commit: 65828a4b55f95eccede714c831790d56fc8c694f
 workflow-type: tm+mt
-source-wordcount: '1683'
+source-wordcount: '1656'
 ht-degree: 0%
 
 ---
@@ -16,10 +16,6 @@ ht-degree: 0%
 # Certifieringsresa för Adobe [!DNL Workfront] Core Developer Expert
 
 {{intro}}
-
->[!NOTE]
->
->Det här är den senaste Adobe [!DNL Workfront] Exempel på Core Developer Expert. Om du redan har börjat studera eller har schemalagt [äldre version](aw-core-e-developer.md)måste du slutföra den 6 november 2023.
 
 ## Provbeskrivning {#exam-description}
 
