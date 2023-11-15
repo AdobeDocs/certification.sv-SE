@@ -2,9 +2,9 @@
 user-guide-title: Certifiering i Adobe
 breadcrumb-title: Certifiering i Adobe
 user-guide-description: Läs mer om  [!DNL Experience Cloud] -certifiering på Adobe. Ta reda på vad du kan få ut av certifieringen.
-source-git-commit: 65828a4b55f95eccede714c831790d56fc8c694f
+source-git-commit: c6d68f61d64619341f7ccdfb4e887993ac2cfbc2
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '255'
 ht-degree: 29%
 
 ---
@@ -111,8 +111,7 @@ ht-degree: 29%
       + Expert {#ame-expert}
          + [Yrkesverksam](/help/certifications/ame/ame-e-business.md)
       + Master {#ame-master}
-         + [Arkitekt](/help/certifications/ame/ame-m-architect.md)
-         + [Arkitekt - NY](/help/certifications/ame/ame-m-architect-23-08.md)
+         + [Arkitekt](/help/certifications/ame/ame-m-architect-23-08.md)
       + [Förnyelse](/help/certifications/ame/ame-renew.md)
    + Adobe Real-Time CDP {#rtcdp}
       + [Real-Time CDP - översikt](/help/certifications/rtcdp/rtcdp-overview.md)
