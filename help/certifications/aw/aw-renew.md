@@ -6,9 +6,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: ac78ed0e7e27acd7c206d23fe5dda80ff0435208
+source-git-commit: 46fc51ee1e293ba63d09ad2fb39c0763ce9a45b0
 workflow-type: tm+mt
-source-wordcount: '3755'
+source-wordcount: '3753'
 ht-degree: 0%
 
 ---
@@ -148,12 +148,12 @@ Avsnitt 1: Intagning och planering (29 %)
 Avsnitt 2: Kör (59 %)
 
 * Skapa Workfront-godkännanden för enstaka användning och när ett godkännande ska användas. (Överväg projekt- och uppgiftsgodkännanden, godkännanden med flera sökvägar och godkännanden i flera steg.)
-* Om du utgår från ett scenario ska du identifiera den information som datumtyperna förmedlar till en projektledare. (Överväg planerade datum, faktiska datum, manuella datum, datum för genomförande, uppskattningsdatum)
+* Om du utgår från ett scenario ska du identifiera den information som datumtyperna förmedlar till en projektledare. (Överväg planerade datum, faktiska datum, datum för genomförande, beräknade datum)
 * Om du anger ett scenario ska du avgöra hur olika åtgärdsbegränsningar påverkar projekttidslinjen när de används. (Tänk på förståelsen för vad de olika uppgiftsbegränsningarna gör, i vetskap om vilka olika uppgiftsbegränsningar som finns och när de olika uppgiftsbegränsningarna ska användas)
 * Visa hur du hittar projektteam och hur du informerar dem om arbetstilldelningar, uppdateringar eller slutförande av arbetsobjekt i ett scenario. (Överväg meddelandetyper, projektteammeddelanden, fliken Personer, uppdateringar av projekt/uppgifter, när och varför du ska prenumerera på ett arbetsobjekt och hur du ändrar enskilda e-postmeddelanden)
 * Identifiera olika sätt att hantera ett projekt. (Överväg vattenfall, Agile, SCRUM och Kanban.)
 * Beskriv hur intressenter kan få den information de behöver i ett scenario. (Överväg att exportera rapporter, exportera filer, återkommande leveranser osv.)
-* I ett scenario ska du avgöra hur datumtyper och varaktigheter påverkar projektvillkoren. (Överväg planerad start, planerad start, datum för enskild implementering osv.)
+* I ett scenario ska du avgöra hur datumtyper och varaktigheter påverkar projektvillkoren. (Överväg planerad start, projicerad start, personens implementeringsdatum osv.)
 * I ett scenario ska du avgöra hur ändringar i anpassade statusvärden på system- eller gruppnivå ska implementeras eller ändras
 * Om du utgår från ett scenario, beskriv stegen för att skapa en rapport och fastställa vilken typ av rapport som behövs.
 * I ett scenario ska du avgöra när en utgåva ska användas i ett projekt.
