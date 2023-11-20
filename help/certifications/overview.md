@@ -4,7 +4,7 @@ description: Läs mer om  [!DNL Experience Cloud] -certifiering på Adobe. Ta re
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: a655a968f0a02df60600881d166cc49471d07b0b
+source-git-commit: 15435019e7b63e6aae44aee347559ecc939d10c1
 workflow-type: tm+mt
 source-wordcount: '402'
 ht-degree: 8%
@@ -49,7 +49,7 @@ Lås upp din yrkespotential idag genom att lära dig mer om Adobe Digital Experi
 All information om respektive produktcertifiering finns i innehållsförteckningen till vänster och i nedanstående lista:
 
 * [Adobe [!DNL Analytics]](/help/certifications/aa/aa-overview.md)
-* [Adobe [!DNL Advertising Cloud]](/help/certifications/aac/aac-overview.md)
+* [Adobe [!DNL Advertising]](/help/certifications/aac/aac-overview.md)
 * [Adobe [!DNL Audience Manager]](/help/certifications/aam/aam-overview.md)
 * [Adobe [!DNL Commerce]](/help/certifications/ac/ac-overview.md)
 * [Adobe [!DNL Campaign Classic]](/help/certifications/acc/acc-overview.md)
