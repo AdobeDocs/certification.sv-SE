@@ -6,9 +6,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: e54d11bb-d563-4779-ad42-b749be64611a
-source-git-commit: a568e3c5d837b5c92ebb4eefdde1f0504c41ab4d
+source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '375'
 ht-degree: 0%
 
 ---
@@ -41,6 +41,9 @@ De flesta certifieringar kan förnyas **kostnadsfritt**. Vissa certifieringar ha
 
 De certifieringar som finns under länkarna nedan kan förnyas kostnadsfritt, antingen genom fortlöpande inlärning eller genom att genomföra ett förnyelseprov på begäran. Om du inte hittar din certifiering här måste du förnya genom att göra om den fullständiga certifieringstexan.
 
+>[!NOTE]
+>
+>Om du vill dela länken till en förnyelseprov eller utvärdering med en kollega, ska du länka till den övergripande sidan för förnyelse av tentamen, inte URL:en för tentamen, för att undvika inloggningsproblem.
 
 * [Adobe [!DNL Analytics]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/aa/aa-renew.html){target="_blank"}
 * [Adobe [!DNL Audience Manager]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/aam/aam-renew.html){target="_blank"}

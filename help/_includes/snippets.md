@@ -1,5 +1,5 @@
 ---
-source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
+source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
 workflow-type: tm+mt
 source-wordcount: '1741'
 ht-degree: 0%
@@ -218,3 +218,5 @@ Ditt märke är ett bevis på din kompetens med Adobe Experience Cloud produkter
 ## Förnya din certifiering {#renewing-intro}
 
 Certifieringarna upphör att gälla efter två år. Om du vill behålla din certifiering måste du förnya den innan den upphör att gälla. Besök [Förnya din certifiering](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"} sida för mer information.
+
+<!--divider-->

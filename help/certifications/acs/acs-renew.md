@@ -7,9 +7,9 @@ role: User,Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 1a5882ab-a180-4c47-b3ce-c0ece57c5237
-source-git-commit: e5543c053af424ab0ca23068bbabe5eebccfb437
+source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
 workflow-type: tm+mt
-source-wordcount: '1404'
+source-wordcount: '1445'
 ht-degree: 11%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 11%
 
 Din Adobe-certifiering gäller i två år. Om du närmar dig den här tvåårsmärkningen är det dags att förnya din certifiering för att den ska förbli aktiv.
 
-Först väljer du lämplig nivå på fliken nedan (Professional, Expert eller Överordnad). Granska sedan noggrant vad du behöver göra för att förnya din certifiering.
+Välj först lämplig nivå på fliken nedan (Professional, Expert eller Master). Granska sedan noggrant vad du behöver göra för att förnya din certifiering.
 
 Se till att du hinner slutföra alla krav innan certifieringen upphör.
 
@@ -26,7 +26,11 @@ Observera att om din certifiering upphör att gälla måste du göra om certifie
 
 >[!IMPORTANT]
 >
->Följande avsnitt och länkar fungerar **endast** efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
+>**Logga in först:** Följande länkar fungerar **endast** efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
+>
+><br>
+>
+>**Så här delar du en länk:** Om du vill dela länken till en förnyelseprov eller utvärdering med en kollega, ska du länka till den övergripande sidan för förnyelse av tentamen, inte URL:en för tentamen, för att undvika inloggningsproblem.
 
 >[!BEGINTABS]
 
@@ -47,20 +51,20 @@ Du bör vara certifierad (inte utgånget) i:
 ## Instruktioner för att förnya din certifiering:
 
 * **Steg 1**: Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}och sedan återgå till den här sidan
-* **Steg 2**: Granska mål och resurser för tentamen
-* **Steg 3**: Ta och godkänn provet
+* **Steg 2**: Granska testens mål och resurser
+* **Steg 3**: Ta och ta examen
 
 ### Gör dig redo
 
 **Information om tentamen:**
 
-* Lösenpoäng: 23/30
+* Löpande poäng: 23/30
 * Tid: 110 min
-* Kostnad: KOSTNADSFRITT/icke-procentrerat
+* Kostnad: KOSTNADSFRITT/icke-upphandlat
 * Leverans: On-demand
-* Tillgängliga språk: Engelska
+* Tillgängliga språk: engelska
 * Krav: aktuell (inte utgången) Adobe [!DNL Campaign Standard] Certifiering av expert på affärsverksamhet
-* Exam-ID: AD5-E822
+* Exempel-ID: AD5-E822
 
 **Tillämpningsområde och mål**
 
@@ -74,9 +78,9 @@ Avsnitt 1: Kampanjhantering
 Avsnitt 2: Leveranshantering
 
 * Utforma och konfigurera leveransen enligt exempelkraven
-* Tillämpa bästa praxis när det gäller leveransdesign
+* Tillämpa bästa praxis vid leveransdesign
 
-Avsnitt 3: Arbetsflödesdesign och -körning
+Avsnitt 3: Utformning och genomförande av arbetsflöden
 
 * Hantera data för användning i en kampanj, konfigurera målinriktning, berikning
 * Identifiera mål: datainsamling, segmentering, målgrupper, listor, filtrering
@@ -102,7 +106,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 * [Adobe [!DNL Campaign Standard] Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=sv){target="_blank"} (bygga e-postinnehåll, förbereda och testa meddelanden, kommunikationskanaler - e-post, programinställningar)
 
-**Avsnitt 3: Arbetsflödesdesign och -körning**
+**Avsnitt 3: Utformning och genomförande av arbetsflöden**
 
 * [Adobe [!DNL Campaign Standard] Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=sv){target="_blank"} (hantera processer och data, hantera målgrupper, schemalägga meddelanden, lägga till eller utöka en resurs)
 
@@ -131,20 +135,20 @@ Du bör vara certifierad (inte utgånget) i:
 ## Instruktioner för att förnya din certifiering:
 
 * **Steg 1**: Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}och sedan återgå till den här sidan
-* **Steg 2**: Granska mål och resurser för tentamen
-* **Steg 3**: Ta och godkänn provet
+* **Steg 2**: Granska testens mål och resurser
+* **Steg 3**: Ta och ta examen
 
 ### Gör dig redo
 
 **Information om tentamen:**
 
-* Lösenpoäng: 23/30
+* Löpande poäng: 23/30
 * Tid: 60 min
-* Kostnad: KOSTNADSFRITT/icke-procentrerat
+* Kostnad: KOSTNADSFRITT/icke-upphandlat
 * Leverans: On-demand
-* Tillgängliga språk: Engelska
+* Tillgängliga språk: engelska
 * Krav: aktuell (inte utgången) Adobe [!DNL Campaign Standard] Certifiering av utvecklarexpert
-* Exam-ID: AD5-E821
+* Exempel-ID: AD5-E821
 
 **Tillämpningsområde och mål**
 
@@ -163,7 +167,7 @@ Avsnitt 2: Campaign Management (40 %)
 * Bestäm rätt metod för att konfigurera kommunikationskanaler (realtid och icke-realtid)
 * Beskriv processen för att konfigurera och anpassa en landningssida
 * I ett scenario felsöker du arbetsflödesfel och integreringar
-* Identifiera användningsexempel för nya Campaign-funktioner
+* Identifiera användningsexempel för nya kampanjfunktioner
 
 Avsnitt 3: Administration (30 %)
 
@@ -181,7 +185,7 @@ Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och 
 
 Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
-**Avsnitt 1: Datamodellering och -hantering**
+**Avsnitt 1: Datamodellering och datahantering**
 
 * [skapa en anpassad resurs,](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/creating-a-custom-resource.html){target="_blank"}
 * [Skapa eller utöka resursen](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/creating-or-extending-the-resource.html){target="_blank"}
@@ -232,7 +236,7 @@ Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för h
 
 >[!NOTE]
 >
->Det här provet är kostnadsfritt, öppet och icke-bearbetat. Du får ta tentamen upp till tre gånger. Om du inte lyckas efter det tredje försöket måste du vänta **30 dagar** för att försöka igen. Om du inte följer reglerna kan certifieringen återkallas.
+>Den här tentamen är kostnadsfri, öppen bok och icke-beställd. Du får ta tentamen upp till tre gånger. Om du inte lyckas efter det tredje försöket måste du vänta **30 dagar** för att försöka igen. Om du inte följer reglerna kan certifieringen återkallas.
 
 +++
 
