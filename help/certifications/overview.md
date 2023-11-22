@@ -4,7 +4,7 @@ description: Läs mer om  [!DNL Experience Cloud] -certifiering på Adobe. Ta re
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: 15435019e7b63e6aae44aee347559ecc939d10c1
+source-git-commit: 0c411dc840fd962875f2937aa84e522758527286
 workflow-type: tm+mt
 source-wordcount: '402'
 ht-degree: 8%
@@ -22,7 +22,6 @@ Adobe program för digital upplevelse har tagits fram för att hjälpa er att be
 Adobe [!DNL Experience Cloud] är en serie digitala marknadsföringslösningar som gör det möjligt för företag att leverera personaliserade kundupplevelser över flera kanaler, inklusive webben, mobiler, e-post och sociala medier. Adobe [!DNL Experience Cloud] innehåller ett antal produkter, t.ex. Adobe [!DNL Real-Time CDP], ADOBE [!DNL Experience Manager], ADOBE [!DNL Commerce], ADOBE [!DNL Journey Optimizer], ADOBE [!DNL Customer Analytics], med mera.
 
 Uppvisa din skicklighet och lyft din karriär till en högre nivå genom att bli Adobe-certifierad.
-
 
 ## Varför bli certifierad?
 
