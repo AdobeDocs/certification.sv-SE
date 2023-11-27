@@ -8,14 +8,18 @@ recommendations: disable, exclude
 badge: label="Prova AD0-E600 och AD7-E601" type="neutral"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-source-git-commit: 0dbc3cf707bc6274776c0580a927b07166179f60
+source-git-commit: 5a0bc9f9f59df83d1f430807962374acb3d231ab
 workflow-type: tm+mt
-source-wordcount: '1385'
+source-wordcount: '1601'
 ht-degree: 3%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Real-Time Customer Data Platform] Expert
+
+>[!IMPORTANT]
+>
+>Adobe [!DNL Experience Platform] Expertcertifieringen kräver för närvarande två prov: **Adobe [!DNL Experience Platform] Tekniska grunder (AD0-E600)** och **Adobe [!DNL Real-Time CDP] Teknisk handledare (AD7-E601)**. Från och med den 15 januari 2024 kommer en ny tentamen att startas och denna tentamen kommer endast att krävas för denna certifiering.
 
 {{intro}}
 
@@ -62,6 +66,14 @@ Du borde ha:
 <br>
 
 ## Krav 1: Information för Adobe [!DNL Experience Platform] Tekniska grunder (AD0-E600) {#req-1}
+
+>[!IMPORTANT]
+>
+>Schemaläggningen av provet AD0-E600 har skjutits upp. Den här tentamen håller på att uppdateras och kommer att släppas den **15 januari 2024**. Efter detta datum kräver certifieringen bara att en tentamen godkänns, i stället för de två tentamen som krävs för närvarande.
+>
+><br>
+>
+>**Om du redan har schemalagt prov AD0-E600** rekommenderar vi starkt att du avbryter din avtalade tid och omplanering när den nya tentamen släpps. Om du har frågor kontaktar du [Certifieringsstöd](mailto:certif@adobe.com){target="_blank"}.
 
 Provet AD0-E600 avser att verifiera färdigheter och kunskaper som omfattar grundläggande funktioner och uppgifter som utförs ofta i Adobe [!DNL Experience Platform] på expertnivå.
 
@@ -204,6 +216,18 @@ Provet AD0-E600 avser att verifiera färdigheter och kunskaper som omfattar grun
 <br>
 
 ## Krav 2: Information för Adobe [!DNL Real-Time CDP] Teknisk handledare (AD7-E601) {#req-2}
+
+>[!IMPORTANT]
+>
+>Den här tentamen håller på att uppdateras och kommer att släppas den **15 januari 2024**. Efter detta datum kräver certifieringen bara att en tentamen godkänns, i stället för de två tentamen som krävs för närvarande.
+>
+><br>
+>
+>**Om du inte har genomfört något av de prov som för närvarande krävs,** vi rekommenderar att du väntar på den uppdaterade tentamen. På så sätt kan du ta en tentamen istället för två.
+>
+><br>
+>
+>**Om du redan har godkänt AD0-E600 Adobe [!DNL Experience Platform] Teknisk grund - tentamen och har förberetts för provet AD7-E601** föreslår vi att du behåller din avtalade tid, eftersom du får utmärkelsen Adobe om du klarar provet AD7-E601 [!DNL Experience Platform] Expertcertifiering för tekniska grunder. Om du har frågor kontaktar du [Certifieringsstöd](mailto:certif@adobe.com){target="_blank"}.
 
 AD7-E601-provet handlar om att skapa, hantera och förstå kundprofiler, segmentering, destinationer mellan olika källor och andra ämnen. Provet avser den grundläggande kompetens och kunskap som behövs för att använda CDP i realtid för målgruppssegmentering, destinationsexport och aktivering i realtid för enhetliga profiler som följer data- och integritetslagstiftningen. Kandidaterna ska ha erfarenhet av CDP (Customer Data Platforms) och kunskaper om Adobe [!DNL Experience Platform].
 
