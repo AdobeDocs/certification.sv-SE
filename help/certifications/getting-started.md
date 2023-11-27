@@ -4,9 +4,9 @@ description: Kom igång med  [!DNL Experience Cloud] -certifieringar. Läs mer o
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
-source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
+source-git-commit: 9c08c3f3b8f9571c70118cb4d23de01b019a4162
 workflow-type: tm+mt
-source-wordcount: '732'
+source-wordcount: '814'
 ht-degree: 2%
 
 ---
@@ -14,6 +14,14 @@ ht-degree: 2%
 # Kom igång {#getting-started}
 
 Adobe är utformade för att validera kunskapen och kompetensen hos yrkesverksamma som arbetar med våra digitala marknadsföringslösningar. Använd följande flikar för att börja lära dig mer om certifieringsprogrammet.
+
+>[!TIP]
+>
+>**Vår årsförsäljning börjar på Cyber Monday!** Få 50 % rabatt på certifierings- och examinationsverifikationer från Adobe Digital Experience Credential Program, från 27 november till 31 december.
+><br>
+>Erbjudandet gäller endast vid köp via [Adobe Certification Voucher Center](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}. Använd kampanjkoden Holiday2023 i kassan.
+><br>
+>Erbjudandet gäller endast för den angivna tidsramen och gäller endast nya order och kan inte tillämpas på tidigare utplacerade inköp. Verifikationskoder är giltiga i ett år från inköpsdatumet.
 
 >[!BEGINTABS]
 

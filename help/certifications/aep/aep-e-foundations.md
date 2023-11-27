@@ -7,13 +7,13 @@ role: Developer
 badge: label="Prova AD0-E600 och AD7-E601" type="neutral"
 hidefromtoc: true
 mini-toc-levels: 1
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+exl-id: 5e15b6e5-a9c0-4927-89d8-4a43fbb0e863
+source-git-commit: 0dbc3cf707bc6274776c0580a927b07166179f60
 workflow-type: tm+mt
-source-wordcount: '1424'
+source-wordcount: '1318'
 ht-degree: 3%
 
 ---
-
 
 # Certifieringsresa för Adobe [!DNL Experience Platform] Expert
 
@@ -23,9 +23,7 @@ ht-degree: 3%
 
 {{exam-description}}
 
->[!IMPORTANT]
->
->Adobe [!DNL Experience Platform] Expertcertifieringen kräver för närvarande två prov: **Adobe [!DNL Experience Platform] Tekniska grunder (AD0-E600)** och **Adobe [!DNL Real-Time CDP] Teknisk handledare (AD7-E601)**. Från och med den 1 november 2023 kommer en ny tentamen att startas och denna tentamen kommer endast att krävas för denna certifiering.
+
 
 <br>
 
@@ -208,8 +206,6 @@ Provet AD0-E600 avser att verifiera färdigheter och kunskaper som omfattar grun
 <br>
 
 ## Krav 2: Information för Adobe [!DNL Real-Time CDP] Teknisk handledare (AD7-E601) {#req-2}
-
-AD7-E601-provet handlar om att skapa, hantera och förstå kundprofiler, segmentering, destinationer mellan olika källor och andra ämnen. Provet avser den grundläggande kompetens och kunskap som behövs för att använda CDP i realtid för målgruppssegmentering, destinationsexport och aktivering i realtid för enhetliga profiler som följer data- och integritetslagstiftningen. Kandidaterna ska ha erfarenhet av CDP (Customer Data Platforms) och kunskaper om Adobe [!DNL Experience Platform].
 
 <br>
 

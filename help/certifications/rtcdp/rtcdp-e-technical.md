@@ -8,9 +8,9 @@ recommendations: disable, exclude
 badge: label="Prova AD0-E600 och AD7-E601" type="neutral"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 0dbc3cf707bc6274776c0580a927b07166179f60
 workflow-type: tm+mt
-source-wordcount: '1404'
+source-wordcount: '1385'
 ht-degree: 3%
 
 ---
@@ -22,10 +22,6 @@ ht-degree: 3%
 ## Provbeskrivning {#exam-description}
 
 {{exam-description}}
-
->[!IMPORTANT]
->
->Adobe [!DNL Real-Time Customer Data Platform] Expertcertifiering kräver att man klarar två prov: **Adobe [!DNL Experience Platform] Tekniska grunder (AD0-E600)** och **Adobe [!DNL Real-Time CDP] Teknisk handledare (AD7-E601)**.
 
 <br>
 
