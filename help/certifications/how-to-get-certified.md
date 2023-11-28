@@ -4,7 +4,7 @@ description: Lär dig certifiera dig på Adobe. Hitta alla resurser ni behöver 
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 4de79881e1a06c70a2759b7397f87335cbe8a77c
+source-git-commit: f3c825b8306646b870970f767db9060435865815
 workflow-type: tm+mt
 source-wordcount: '1550'
 ht-degree: 1%
@@ -17,9 +17,7 @@ Lär dig certifiera dig på Adobe. Hitta alla resurser ni behöver före, under 
 
 >[!TIP]
 >
->**Vår årsförsäljning börjar på Cyber Monday!**<br>
->Få 50 % rabatt på certifierings- och examinationsverifikationer från Adobe Digital Experience Credential Program, från 27 november till 31 december. Erbjudandet gäller endast vid köp via [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe). Använd kampanjkod **Semester2023** i kassan.<br>
-><i>Erbjudandet gäller endast för den angivna tidsramen och gäller endast nya order och kan inte tillämpas på tidigare utplacerade inköp. Verifikationskoder är giltiga i ett år från inköpsdatumet.</i>
+>**Vår årsförsäljning börjar på Cyber Monday!** <br><br> Få 50 % rabatt på certifierings- och examinationsverifikationer från Adobe Digital Experience Credential Program, från 27 november till 31 december. Erbjudandet gäller endast vid köp via [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe). Använd kampanjkod **Semester2023** i kassan. <br><br> <i>Erbjudandet gäller endast för den angivna tidsramen och gäller endast nya order och kan inte tillämpas på tidigare utplacerade inköp. Verifikationskoder är giltiga i ett år från inköpsdatumet.</i>
 
 >[!BEGINTABS]
 
