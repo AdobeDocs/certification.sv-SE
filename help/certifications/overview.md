@@ -4,9 +4,9 @@ description: Läs mer om  [!DNL Experience Cloud] -certifiering på Adobe. Ta re
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: 0fb6103fcb33878235ca93a16fc5ddedb66442c5
+source-git-commit: 229674d0a8441d8e369b995449a8093bfa01657e
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '481'
 ht-degree: 7%
 
 ---
@@ -20,7 +20,10 @@ Läs mer om certifiering på Adobe och vad certifieringen kan göra för dig.
 >[!TIP]
 >
 >**Vår årsförsäljning börjar på Cyber Monday!**<br>
->Få 50 % rabatt på certifierings- och examinationsverifikationer från Adobe Digital Experience Credential Program, från 27 november till 31 december. Erbjudandet gäller endast vid köp via [Adobe Certification Voucher Center](https://experienceleague.adobe.com/docs/analytics/analyze/home.html). Använd kampanjkod **Semester2023** i kassan. <br><i>Erbjudandet gäller endast för den angivna tidsramen och gäller endast nya order och kan inte tillämpas på tidigare utplacerade inköp. Verifikationskoder är giltiga i ett år från inköpsdatumet.</i>
+><br>
+>Få 50 % rabatt på certifierings- och examinationsverifikationer från Adobe Digital Experience Credential Program, från 27 november till 31 december. Erbjudandet gäller endast vid köp via [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe). Använd kampanjkod **Semester2023** i kassan.<br>
+><br>
+><i>Erbjudandet gäller endast för den angivna tidsramen och gäller endast nya order och kan inte tillämpas på tidigare utplacerade inköp. Verifikationskoder är giltiga i ett år från inköpsdatumet.</i>
 
 Adobe program för digital upplevelse har tagits fram för att hjälpa er att bevisa att ni är skickliga i Adobe [!DNL Experience Cloud] produkter. Genom att bli Adobe Certified kan du visa upp din expertis och imponera på både kunder och arbetsgivare.
 
