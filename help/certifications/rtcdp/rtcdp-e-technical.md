@@ -8,9 +8,9 @@ recommendations: disable, exclude
 badge: label="Prova AD0-E600 och AD7-E601" type="neutral"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-source-git-commit: 5a0bc9f9f59df83d1f430807962374acb3d231ab
+source-git-commit: 20f5c9e848d9fdcbadfe02e9880d121a5b3ceba7
 workflow-type: tm+mt
-source-wordcount: '1601'
+source-wordcount: '1599'
 ht-degree: 3%
 
 ---
@@ -227,7 +227,7 @@ Provet AD0-E600 avser att verifiera färdigheter och kunskaper som omfattar grun
 >
 ><br>
 >
->**Om du redan har godkänt AD0-E600 Adobe [!DNL Experience Platform] Teknisk grund - tentamen och har förberetts för provet AD7-E601** föreslår vi att du behåller din avtalade tid, eftersom du får utmärkelsen Adobe om du klarar provet AD7-E601 [!DNL Experience Platform] Expertcertifiering för tekniska grunder. Om du har frågor kontaktar du [Certifieringsstöd](mailto:certif@adobe.com){target="_blank"}.
+>**Om du redan har godkänt AD0-E600 Adobe [!DNL Experience Platform] Teknisk grund - tentamen och har förberetts för provet AD7-E601** föreslår vi att du behåller din avtalade tid, eftersom du får utmärkelsen Adobe om du klarar provet AD7-E601 [!DNL Real-Time Customer Data Platform] Expertcertifiering. Om du har frågor kontaktar du [Certifieringsstöd](mailto:certif@adobe.com){target="_blank"}.
 
 AD7-E601-provet handlar om att skapa, hantera och förstå kundprofiler, segmentering, destinationer mellan olika källor och andra ämnen. Provet avser den grundläggande kompetens och kunskap som behövs för att använda CDP i realtid för målgruppssegmentering, destinationsexport och aktivering i realtid för enhetliga profiler som följer data- och integritetslagstiftningen. Kandidaterna ska ha erfarenhet av CDP (Customer Data Platforms) och kunskaper om Adobe [!DNL Experience Platform].
 
