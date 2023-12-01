@@ -8,10 +8,10 @@ recommendations: disable, exclude
 badge: label="Prova AD0-E600 och AD7-E601" type="neutral"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-source-git-commit: 20f5c9e848d9fdcbadfe02e9880d121a5b3ceba7
+source-git-commit: 7d13d115cb8de666444f96b9dc21a55e5124f6e3
 workflow-type: tm+mt
-source-wordcount: '1599'
-ht-degree: 3%
+source-wordcount: '1748'
+ht-degree: 2%
 
 ---
 
@@ -73,7 +73,7 @@ Du borde ha:
 >
 ><br>
 >
->**Om du redan har schemalagt prov AD0-E600** rekommenderar vi starkt att du avbryter din avtalade tid och omplanering när den nya tentamen släpps. Om du har frågor kontaktar du [Certifieringsstöd](mailto:certif@adobe.com){target="_blank"}.
+>**Om du redan har schemalagt prov AD0-E600** rekommenderar vi att du avbryter din avtalade tid i Visiity-portalen (se steg 3 nedan) och planerar om när den nya tentamen släpps. Om du har frågor kontaktar du [Certifieringsstöd](mailto:certif@adobe.com){target="_blank"}.
 
 Provet AD0-E600 avser att verifiera färdigheter och kunskaper som omfattar grundläggande funktioner och uppgifter som utförs ofta i Adobe [!DNL Experience Platform] på expertnivå.
 
@@ -176,6 +176,14 @@ Provet AD0-E600 avser att verifiera färdigheter och kunskaper som omfattar grun
 
 +++Steg 3: Schemalägg och betala för prov
 
+>[!IMPORTANT]
+>
+>Schemaläggningen av provet AD0-E600 har skjutits upp. Den här tentamen håller på att uppdateras och kommer att släppas den **15 januari 2024**. Efter detta datum kräver certifieringen bara att en tentamen godkänns, i stället för de två tentamen som krävs för närvarande.
+>
+><br>
+>
+>**Om du redan har schemalagt prov AD0-E600** rekommenderar vi starkt att du avbryter din avtalade tid i Visiity-portalen och att du schemalägger om när den nya tentamen släpps. Om du har frågor kontaktar du [Certifieringsstöd](mailto:certif@adobe.com){target="_blank"}.
+
 {{schedule-and-pay}}
 
 +++
@@ -195,6 +203,14 @@ Provet AD0-E600 avser att verifiera färdigheter och kunskaper som omfattar grun
 {{about-certification-exam}}
 
 ## Schemalägg eller ta prov AD0-E600
+
+>[!IMPORTANT]
+>
+>Schemaläggningen av provet AD0-E600 har skjutits upp. Den här tentamen håller på att uppdateras och kommer att släppas den **15 januari 2024**. Efter detta datum kräver certifieringen bara att en tentamen godkänns, i stället för de två tentamen som krävs för närvarande.
+>
+><br>
+>
+>**Om du redan har schemalagt prov AD0-E600** rekommenderar vi starkt att du avbryter din avtalade tid i Visiity-portalen och att du schemalägger om när den nya tentamen släpps. Om du har frågor kontaktar du [Certifieringsstöd](mailto:certif@adobe.com){target="_blank"}.
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E600" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
