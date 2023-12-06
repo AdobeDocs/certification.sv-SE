@@ -7,9 +7,9 @@ role: User
 badge: label="Prov AD0-E555" type="neutral"
 mini-toc-levels: 1
 exl-id: df1a2c71-5216-47d1-a971-5c07dd3e2d2a
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 6f85496f9e26cec2dac04f3ba9772ef6d7e185a7
 workflow-type: tm+mt
-source-wordcount: '862'
+source-wordcount: '682'
 ht-degree: 0%
 
 ---
@@ -184,7 +184,7 @@ Dessutom bör du känna till följande verktyg och tekniker:
 
 {{sample-questions}}
 
-[Visa exempelfrågor](https://scorpion.caveon.com/launchpad/ad0-e555-adobe-marketo-engage-professional-copy-nppnkv){target="_blank"}
+[Visa exempelfrågor](https://scorpion.caveon.com/launchpad/ad4-e555-adobe-marketo-engage-professional-practice-exam){target="_blank"}
 
 +++
 

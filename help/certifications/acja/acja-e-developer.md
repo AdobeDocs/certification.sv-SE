@@ -7,14 +7,14 @@ product: Customer Journey Analytics
 badge: label="tentamen AD0-E604" type="neutral"
 mini-toc-levels: 1
 exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 6f85496f9e26cec2dac04f3ba9772ef6d7e185a7
 workflow-type: tm+mt
-source-wordcount: '488'
-ht-degree: 1%
+source-wordcount: '431'
+ht-degree: 0%
 
 ---
 
-# Certifieringsresa för Adobe [!DNL Customer Journey Analytics] Expert
+# Certifieringsresa för Adobe [!DNL Customer Journey Analytics] Developer Expert
 
 {{intro}}
 
@@ -138,8 +138,8 @@ Du bör ha 12-24 månaders erfarenhet i Adobe [!DNL Customer Journey Analytics]o
 
 **Avsnitt 4: Rapportering och aktivering**
 
-* [Översikt över visualiseringar](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/freeform-analysis-visualizations.html){target="_blank"}
-* [Översikt över Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/home.html){target="_blank"}
+* [Visualiseringar - översikt](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/freeform-analysis-visualizations.html){target="_blank"}
+* [Analysis Workspace - översikt](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/home.html){target="_blank"}
 * [Översikt över datavyer](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html){target="_blank"}
 
 <br>
