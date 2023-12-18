@@ -7,10 +7,10 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
-source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
+source-git-commit: d8759508e4f618a8c66c91c9ebce0478f2bd5168
 workflow-type: tm+mt
-source-wordcount: '2139'
-ht-degree: 2%
+source-wordcount: '1862'
+ht-degree: 1%
 
 ---
 
@@ -133,8 +133,8 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 **Avsnitt 5**
 
-* [Användarhandbok om Analytics Export](https://experienceleague.adobe.com/docs/analytics/export/home.html){target="_blank"}
-* [Så fungerar behandlingsregler](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/c-processing-rules-configuration/processing-rules-about.html){target="_blank"}
+* [Exporthandbok för analyser](https://experienceleague.adobe.com/docs/analytics/export/home.html){target="_blank"}
+* [Hur bearbetningsregler fungerar](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/c-processing-rules-configuration/processing-rules-about.html){target="_blank"}
 * [Adobe Analytics API:er](https://adobedocs.github.io/analytics-2.0-apis/#/Reports){target="_blank"}
 
 **Avsnitt 6**
@@ -234,7 +234,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 **Avsnitt 1**
 
 * [Översikt över bidragsanalys](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html)
-* [Översikt över Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html)
+* [Analysis Workspace - översikt](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html)
 * [Konverteringstratt](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/funnels.html)
 * [Postdimensioner](https://experienceleague.adobe.com/docs/analytics/components/dimensions/entry-dimensions.html)
 
@@ -242,7 +242,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 * [Dela projekt](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html)
 * [Komponenter – översikt](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html)
-* [Alert Builder](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/alert-builder.html)
+* [Alert Builder](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-builder.html)
 * [Skapa ett mobilstyrkort](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/create-scorecard.html)
 
 **Avsnitt 3**

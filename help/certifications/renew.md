@@ -6,9 +6,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: e54d11bb-d563-4779-ad42-b749be64611a
-source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
+source-git-commit: 2b18ae63bce685f340fc7075519b7b61904f9056
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
@@ -52,6 +52,7 @@ De certifieringar som finns under länkarna nedan kan förnyas kostnadsfritt, an
 * [Adobe [!DNL Commerce]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/ac/ac-renew.html){target="_blank"}
 * [Adobe [!DNL Experience Manager]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/aem/aem-renew.html){target="_blank"}
 * [Adobe [!DNL Marketo Engage]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/ame/ame-renew.html){target="_blank"}
+* [Adobe [!DNL Real-Time CDP]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/rtcdp/rtcdp-renew.html){target="_blank"}
 * [Adobe [!DNL Target]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/at/at-renew.html){target="_blank"}
 * [Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/certification/program/technical-certifications/aw/aw-renew.html){target="_blank"}
 

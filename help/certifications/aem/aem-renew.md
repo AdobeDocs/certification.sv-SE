@@ -6,10 +6,10 @@ product: Experience Manager
 role: User,Developer,Data Architect
 hidefromtoc: true
 exl-id: e7f1d21d-8e4a-4cbf-b1e5-379c194e0073
-source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
+source-git-commit: 0ed57ea2810ffabed39e9bfd9612b3df43c4cea4
 workflow-type: tm+mt
-source-wordcount: '2107'
-ht-degree: 2%
+source-wordcount: '2111'
+ht-degree: 0%
 
 ---
 
@@ -97,9 +97,9 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 **Avsnitt 1**
 
 * [Skapa innehållsfragment](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-feature-video-use.html){target="_blank"}
-* [Om Adobe Experience Manager Assets som en DAM-lösning](https://experienceleague.adobe.com/docs/experience-manager-65/assets/assets.html){target="_blank"}
+* [Om Adobe Experience Manager Assets som DAM-lösning](https://experienceleague.adobe.com/docs/experience-manager-65/assets/assets.html){target="_blank"}
 * [Format som stöds i Adobe Experience Manager Assets](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/assets-formats.html#:~:text=Not%20applicable-,Supported%20raster%20image%20formats%20in%20Experience%20Manager,-The%20supported%20raster){target="_blank"}
-* [Översikt](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/content-transformer/overview.html){target="_blank"}
+* [Ökning](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/content-transformer/overview.html){target="_blank"}
 * [Introduktion till AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-65/forms/getting-started/introduction-aem-forms.html){target="_blank"}
 * [Tagga sidor](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/page-tagging-feature-video-use.html){target="_blank"}
 
@@ -123,14 +123,14 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Översikt över Experience Manager Assets Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html){target="_blank"}
 * [Projektroller och ansvarsområden](https://experienceleague.adobe.com/docs/experience-manager-screens/using/overview/roles-responsibilities.html){target="_blank"}
 * [Lägga till sidanteckningar](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/fundamentals/annotations.html){target="_blank"}
-* [Snabbstartsguide till redigering av sidor](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/getting-started/quick-start.html){target="_blank"}
+* [Snabbstartsguide till framtagning av sidor](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/getting-started/quick-start.html){target="_blank"}
 * [Använda uppkopplade resurser med AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/sharing/connected-assets.html){target="_blank"}
 * [Planering](https://experienceleague.adobe.com/docs/experience-manager-64/developing/testing/planning.html#before-you-start){target="_blank"}
 * [Definiera testfall](https://experienceleague.adobe.com/docs/experience-manager-64/developing/testing/test-cases.html){target="_blank"}
 
 **Avsnitt 4**
 
-* [Launches](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/launches.html){target="_blank"}
+* [Startar](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/launches.html){target="_blank"}
 * [Använda arbetsflödesredigeraren](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/workflow/use-the-workflow-editor.html){target="_blank"}
 * [Resursadministratörssökspår](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/assets-admin-search-rail.html#:~:text=The%20Assets%20admin%20search%20rail,using%20custom%20criteria%20in%20Omnisearch.&amp;text=The%20asset%20set%20in%20Search,Rail%20configuration%20for%20AEM%20assets.){target="_blank"}
 
@@ -146,11 +146,11 @@ Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för h
 
 +++
 
-+++Adobe [!DNL Experience Manager] Developer Professional
++++Adobe [!DNL Experience Manager] Webbplatsutvecklare
 
 ## Du bör ha följande **aktiv** certifiering:
 
-* Adobe [!DNL Experience Manager] Developer Professional
+* Adobe [!DNL Experience Manager] Webbplatsutvecklare
 
 ## Instruktioner för att förnya din certifiering:
 
@@ -172,7 +172,7 @@ Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för h
 
 **Tillämpningsområde och mål:**
 
-**Avsnitt 1: Konfigurationer (26 %)**
+Avsnitt 1: Konfigurationer (26 %)
 
 * Identifiera syftet med AEM-konfigurationer och cachelagring
 * Identifiera rätt steg för att konfigurera flera platser i AEM
@@ -180,19 +180,19 @@ Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för h
 * Bestäm de rätta stegen för att hantera anpassade OAK-index
 * Kontrollera hur du konfigurerar integreringen mellan OTB SAML och IMS
 
-**Avsnitt 2: AEM (40 %)**
+Avsnitt 2: AEM (40 %)
 
 * Bestäm de rätta stegen för implementering av kärnbaserade komponenter
 * Koppla samman komponentfunktioner som HTML, modeller och tjänster
 * Om du utgår från ett scenario måste du fastställa rätt steg för att utveckla arbetsflöden
 * I ett scenario kan du beskriva syftet med innehållsfragment eller upplevelsefragment
 
-**Avsnitt 3: Byggnad och driftsättning (12 %)**
+Avsnitt 3: Byggnad och driftsättning (12 %)
 
 * Definiera Maven-projektstruktur
 * Konfigurera projekt från arkivtyper
 
-**Avsnitt 4: Miljöunderhåll (22 %)**
+Avsnitt 4: Miljöunderhåll (22 %)
 
 * I ett scenario måste du fastställa vilka steg som krävs för att felsöka problem i AEM miljöer
 * Förklara AEM releaser
@@ -226,14 +226,14 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [HTML-specifikationen](https://experienceleague.adobe.com/docs/experience-manager-htl/content/specification.html){target="_blank"}
 * [Utveckla och utöka arbetsflöden](https://experienceleague.adobe.com/docs/experience-manager-65/developing/extending-aem/extending-workflows/workflows.html){target="_blank"}
 * [Modeller för innehållsfragment](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-models.html){target="_blank"}
-* [Experience Fragments](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/authoring/experience-fragments.html){target="_blank"}
+* [Upplevelsefragment](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/authoring/experience-fragments.html){target="_blank"}
 * [AEM GraphQL API för användning med innehållsfragment](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/graphql-api/content-fragments.html){target="_blank"}
 
 **Avsnitt 3**
 
-* [AEM-projektstruktur](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html){target="_blank"}
+* [AEM projektstruktur](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html){target="_blank"}
 * [Arbetsytefilter](https://jackrabbit.apache.org/filevault/filter.html){target="_blank"}
-* [AEM-projektarketyp](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/using.html){target="_blank"}
+* [AEM Project Archettype](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/using.html){target="_blank"}
 
 **Avsnitt 4**
 
@@ -249,6 +249,114 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} först. Klicka på knappen nedan om du vill förnya certifieringen.
 
 [!BADGE Take the Adobe [!DNL Experience Manager]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E837 newtab=true"}
+
+>[!NOTE]
+>
+>Det här provet är kostnadsfritt, öppet och obearbetat. Du får ta tentamen upp till tre gånger. Om du inte lyckas efter det tredje försöket måste du vänta **30 dagar** för att försöka igen. Om du inte följer reglerna kan certifieringen återkallas.
+
++++
+
++++Adobe [!DNL Experience Manager] Assets Developer Professional
+
+## Du bör ha följande **aktiv** certifiering:
+
+* Adobe [!DNL Experience Manager] Assets Developer Professional
+
+## Instruktioner för att förnya din certifiering:
+
+* **Steg 1**: Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}och sedan återgå till den här sidan
+* **Steg 2**: Granska testens mål och resurser
+* **Steg 3**: Ta och ta examen
+
+## Gör dig redo
+
+**Information om tentamen:**
+
+* Nivå: Professionell (0-12 månaders upplevelse)
+* Passing Score: 26/34
+* Tid: 68 minuter
+* Leverans: On-demand/icke-upphandling
+* Tillgängliga språk: engelska
+* Kostnad: KOSTNADSFRITT
+* Exam ID: AD5-E850 Adobe [!DNL Experience Manager] Assets Developer Professional
+
+**Tillämpningsområde och mål:**
+
+Avsnitt 1: Resursarbetsflöden 25,44 %
+
+* Förklara processen att anpassa OOBT-arbetsflöden
+* Identifiera när man ska skapa eller anpassa resursarbetsflöden för att uppfylla kundernas behov
+* Beskriv syftet med arbetsflödesstarter och hur du konfigurerar dem
+* Differentiera mellan moln och lokala arbetsflöden
+* Beskriv hur du använder arbetsflödeskonsolen för att övervaka status och förlopp
+
+Avsnitt 2: Resursorganisation och Resurskonsol 24,46 %
+
+* Uppvisa hur du skapar och organiserar resurser i samlingar
+* Uppvisa hur du organiserar resurser med hjälp av taggar
+* Identifiera hur du använder OOTB-sökfilter och -aspekter
+* Beskriv hur du konfigurerar och genererar AEM
+* Beskriv hur du hanterar användarbehörigheter i resursmappar
+
+Avsnitt 3: Tillgångsmetadata 22,61 %
+
+* Definiera metadatascheman
+* Bestäm hur du justerar ett lämpligt metadataram utifrån ett scenario
+* I ett scenario avgör du hur metadataprofiler kan användas för att uppfylla kraven
+* Förstå hur Cascading Metadata Schemas fungerar
+
+Avsnitt 4: Tillgångstyper 16,21 %
+
+* Beskriv vilka OOTB-funktioner som är tillgängliga för tillgångstyper
+* Förklara innehållsfragment och modeller för innehållsfragment
+* Uppvisa hur och när innehållsfragmentvariationer ska användas
+
+Avsnitt 5: Tillgångsfunktioner och -funktioner
+
+* Beskriv vanliga användningsområden och fördelarna med att använda Brand Portal
+* Beskriv vanliga användningsområden och fördelarna med att använda Dynamic Media
+* Beskriv alternativ för att utnyttja AEM med Creative Cloud
+
+## Förbered
+
+Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
+
+Här följer några förslag på resurser som hjälper dig att förbereda dig:
+
+**Avsnitt 1**
+
+* [Platser - arbetsflödesmodeller](https://experienceleague.adobe.com/docs/experience-manager-64/developing/extending-aem/extending-workflows/workflows-best-practices.html#locations){target="_blank"}
+* [Referens för arbetsflödesprocess](https://experienceleague.adobe.com/docs/experience-manager-65/developing/extending-aem/extending-workflows/workflows-process-ref.html){target="_blank"}
+* [Administrera arbetsflödesinstanser](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/workflows-administering.html){target="_blank"}
+
+**Avsnitt 2**
+
+* [Sparade sökningar](https://experienceleague.adobe.com/docs/experience-manager-64/assets/managing/managing-collections-touch-ui.html#saved-searches){target="_blank"}
+* [Aktivera smart taggning i arbetsflödet DAM-uppdatering (valfritt)](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/config-smart-tagging.html#enable-smart-tagging-in-the-update-asset-workflow-optional){target="_blank"}
+* [Lägg till ett predikat](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/search-facets.html#adding-a-predicate){target="_blank"}
+* [Resursrapporter](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/asset-reports.html){target="_blank"}
+
+**Avsnitt 3**
+
+* [Förstå metadatabegrepp](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-concepts.html){target="_blank"}
+* [Redigera metadatamappningsformulär](https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/metadata-schemas.html#editing-metadata-schema-forms){target="_blank"}
+* [Metadataprofiler](https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/metadata-profiles.html#:~:text=Add%20a%20metadata%20profile.%20Tryck på%20eller%20klicka%20the och%20configure%20its%20properties%20in%20the%20Settings%20tab.){target="_blank"}
+* [Överlappande metadata](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-schemas.html#cascading-metadata){target="_blank"}
+
+**Avsnitt 4**
+
+* [Format som stöds i Adobe Experience Manager Assets](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/assets-formats.html){target="_blank"}
+
+**Avsnitt 5**
+
+* [Översikt över Experience Manager Assets Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html){target="_blank"}
+* [Använda Smart Crop med AEM Assets Dynamic Media](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/smart-crop-feature-video-use.html){target="_blank"}
+
+## Förnya din certifiering
+
+Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} först. Klicka på knappen nedan om du vill förnya certifieringen.
+
+[!BADGE Take the Adobe [!DNL Experience Manager]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E850 newtab=true"}
 
 >[!NOTE]
 >
@@ -298,7 +406,7 @@ Först väljer du **två kurser** för att slutföra och genomföra varje kursbe
 | [Introduktion till Adobe [!DNL Experience Manager as a Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html){target="_blank"} | [ADR-EA103](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA103){target="_blank"} |
 | [Headless content management med GraphQL API:er](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2020-1-headless.html){target="_blank"} | [ADR-EA104](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA104){target="_blank"} |
 | [Anpassa upplevelser med Adobe [!DNL Experience Manager] och [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2020-1-personalization.html){target="_blank"} | [ADR-EA105](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA105){target="_blank"} |
-| [ [!DNL Experience Manager Forms Cloud Service] Integrera med [!DNL Salesforce]](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-formscs-salesforce.html){target="_blank"} | [ADR-EA106](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA106){target="_blank"} |
+| [Integrera [!DNL Experience Manager Forms Cloud Service] med [!DNL Salesforce]](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-formscs-salesforce.html){target="_blank"} | [ADR-EA106](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA106){target="_blank"} |
 | [Adobe [!DNL Experience Manager Cloud Manager] Kunskapsbyggaren](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-u-1-2019-1-cloudmgr-builder.html){target="_blank"} | [ADR-EA107](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA107){target="_blank"} |
 | [Adobe [!DNL Experience Manager Sites] för arkitekter](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2019-1-architect.html){target="_blank"} | [ADR-EA108](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA108){target="_blank"} |
 

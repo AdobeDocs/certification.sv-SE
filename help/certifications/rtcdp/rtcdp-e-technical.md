@@ -8,10 +8,10 @@ recommendations: disable, exclude
 badge: label="Prova AD0-E600 och AD7-E601" type="neutral"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-source-git-commit: 7d13d115cb8de666444f96b9dc21a55e5124f6e3
+source-git-commit: dfbd769d7fabb91f4f3e019d1a5c7c81cb6d120d
 workflow-type: tm+mt
-source-wordcount: '1748'
-ht-degree: 2%
+source-wordcount: '1464'
+ht-degree: 0%
 
 ---
 
@@ -150,19 +150,19 @@ Provet AD0-E600 avser att verifiera färdigheter och kunskaper som omfattar grun
 
 **Avsnitt 2: Inmatning av data**
 
-* [Datainmatning](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html){target="_blank"}
+* [Inmatning av data](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html){target="_blank"}
 
 **Avsnitt 3: Enhetliga profiler**
 
 * [Identitets- och identitetsdiagram](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/understanding-identity-and-identity-graphs.html){target="_blank"}
 * [Mappa identiteter](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/map-identities.html){target="_blank"}
-* [Märka, mata in och verifiera identitetsdata](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/label-ingest-and-verify-identity-data.html){target="_blank"}
+* [Etikett, ingest och verifiera identitetsdata](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/label-ingest-and-verify-identity-data.html){target="_blank"}
 * [Skapa en datauppsättning för att exportera ett målgruppssegment](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/create-dataset-export-segment.html){target="_blank"}
 * [Skapa maskininlärda segment med kundprofil i realtid](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-science-workspace/dsw-profile-segmentation.html){target="_blank"}
 
 **Avsnitt 4: Aktivering**
 
-* [Översikt över mål](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.htmll?lang=sv){target="_blank"}
+* [Översikt över destinationer](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.htmll?lang=sv){target="_blank"}
 
 <br>
 
@@ -322,7 +322,6 @@ Avsnitt 3: Destinationer (27 %)
 * [Komma igång med Real-Time CDP](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/get-started.html){target="_blank"}
 * [Real-time Customer Data Platform hemsida och kontrollpaneler](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/home-page-dashboards.html){target="_blank"}
 * [Övervaka dataflöden för mål i användargränssnittet](https://experienceleague.adobe.com/docs/experience-platform/dataflows/ui/monitor-destinations.html){target="_blank"}
-* [Skapa och aktivera segment i Adobe [!DNL Experience Platform]](https://learning.adobe.com/catalog/adobe_experienceplatform/cours000000000097681.html){target="_blank"}
 * [Sekretessöversikt](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/privacy-overview.html){target="_blank"}
 * [Datastyrning i realtid CDP](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/data-governance-overview.html){target="_blank"}
 * [Använd ramverk för datastyrning](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/apply-data-governance-framework.html){target="_blank"}
@@ -349,7 +348,6 @@ Avsnitt 3: Destinationer (27 %)
 * [Skapa segment med flera ingångar](https://video.tv.adobe.com/v/32179/){target="_blank"}
 * [Skapa segment med B2B-data](https://video.tv.adobe.com/v/338252/){target="_blank"}
 * [Demo av direktuppspelningssegmentering](https://video.tv.adobe.com/v/36184){target="_blank"}
-* [Skapa och aktivera segment i Adobe [!DNL Experience Platform]](https://learning.adobe.com/catalog/adobe_experienceplatform/cours000000000097681.html){target="_blank"}
 * [Utvärdera ett segment](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/evaluate-a-segment.html){target="_blank"}
 
 **Avsnitt 3: Destinationer**
