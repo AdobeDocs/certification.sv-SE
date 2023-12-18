@@ -1,7 +1,7 @@
 ---
-source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
+source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
 workflow-type: tm+mt
-source-wordcount: '1741'
+source-wordcount: '1746'
 ht-degree: 0%
 
 ---
@@ -138,8 +138,8 @@ Det finns massrabatter:
 | Kvantitet | Rabatt |
 |---|---|
 | 10-24 | 20% |
-| 25-49 | 25% |
-| 50+ | 33% |
+| 25-49 | 25 % |
+| 50+ | 33 % |
 
 Partnerrabatter: Bronze level Partners och högre får rabatter på alla Adobe-certifieringstester och -klasser. Du kan läsa mer om dessa rabatter och hur du får tillgång till partnerförmåner på Solution Partner Portal.
 
@@ -220,3 +220,9 @@ Ditt märke är ett bevis på din kompetens med Adobe Experience Cloud produkter
 Certifieringarna upphör att gälla efter två år. Om du vill behålla din certifiering måste du förnya den innan den upphör att gälla. Besök [Förnya din certifiering](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"} sida för mer information.
 
 <!--divider-->
+
+## Information om japansk tentamen {#Japanese-exam-details}
+
+Schemalägg din tentamen mellan söndag - torsdag kl. 17.00 - kl. 23.00 ET för att försäkra oss om att vi kan tilldela en japanspråksleverantör. Om du schemalägger utanför dessa timmar kan vi inte garantera en japansk uppspelare.
+
+[Japanska instruktioner för schemaläggning](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)

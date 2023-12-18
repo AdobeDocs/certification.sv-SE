@@ -7,10 +7,10 @@ role: User
 badge: label="Prov AD0-E406" type="neutral"
 mini-toc-levels: 1
 exl-id: e907929f-b4a4-45e1-ba2d-f407f46d41c6
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
 workflow-type: tm+mt
-source-wordcount: '1104'
-ht-degree: 1%
+source-wordcount: '948'
+ht-degree: 0%
 
 ---
 
@@ -82,7 +82,7 @@ Teknik:
 * Baskunskaper om cookies-beteende
 * Hur man läser en referens för lösningsdesign
 
-Miljöer:
+Miljö:
 
 * Stationär dator/webbplats, inklusive stationära datorer och mobila enheter
 * Mobilapp (grundläggande förståelse) / Användning av Target för mobila enheter
@@ -240,14 +240,14 @@ Miljöer:
 
 ## Schemalägg eller ta prov AD0-E406-J (japanska)
 
+{{Japanese-exam-details}}
+
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E406-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    Gå till Visiity Portal - japanskt prov
 </span>
 </a>
-
-[Japanska instruktioner för schemaläggning](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
 +++
 

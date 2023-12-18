@@ -3,7 +3,7 @@ title: Workfront Certification Overview
 description: Översikt över certifieringsalternativ för Adobe Workfront
 solution: Workfront
 exl-id: 3ab8bdd7-768e-42ab-802a-7107ea56cdfd
-source-git-commit: 3a2a8f633e9ab00afa1423dccbd60830036325d7
+source-git-commit: 922961fcab8c3cf6745d3239d112625d717b1b82
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 7%
@@ -20,7 +20,7 @@ Den aktuella versionen är: [Adobe Marketo Engage (AD0-E905)](/help/certificatio
 
 Om du redan har schemalagt eller börjat studera för aktuell tentamen, se till att du schemalägger och slutför tentamen **före 26 februari 2024**.
 
-Om du just har börjat med din certifiering rekommenderar vi att du använder **NYHET** version av tentamen: [Adobe Marketo Engage (AD0-E908)](help/certifications/aw/aw-core-p-developer-23-12.md)
+Om du just har börjat med din certifiering rekommenderar vi att du använder **NYHET** version av tentamen: [Adobe Marketo Engage (AD0-E908)](/help/certifications/aw/aw-core-p-developer-23-12.md)
 
 ## Alla tillgängliga tentamen för Adobe [!DNL Workfront]
 
@@ -29,7 +29,7 @@ Om du just har börjat med din certifiering rekommenderar vi att du använder **
 * [Developer (Fusion)](/help/certifications/aw/aw-fusion-p-developer.md) <!--AD0-E902-->
 * [Projektledare](/help/certifications/aw/aw-p-project-manager.md) <!--AD0-E903-->
 * [Utvecklare (Core) - gäller till 26 februari 2024](/help/certifications/aw/aw-core-p-developer.md) <!--AD0-E905-->
-* [Developer (Core) - NEW](help/certifications/aw/aw-core-p-developer-23-12.md) <!--AD0-E908-->
+* [Developer (Core) - NEW](/help/certifications/aw/aw-core-p-developer-23-12.md) <!--AD0-E908-->
 
 **Expert**
 

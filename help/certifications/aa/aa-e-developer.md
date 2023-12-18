@@ -8,10 +8,10 @@ level: Experienced
 badge: label="tentamen AD0-E209" type="neutral"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
 workflow-type: tm+mt
-source-wordcount: '809'
-ht-degree: 3%
+source-wordcount: '707'
+ht-degree: 0%
 
 ---
 
@@ -53,7 +53,7 @@ Eftersom Analytics Developer sällan implementerar taggarna på sidan implemente
 
 Du bör känna till följande verktyg och miljöer:
 
-Verktyg:
+Systemutvärdering:
 
 * Adobe Experience Platform Launch (Adobe Launch)
 * Felsökningsverktyg som är relevanta för [!DNL Adobe Analytics] (Packet monitor som Adobe Debugger, verktyg för webbläsare, Charles)
@@ -61,13 +61,13 @@ Verktyg:
 * Grundläggande arbetsytekunskap
 * Webbutvecklingsverktyg, kodredigerare och felsökningsverktyg för mobiler
 * Adobe Auditor
-* Behandlingsregler
+* Bearbetar regler
 * Klassificeringsregler - Regex-baserade klassificeringsregler
 * JavaScript-fel
 * Grundläggande förståelse för tillgängliga [!DNL Adobe Analytics] relaterade API:er
 * Integrering med Adobe I/O
 
-Miljöer:
+Miljö:
 
 * Framtidsmiljöer för webbutveckling
 * Kunskap om mobilapplikationer (begränsningar och skillnader, till exempel varför det är annorlunda än webben)
@@ -150,7 +150,7 @@ Miljöer:
 **Avsnitt 1: Analysförståelse i Adobe Experience Cloud ekosystem**
 
 * [Analytics Tech Notes](https://experienceleague.adobe.com/docs/analytics/technotes/home.html){target="_blank"}
-* [Ställa ID:n för Analytics och Experience Cloud](https://experienceleague.adobe.com/docs/id-service/using/reference/analytics-reference/analytics-ids.html){target="_blank"}
+* [Ställa in analyser och Experience Cloud-ID](https://experienceleague.adobe.com/docs/id-service/using/reference/analytics-reference/analytics-ids.html){target="_blank"}
 * [Analysvideor och självstudiekurser](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html){target="_blank"}
 
 **Avsnitt 2: Strategi och design baserad på en referens för lösningsdesign (SDR)**
@@ -160,7 +160,7 @@ Miljöer:
 
 **Avsnitt 3: Implementering och konfiguration av analyser**
 
-* [Implementering [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
+* [Implementera [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
 * [Förstå och skapa rapportsviter](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html){target="_blank"}
 * [Konfigurera länkspårning för [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/adobeanalytics-link.html){target="_blank"}
 
@@ -168,18 +168,18 @@ Miljöer:
 
 * [Tag Management](https://business.adobe.com/products/analytics/tag-management.html){target="_blank"}
 * [Översikt över taggar](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=sv){target="_blank"}
-* [Översikt](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html){target="_blank"}
+* [Ökning](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html){target="_blank"}
 
 **Avsnitt 5: Mobiltjänster**
 
-* [Implementera Analytics för mobila enheter](https://experienceleague.adobe.com/docs/analytics/implementation/mobile-device-sdk.html){target="_blank"}
+* [Implementera analyser för mobila enheter](https://experienceleague.adobe.com/docs/analytics/implementation/mobile-device-sdk.html){target="_blank"}
 * [Migrera bearbetningsregler för mobila tjänster till [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/technotes/migrate-mobile.html){target="_blank"}
 
 **Avsnitt 6: Testning, validering och felsökning**
 
 * [Adobe Experience Platform Debugger - översikt](https://experienceleague.adobe.com/docs/experience-platform/debugger/home.html){target="_blank"}
 * [Aktivera, felsöka och anpassa [!DNL Adobe Analytics] Activity Map](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/activity-map/enabling-debugging-and-customizing-the-activity-map.html){target="_blank"}
-* [Optimera prestanda för Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html){target="_blank"}
+* [Optimera Analysis Workspace prestanda](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html){target="_blank"}
 
 <br>
 
@@ -222,14 +222,14 @@ Miljöer:
 
 ## Schemalägg eller ta prov AD0-E209-J (japanska)
 
+{{Japanese-exam-details}}
+
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E209-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    Gå till Visiity Portal - japanskt prov
 </span>
 </a>
-
-[Japanska instruktioner för schemaläggning](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
 +++
 
