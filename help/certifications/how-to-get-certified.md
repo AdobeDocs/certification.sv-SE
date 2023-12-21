@@ -4,7 +4,7 @@ description: Lär dig certifiera dig på Adobe. Hitta alla resurser ni behöver 
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 10642ce2dc9028b6bea2ae194ace8518cff11394
+source-git-commit: fa645594bc1c3996182282abfede63267de5d238
 workflow-type: tm+mt
 source-wordcount: '1503'
 ht-degree: 0%
@@ -20,8 +20,13 @@ Lär dig certifiera dig på Adobe. Hitta alla resurser ni behöver före, under 
 >Adobe stängs från 22 december 2023 till 1 januari 2024. Förvänta dig en fördröjning på begäran om stöd under den här perioden. Vi uppskattar ditt tålamod.
 
 >[!BEGINSHADEBOX]
->
->**50 % rabatt på kupongförsäljning!** <br><br> Få 50 % rabatt på certifierings- och examinationsverifikationer från Adobe Digital Experience Credential Program, från 27 november till 31 december. Erbjudandet gäller endast vid köp via [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe). Använd kampanjkod **Semester2023** i kassan. <br><br> <i>Erbjudandet gäller endast för den angivna tidsramen och gäller endast nya order och kan inte tillämpas på tidigare utplacerade inköp. Verifikationskoder är giltiga i ett år från inköpsdatumet.</i>
+
+**50 % rabatt på kupongförsäljning!**
+
+Få 50 % rabatt på certifierings- och examinationsverifikationer från Adobe Digital Experience Credential Program, från 27 november till 31 december. Erbjudandet gäller endast vid köp via [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe). Använd kampanjkod **Semester2023** i kassan.
+
+<i>Erbjudandet gäller endast för den angivna tidsramen och gäller endast nya order och kan inte tillämpas på tidigare utplacerade inköp. Verifikationskoder är giltiga i ett år från inköpsdatumet.</i>
+
 >[!ENDSHADEBOX]
 
 >[!BEGINTABS]

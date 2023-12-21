@@ -4,7 +4,7 @@ description: Läs mer om [!DNL Experience Cloud] Certifiering på Adobe. Ta reda
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: 10642ce2dc9028b6bea2ae194ace8518cff11394
+source-git-commit: fa645594bc1c3996182282abfede63267de5d238
 workflow-type: tm+mt
 source-wordcount: '498'
 ht-degree: 5%
@@ -22,8 +22,13 @@ Läs mer om certifiering på Adobe och vad certifieringen kan göra för dig.
 >Adobe stängs från 22 december 2023 till 1 januari 2024. Förvänta dig en fördröjning på begäran om stöd under den här perioden. Vi uppskattar ditt tålamod.
 
 >[!BEGINSHADEBOX]
->
->**50 % rabatt på kupongförsäljning!** <br><br> Få 50 % rabatt på certifierings- och examinationsverifikationer från Adobe Digital Experience Credential Program, från 27 november till 31 december. Erbjudandet gäller endast vid köp via [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe). Använd kampanjkod **Semester2023** i kassan. <br><br> <i>Erbjudandet gäller endast för den angivna tidsramen och gäller endast nya order och kan inte tillämpas på tidigare utplacerade inköp. Verifikationskoder är giltiga i ett år från inköpsdatumet.</i>
+
+**50 % rabatt på kupongförsäljning!**
+
+Få 50 % rabatt på certifierings- och examinationsverifikationer från Adobe Digital Experience Credential Program, från 27 november till 31 december. Erbjudandet gäller endast vid köp via [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe). Använd kampanjkod **Semester2023** i kassan.
+
+<i>Erbjudandet gäller endast för den angivna tidsramen och gäller endast nya order och kan inte tillämpas på tidigare utplacerade inköp. Verifikationskoder är giltiga i ett år från inköpsdatumet.</i>
+
 >[!ENDSHADEBOX]
 
 Adobe program för digital upplevelse har tagits fram för att hjälpa er att bevisa att ni är skickliga i Adobe [!DNL Experience Cloud] produkter. Genom att bli Adobe Certified kan du visa upp din expertis och imponera på både kunder och arbetsgivare.
