@@ -1,13 +1,13 @@
 ---
 title: Kom igång med Adobe-certifieringar
-description: Kom igång med  [!DNL Experience Cloud] -certifieringar. Läs mer om programmet och den här webbplatsen.
+description: Kom igång med [!DNL Experience Cloud] certifieringar. Läs mer om programmet och den här webbplatsen.
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
-source-git-commit: f3c825b8306646b870970f767db9060435865815
+source-git-commit: 10642ce2dc9028b6bea2ae194ace8518cff11394
 workflow-type: tm+mt
-source-wordcount: '811'
-ht-degree: 2%
+source-wordcount: '825'
+ht-degree: 1%
 
 ---
 
@@ -15,9 +15,14 @@ ht-degree: 2%
 
 Adobe är utformade för att validera kunskapen och kompetensen hos yrkesverksamma som arbetar med våra digitala marknadsföringslösningar. Använd följande flikar för att börja lära dig mer om certifieringsprogrammet.
 
->[!TIP]
+>[!NOTE]
 >
->**Vår årsförsäljning börjar på Cyber Monday!** <br><br> Få 50 % rabatt på certifierings- och examinationsverifikationer från Adobe Digital Experience Credential Program, från 27 november till 31 december. Erbjudandet gäller endast vid köp via [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe). Använd kampanjkod **Semester2023** i kassan. <br><br> <i>Erbjudandet gäller endast för den angivna tidsramen och gäller endast nya order och kan inte tillämpas på tidigare utplacerade inköp. Verifikationskoder är giltiga i ett år från inköpsdatumet.</i>
+>Adobe stängs från 22 december 2023 till 1 januari 2024. Förvänta dig en fördröjning på begäran om stöd under den här perioden. Vi uppskattar ditt tålamod.
+
+>[!BEGINSHADEBOX]
+>
+>**50 % rabatt på kupongförsäljning!** <br><br> Få 50 % rabatt på certifierings- och examinationsverifikationer från Adobe Digital Experience Credential Program, från 27 november till 31 december. Erbjudandet gäller endast vid köp via [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe). Använd kampanjkod **Semester2023** i kassan. <br><br> <i>Erbjudandet gäller endast för den angivna tidsramen och gäller endast nya order och kan inte tillämpas på tidigare utplacerade inköp. Verifikationskoder är giltiga i ett år från inköpsdatumet.</i>
+>[!ENDSHADEBOX]
 
 >[!BEGINTABS]
 

@@ -4,10 +4,10 @@ description: Lär dig certifiera dig på Adobe. Hitta alla resurser ni behöver 
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: f3c825b8306646b870970f767db9060435865815
+source-git-commit: 10642ce2dc9028b6bea2ae194ace8518cff11394
 workflow-type: tm+mt
-source-wordcount: '1550'
-ht-degree: 1%
+source-wordcount: '1503'
+ht-degree: 0%
 
 ---
 
@@ -15,9 +15,14 @@ ht-degree: 1%
 
 Lär dig certifiera dig på Adobe. Hitta alla resurser ni behöver före, under och efter det att ni blivit certifierade.
 
->[!TIP]
+>[!NOTE]
 >
->**Vår årsförsäljning börjar på Cyber Monday!** <br><br> Få 50 % rabatt på certifierings- och examinationsverifikationer från Adobe Digital Experience Credential Program, från 27 november till 31 december. Erbjudandet gäller endast vid köp via [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe). Använd kampanjkod **Semester2023** i kassan. <br><br> <i>Erbjudandet gäller endast för den angivna tidsramen och gäller endast nya order och kan inte tillämpas på tidigare utplacerade inköp. Verifikationskoder är giltiga i ett år från inköpsdatumet.</i>
+>Adobe stängs från 22 december 2023 till 1 januari 2024. Förvänta dig en fördröjning på begäran om stöd under den här perioden. Vi uppskattar ditt tålamod.
+
+>[!BEGINSHADEBOX]
+>
+>**50 % rabatt på kupongförsäljning!** <br><br> Få 50 % rabatt på certifierings- och examinationsverifikationer från Adobe Digital Experience Credential Program, från 27 november till 31 december. Erbjudandet gäller endast vid köp via [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe). Använd kampanjkod **Semester2023** i kassan. <br><br> <i>Erbjudandet gäller endast för den angivna tidsramen och gäller endast nya order och kan inte tillämpas på tidigare utplacerade inköp. Verifikationskoder är giltiga i ett år från inköpsdatumet.</i>
+>[!ENDSHADEBOX]
 
 >[!BEGINTABS]
 
@@ -32,7 +37,7 @@ Adobe använder sig av Examity för att administrera proffsiga examina online.
 * **Steg 3:** Välj Adobe, certifieringsnivå och roll
 * **Steg 4:** Följ stegen i **Bli certifierad** -avsnitt.
 
-**Resurser**
+**Resurs**
 
 Underlighet:
 
@@ -63,9 +68,9 @@ Om du inte klarar en Adobe-certifieringstest på ditt första försök måste du
 
 | Adobe-certifiering | Pris (USD) | Indienpris (US-dollar) |
 | ------- | ------- | ------- |
-| Adobe Certified Professional | $125 | $95 |
-| Adobe Certified Expert | $225 | $150 |
-| Adobe Certified Master | $225 | $150 |
+| Adobe Certified Professional | 125 dollar | 95 dollar |
+| Adobe Certified Expert | 225 dollar | 150 dollar |
+| Adobe Certified Master | 225 dollar | 150 dollar |
 
 **Förnyelsepriser**
 
@@ -92,8 +97,8 @@ Obs! Det går inte att kombinera massrabatter med andra erbjudanden eller rabatt
 | Kvantitet | % rabatt |
 | ------- | ------- |
 | 10-24 | 20% |
-| 25-49 | 25% |
-| 50+ | 33% |
+| 25-49 | 25 % |
+| 50+ | 33 % |
 
 >[!TAB Certifieringsleverantörer]
 
@@ -110,7 +115,7 @@ Andra leverantörsresurser:
 **Underbarhet**
 
 * [Handbok för onlinebearbetning av Examity](https://www.examity.com/online-proctoring-troubleshooting-guide-for-test-takers-v4/){target="_blank"}
-* [Vanliga frågor och svar](https://www.examity.com/faq/test-takers/){target="_blank"}
+* [Vanliga frågor](https://www.examity.com/faq/test-takers/){target="_blank"}
 * [Systemkrav för kontrolltagare](https://www.examity.com/test-taker-systems-requirements/){target="_blank"}
 
 >[!NOTE]
