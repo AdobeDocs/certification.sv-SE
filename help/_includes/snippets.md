@@ -1,7 +1,7 @@
 ---
-source-git-commit: fa645594bc1c3996182282abfede63267de5d238
+source-git-commit: 3b3084a3a4e6bbe4004f889c30d3d5a5cb109713
 workflow-type: tm+mt
-source-wordcount: '1769'
+source-wordcount: '1746'
 ht-degree: 0%
 
 ---
@@ -18,10 +18,6 @@ ht-degree: 0%
 ## Intro {#intro}
 
 Den här sidan innehåller information om hur du uppnår certifieringen. Den innehåller en beskrivning av provet, studiematerialet, stegvisa instruktioner om certifieringsprocessen och hur du förnyar din certifiering.
-
->[!NOTE]
->
->Adobe stängs från 22 december 2023 till 1 januari 2024. Förvänta dig en fördröjning på begäran om stöd under den här perioden. Vi uppskattar ditt tålamod.
 
 <!--divider-->
 
