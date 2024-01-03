@@ -5,9 +5,9 @@ solution: Workfront
 role: Developer
 badge: label="Prov AD0-E908" type="neutral"
 mini-toc-levels: 1
-source-git-commit: 3a2a8f633e9ab00afa1423dccbd60830036325d7
+source-git-commit: 87f0c3b4ff24d750cd528009001012b6e4f5724c
 workflow-type: tm+mt
-source-wordcount: '896'
+source-wordcount: '907'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Det här är den senaste Adobe [!DNL Workfront] Prova Core Developer Professional (ADO-E908). Om du redan har börjat studera eller har schemalagt [äldre version (ADO-E905)](aw-core-p-developer.md)måste du slutföra den senast 26 februari 2024.
+>Det här är den senaste Adobe [!DNL Workfront] Prova Core Developer Professional (ADO-E908). Om du redan har börjat studera eller har schemalagt [äldre version (ADO-E905)](aw-core-p-developer.md)måste du slutföra den senast 26 februari 2024. Om du behöver göra om schemat måste du ta det nya provet.
 
 ## Provbeskrivning {#exam-description}
 
