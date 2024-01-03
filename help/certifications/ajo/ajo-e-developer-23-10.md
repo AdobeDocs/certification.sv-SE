@@ -5,9 +5,10 @@ solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
 badge: label="Prov AD0-E606" type="neutral"
-source-git-commit: 2181390cb00114540230097e9d21fbc2602aad9c
+exl-id: 61fa61d8-f08c-4198-aafc-1dda9e4aab87
+source-git-commit: 48242e4eef8ffe78847c24234c6c2911d6cb2813
 workflow-type: tm+mt
-source-wordcount: '679'
+source-wordcount: '591'
 ht-degree: 0%
 
 ---
@@ -15,10 +16,6 @@ ht-degree: 0%
 # Certifieringsresa för Adobe [!DNL Journey Optimizer] Developer Expert
 
 {{intro}}
-
->[!NOTE]
->
->Det här är den senaste Adobe [!DNL Journey Optimizer] Expertprov på utvecklare (AD0-E606). Om du redan har börjat studera eller har schemalagt [äldre version](ajo-e-developer.md)måste du slutföra den senast 22 december 2023.
 
 ## Provbeskrivning {#exam-description}
 
@@ -143,7 +140,7 @@ Adobe Journey Optimizer drivs av Experience Platform. De sökande som vill bli c
 **Section 4: Content Authoring**
 
 * [AJO Guide, SMS channel, Privacy, Configuration, Journeys, Expression, Content Management, Track and Monitor, Push Notification channel](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
-* [Självstudiekurser om Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html){target="_blank"}
+* [Journey Optimizer Tutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html){target="_blank"}
 
 **Avsnitt 5: Datamodellering**
 
@@ -175,10 +172,6 @@ Adobe Journey Optimizer drivs av Experience Platform. De sökande som vill bli c
 {{about-certification-exam}}
 
 ## Schemalägg eller ta prov AD0-E606
-
->[!NOTE]
->
->Det här är den senaste Adobe [!DNL Journey Optimizer] Expertprov på utvecklare (AD0-E606). Om du redan har börjat studera eller har schemalagt [äldre version](ajo-e-developer.md)måste du slutföra den senast 22 december 2023.
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E606" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
