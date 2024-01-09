@@ -7,10 +7,10 @@ role: Developer
 badge: label="Prov AD0-E330" type="neutral"
 mini-toc-levels: 1
 exl-id: 0c827fe3-b56b-4130-8436-2d3698c2e30b
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 6196ca57b04cb2c197db3c3dc96eedb89fbf9ccc
 workflow-type: tm+mt
-source-wordcount: '961'
-ht-degree: 11%
+source-wordcount: '727'
+ht-degree: 0%
 
 ---
 
@@ -173,7 +173,7 @@ Du borde ha:
 
 * [Externa konton](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/external-accounts.html){target="_blank"}
 * [Driftsättning av FFDA-kampanj](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/architecture/ffda/enterprise-deployment.html){target="_blank"}
-* [Kom igång med dataimport och export](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/importing-and-exporting-data/get-started-data-import-export.html){target="_blank"}
+* [Kom igång med import och export av data](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/importing-and-exporting-data/get-started-data-import-export.html){target="_blank"}
 * [Kom igång med arbetsflöden](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html){target="_blank"}
 * [FTP (klass)](https://experienceleague.adobe.com/developer/campaign-api/api/c-FTP.html){target="_blank"}
 * [Allmän arkitektur](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/architecture-and-hosting-models/general-architecture.html){target="_blank"}
@@ -182,10 +182,10 @@ Du borde ha:
 
 * [Övervaka arbetsflödeskörning](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/monitoring-workflow-execution.html?lang=sv){target="_blank"}
 * [Egenskaper för arbetsflöde](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/workflow-properties.html){target="_blank"}
-* [Användningsfall för arbetsflöde](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/use-cases/about-workflow-use-cases.html){target="_blank"}
+* [Användningsexempel för arbetsflöde](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/use-cases/about-workflow-use-cases.html){target="_blank"}
 * [Övervakningsguide - allmän arkitektur](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/introduction/general-architecture.html){target="_blank"}
-* [Kom igång med kontrollpanelen](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/get-started-with-control-panel.html){target="_blank"}
-* [Om prestandaövervakning](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/about-performance-monitoring.html?lang=sv){target="_blank"}
+* [Kom igång med Kontrollpanelen](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/get-started-with-control-panel.html){target="_blank"}
+* [Prestandaövervakning](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/about-performance-monitoring.html?lang=sv){target="_blank"}
 
 **Avsnitt 6: Kampanjkonfiguration**
 
@@ -193,9 +193,15 @@ Du borde ha:
 * [Kom igång med personalisering](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=sv){target="_blank"}
 * [Webbprogram och rapporter - abstraktFormulär](https://experienceleague.adobe.com/developer/campaign-api/api/s-xtk-abstractForm.html){target="_blank"}
 * [Om webbtjänster](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/api/about-web-services.html){target="_blank"}
-* [Använd en anpassad mottagartabell](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/about-custom-recipient-table.html){target="_blank"}
+* [Använda en anpassad mottagartabell](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/about-custom-recipient-table.html){target="_blank"}
 * [Om mallar](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html){target="_blank"}
-* [Använd en anpassad mottagartabell](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/about-custom-recipient-table.html){target="_blank"}
+* [Använda en anpassad mottagartabell](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/about-custom-recipient-table.html){target="_blank"}
+
+<br>
+
+**Gör ett övningsprov**
+
+{{practice-test}}
 
 +++
 
