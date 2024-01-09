@@ -3,9 +3,9 @@ title: Workfront Certification Overview
 description: Översikt över certifieringsalternativ för Adobe Workfront
 solution: Workfront
 exl-id: 3ab8bdd7-768e-42ab-802a-7107ea56cdfd
-source-git-commit: 922961fcab8c3cf6745d3239d112625d717b1b82
+source-git-commit: 6242b08cb1ecd63d58bd059dd3b5ac4ccd3f20f9
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '124'
 ht-degree: 7%
 
 ---
@@ -16,11 +16,11 @@ ht-degree: 7%
 
 The **Adobe [!DNL Workfront] Core Developer Professional** Certifieringsprovet har uppdaterats.
 
-Den aktuella versionen är: [Adobe Marketo Engage (AD0-E905)](/help/certifications/aw/aw-core-p-developer.md)
+Den aktuella versionen är: [Adobe [!DNL Workfront] Core Developer Professional (AD0-E905)](/help/certifications/aw/aw-core-p-developer.md)
 
 Om du redan har schemalagt eller börjat studera för aktuell tentamen, se till att du schemalägger och slutför tentamen **före 26 februari 2024**.
 
-Om du just har börjat med din certifiering rekommenderar vi att du använder **NYHET** version av tentamen: [Adobe Marketo Engage (AD0-E908)](/help/certifications/aw/aw-core-p-developer-23-12.md)
+Om du just har börjat med din certifiering rekommenderar vi att du använder **NYHET** version av tentamen: [Adobe [!DNL Workfront] Core Developer Professional (AD0-E908)](/help/certifications/aw/aw-core-p-developer-23-12.md)
 
 ## Alla tillgängliga tentamen för Adobe [!DNL Workfront]
 
