@@ -2,10 +2,10 @@
 user-guide-title: Certifiering i Adobe
 breadcrumb-title: Certifiering i Adobe
 user-guide-description: Läs mer om [!DNL Experience Cloud] Certifiering på Adobe. Ta reda på vad du kan få ut av certifieringen.
-source-git-commit: bb24587d80c6607219d36fca9dd63a578ccf08d6
+source-git-commit: b8ace7d5d249933e54f6828356cd7e569bfe3f84
 workflow-type: tm+mt
-source-wordcount: '254'
-ht-degree: 27%
+source-wordcount: '252'
+ht-degree: 28%
 
 ---
 
@@ -119,7 +119,6 @@ ht-degree: 27%
          + [Yrkesverksam](/help/certifications/rtcdp/rtcdp-p-business.md)
       + Expert {#rtcdp-expert}
          + [Utvecklare](/help/certifications/rtcdp/rtcdp-e-developer.md)
-         + [Teknikassistent](/help/certifications/rtcdp/rtcdp-e-technical.md)
       + [Förnyelse](/help/certifications/rtcdp/rtcdp-renew.md)
    + Adobe [!DNL Journey Optimizer] {#ajo}
       + [Journey Optimizer - översikt](/help/certifications/ajo/ajo-overview.md)

@@ -3,10 +3,10 @@ title: Real-Time CDP Certification Overview
 description: Översikt över certifieringsalternativ för Adobe Real-Time CDP
 solution: Real-Time Customer Data Platform
 exl-id: 763724d3-1fac-421f-b166-b4aea210872f
-source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
+source-git-commit: b8ace7d5d249933e54f6828356cd7e569bfe3f84
 workflow-type: tm+mt
-source-wordcount: '37'
-ht-degree: 32%
+source-wordcount: '36'
+ht-degree: 22%
 
 ---
 
@@ -14,10 +14,10 @@ ht-degree: 32%
 
 **Professional**
 
-* [Yrkesverksam](/help/certifications/rtcdp/rtcdp-p-business.md) <!--AD0-E602-->
+* [Yrkesverksamma inom affärsverksamhet](/help/certifications/rtcdp/rtcdp-p-business.md) <!--AD0-E602-->
 
 **Expert**
 
-* [Teknikassistent](/help/certifications/rtcdp/rtcdp-e-technical.md) <!--AD0-E600 and E601-->
+* [Utvecklare](/help/certifications/rtcdp/rtcdp-e-developer.md) <!--AD0-E605-->
 
 Besök [Förnya din certifiering](/help/certifications/renew.md) för att se om det finns något förnyelsealternativ för den här produkten.
