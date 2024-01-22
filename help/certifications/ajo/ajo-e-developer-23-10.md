@@ -6,9 +6,9 @@ product: Journey Optimizer
 role: Developer
 badge: label="Prov AD0-E606" type="neutral"
 exl-id: 61fa61d8-f08c-4198-aafc-1dda9e4aab87
-source-git-commit: 48242e4eef8ffe78847c24234c6c2911d6cb2813
+source-git-commit: bd08c54f5c17b9eb08becfbf5ba47925db8d4254
 workflow-type: tm+mt
-source-wordcount: '591'
+source-wordcount: '595'
 ht-degree: 0%
 
 ---
@@ -146,6 +146,12 @@ Adobe Journey Optimizer drivs av Experience Platform. De sökande som vill bli c
 
 * [AJO-guide, konfiguration, målgrupper, profiler och identitet, datahantering](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 * [Experience Platform, datauppsättningar, Source Connectors Guide, API Tutorials, Platform Identity Service Guide, Segmenteringsgränssnitt, UI Tutorials](https://experienceleague.adobe.com/docs/experience-platform.html){target="_blank"}
+
+<br>
+
+**Gör ett övningsprov**
+
+{{practice-test}}
 
 +++
 
