@@ -7,9 +7,9 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
+source-git-commit: dcad25077afd7883333326939ce8751eee191f36
 workflow-type: tm+mt
-source-wordcount: '2085'
+source-wordcount: '1657'
 ht-degree: 0%
 
 ---
@@ -122,7 +122,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Pro-arkitektur](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/pro-architecture.html){target="_blank"}
 * [Säkerhet](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/infrastructure/cloud/security.html){target="_blank"}
 
-**Section3**
+**Avsnitt3**
 
 * [Google Analytics](https://experienceleague.adobe.com/docs/commerce-admin/marketing/google-tools/google-analytics.html){target="_blank"}
 * [SEO-översikt](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/seo-overview.html){target="_blank"}
@@ -174,7 +174,7 @@ Adobe [!DNL Commerce] Developer Professional
 **Information om tentamen:**
 
 * Nivå: Professionell (0-12 månaders upplevelse)
-* Passing Score: 228/37
+* Löpande poäng: 28/37
 * Tid: 74 min
 * Leverans: On-demand/icke-upphandling
 * Tillgängliga språk: engelska
@@ -252,7 +252,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 **Avsnitt 2**
 
-* [Dirigering](https://developer.adobe.com/commerce/php/development/components/routing/){target="_blank"}
+* [Routning](https://developer.adobe.com/commerce/php/development/components/routing/){target="_blank"}
 * [URL-omskrivningar](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html){target="_blank"}
 * [Konfiguration av cachetyp](https://developer.adobe.com/commerce/php/development/cache/partial/cache-type/){target="_blank"}
 * [Omfång för webbplats, lagring och visning](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html){target="_blank"}
