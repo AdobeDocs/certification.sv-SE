@@ -7,9 +7,9 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: dcad25077afd7883333326939ce8751eee191f36
+source-git-commit: b8ef42ca081201940034bc1a2129aecf086d4ed5
 workflow-type: tm+mt
-source-wordcount: '1657'
+source-wordcount: '2241'
 ht-degree: 0%
 
 ---
@@ -304,6 +304,138 @@ Förnya Adobe [!DNL Commerce] Certifiering för utvecklare:
 2. Klicka på knappen nedan för att gå till Visiity-portalen och ta din examen (AD5-E839)
 
 <a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E839" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Gå till portalen för undersökningar
+</span>
+</a>
+
+>[!NOTE]
+>
+>Det här provet är kostnadsfritt, öppet och obearbetat. Du får ta tentamen upp till tre gånger. Om du inte lyckas efter det tredje försöket måste du vänta **30 dagar** för att försöka igen. Om du inte följer reglerna kan certifieringen återkallas.
+
++++Adobe [!DNL Commerce] Front-End Developer Professional
+
+## Du måste ha följande **aktiv** certifiering att förnya med den här metoden:
+
+Adobe [!DNL Commerce] Front-End Developer Professional
+
+## Instruktioner för att förnya din certifiering:
+
+* **Steg 1**: Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}och sedan återgå till den här sidan
+* **Steg 2**: Granska testens mål och resurser
+* **Steg 3**: Ta och ta examen
+
+## Gör dig redo
+
+**Information om tentamen:**
+
+* Nivå: Professionell (0-12 månaders upplevelse)
+* Passing Score: 26/34
+* Tid: 68 min
+* Leverans: On-demand/icke-upphandling
+* Tillgängliga språk: engelska
+* Kostnad: KOSTNADSFRITT
+* Exam ID: AD5-E844 Adobe [!DNL Commerce] Förnyelse för frontutvecklare
+
+**Tillämpningsområde och mål:**
+
+**Avsnitt 1: Temahantering (temahierarki, bildkonfiguration, översättningar) (14 %)**
+
+* Beskriv Adobe [!DNL Commerce] temamappstruktur
+* Uppvisa förmåga att skapa nya eller utöka befintliga teman
+* Uppvisa förmåga att lägga till anpassade översättningsfraser
+
+**Avsnitt 2: XML och mallar för layout (30 %)**
+
+* Uppvisa förmåga att arbeta med grundläggande XML-instruktioner för layout
+* Uppvisa förmåga att använda befintliga sidlayouter
+* Beskriv stegen för att utöka och åsidosätta XML
+* Uppvisa förmåga att skapa och anpassa mallar
+* Beskriv säkerhet för mallar (escape-utdata)
+
+**Avsnitt 3: Format (22 %)**
+
+* Beskriv syftet med styles-m.less, styles-l.less, print.less
+* Beskriv skillnaden mellan specifika partiella filer (_extends.less,_extend.less,_theme.less,_widgets.less,_module.less,)
+* Visa att du kan åsidosätta eller utöka Magento LESS
+* Beskriv de grundläggande begreppen för LESS
+* Förklara hierarkin för format (lib, moduler, teman)
+* Förklara kompilering på både klient- och serversidan
+
+**Avsnitt 4: JavaScript (18 %)**
+
+* Uppvisa förmåga att initiera och anropa JavaScript-komponenter
+* Uppvisa hur RequireJS används
+* Beskriv användningen av blandningar
+* Beskriv hur du lägger till en översättning i JS
+* Beskriv användningen av blockerad JS
+* Beskriv användningen av jQuery-widgetar
+
+**Avsnitt 5: Administratörskonfiguration och PageBuilder (8 %)**
+
+* Uppvisa förmåga att anpassa Page Builder- och CMS-material
+* Beskriv steg för att anpassa transaktionsmejl
+
+**Avsnitt 6: Verktyg (CLI och Grunt) (8 %)**
+
+* Beskriv användningen av grundläggande bin/Magento-kommandon
+* Beskriv användningen av Composer-kommandon (installera, uppdatera, begära, ta bort)
+* Differentiera lämplig användning för driftsättningslägen
+* Beskriv andra verktyg som molnet tillhandahåller (snabbt, hämta databas, distribuera innehåll)
+
+## Förbered
+
+Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
+
+Här följer några förslag på resurser som hjälper dig att förbereda dig:
+
+**Avsnitt 1**
+
+* [Exempel på ordlista för översättning av tema](https://developer.adobe.com/commerce/frontend-core/guide/translations/practice/)
+* [Temastruktur](https://developer.adobe.com/commerce/frontend-core/guide/themes/structure/)
+* [Konfigurera temaegenskaper](https://developer.adobe.com/commerce/frontend-core/guide/themes/configure/)
+* [Använd en ordlista för att anpassa strängar](https://developer.adobe.com/commerce/frontend-core/guide/translations/dictionary/)
+
+**Avsnitt 2**
+
+* [referenceBlock och referenceContainer](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/#referenceblock-and-referencecontainer)
+* [Layoutinstruktioner](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/)
+* [Åsidosätta en layout](https://developer.adobe.com/commerce/frontend-core/guide/layouts/override/)
+* [argument](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/#argument)
+* [Skapa en ny layout](https://developer.adobe.com/commerce/frontend-core/guide/layouts/create/)
+* [Åsidosätta en layout](https://developer.adobe.com/commerce/frontend-core/guide/layouts/override/#how-to-override-a-layout)
+* [Genomgång av mallanpassning](https://developer.adobe.com/commerce/frontend-core/guide/templates/walkthrough/)
+* [magento2/app/design/front/Magento/luma/Magento_LayeredNavigation/templates/layer/](https://github.com/magento/magento2/tree/2.4.6/app/design/frontend/Magento/luma/Magento_LayeredNavigation/templates/layer)
+* [Arv av teman](https://developer.adobe.com/commerce/frontend-core/guide/themes/inheritance/)
+* [XSS (Cross-site scripting)](https://developer.adobe.com/commerce/php/development/security/cross-site-scripting/)
+
+**Avsnitt 3**
+
+* [CSS i responsiv design](https://developer.adobe.com/commerce/frontend-core/guide/responsive-design/css/)
+* [Anpassa temaformat](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/)
+* [Utöka överordnade format](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/#extend-parent-styles)
+* [Åsidosätt överordnade format](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/#override-parent-styles)
+* [Kompileringsläge](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/compilation-mode/)
+
+**Avsnitt 4**
+
+* [Anropa och initiera JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/init/)
+* [mixiner](https://developer.adobe.com/commerce/frontend-core/javascript/requirejs/#shim)
+* [Blandat omfång](https://developer.adobe.com/commerce/frontend-core/javascript/mixins/#mixin-scope)
+* [Temaststrängar](https://developer.adobe.com/commerce/frontend-core/guide/translations/theory/)
+* [Bindningskarta](https://developer.adobe.com/commerce/frontend-core/ui-components/concepts/binding-syntax/#binding-map)
+* [Initiera dragspelswidgeten](https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/accordion/#initialize-the-accordion-widget)
+
+## Förnya din certifiering
+
+Förnya Adobe [!DNL Commerce] Certifiering för utvecklare:
+
+1. Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}
+
+2. Klicka på knappen nedan för att gå till Visiity-portalen och ta din examen (AD5-E844)
+
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E844" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    Gå till portalen för undersökningar
