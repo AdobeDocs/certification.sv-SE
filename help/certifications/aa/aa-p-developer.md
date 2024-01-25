@@ -8,10 +8,10 @@ level: Experienced
 badge: label="Prov AD0-E213" type="neutral"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: 7e8e35f64fad7e82c6560eac5ba04d1e9ebbd937
+source-git-commit: 63240c83879075315fb13635e06d9c1cbcf2a37d
 workflow-type: tm+mt
-source-wordcount: '958'
-ht-degree: 3%
+source-wordcount: '824'
+ht-degree: 0%
 
 ---
 
@@ -143,14 +143,14 @@ Du bör även ha erfarenhet av följande uppgifter:
 **Avsnitt 1: Analyser i Adobe Experience Cloud ekosystem**
 
 * [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
-* [Vanliga frågor och svar ](https://experienceleague.adobe.com/docs/id-service/using/faqs/faq-intro.html){target="_blank"}
-* [Användarhandbok om AEM 6.5-redigering](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
+* [Vanliga frågor](https://experienceleague.adobe.com/docs/id-service/using/faqs/faq-intro.html){target="_blank"}
+* [Användarhandbok för redigering av AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
 * [Översikt över taggar](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=sv){target="_blank"}
 
 **Avsnitt 2: Analysstrategi och utformning som bygger på en designreferens för lösningar**
 
-* [Implementering [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
-* [Användarhandbok om Analytics Admin](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
+* [Implementera [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
+* [Administratörshandbok för analyser](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
 * [Listvariabler](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/list-var-admin.html){target="_blank"}
 * [Merchandising eVars and product finding methods](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/merchandising-evars.html){target="_blank"}
 
@@ -173,8 +173,8 @@ Du bör även ha erfarenhet av följande uppgifter:
 * [[!DNL Adobe Analytics]: Fallstudie för e-postmarknadsföring (ESP)](https://adobeexchangeec.zendesk.com/hc/en-us/articles/360003848112-Adobe-Analytics-Email-Marketing-ESP-Integration-Case-Study){target="_blank"}
 * [[!DNL Adobe Analytics] API:er](https://adobedocs.github.io/analytics-2.0-apis/#/){target="_blank"}
 * [Välkommen till administratörshandboken för företag och team](https://helpx.adobe.com/se/enterprise/admin-guide.html){target="_blank"}
-* [API för Analytics-rapportering](https://experienceleague.adobe.com/docs/analytics/analyze/reporting-api.html){target="_blank"}
-* [Så fungerar behandlingsregler](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/c-processing-rules-configuration/processing-rules-about.html){target="_blank"}
+* [API för analysrapportering](https://experienceleague.adobe.com/docs/analytics/analyze/reporting-api.html){target="_blank"}
+* [Hur bearbetningsregler fungerar](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/c-processing-rules-configuration/processing-rules-about.html){target="_blank"}
 
 **Avsnitt 6: Testning, validering och felsökning**
 
@@ -191,6 +191,12 @@ Du bör även ha erfarenhet av följande uppgifter:
 {{sample-questions}}
 
 [Visa exempelfrågor](https://scorpion.caveon.com/launchpad/ad3-e213-adobe-analytics-developer-professional-sample-questions){target="_blank"}
+
+<br>
+
+**Gör ett övningsprov**
+
+{{practice-test}}
 
 <br>
 
