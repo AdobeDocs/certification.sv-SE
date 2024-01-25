@@ -7,9 +7,9 @@ role: Developer
 badge: label="tentamen AD0-E717" type="neutral"
 mini-toc-levels: 1
 exl-id: 5dc85678-91f9-4865-b310-3460081b19f8
-source-git-commit: 51dbc0e8818df72da81caa3d0d9a981ae7aa7456
+source-git-commit: 897d101499144162cd15bca6199a30526d72e34a
 workflow-type: tm+mt
-source-wordcount: '1161'
+source-wordcount: '887'
 ht-degree: 0%
 
 ---
@@ -199,7 +199,7 @@ Dessutom bör du känna till följande tekniker och miljöer:
 
 **Avsnitt 3: Grundläggande om digital marknadsföring och e-handel**
 
-* [[!DNL Commerce] Självstudiekurser](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/overview.html){target="_blank"}
+* [[!DNL Commerce] Tutorials](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/overview.html){target="_blank"}
 * [Händelser och observatörer](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/events-and-observers.html){target="_blank"}
 * [Navigering i flera lager](https://docs.magento.com/user-guide/catalog/navigation-layered.html){target="_blank"}
 * [Produktattribut - översikt](https://docs.magento.com/user-guide/stores/attributes.html){target="_blank"}
@@ -262,6 +262,12 @@ Dessutom bör du känna till följande tekniker och miljöer:
 {{sample-questions}}
 
 [Visa exempelfrågor](https://scorpion.caveon.com/launchpad/ad4-e717-adobe-commerce-developer-with-cloud-add-on-professional-practice-exam){target="_blank"}
+
+<br>
+
+**Gör ett övningsprov**
+
+{{practice-test}}
 
 +++
 

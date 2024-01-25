@@ -7,7 +7,7 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: e966c384d1b08ceecfa02aca78a246beadcd6bc2
+source-git-commit: 897d101499144162cd15bca6199a30526d72e34a
 workflow-type: tm+mt
 source-wordcount: '2241'
 ht-degree: 0%
@@ -36,7 +36,7 @@ Observera att om din certifiering upphör att gälla måste du göra om certifie
 
 >[!TAB Professional]
 
-+++ Adobe [!DNL Commerce] Yrkesverksamma inom affärsverksamhet
++++Adobe [!DNL Commerce] Yrkesverksamma inom affärsverksamhet
 
 ## Du måste ha följande **aktiv** certifiering att förnya med den här metoden:
 
