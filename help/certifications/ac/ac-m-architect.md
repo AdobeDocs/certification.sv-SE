@@ -8,9 +8,9 @@ level: Experienced
 badge: label="Prov AD0-E722" type="neutral"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 4a1f0a422dca8343b690d9ed7b1d22f8a319d659
 workflow-type: tm+mt
-source-wordcount: '671'
+source-wordcount: '568'
 ht-degree: 0%
 
 ---
@@ -171,6 +171,12 @@ Dessutom bör du känna till följande aktiviteter och tekniker:
 * [Valuta](https://docs.magento.com/user-guide/stores/currency.html){target="_blank"}
 * [Översikt över initiering och bootstrap](https://devdocs.magento.com/guides/v2.4/config-guide/bootstrap/magento-bootstrap.html){target="_blank"}
 * [Snabb översikt över tjänster](https://devdocs.magento.com/cloud/cdn/cloud-fastly.html){target="_blank"}
+
+<br>
+
+**Gör ett övningsprov**
+
+{{practice-test}}
 
 +++
 
