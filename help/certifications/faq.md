@@ -5,10 +5,10 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: a655a968f0a02df60600881d166cc49471d07b0b
+source-git-commit: 9802690f29bce27e1e65666d9abe66b4baf0a1e6
 workflow-type: tm+mt
-source-wordcount: '2348'
-ht-degree: 0%
+source-wordcount: '2341'
+ht-degree: 1%
 
 ---
 
@@ -84,8 +84,8 @@ För sökande som inte uppfyller certifieringstest på Adobe vid första försö
 +++Hur får jag en kopia av min poängrapport?
 
 * Steg 1: Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe/){target="_blank"}, CertMetrics. Logga in med ditt ID eller e-postadress och lösenord.
-* Steg 2: Klicka på Skript.
-* Steg 3: Bläddra igenom transkriberingshistoriken och välj den rapport du vill visa. Du kan skicka rapporten med e-post till dig eller visa den på skärmen.
+* Steg 2: Klicka på Historik.
+* Steg 3: Bläddra igenom historiken och välj den rapport du vill visa. Du kan skicka rapporten med e-post till dig eller visa den på skärmen.
 
 +++
 
