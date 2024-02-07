@@ -7,9 +7,9 @@ role: User
 badge: label="Prov AD0-E559" type="neutral"
 mini-toc-levels: 1
 exl-id: 88f9cbfb-c9bc-4d27-a9de-1199c5cd013e
-source-git-commit: d91f73b3d70ad04a864c196d3a9fb802475392ae
+source-git-commit: 352e6c3a35bb1429a187800519bedc9495e8f7cd
 workflow-type: tm+mt
-source-wordcount: '896'
+source-wordcount: '891'
 ht-degree: 0%
 
 ---
@@ -165,13 +165,11 @@ Dessutom bör du känna till följande verktyg och tekniker:
 **Avsnitt 1: Administration och underhåll**
 
 * [Förstå [!DNL Salesforce] Synkronisera](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html){target="_blank"}
-* [[!DNL Marketo]: Administration för affärskommunikation](https://cpcontents.adobe.com/public/newlearner/newlearner_1fc76c7b.html#/course/1338335/overview?cert_id=undefined&amp;lp_id=undefined){target="_blank"}
 * [Exportera en lista med alla [!DNL Marketo] API-fältnamn](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.html){target="_blank"}
 * [Ordlista för anpassad fälttyp](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/custom-field-type-glossary.html){target="_blank"}
 * [Välj språk, språk och tidszon](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/select-your-language-locale-and-time-zone.html){target="_blank"}
 * [Arbetsytor och personpartitioner](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html){target="_blank"}
 * [Översikt över granskningsspår](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html){target="_blank"}
-
 
 **Avsnitt 2: Marknadsföringsaktiviteter/kampanjhantering**
 
@@ -188,7 +186,6 @@ Dessutom bör du känna till följande verktyg och tekniker:
 * [Om händelseprogram](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/understanding-event-programs.html){target="_blank"}
 * [Skapa en webbkrok](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-webhook.html){target="_blank"}
 
-
 **Avsnitt 3: Leadhantering**
 
 * [Ange ett dolt formulärfältsvärde](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.html){target="_blank"}
@@ -199,7 +196,6 @@ Dessutom bör du känna till följande verktyg och tekniker:
 * [Utlösartoken för intressanta ögonblick](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.html){target="_blank"}
 * [Förstå intäktsmodeller](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.html){target="_blank"}
 
-
 **Avsnitt 4: Datahantering**
 
 * [Ändra datavärde](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.html){target="_blank"}
@@ -207,7 +203,6 @@ Dessutom bör du känna till följande verktyg och tekniker:
 * [Lagringsprinciper för Marketo-aktiviteter](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy/ta-p/251480){target="_blank"}
 * [Skapa en segmentering](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.html){target="_blank"}
 * [Använda segmentfilter i en smart lista](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/use-segment-filters-in-a-smart-list.html){target="_blank"}
-
 
 **Avsnitt 5: Rapportering**
 
