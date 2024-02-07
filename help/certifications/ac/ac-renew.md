@@ -7,9 +7,9 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: 897d101499144162cd15bca6199a30526d72e34a
+source-git-commit: 8d59047bbea28438b655b98296ae19e0c281098b
 workflow-type: tm+mt
-source-wordcount: '2241'
+source-wordcount: '2293'
 ht-degree: 0%
 
 ---
@@ -140,16 +140,9 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 Förnya Adobe [!DNL Commerce] Yrkescertifiering:
 
-1. Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}
+Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} först. Klicka sedan på Adobe för att förnya certifieringen [!DNL Commerce] Länk till Business Practitioner Professional Renewal Exam (AD5-E840) nedan.
 
-2. Klicka på knappen nedan för att gå till Visiity-portalen och ta din examen (AD5-E840)
-
-<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E840" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Gå till portalen för undersökningar
-</span>
-</a>
+[!BADGE Ta Adobe [!DNL Commerce] Yrkesmässig förnyelse - tentamen (AD5-E840)]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E840 newtab=true"}
 
 >[!NOTE]
 >
@@ -299,16 +292,9 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 Förnya Adobe [!DNL Commerce] Certifiering för utvecklare:
 
-1. Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}
+Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} först. Klicka sedan på Adobe för att förnya certifieringen [!DNL Commerce] Developer Professional Renewal Exam (AD5-E839) länk nedan.
 
-2. Klicka på knappen nedan för att gå till Visiity-portalen och ta din examen (AD5-E839)
-
-<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E839" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Gå till portalen för undersökningar
-</span>
-</a>
+[!BADGE Ta Adobe [!DNL Commerce] Prov på förnyelse av utvecklare Professional (AD5-E839)]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E839 newtab=true"}
 
 >[!NOTE]
 >
@@ -433,16 +419,9 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 Förnya Adobe [!DNL Commerce] Certifiering för utvecklare:
 
-1. Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}
+Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} först. Klicka sedan på Adobe för att förnya certifieringen [!DNL Commerce] Front-End Developer Professional Renewal Exam (AD5-E844) länk nedan.
 
-2. Klicka på knappen nedan för att gå till Visiity-portalen och ta din examen (AD5-E844)
-
-<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E844" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Gå till portalen för undersökningar
-</span>
-</a>
+[!BADGE Ta Adobe [!DNL Commerce] Front-End Developer Professional Renewal Exam (AD5-E844)]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E844 newtab=true"}
 
 >[!NOTE]
 >

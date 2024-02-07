@@ -4,9 +4,9 @@ description: Läs mer om [!DNL Experience Cloud] Certifiering på Adobe. Ta reda
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: 3b3084a3a4e6bbe4004f889c30d3d5a5cb109713
+source-git-commit: 8d59047bbea28438b655b98296ae19e0c281098b
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '403'
 ht-degree: 6%
 
 ---
@@ -22,6 +22,8 @@ Adobe program för digital upplevelse har tagits fram för att hjälpa er att be
 Adobe [!DNL Experience Cloud] är en serie digitala marknadsföringslösningar som gör det möjligt för företag att leverera personaliserade kundupplevelser över flera kanaler, inklusive webben, mobiler, e-post och sociala medier. Adobe [!DNL Experience Cloud] innehåller ett antal produkter, t.ex. Adobe [!DNL Real-Time CDP], ADOBE [!DNL Experience Manager], ADOBE [!DNL Commerce], ADOBE [!DNL Journey Optimizer], ADOBE [!DNL Customer Analytics], med mera.
 
 Uppvisa din skicklighet och lyft din karriär till en högre nivå genom att bli Adobe-certifierad.
+
+[**Visa lista över certifieringar per program**](#view-all-certifications)
 
 ## Varför bli certifierad?
 
@@ -42,8 +44,7 @@ Lås upp din yrkespotential idag genom att lära dig mer om Adobe Digital Experi
 
 <a href="https://experienceleague.adobe.com/docs/certification/certification/getting-started.html" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6"><span class="spectrum-Button-label has-no-wrap">Kom igång</span></a>
 
-
-## Visa alla certifieringar
+## Visa alla certifieringar {#view-all-certifications}
 
 All information om respektive produktcertifiering finns i innehållsförteckningen till vänster och i nedanstående lista:
 
