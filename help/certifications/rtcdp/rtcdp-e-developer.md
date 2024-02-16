@@ -7,9 +7,9 @@ role: Developer,Data Architect
 badge: label="Prov AD0-E605" type="neutral"
 mini-toc-levels: 1
 exl-id: 8b462656-09d0-49c9-a45e-eb57e29400df
-source-git-commit: 549d260cf65e86479ee8f1c0cdaeb357cdc3db69
+source-git-commit: 16ffac2b0619d0cdce85e6f73a45cff84a5e306b
 workflow-type: tm+mt
-source-wordcount: '958'
+source-wordcount: '877'
 ht-degree: 0%
 
 ---
@@ -17,10 +17,6 @@ ht-degree: 0%
 # Certifieringsresa för Adobe [!DNL Real-Time Customer Data Platform] Developer Expert
 
 {{intro}}
-
->[!TIP]
->
->För att få **50 % rabatt** tentamen, köp och schemalägg tentamen **Underbarhet** före **15 februari 2024**. Rabatten ges automatiskt. Inköpsanvisningar och schemaläggningsanvisningar finns i steg 3 nedan. <br><br><i>Observera att detta erbjudande inte gäller köp via någon annan webbplats.</i>
 
 ## Provbeskrivning {#exam-description}
 
@@ -251,10 +247,6 @@ Du bör känna dig bekväm i dessa miljöer:
 <br>
 
 +++Steg 3: Schemalägg och betala för prov
-
->[!TIP]
->
->För att få **50 % rabatt** tentamen, köp och schemalägg tentamen **Underbarhet** före **15 februari 2024**. Rabatten ges automatiskt. <br><br><i>Observera att detta erbjudande inte gäller köp via någon annan webbplats.</i>
 
 {{schedule-and-pay}}
 
