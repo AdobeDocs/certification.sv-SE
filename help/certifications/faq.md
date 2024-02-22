@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: c28e1098bf6fd6e7b60bdc02372300e4969f3722
+source-git-commit: a0598dd083602efa29a707efe623c54b84f185ff
 workflow-type: tm+mt
-source-wordcount: '2342'
+source-wordcount: '2485'
 ht-degree: 1%
 
 ---
@@ -62,6 +62,16 @@ Mer information finns i [!DNL Examity] sida för att hantera tentamen och teknis
 +++Vem kan jag kontakta med certifieringsfrågor eller certifieringsproblem?
 
 Om du har frågor om testregistrering, provbetalningar, testresultat, testcenter, kommentarer på tentamen, frågor om tentamen, testupplevelser, testmiljöer eller frågor om certifieringsportalen kan du kontakta `certif@adobe.com`.
+
++++
+
++++Kan jag avbryta eller boka om min provtid?
+
+Avbokningar och omplanering är vanligtvis möjliga om de påbörjas före 48 timmar före det schemalagda provbesöket. Kandidaterna måste själva ändra den här avtalade tiden.
+
+Varken Adobe Support eller Examity kan bearbeta begäranden om omplanering och annullering. För annulleringar under 48 timmar tas en avgift ut utöver examensavgiften.
+
+Om du inte kan schemalägga om din tentamen, trots att den ligger mer än 48 timmar före din tentamen, kan det bero på att det finns en ny version av tentamen. Om din avtalade tid gällde den tidigare versionen av provet kan du inte boka om din avtalade tid. Vi rekommenderar att du håller din provtid om det går. Om du inte kan det måste du avbryta din tentamen och schemalägga en ny tid för den nya tentamen.
 
 +++
 

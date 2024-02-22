@@ -4,9 +4,9 @@ description: Lär dig certifiera dig på Adobe. Hitta alla resurser ni behöver 
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 3b3084a3a4e6bbe4004f889c30d3d5a5cb109713
+source-git-commit: a0598dd083602efa29a707efe623c54b84f185ff
 workflow-type: tm+mt
-source-wordcount: '1402'
+source-wordcount: '1494'
 ht-degree: 0%
 
 ---
@@ -34,6 +34,7 @@ Underlighet:
 
 * [Hur man registrerar sig för en onlinebearbetad tentamen](https://express.adobe.com/page/Opvo0RlRrlVvr/){target="_blank"}
 * [Starta tentamen och anslut till proktorn](https://express.adobe.com/page/6tQ2pnEDumKY7/){target="_blank"}
+* [Systemkrav för kontrolltagare](https://www.examity.com/test-taker-systems-requirements/){target="_blank"}
 
 >[!TAB Ta ditt prov]
 
@@ -43,9 +44,11 @@ Dina [profil](https://www.certmetrics.com/adobe/candidate/demographics.aspx){tar
 
 **Avbryta och omplanera**
 
-Det går att avbryta och schemalägga om det initieras före 48 timmar före det schemalagda provbesöket. Kandidaterna måste själva ändra den här avtalade tiden.
+Avbokningar och omplanering är vanligtvis möjliga om de påbörjas före 48 timmar före det schemalagda provbesöket. Kandidaterna måste själva ändra den här avtalade tiden.
 
 Varken Adobe Support eller Examity kan bearbeta begäranden om omplanering och annullering. För annulleringar under 48 timmar tas en avgift ut utöver examensavgiften.
+
+Om du inte kan schemalägga om din tentamen, trots att den ligger mer än 48 timmar före din tentamen, kan det bero på att det finns en ny version av tentamen. Om din avtalade tid gällde den tidigare versionen av provet kan du inte boka om din avtalade tid. Vi rekommenderar att du håller din provtid om det går. Om du inte kan det måste du avbryta din tentamen och schemalägga en ny tid för den nya tentamen.
 
 **Efter provet**
 
