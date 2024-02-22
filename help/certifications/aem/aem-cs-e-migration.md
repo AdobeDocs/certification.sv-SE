@@ -7,10 +7,10 @@ role: Developer
 badge: label="Prov AD0-E136" type="neutral"
 mini-toc-levels: 1
 exl-id: 64b53064-8280-405b-a5f7-b50264394b82
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 712b9183c851a4ffc0b29f2120f3f5e8f2f7c11b
 workflow-type: tm+mt
-source-wordcount: '678'
-ht-degree: 4%
+source-wordcount: '611'
+ht-degree: 0%
 
 ---
 
@@ -142,9 +142,9 @@ Dessutom bör du känna till följande tekniker och miljöer:
 
 **Avsnitt 1: Bedömning**
 
-* [[!DNL Experience Manager] as a Cloud Service användarhandbok](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=sv){target="_blank"}
+* [[!DNL Experience Manager] as a Cloud Service användarhandbok](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
 * [Migreringshandbok för Adobe [!DNL Experience Manager] as a Cloud Service för partners](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started-partners.html){target="_blank"}
-* [Viktiga ändringar i AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/aem-cloud-changes.html){target="_blank"}
+* [Betydande ändringar i AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/aem-cloud-changes.html){target="_blank"}
 
 **Avsnitt 2: Design**
 
@@ -161,12 +161,18 @@ Dessutom bör du känna till följande tekniker och miljöer:
 
 * [Köra verktyget Innehållsöverföring på en publiceringsinstans](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/content-transfer-tool/running-content-transfer-tool-publish-instance.html){target="_blank"}
 * [Krav för verktyget Innehållsöverföring](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/content-transfer-tool/prerequisites-content-transfer-tool.html){target="_blank"}
-* [Felsöka AEM as a Cloud Service med hjälp av loggar](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/debugging/debugging-aem-as-a-cloud-service/logs.html){target="_blank"}
+* [Felsöka AEM as a Cloud Service med loggar](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/debugging/debugging-aem-as-a-cloud-service/logs.html){target="_blank"}
 
 **Avsnitt 5: Genomförande**
 
 * [Använda CI/CD-pipeline i Adobe Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/cloud-manager/use-the-cicd-pipeline-in-cloud-manager-for-aem.html){target="_blank"}
 * [Distribuera till AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/deploying/overview.html){target="_blank"}
+
+<br>
+
+**Gör ett övningsprov**
+
+{{practice-test}}
 
 +++
 
