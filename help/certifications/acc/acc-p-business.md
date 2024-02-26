@@ -7,9 +7,9 @@ role: User
 badge: label="Prov AD0-E329" type="neutral"
 mini-toc-levels: 1
 exl-id: 38af77fd-8e31-4cca-b953-3f83b61d3000
-source-git-commit: 6f85496f9e26cec2dac04f3ba9772ef6d7e185a7
+source-git-commit: f77041d17437d9e42deeef7ffbe42155b6089043
 workflow-type: tm+mt
-source-wordcount: '833'
+source-wordcount: '831'
 ht-degree: 0%
 
 ---
@@ -193,13 +193,9 @@ Du borde ha:
 
 <br>
 
-**Exempelfrågor**
+**Gör ett övningsprov**
 
-{{sample-questions}}
-
-[Visa exempelfrågor](https://scorpion.caveon.com/launchpad/ad4-e329-adobe-campaign-classic-business-practitioner-professional-practice-exam){target="_blank"}
-
-
+{{practice-test}}
 
 +++
 
