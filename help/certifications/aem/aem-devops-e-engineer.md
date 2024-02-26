@@ -7,10 +7,10 @@ role: Developer
 badge: label="Prov AD0-E124" type="neutral"
 mini-toc-levels: 1
 exl-id: 9cfb51b0-9ab8-46fb-a111-434c13e4affa
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: b85f78f953bf07135a2c77680b9015f7a8d17990
 workflow-type: tm+mt
-source-wordcount: '769'
-ht-degree: 1%
+source-wordcount: '686'
+ht-degree: 0%
 
 ---
 
@@ -30,9 +30,9 @@ ht-degree: 1%
 * Löpande poäng: 30/50
 * Tid: 100 min
 * Leverans: Bearbetad online (kräver kameraåtkomst)
-* Tillgängliga språk: engelska
+* Tillgängliga språk: engelska, japanska
 * Kostnad: $225 (global) / $150 (Indien)
-* Exam ID: AD0-E124
+* Exam ID: AD0-E124 (engelska), AD0-E124-J (japanska)
 
 <br>
 
@@ -159,7 +159,7 @@ Dessutom bör du känna till följande tekniker och miljöer:
 * [Koddistribution](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/using/code-deployment.html){target="_blank"}
 * [Konfigurera produktionsförlopp](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/using/pipelines/production-pipelines.html){target="_blank"}
 * [Så här arbetar du med paket](https://experienceleague.adobe.com/docs/experience-manager-64/administering/contentmanagement/package-manager.html){target="_blank"}
-* [AEM-projektstruktur](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html){target="_blank"}
+* [AEM projektstruktur](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html){target="_blank"}
 
 **Avsnitt 5: Övervaka och rapportera kvalitetsmätningar**
 
@@ -197,12 +197,23 @@ Dessutom bör du känna till följande tekniker och miljöer:
 
 {{about-certification-exam}}
 
-## Schemalägg eller ta prov AD0-E124
+## Schemalägg eller ta prov AD0-E124 (engelska)
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E124" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Gå till portalen för undersökningar
+   Gå till Kontrollportalen - engelsk tentamen
+</span>
+</a>
+
+## Schemalägg eller ta prov AD0-E124-J (japanska)
+
+{{Japanese-exam-details}}
+
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E124-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Gå till Visiity Portal - japanskt prov
 </span>
 </a>
 
