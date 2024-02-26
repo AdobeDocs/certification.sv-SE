@@ -7,10 +7,10 @@ role: User
 badge: label="Prov AD0-E307" type="neutral"
 mini-toc-levels: 1
 exl-id: ba66d1cc-3545-49ed-8578-1f6aa07f64e7
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 12006135c8d8805012b1a406630e39e46b08caa3
 workflow-type: tm+mt
-source-wordcount: '637'
-ht-degree: 11%
+source-wordcount: '518'
+ht-degree: 0%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 11%
 * Löpande poäng: 30/50
 * Tid: 100 min
 * Leverans: Bearbetad online (kräver kameraåtkomst)
-* Tillgängliga språk: engelska och japanska
+* Tillgängliga språk: engelska
 * Kostnad: $225 (global) / $150 (Indien)
 * Exam ID: AD0-E307
 
@@ -135,13 +135,13 @@ Dessutom bör du ha:
 
 * [hantering av Portfolio](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FPortfolios%2F_portfolio-management-overview.htm&amp;_LANG=en){target="_blank"}
 * [Om kanalkonfiguration](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html){target="_blank"}
-* [Övervaka en leverans](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/monitoring-messages/monitoring-a-delivery.html?lang=sv){target="_blank"}
+* [Övervaka leverans](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/monitoring-messages/monitoring-a-delivery.html?lang=sv){target="_blank"}
 * [E-postdesigner för kampanj](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html){target="_blank"}
 
 **Avsnitt 2: Kampanjhantering**
 
 * [Om arbetsflödeskörning](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/about-workflow-execution.html){target="_blank"}
-* [Modifiera anpassade resurser för förfrågningar om användarens information](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/privacy/custom-resources-for-privacy-requests.html){target="_blank"}
+* [Ändra anpassade resurser för sekretessförfrågningar](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/privacy/custom-resources-for-privacy-requests.html){target="_blank"}
 * [Skapa målgrupper](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/managing-audiences/creating-audiences.html){target="_blank"}
 
 **Avsnitt 3: Kravanalys**
@@ -159,12 +159,12 @@ Dessutom bör du ha:
 
 **Avsnitt 5: Felsökning**
 
-* [Bäst praxis för arbetsflöden](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/best-practices-workflows.html?lang=sv){target="_blank"}
+* [Bästa arbetsflöden](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/best-practices-workflows.html?lang=sv){target="_blank"}
 * [API-felsökning](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/troubleshooting.html){target="_blank"}
 
 **Avsnitt 6: Datahantering och -administration**
 
-* [ [!DNL Campaign Standard] Kom igång med datamodell](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/get-started-data-model.html){target="_blank"}
+* [Kom igång med [!DNL Campaign Standard] datamodell](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/get-started-data-model.html){target="_blank"}
 * [Kom igång med [!DNL Campaign Standard] administration](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/get-started-campaign-administration.html){target="_blank"}
 
 <br>
