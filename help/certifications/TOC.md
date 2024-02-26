@@ -2,7 +2,7 @@
 user-guide-title: Certifiering i Adobe
 breadcrumb-title: Certifiering i Adobe
 user-guide-description: Läs mer om [!DNL Experience Cloud] Certifiering på Adobe. Ta reda på vad du kan få ut av certifieringen.
-source-git-commit: 9da619a40b8ebfdee7c9940cc56138f84ae76e8d
+source-git-commit: 4ff319790c8be6b9f66f95dcd18709b3536d62d7
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 28%
@@ -16,9 +16,6 @@ ht-degree: 28%
 + [Kom igång](getting-started.md)
 + [Så här certifierar du dig](how-to-get-certified.md)
 + [Förnya din certifiering](renew.md)
-+ [Starta om program](restart-program.md)
-+ [Min profil](my-profile.md)
-+ [Vanliga frågor och svar](faq.md)
 + Tekniska certifieringar per lösning {#technical-certifications}
    + Adobe [!DNL Advertising] {#aac}
       + [Reklamöversikt](/help/certifications/aac/aac-overview.md)
@@ -146,7 +143,10 @@ ht-degree: 28%
          + [AEM utökad kontakt](/help/certifications/aw/aw-aem-e-connector.md)
       + [Förnyelse](/help/certifications/aw/aw-renew.md)
    + [Kvalificerade examina från ADLS](https://learning.adobe.com/certification/credentials)
++ [Vanliga frågor och svar](faq.md)
 + Dold {#hidden}
    + [Certifiering - Starta om kontroll av kvalificeringsprov](exam-eligibility-check.md)
    + [Översikt över Experience Platform](/help/certifications/aep/aep-overview.md)
    + [Utvecklare)](/help/certifications/aep/aep-e-foundations.md)
+   + [Starta om program](restart-program.md)
+   + [Min profil](my-profile.md)
