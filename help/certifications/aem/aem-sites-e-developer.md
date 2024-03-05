@@ -7,9 +7,9 @@ role: Developer
 badge: label="Prov AD0-E134" type="neutral"
 mini-toc-levels: 1
 exl-id: 4b97177a-38aa-4082-95da-1e4c9962f3c8
-source-git-commit: 8d50d5574c0f9066acc58272e44994e2771cbefc
+source-git-commit: dddfd2d13bd27666a4a17e4c8002b91b555381ee
 workflow-type: tm+mt
-source-wordcount: '545'
+source-wordcount: '561'
 ht-degree: 0%
 
 ---
@@ -30,9 +30,9 @@ ht-degree: 0%
 * Passing Score: 26/50
 * Tid: 100 min
 * Leverans: Bearbetad online (kräver kameraåtkomst)
-* Tillgängliga språk: engelska
+* Tillgängliga språk: engelska, japanska
 * Kostnad: $225 (global) / $150 (Indien)
-* Exam ID: AD0-E134
+* Exam ID: AD0-E134 (engelska), AD0-E134-J (japanska)
 
 <br>
 
@@ -191,9 +191,20 @@ Dessutom bör du känna till följande tekniker och miljöer:
 
 {{about-certification-exam}}
 
-## Schemalägg eller ta prov AD0-E134
+## Schemalägg eller ta prov AD0-E134 (engelska)
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E134" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Gå till portalen för undersökningar
+</span>
+</a>
+
+## Schemalägg eller ta prov AD0-E134-J (japanska)
+
+{{Japanese-exam-details}}
+
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E134-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    Gå till portalen för undersökningar
