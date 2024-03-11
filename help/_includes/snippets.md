@@ -1,5 +1,5 @@
 ---
-source-git-commit: 3b3084a3a4e6bbe4004f889c30d3d5a5cb109713
+source-git-commit: 8c00f88b9fd291a179c8c6fc1a6b251464e85438
 workflow-type: tm+mt
 source-wordcount: '1746'
 ht-degree: 0%
@@ -123,7 +123,7 @@ Betala med verifikation: Om du vill köpa en provkupong går du till: Adobe Cert
 
 **Köpa en verifikation**
 
-Du kan betala för en tentamen med en verifikation. Om du vill köpa en provvoucher går du till [Adobe Certification Voucher Center](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}.
+Du kan betala för en tentamen med en verifikation. Om du vill köpa en provvoucher går du till [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
 Du kan använda verifikationskoden när du schemalägger provet. Se nedan för information om kupongrabatt.
 
