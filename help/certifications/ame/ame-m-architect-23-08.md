@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="Prov AD0-E560" type="neutral"
 mini-toc-levels: 1
 exl-id: a3d5e3bd-751f-4c35-a27e-7839199030d8
-source-git-commit: 87ed809862370a10d085156bea4f947a3b2f0743
+source-git-commit: c81e158a12b6f52a01919f15c32e6614139ebd9d
 workflow-type: tm+mt
-source-wordcount: '821'
+source-wordcount: '733'
 ht-degree: 0%
 
 ---
@@ -175,14 +175,11 @@ Dessutom bör du känna till följande verktyg och tekniker:
 * [Utelämna mjuka studsar](https://nation.marketo.com/t5/product-discussions/suppressing-soft-bounces-any-email-min-3x-encouraged/m-p/209411#M153533){target="_blank"}
 * [Arbetsytor och personpartitioner](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html){target="_blank"}
 
-
 <br>
 
-**Exempelfrågor**
+**Gör ett övningsprov**
 
-{{sample-questions}}
-
-[Visa exempelfrågor](https://scorpion.caveon.com/launchpad/ad0-e556-adobe-marketo-engage-architect-master-exam-copy-pewwl4){target="_blank"}
+{{practice-test}}
 
 +++
 
