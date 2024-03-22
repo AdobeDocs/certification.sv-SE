@@ -1,6 +1,6 @@
 ---
 title: Vanliga frågor och svar
-description: Få svar på frågor om Adobe Digital Experience Certification Program. Läs mer om fördelarna med certifiering, hur du registrerar dig och vem du kan kontakta.
+description: Få svar på frågor om certifieringsprogrammet för Adobe Digital Experience Läs mer om fördelarna med certifiering, hur du registrerar dig och vem du kan kontakta.
 role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
@@ -8,7 +8,7 @@ exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
 source-git-commit: 70d644fb8bbf20a4826ed187174c0127f98bce89
 workflow-type: tm+mt
 source-wordcount: '2485'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
