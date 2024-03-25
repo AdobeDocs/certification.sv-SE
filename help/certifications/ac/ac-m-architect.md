@@ -8,17 +8,20 @@ level: Experienced
 badge: label="Prov AD0-E722" type="neutral"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: 4a1f0a422dca8343b690d9ed7b1d22f8a319d659
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '568'
+source-wordcount: '530'
 ht-degree: 0%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Commerce] Architect Master
 
-
 {{intro}}
+
+>[!NOTE]
+>
+>**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/388) ger dig en skräddarsydd väg genom testprocessen för certifiering, inklusive ingående studiematerial som du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
 
 ## Provbeskrivning {#exam-description}
 
@@ -141,42 +144,20 @@ Dessutom bör du känna till följande aktiviteter och tekniker:
 
 {{study-materials-intro}}
 
-**Avsnitt 1: Design**
-
-* [Skapa en produkt](https://docs.magento.com/user-guide/catalog/product-create.html){target="_blank"}
-* [Sidcachning](https://developer.adobe.com/commerce/php/development/cache/page/){target="_blank"}
-* [Introduktion till [!DNL Commerce] Kundhantering](https://docs.magento.com/user-guide/customers/customers-menu.html){target="_blank"}
-* [Event och observatörer](https://developer.adobe.com/commerce/php/development/components/events-and-observers/){target="_blank"}
-* [SEO - översikt](https://docs.magento.com/user-guide/marketing/seo-search.html){target="_blank"}
-* [Butiksinformation](https://docs.magento.com/user-guide/configuration/configuration-basic.html){target="_blank"}
-* [Sidor](https://docs.magento.com/user-guide/cms/content-elements.html){target="_blank"}
-* [Lägga till en ny betalningsintegrering (betalningsmetod)](https://devdocs.magento.com/guides/v2.4/payments-integrations/base-integration/integration-intro.html){target="_blank"}
-* [Autentisering](https://devdocs.magento.com/guides/v2.4/get-started/authentication/gs-authentication.html){target="_blank"}
-* [GraphQL - översikt](https://devdocs.magento.com/guides/v2.4/graphql/index.html){target="_blank"}
-
-**Avsnitt 2: Granskning**
-
-* [Introduktion](https://developer.adobe.com/commerce/php/module-reference/){target="_blank"}
-* [Lägga till ett anpassat textfältsattribut](https://devdocs.magento.com/guides/v2.4/howdoi/custom-attributes/introduction.html){target="_blank"}
-* [Introduktion till testguiden](https://devdocs.magento.com/guides/v2.4/test/testing.html){target="_blank"}
-* [Komponentutveckling](https://developer.adobe.com/commerce/php/development/components/){target="_blank"}
-* [Bästa praxis](https://support.magento.com/hc/en-us/categories/360002582351-Best-Practices-){target="_blank"}
-* [Konfigurera lack](https://devdocs.magento.com/guides/v2.4/config-guide/varnish/config-varnish.html){target="_blank"}
-
-**Avsnitt 3: Konfigurera och distribuera**
-
-* [Referenshandbok för konfiguration](https://docs.magento.com/user-guide/configuration/general.html){target="_blank"}
-* [Konfigurationsfiler för distribution](https://devdocs.magento.com/guides/v2.4/config-guide/config/config-magento.html){target="_blank"}
-* [Konfigurera Redis](https://devdocs.magento.com/guides/v2.4/config-guide/redis/config-redis.html){target="_blank"}
-* [Valuta](https://docs.magento.com/user-guide/stores/currency.html){target="_blank"}
-* [Översikt över initiering och bootstrap](https://devdocs.magento.com/guides/v2.4/config-guide/bootstrap/magento-bootstrap.html){target="_blank"}
-* [Snabb översikt över tjänster](https://devdocs.magento.com/cloud/cdn/cloud-fastly.html){target="_blank"}
-
-<br>
-
 **Gör ett övningsprov**
 
 {{practice-test}}
+
+**Handbok för testversioner**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/388" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Visa guiden Förbered prov
+</span>
+</a>
 
 +++
 

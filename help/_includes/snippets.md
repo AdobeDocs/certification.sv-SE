@@ -1,7 +1,7 @@
 ---
-source-git-commit: 8c00f88b9fd291a179c8c6fc1a6b251464e85438
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '1746'
+source-wordcount: '1800'
 ht-degree: 0%
 
 ---
@@ -226,3 +226,11 @@ Certifieringarna upphör att gälla efter två år. Om du vill behålla din cert
 Schemalägg din tentamen mellan söndag - torsdag kl. 17.00 - kl. 23.00 ET för att försäkra oss om att vi kan tilldela en japanspråksleverantör. Om du schemalägger utanför dessa timmar kan vi inte garantera en japansk uppspelare.
 
 [Japanska instruktioner för schemaläggning](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
+
+## Gå en kostnadsfri kurs {#take-course}
+
+Den här kostnadsfria on-demand-kursen hjälper dig att förbereda dig för provet med förklaringar av viktiga begrepp, praktiska demonstrationer och kunskapsanalyser.
+
+## Handbok för testversioner {#exam-prep-guide}
+
+Den kostnadsfria guiden för testversioner ger dig en skräddarsydd väg genom testprocessen, inklusive det djupgående studiematerialet som du behöver för att lyckas med din tentamen.

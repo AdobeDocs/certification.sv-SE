@@ -7,9 +7,9 @@ role: Developer
 badge: label="Prov AD0-E720" type="neutral"
 mini-toc-levels: 1
 exl-id: 3d4efb08-cd0c-4e1f-8a85-34fd8791b77b
-source-git-commit: 231b3e61d7135dadfdc04be56bdb7f855d7c0112
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '794'
+source-wordcount: '730'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 # Certifieringsresa för [!DNL Adobe Commerce] Front-End Developer Expert
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/385) ger dig en skräddarsydd väg genom testprocessen för certifiering, inklusive ingående studiematerial som du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
 
 ## Provbeskrivning {#exam-description}
 
@@ -157,53 +161,20 @@ Dessutom bör du vara bekväm med följande tekniker:
 
 {{study-materials-intro}}
 
-**Avsnitt 1: Temahantering (temahierarki, bildkonfiguration, översättningar)**
-
-* [Teman](https://developer.adobe.com/commerce/frontend-core/guide/themes/)
-* [Mallar](https://developer.adobe.com/commerce/frontend-core/guide/templates/)
-* [Lägg till anpassade variabler](https://experienceleague.adobe.com/docs/commerce-admin/systems/variables/variables-custom.html?lang=en)
-* [Översättningar](https://developer.adobe.com/commerce/frontend-core/guide/translations/)
-
-**Avsnitt 2: XML och mallar för layout (phtml-mallar)**
-
-* [Layouter](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-manage/){target="_blank"}
-* [Vanliga anpassningsåtgärder](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/xml-manage.html){target="_blank"}
-* [Komponentutveckling](https://developer.adobe.com/commerce/php/development/components/){target="_blank"}
-* [Säkerhet](https://developer.adobe.com/commerce/php/development/security/){target="_blank"}
-
-**Avsnitt 3: Format**
-
-* [Responsiv webbdesign](https://developer.adobe.com/commerce/frontend-core/guide/responsive-design/){target="_blank"}
-* [Anpassa temaformat](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/){target="_blank"}
-* [Kodstandarder](https://developer.adobe.com/commerce/php/coding-standards/){target="_blank"}
-* [CSS (Cascading Style Sheets)](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/){target="_blank"}
-
-**Avsnitt 4: JavaScript (bildwidgetar, bildbibliotek, kunddatamodul, Blockera mallar)**
-
-* [JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/){target="_blank"}
-* [Introduktion till gränssnittskomponenter](https://developer.adobe.com/commerce/frontend-core/ui-components/){target="_blank"}
-* [Anpassa utcheckning](https://developer.adobe.com/commerce/php/tutorials/frontend/custom-checkout/){target="_blank"}
-* [Observerbara arrayer](https://knockoutjs.com/documentation/observableArrays.html){target="_blank"}
-
-**Avsnitt 5: Administratörskonfiguration och PageBuilder**
-
-* [Sidor](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/pages/pages.html){target="_blank"}
-* [Vad är Page Builder?](https://developer.adobe.com/commerce/frontend-core/page-builder/){target="_blank"}
-* [JavaScript-paketering](https://developer.adobe.com/commerce/frontend-core/guide/themes/js-bundling/){target="_blank"}
-* [Google reCAPTCHA](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/captcha/security-google-recaptcha.html){target="_blank"}
-
-**Avsnitt 6: Verktyg (CLI och Grunt)**
-
-* [Konfigurationsguide](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/overview.html?lang=en){target="_blank"}
-* [Lokal installationsöversikt](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/overview.html?lang=en){target="_blank"}
-* [Skapa variabler](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build.html?lang=en){target="_blank"}
-* [Commerce on Cloud Infrastructure](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=en){target="_blank"}
-
-<br>
-
 **Gör ett övningsprov**
 
 {{practice-test}}
+
+**Handbok för testversioner**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/385" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Visa guiden Förbered prov
+</span>
+</a>
 
 +++
 

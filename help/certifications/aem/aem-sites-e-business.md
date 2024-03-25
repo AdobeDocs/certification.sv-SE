@@ -7,9 +7,9 @@ role: User
 badge: label="Prov AD0-E121" type="neutral"
 mini-toc-levels: 1
 exl-id: 0b533269-0826-4921-a539-d281c74da63d
-source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '716'
+source-wordcount: '549'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 # Certifieringsresa för Adobe [!DNL Experience Manager Sites] Affärsexpert
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/410) ger dig en skräddarsydd väg genom testprocessen för certifiering, inklusive ingående studiematerial som du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
 
 ## Provbeskrivning {#exam-description}
 
@@ -141,67 +145,20 @@ Dessutom bör du känna till följande tekniker och miljöer:
 
 {{study-materials-intro}}
 
-**Avsnitt 1: Utbildning**
-
-* [AEM 6.5 Developing User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
-* [Läs om AEM 6.5-funktioner](https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/troubleshooting/learn.html){target="_blank"}
-* [AEM [!DNL Sites] videor och självstudiekurser](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
-* [Startar](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/launches.html){target="_blank"}
-* [Första steget för författare](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/essentials/first-steps.html){target="_blank"}
-* [Bästa praxis för innehållsredigering](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/content-editing-best-practices.html){target="_blank"}
-* [Skapa och ordna sidor](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/authoring/managing-pages.html){target="_blank"}
-* [Koncept för framtagning och publicering](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/essentials/author.html){target="_blank"}
-
-**Avsnitt 2: Arkitektur**
-
-* [En introduktion till Adobe [!DNL Experience Manager as a Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html){target="_blank"}
-* [Läs om AEM 6.5-funktioner](https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/troubleshooting/learn.html){target="_blank"}
-* [Adobe [!DNL Experience Manager] dokumentation](https://experienceleague.adobe.com/docs/experience-manager.html){target="_blank"}
-* [Integrera med tredjepartstjänster](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/third-party-services.html)
-* [Integrering av lösningar](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/integration.html){target="_blank"}
-* [[!DNL Experience Cloud] integreringsöversikt](https://experienceleague.adobe.com/docs/core-services/interface/administration/marketing-cloud-integrations.html){target="_blank"}
-* [Hantera användarroller och behörigheter](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html){target="_blank"}
-* [Roller och behörigheter](https://experienceleague.adobe.com/docs/mobile-services/using/get-started-ug/c-mob-roles-and-permissions.html){target="_blank"}
-* [Användare, roller och behörigheter](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/admin/users-roles-permissions.html){target="_blank"}
-* [Hantera användare, grupper och användarroller](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/admin-tools/brand-portal-adding-users.html){target="_blank"}
-* [Cachelagra skyddat innehåll](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/configuring/permissions-cache.html){target="_blank"}
-* [Kapitel 1 - Utskicksbegrepp, mönster och antimönster](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/chapter-1.html){target="_blank"}
-* [Kapitel 2 - Infrastruktur](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/chapter-2.html){target="_blank"}
-* [Kapitel 3 - Avancerade cachelagringsämnen](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/chapter-3.html){target="_blank"}
-
-**Avsnitt 3: Affärsanalys**
-
-* [Utveckla globala webbplatser i AEM](https://learning.adobe.com/catalog/adobe_experiencemanager/cours000000000087076.html){target="_blank"}
-* [AEM grundläggande begrepp](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/the-basics.html){target="_blank"}
-* [Komponenter - översikt](https://experienceleague.adobe.com/docs/experience-manager-64/developing/components/components.html){target="_blank"}
-* [Innehållsarkitektur](https://experienceleague.adobe.com/docs/experience-manager-64/developing/bestpractices/content-architecture.html){target="_blank"}
-* [Hantera projekt - checklista för bästa praxis](https://experienceleague.adobe.com/docs/experience-manager-64/managing/managing-best-practices-checklist/best-practices.html){target="_blank"}
-* [Att tänka på när projekt är omfång](https://experienceleague.adobe.com/docs/experience-manager-screens/using/strategic-brief/pre-sales-considerations.html){target="_blank"}
-* [Leverans och planering](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/planning/delivery.html){target="_blank"}
-* [Prototyper för användarupplevelser](https://experienceleague.adobe.com/docs/experience-manager-screens/using/design-brief/prototypes.html){target="_blank"}
-* [Hantera juridiska kontrakt](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/legal.html){target="_blank"}
-* [Roller och projektfaser](https://experienceleague.adobe.com/docs/platform-learn/tutorials/intro-to-platform/roles-and-project-phases.html){target="_blank"}
-* [Bästa praxis för integrering mellan Adobe Experience Manager och Creative Cloud](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/aem-cc-integration-best-practices.html){target="_blank"}
-* [Hantera projekt - checklista för bästa praxis](https://experienceleague.adobe.com/docs/experience-manager-64/managing/managing-best-practices-checklist/best-practices.html){target="_blank"}
-* [Resurs](https://experienceleague.adobe.com/docs/commerce-operations/operational-playbook/people/resources.html){target="_blank"}
-* [Checklista - ytterligare referens](https://experienceleague.adobe.com/docs/experience-manager-64/managing/managing-best-practices-checklist/best-practices-further-reference.html){target="_blank"}
-
-
-**Avsnitt 4: Installation och implementering**
-
-* [AEM 6.4 Developing User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html){target="_blank"}
-* [AEM - riktlinjer och bästa praxis](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/dev-guidelines-bestpractices.html){target="_blank"}
-* [Komponenter - översikt](https://experienceleague.adobe.com/docs/experience-manager-64/developing/components/components.html){target="_blank"}
-* [Riktlinjer för komponenter](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/guidelines.html){target="_blank"}
-* [Komponenter](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/fundamentals/components.html){target="_blank"}
-* [Lokaliseringsfunktioner för kärnkomponenterna](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/get-started/localization.html){target="_blank"}
-* [Sökfunktion](https://experienceleague.adobe.com/docs/experience-manager-64/communities/authoring/search.html){target="_blank"}
-
-<br>
-
 **Gör ett övningsprov**
 
 {{practice-test}}
+
+**Handbok för testversioner**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/410" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Visa guiden Förbered prov
+</span>
+</a>
 
 +++
 

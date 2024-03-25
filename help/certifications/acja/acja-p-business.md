@@ -6,16 +6,21 @@ product: Customer Journey Analytics
 role: User
 badge: label="Prov AD0-E608" type="neutral"
 mini-toc-levels: 1
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+exl-id: b5981d32-dea5-4fb9-be3e-809ec890513f
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '482'
-ht-degree: 2%
+source-wordcount: '372'
+ht-degree: 0%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Customer Journey Analytics] Yrkesverksamma inom affärsverksamhet
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/375) ger dig en skräddarsydd väg genom testprocessen för certifiering, inklusive ingående studiematerial som du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
 
 ## Provbeskrivning {#exam-description}
 
@@ -102,37 +107,20 @@ Den idealiska minimala kandidaten är en analytiker med minst sex månaders erfa
 
 {{study-materials-intro}}
 
-**Avsnitt 1: Komponenter**
-
-* [Översikt över visualiseringar](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/freeform-analysis-visualizations.html){target="_blank"}
-* [Översikt över datavyer](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html){target="_blank"}
-* [Översikt över filter](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/cja-filters/filters-overview.html){target="_blank"}
-* [Inställningar för attribueringskomponent](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/attribution.html){target="_blank"}
-
-**Avsnitt 2: Rapportering**
-
-* [Översikt över utfall](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/fallout/fallout-flow.html){target="_blank"}
-* [Översikt över kalender- och datumintervall](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/cja-date-ranges/calendar.html){target="_blank"}
-* [Anslutningar - översikt](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/overview.html){target="_blank"}
-
-**Avsnitt 3: Distribution**
-
-* [Schemalägg projekt](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/curate-share/t-schedule-report.html){target="_blank"}
-* [Dela projekt](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/curate-share/share-projects.html){target="_blank"}
-* [Kuratprojekt](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/curate-share/curate.html){target="_blank"}
-
-**Avsnitt 4: Dataanalys**
-
-* [Använda Adobe Analytics rapportsvitsdata i kundresan](https://experienceleague.adobe.com/docs/analytics-platform/using/compare-aa-cja/cja-aa-comparison/aa-data-in-cja.html){target="_blank"}
-* [Analytics Attribution models and lookback windows](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=en%22%3ehttps://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html){target="_blank"}
-* [Venn](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html){target="_blank"}
-* [Filteroperatorer](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/cja-filters/operators.html){target="_blank"}
-
-<br>
-
 **Gör ett övningsprov**
 
 {{practice-test}}
+
+**Handbok för testversioner**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/375" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Visa guiden Förbered prov
+</span>
+</a>
 
 +++
 

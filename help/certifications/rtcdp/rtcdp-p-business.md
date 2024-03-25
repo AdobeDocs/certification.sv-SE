@@ -8,9 +8,9 @@ recommendations: disable, exclude
 badge: label="Prov AD0-E602" type="neutral"
 mini-toc-levels: 1
 exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
-source-git-commit: 6f85496f9e26cec2dac04f3ba9772ef6d7e185a7
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '422'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ ht-degree: 0%
 # Certifieringsresa för Adobe [!DNL Real-Time CDP] Yrkesverksamma inom affärsverksamhet
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/377) ger dig en skräddarsydd väg genom testprocessen för certifiering, inklusive ingående studiematerial som du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
 
 ## Provbeskrivning {#exam-description}
 
@@ -120,40 +124,20 @@ Upplev uppgifter som innefattar:
 
 {{study-materials-intro}}
 
-**Avsnitt 1: Segment och aktivering**
-
-* [Översikt över segmenteringstjänsten](https://experienceleague.adobe.com/docs/experience-platform/segmentation/home.html){target="_blank"}
-* [Skapa sekventiella segment](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-sequential-segments.html){target="_blank"}
-* [Utvärdera och få tillgång till segmentresultaten](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/evaluate-a-segment.html){target="_blank"}
-* [Användargränssnittsguide för segmenteringstjänst](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/overview.html#scheduled-segmentation){target="_blank"}
-* [Översikt över destinationer](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.htmll?lang=sv){target="_blank"}
-* [Måltyper och -kategorier](https://experienceleague.adobe.com/docs/experience-platform/destinations/destination-types.html){target="_blank"}
-* [Aktivera målgruppsdata till exportmål för direktuppspelningsprofiler](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-streaming-profile-destinations.html){target="_blank"}
-* [Skapa en ny målanslutning](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html){target="_blank"}
-
-**Avsnitt 2: Identitet och datastyrning**
-
-* [Översikt över namnområde för identitet](https://experienceleague.adobe.com/docs/experience-platform/identity/namespaces.html?lang=sv){target="_blank"}
-* [Datastyrning - översikt](https://experienceleague.adobe.com/docs/experience-platform/data-governance/home.html){target="_blank"}
-
-**Avsnitt 3: Affärsanalys**
-
-* [Översikt över datainmatning](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html){target="_blank"}
-* [Övervaka dataflöden i Adobe [!DNL Experience Platform]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/monitoring/data-monitoring.html){target="_blank"}
-* [Privacy Service och Experience Cloud](https://experienceleague.adobe.com/docs/experience-platform/privacy/experience-cloud-apps.html){target="_blank"}
-* [Översikt över policytillämpning](https://experienceleague.adobe.com/docs/experience-platform/data-governance/enforcement/overview.html){target="_blank"}
-
-**Avsnitt 4: Scheman och profiler**
-
-* [XDM - systemöversikt](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=sv){target="_blank"}
-* [Översikt över kundprofiler i realtid](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/profile/profile-overview.html){target="_blank"}
-* [Användargränssnittshandbok för unionsschema](https://experienceleague.adobe.com/docs/experience-platform/profile/union-schemas/union-schema.html){target="_blank"}
-
-<br>
-
 **Gör ett övningsprov**
 
 {{practice-test}}
+
+**Handbok för testversioner**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/377" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Visa guiden Förbered prov
+</span>
+</a>
 
 +++
 

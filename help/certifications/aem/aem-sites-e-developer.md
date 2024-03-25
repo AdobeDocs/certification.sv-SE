@@ -7,16 +7,20 @@ role: Developer
 badge: label="Prov AD0-E134" type="neutral"
 mini-toc-levels: 1
 exl-id: 4b97177a-38aa-4082-95da-1e4c9962f3c8
-source-git-commit: dddfd2d13bd27666a4a17e4c8002b91b555381ee
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '561'
+source-wordcount: '496'
 ht-degree: 0%
 
 ---
 
-# Certifieringsresa för Adobe [!DNL Experience Manager Sites] Developer Expert
+# Certifieringsresa för Adobe [!DNL Experience Manager] Sites Developer Expert
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/369) ger dig en skräddarsydd väg genom testprocessen för certifiering, inklusive ingående studiematerial som du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
 
 ## Provbeskrivning {#exam-description}
 
@@ -128,44 +132,20 @@ Dessutom bör du känna till följande tekniker och miljöer:
 
 {{study-materials-intro}}
 
-**Avsnitt 1: Konfiguration**
-
-* [Introduktion till Dispatcher](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/underlying-technology/introduction-dispatcher.html){target="_blank"}
-* [Dispatcher - översikt](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html){target="_blank"}
-* [AEM Assets videor och självstudiekurser](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html){target="_blank"}
-* [Resurshandbok](https://experienceleague.adobe.com/docs/experience-manager-64/assets/home.html){target="_blank"}
-* [Användarhandbok för distribution av AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html){target="_blank"}
-* [Användarhandbok för AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
-
-**Avsnitt 2: AEM**
-
-* [AEM 6.5 Developing User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
-* [Kom igång med AEM Sites - WKND självstudiekurs](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html){target="_blank"}
-* [Användarhandbok för redigering av AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
-* [Användarhandbok för AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
-* [[!DNL Experience Manager as a Cloud Service] dokumentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
-
-**Avsnitt 3: Bygg och driftsätta**
-
-* [Introduktion till kärnkomponenter](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html){target="_blank"}
-* [AEM 6.5 Developing User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
-* [Användarhandbok för AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
-* [Adobe [!DNL Experience Manager as a Cloud Service] Videor och Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html){target="_blank"}
-* [Användarhandbok för distribution av AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html){target="_blank"}
-
-**Avsnitt 4: Miljöunderhåll**
-
-* [[!DNL Experience Manager as a Cloud Service] dokumentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
-* [AEM Foundation videor och självstudiekurser](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html){target="_blank"}
-* [Driftsättning och underhåll](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/deploying/deploy.html){target="_blank"}
-* [Användarhandbok för AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
-* [Användarhandbok för distribution av AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html){target="_blank"}
-
-<br>
-
 **Gör ett övningsprov**
 
 {{practice-test}}
+
+**Handbok för testversioner**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/369" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Visa guiden Förbered prov
+</span>
+</a>
 
 +++
 

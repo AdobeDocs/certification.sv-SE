@@ -7,9 +7,9 @@ role: Developer
 badge: label="tentamen AD0-E717" type="neutral"
 mini-toc-levels: 1
 exl-id: 5dc85678-91f9-4865-b310-3460081b19f8
-source-git-commit: 549d260cf65e86479ee8f1c0cdaeb357cdc3db69
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '881'
+source-wordcount: '715'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,16 @@ ht-degree: 0%
 # Certifieringsresa för Adobe [!DNL Commerce] Developer Professional
 
 {{intro}}
+
+>[!NOTE]
+>
+>Nu finns kostnadsfria resurser på begäran som hjälper dig att förbereda dig för ditt prov:
+>
+>* **Kurs:** Ta en [utbildningskurs](https://app.rockinfo.com/courses/106) som innehåller förklaringar av viktiga begrepp, praktiska demonstrationer och kunskapsbaserade kontroller.
+>
+>* **Handbok för testversioner:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/382) ger en skräddarsydd väg genom testprocessen, inklusive det djupgående studiematerialet som du behöver för att lyckas med provet.
+>
+>Om du uppmanas att logga in använder du din Adobe ID.
 
 ## Provbeskrivning {#exam-description}
 
@@ -172,94 +182,31 @@ Dessutom bör du känna till följande tekniker och miljöer:
 
 {{study-materials-intro}}
 
-**Avsnitt 1: Arbeta med administratör**
-
-* [Layouter](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-overview.html){target="_blank"}
-* [Användarroller](https://docs.magento.com/user-guide/system/permissions-user-roles.html){target="_blank"}
-* [Introduktion till UI-komponenter](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/bk-ui_comps.html){target="_blank"}
-* [Konfigurationsfiler för distribution](https://devdocs.magento.com/guides/v2.4/config-guide/config/config-magento.html){target="_blank"}
-* [Utbyggbarhet och modularitet](https://devdocs.magento.com/guides/v2.4/architecture/extensibility.html){target="_blank"}
-
-**Avsnitt 2: Arkitektur**
-
-* [Utbyggbarhet och modularitet](https://devdocs.magento.com/guides/v2.4/architecture/extensibility.html){target="_blank"}
-* [Konfigurationsfiler för distribution](https://devdocs.magento.com/guides/v2.4/config-guide/config/config-magento.html){target="_blank"}
-* [Kommandoradsverktyg](https://devdocs.magento.com/guides/v2.4/config-guide/cli/config-cli.html){target="_blank"}
-* [Händelser och observatörer](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/events-and-observers.html){target="_blank"}
-* [Introduktion till administratörssystem](https://docs.magento.com/user-guide/system/tools.html){target="_blank"}
-* [Mallar](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/templates/template-overview.html){target="_blank"}
-* [Översättningar](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/translations/xlate.html){target="_blank"}
-* [URL-omskrivningar](https://docs.magento.com/user-guide/marketing/url-rewrite.html){target="_blank"}
-* [Konfigurera cachelagring](https://devdocs.magento.com/guides/v2.4/config-guide/cache.html){target="_blank"}
-* [Konfigurera och använda engelska](https://devdocs.magento.com/guides/v2.4/config-guide/varnish/config-varnish.html){target="_blank"}
-* [Lager och vyer för webbplatser](https://docs.magento.com/user-guide/stores/websites-stores-views.html){target="_blank"}
-* [Plats, butik och visningsomfång](https://docs.magento.com/user-guide/configuration/scope.html){target="_blank"}
-* [Skapa kategorier](https://docs.magento.com/user-guide/catalog/category-create.html){target="_blank"}
-* [Struktur för lagring och webbplats](https://docs.magento.com/user-guide/stores/stores-all-stores.html){target="_blank"}
-
-**Avsnitt 3: Grundläggande om digital marknadsföring och e-handel**
-
-* [[!DNL Commerce] Tutorials](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/overview.html){target="_blank"}
-* [Händelser och observatörer](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/events-and-observers.html){target="_blank"}
-* [Navigering i flera lager](https://docs.magento.com/user-guide/catalog/navigation-layered.html){target="_blank"}
-* [Produktattribut - översikt](https://docs.magento.com/user-guide/stores/attributes.html){target="_blank"}
-* [Översikt över deklarativt schema](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/declarative-schema/){target="_blank"}
-
-**Avsnitt 4: Layout/gränssnitt**
-
-* [Sidor](https://docs.magento.com/user-guide/cms/content-elements.html){target="_blank"}
-* [Layouter](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-overview.html){target="_blank"}
-* [Cascading Style Sheets](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/css-topics/css-overview.html){target="_blank"}
-* [Teman](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-overview.html){target="_blank"}
-* [Introduktion till JavaScript](https://devdocs.magento.com/guides/v2.4/javascript-dev-guide/javascript/js_overview.html){target="_blank"}
-* [Kodstandarder](https://devdocs.magento.com/guides/v2.4/coding-standards/bk-coding-standards.html){target="_blank"}
-* [Cachelagra sida](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/cache/page-caching.html){target="_blank"}
-
-**Avsnitt 5: Utcheckning och försäljning**
-
-* [Beställningshantering och -åtgärder](https://docs.magento.com/user-guide/sales/order-management.html){target="_blank"}
-* [Kundvagn](https://docs.magento.com/user-guide/sales/cart.html){target="_blank"}
-* [Kundprisregler](https://docs.magento.com/user-guide/marketing/price-rules-cart.html){target="_blank"}
-* [Anpassa utcheckning](https://devdocs.magento.com/guides/v2.4/howdoi/checkout/checkout_overview.html){target="_blank"}
-* [Vanliga [!DNL Commerce] Tabeller](https://docs.magento.com/mbi/data-analyst/data-warehouse-mgr/common-mage-tables.html){target="_blank"}
-* [Lägga till en ny betalningsintegrering](https://devdocs.magento.com/guides/v2.4/payments-integrations/base-integration/integration-intro.html){target="_blank"}
-* [Valuta](https://docs.magento.com/user-guide/stores/currency.html){target="_blank"}
-
-**Avsnitt 6: Katalog**
-
-* [Översikt över kategorier](https://docs.magento.com/user-guide/catalog/categories.html){target="_blank"}
-* [Skapa en produkt](https://docs.magento.com/user-guide/catalog/product-create.html){target="_blank"}
-* [Erbjudanden](https://docs.magento.com/user-guide/marketing/promotions.html){target="_blank"}
-* [Dynamiska block](https://docs.magento.com/user-guide/cms/dynamic-blocks.html){target="_blank"}
-* [Katalogprisregler](https://docs.magento.com/user-guide/marketing/price-rules-catalog.html){target="_blank"}
-* [Avancerade priser](https://docs.magento.com/user-guide/catalog/pricing.html){target="_blank"}
-
-**Avsnitt 7: Adobe [!DNL Commerce] Cloud Architecture**
-
-* [[!DNL Commerce] på molninfrastruktur](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html){target="_blank"}
-* [Cloud-arkitektur för [!DNL Commerce]](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/cloud-architecture.html){target="_blank"}
-* [Startarkitektur](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/starter-architecture.html){target="_blank"}
-* [Pro-arkitektur](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/pro-architecture.html){target="_blank"}
-* [Skalbar arkitektur](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/scaled-architecture.html){target="_blank"}
-
-**Avsnitt 8: Konfigurera/konfigurera Adobe [!DNL Commerce] Cloud**
-
-* [Översikt över konfigurationsfiler](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html){target="_blank"}
-* [Egenskaper för programkonfiguration](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html){target="_blank"}
-* [Konfigurera miljövariabler för distribution](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/configure-env-yaml.html){target="_blank"}
-* [Adobe [!DNL Commerce] om molnproduktbeskrivning](https://helpx.adobe.com/legal/product-descriptions/adobe-commerce-on-cloud.html){target="_blank"}
-
-**Avsnitt 9: [!DNL Commerce] CLI-verktyg i molnet (hantera del)**
-
-* [Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli.html){target="_blank"}
-* [Hantera grenar med CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/cli-branches.html){target="_blank"}
-* [Konfigurera tjänster](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/services-yaml.html){target="_blank"}
-
-<br>
-
 **Gör ett övningsprov**
 
 {{practice-test}}
+
+**Ta en kurs**
+
+{{take-course}}
+
+<a href="https://app.rockinfo.com/courses/106" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Ta en kurs
+</span>
+</a>
+
+**Handbok för testversioner**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/382" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Visa guiden Förbered prov
+</span>
+</a>
 
 +++
 

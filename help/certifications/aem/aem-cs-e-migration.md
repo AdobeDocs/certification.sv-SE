@@ -7,9 +7,9 @@ role: Developer
 badge: label="Prov AD0-E136" type="neutral"
 mini-toc-levels: 1
 exl-id: 64b53064-8280-405b-a5f7-b50264394b82
-source-git-commit: 712b9183c851a4ffc0b29f2120f3f5e8f2f7c11b
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '611'
+source-wordcount: '560'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 # Certifieringsresa för Adobe [!DNL Experience Manager] as a Cloud Service Migration Expert
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/373) ger dig en skräddarsydd väg genom testprocessen för certifiering, inklusive ingående studiematerial som du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
 
 ## Provbeskrivning {#exam-description}
 
@@ -140,39 +144,20 @@ Dessutom bör du känna till följande tekniker och miljöer:
 
 {{study-materials-intro}}
 
-**Avsnitt 1: Bedömning**
-
-* [[!DNL Experience Manager] as a Cloud Service användarhandbok](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
-* [Migreringshandbok för Adobe [!DNL Experience Manager] as a Cloud Service för partners](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started-partners.html){target="_blank"}
-* [Betydande ändringar i AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/aem-cloud-changes.html){target="_blank"}
-
-**Avsnitt 2: Design**
-
-* [Adobe [!DNL Experience Manager] as a Cloud Service dokumentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html){target="_blank"}
-* [Introduktion](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/content-delivery/caching.html){target="_blank"}
-
-**Avsnitt 3: Distribution**
-
-* [Testning av kodkvalitet](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/test-results/code-quality-testing.html){target="_blank"}
-* [Lägga till ett anpassat domännamn](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/custom-domain-names/add-custom-domain-name.html){target="_blank"}
-* [Konfigurera DNS-inställningar](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/custom-domain-names/configure-dns-settings.html){target="_blank"}
-
-**Avsnitt 4: Migrering**
-
-* [Köra verktyget Innehållsöverföring på en publiceringsinstans](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/content-transfer-tool/running-content-transfer-tool-publish-instance.html){target="_blank"}
-* [Krav för verktyget Innehållsöverföring](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/content-transfer-tool/prerequisites-content-transfer-tool.html){target="_blank"}
-* [Felsöka AEM as a Cloud Service med loggar](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/debugging/debugging-aem-as-a-cloud-service/logs.html){target="_blank"}
-
-**Avsnitt 5: Genomförande**
-
-* [Använda CI/CD-pipeline i Adobe Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/cloud-manager/use-the-cicd-pipeline-in-cloud-manager-for-aem.html){target="_blank"}
-* [Distribuera till AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/deploying/overview.html){target="_blank"}
-
-<br>
-
 **Gör ett övningsprov**
 
 {{practice-test}}
+
+**Handbok för testversioner**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/373" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Visa guiden Förbered prov
+</span>
+</a>
 
 +++
 

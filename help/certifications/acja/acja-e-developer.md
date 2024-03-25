@@ -7,9 +7,9 @@ product: Customer Journey Analytics
 badge: label="tentamen AD0-E604" type="neutral"
 mini-toc-levels: 1
 exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
-source-git-commit: 6f85496f9e26cec2dac04f3ba9772ef6d7e185a7
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '431'
+source-wordcount: '427'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 # Certifieringsresa för Adobe [!DNL Customer Journey Analytics] Developer Expert
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/376) ger dig en skräddarsydd väg genom testprocessen för certifiering, inklusive ingående studiematerial som du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
 
 ## Provbeskrivning {#exam-description}
 
@@ -119,34 +123,20 @@ Du bör ha 12-24 månaders erfarenhet i Adobe [!DNL Customer Journey Analytics]o
 
 {{study-materials-intro}}
 
-**Avsnitt 1: Anslutningar**
-
-* [Anslutningar - översikt](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/overview.html){target="_blank"}
-* [Skapa en anslutning](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html){target="_blank"}
-
-**Avsnitt 2: Datavyer**
-
-* [Översikt över datavyer](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html){target="_blank"}
-* [Komponentinställningar](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/overview.html){target="_blank"}
-
-**Avsnitt 3: Dataverifiering och felsökning**
-
-* [Översikt över datavyer](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html){target="_blank"}
-* [Skapa eller redigera en datavy](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html){target="_blank"}
-* [Komponentinställningar](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/overview.html){target="_blank"}
-* [Standard, komponentreferens](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-reference.html){target="_blank"}
-
-**Avsnitt 4: Rapportering och aktivering**
-
-* [Visualiseringar - översikt](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/freeform-analysis-visualizations.html){target="_blank"}
-* [Analysis Workspace - översikt](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/home.html){target="_blank"}
-* [Översikt över datavyer](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html){target="_blank"}
-
-<br>
-
 **Gör ett övningsprov**
 
 {{practice-test}}
+
+**Handbok för testversioner**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/376" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Visa guiden Förbered prov
+</span>
+</a>
 
 +++
 

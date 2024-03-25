@@ -7,9 +7,9 @@ role: Developer
 badge: label="Prov AD0-E127" type="neutral"
 mini-toc-levels: 1
 exl-id: 7d265887-c32f-4931-ba80-40ffde12df51
-source-git-commit: 6f85496f9e26cec2dac04f3ba9772ef6d7e185a7
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '567'
+source-wordcount: '508'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 # Certifieringsresa för Adobe [!DNL Experience Manager Forms] Backend Developer Professional
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/367) ger dig en skräddarsydd väg genom testprocessen för certifiering, inklusive ingående studiematerial som du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
 
 ## Provbeskrivning {#exam-description}
 
@@ -130,40 +134,27 @@ Du bör känna till följande tekniker och miljöer:
 
 {{study-materials-intro}}
 
-**Avsnitt 1: Skapa och hantera Forms**
+**Handbok för testversioner**
 
-* [Adobe Experience Manager 6.5 Forms Guide](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html){target="_blank"}
-* [AEM Forms dataintegrering](https://experienceleague.adobe.com/docs/experience-manager-65/forms/form-data-model/data-integration.html#data-integration-overview){target="_blank"}
-* [AEM Forms självstudiekurser och videofilmer](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html){target="_blank"}
-* [AEM 6.5 Developing User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
+{{exam-prep-guide}}
 
-**Avsnitt 2: Processer och arbetsflöden**
+<a href="https://app.rockinfo.com/courses/playScorm/367" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-* [Adobe Experience Manager 6.5 Forms Guide](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html){target="_blank"}
-* [Adobe Experience Manager 6.4 Forms Guide](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html){target="_blank"}
-* [Hantera slutpunkter](https://help.adobe.com/en_US/AEMForms/6.1/AdminHelp/WS92d06802c76abadb-5145d5d12905ce07e7-7ff6.2.html#WS92d06802c76abadb1c01fa7512905cdf2c9-7fd9.2){target="_blank"}
-
-**Avsnitt 3: Administration och felsökning**
-
-* [Felsöka installationsproblem med loggfiler | CREATIVE CLOUD](https://helpx.adobe.com/creative-cloud/kb/troubleshoot-install-logs-cc.html){target="_blank"}
-* [AEM 6.4 Handbok för administrationsanvändare](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html){target="_blank"}
-* [Versionsinformation om Adobe Experience Manager 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/home.html){target="_blank"}
-* [Adobe Experience Manager 6.5 Forms Guide](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html){target="_blank"}
-* [Dispatcher - översikt](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html){target="_blank"}
-* [Användarhandbok för redigering av AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
-
-**Avsnitt 4: API-slutpunkter och integreringar**
-
-* [as a Cloud Service dokumentation för Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
-* [Adobe Experience Manager 6.4 Forms Guide](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html){target="_blank"}
-
-<br>
+<span class="spectrum-Button-label has-no-wrap">
+   Visa guiden Förbered prov
+</span>
+</a>
 
 **Exempelfrågor**
 
 {{sample-questions}}
 
-[Visa exempelfrågor](https://scorpion.caveon.com/launchpad/ad4-e127-adobe-experience-manager-backend-forms-developer-practice-exam){target="_blank"}
+<a href="https://scorpion.caveon.com/launchpad/ad4-e127-adobe-experience-manager-backend-forms-developer-practice-exam" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Visa exempelfrågor
+</span>
+</a>
 
 +++
 

@@ -7,16 +7,20 @@ role: User
 badge: label="Prov AD0-E212" type="neutral"
 mini-toc-levels: 1
 exl-id: ab0b2e4d-5f24-4b78-bdef-2a6b0aaa53ec
-source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '582'
-ht-degree: 5%
+source-wordcount: '505'
+ht-degree: 0%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Analytics] Yrkesverksamma inom affärsverksamhet
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/391) ger dig en skräddarsydd väg genom testprocessen för certifiering, inklusive ingående studiematerial som du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
 
 ## Provbeskrivning {#exam-description}
 
@@ -125,37 +129,27 @@ Du bör ha minst tre månaders erfarenhet av [!DNL Adobe Analytics] och följand
 
 {{study-materials-intro}}
 
-**Avsnitt 1: Affärsanalys**
+**Handbok för testversioner**
 
-* [Användarhandbok om Analytics-verktyg](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
-* [Användarhandbok för Analytics-komponenter](https://experienceleague.adobe.com/docs/analytics/components/home.html){target="_blank"}
-* [Implementering [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
-* [Hjälp med Data Workbench](https://experienceleague.adobe.com/docs/data-workbench/using/home.html){target="_blank"}
+{{exam-prep-guide}}
 
-**Avsnitt 2: Rapportering och statuskontroll för projekt**
+<a href="https://app.rockinfo.com/courses/playScorm/391" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-* [Användarhandbok om Analytics Admin](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
-* [Användarhandbok om Analytics-verktyg](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
-* [Visualiseringsöversikt](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html#quick-viz){target="_blank"}
-* [Användarhandbok för Analytics-komponenter](https://experienceleague.adobe.com/docs/analytics/components/home.html){target="_blank"}
-* [Användarhandbok om Customer Journey Analytics](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html){target="_blank"}
-
-**Avsnitt 3: Segmentering och beräknade värden**
-
-* [Användarhandbok för Analytics-komponenter](https://experienceleague.adobe.com/docs/analytics/components/home.html){target="_blank"}
-
-**Avsnitt 4: Allmän verktygsinformation och felsökning**
-
-* [Implementering [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
-* [Användarhandbok för Analytics-komponenter](https://experienceleague.adobe.com/docs/analytics/components/home.html){target="_blank"}
-
-<br>
+<span class="spectrum-Button-label has-no-wrap">
+   Visa guiden Förbered prov
+</span>
+</a>
 
 **Exempelfrågor**
 
 {{sample-questions}}
 
-[Visa exempelfrågor](https://scorpion.caveon.com/launchpad/ad0-e212-adobe-analytics-business-practitioner-professional-copy-th4xdu){target="_blank"}
+<a href="https://scorpion.caveon.com/launchpad/ad0-e212-adobe-analytics-business-practitioner-professional-copy-th4xdu" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Visa exempelfrågor
+</span>
+</a>
 
 +++
 

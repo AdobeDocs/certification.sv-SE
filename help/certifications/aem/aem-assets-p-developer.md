@@ -7,9 +7,9 @@ role: Developer
 badge: label="Prov AD0-E129" type="neutral"
 mini-toc-levels: 1
 exl-id: 710f6c8b-9a6c-445e-b831-a891b559f208
-source-git-commit: 31a239ac92392d84d8307f9f298b9904234d167d
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '493'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 # Certifieringsresa för Adobe [!DNL Experience Manager] Assets Developer Professional
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/364) ger dig en skräddarsydd väg genom testprocessen för certifiering, inklusive ingående studiematerial som du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
 
 ## Provbeskrivning {#exam-description}
 
@@ -137,44 +141,20 @@ Dessutom bör du ha erfarenhet av följande tekniker och miljöer:
 
 +++Steg 2: Förbered dig för provet
 
-**Studiematerial**
-
-{{study-materials-intro}}
-
-**Avsnitt 1: Resursarbetsflöden**
-
-* [Skapa arbetsflödesmodeller](https://experienceleague.adobe.com/docs/experience-manager-64/developing/extending-aem/extending-workflows/workflows-models.html#sync-your-workflow-generate-a-runtime-model){target="_blank"}
-* [Resurshandbok](https://experienceleague.adobe.com/docs/experience-manager-64/assets/home.html){target="_blank"}
-
-**Avsnitt 2: Resursorganisation och resurskonsol**
-
-* [AEM Assets videor och självstudiekurser](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html){target="_blank"}
-* [Sök efter ansikten](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/search-facets.html#restoring-default-search-facets){target="_blank"}
-* [Resursrapporter](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/asset-reports.html){target="_blank"}
-
-**Avsnitt 3: Metadata för tillgångar**
-
-* [Metadata-scheman](https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/metadata-schemas.html#default-metadata-schema-forms){target="_blank"}
-* [Förstå metadatabegrepp](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-concepts.html){target="_blank"}
-* [Metadataprofiler](https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/metadata-profiles.html#:~:text=Add%20a%20metadata%20profile.%20Tryck på%20eller%20klicka%20the och%20configure%20its%20properties%20in%20the%20Settings%20tab.){target="_blank"}
-
-**Avsnitt 4: Tillgångstyper**
-
-* [Hantera videomaterial](https://experienceleague.adobe.com/docs/experience-manager-64/assets/managing/managing-video-assets.html#uploading-and-previewing-video-assets){target="_blank"}
-* [Modeller för innehållsfragment](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-models.html#creating-a-content-fragment-model){target="_blank"}
-* [Variationer - innehåll för redigeringsfragment](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-variations.html#managing-variations){target="_blank"}
-
-**Avsnitt 5: Tillgångsfunktioner**
-
-* [Översikt [!DNL Experience Manager] Assets Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html){target="_blank"}
-* [Filformat som stöds](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-supported-formats.html){target="_blank"}
-* [Dynamic Media videoprofiler](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/video-profiles.html){target="_blank"}
-
-<br>
-
 **Gör ett övningsprov**
 
 {{practice-test}}
+
+**Handbok för testversioner**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/364" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Visa guiden Förbered prov
+</span>
+</a>
 
 +++
 

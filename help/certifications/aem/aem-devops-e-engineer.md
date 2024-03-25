@@ -7,9 +7,9 @@ role: Developer
 badge: label="Prov AD0-E124" type="neutral"
 mini-toc-levels: 1
 exl-id: 9cfb51b0-9ab8-46fb-a111-434c13e4affa
-source-git-commit: b85f78f953bf07135a2c77680b9015f7a8d17990
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '686'
+source-wordcount: '599'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 # Certifieringsresa för Adobe Experience Manager DevOps Engineer Expert
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/370) ger dig en skräddarsydd väg genom testprocessen för certifiering, inklusive ingående studiematerial som du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
 
 ## Provbeskrivning {#exam-description}
 
@@ -137,41 +141,17 @@ Dessutom bör du känna till följande tekniker och miljöer:
 
 {{study-materials-intro}}
 
-**Avsnitt 1: Konfigurera Adobe Experience Manager**
+**Handbok för testversioner**
 
-* [Grundläggande konfigurationskoncept](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/configuring/configuring.html){target="_blank"}
-* [AEM](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/troubleshoot.html){target="_blank"}
-* [Konfigurera OSGi i AEM](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-osgi.html){target="_blank"}
+{{exam-prep-guide}}
 
-**Avsnitt 2: Operate Cloud Manager och Cloud Manager API**
+<a href="https://app.rockinfo.com/courses/playScorm/370" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-* [Hantera miljöer](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-environments.html){target="_blank"}
-* [Komma igång med migreringsresan till AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started.html){target="_blank"}
-* [Integreringsöversikt för Adobe I/O](https://experienceleague.adobe.com/docs/places/using/web-service-api/adobe-i-o-integration.html){target="_blank"}
+<span class="spectrum-Button-label has-no-wrap">
+   Visa guiden Förbered prov
+</span>
+</a>
 
-**Avsnitt 3: Konfigurera webbproxyinfrastrukturen**
-
-* [Dispatcher Configurations](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/getting-started/dispatcher-configurations.html){target="_blank"}
-* [Cacheprestanda](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/troubleshooting-aem-forms-cloud-service/troubleshooting-caching-performance.html){target="_blank"}
-
-**Avsnitt 4: Bygg och driftsätta**
-
-* [Koddistribution](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/using/code-deployment.html){target="_blank"}
-* [Konfigurera produktionsförlopp](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/using/pipelines/production-pipelines.html){target="_blank"}
-* [Så här arbetar du med paket](https://experienceleague.adobe.com/docs/experience-manager-64/administering/contentmanagement/package-manager.html){target="_blank"}
-* [AEM projektstruktur](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html){target="_blank"}
-
-**Avsnitt 5: Övervaka och rapportera kvalitetsmätningar**
-
-* [Övervaka och underhålla AEM](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/monitoring-and-maintaining.html#using-rlog-jar-to-find-requests-with-long-duration-times){target="_blank"}
-* [Grov dag: Lägga till flera instanser av samma test](https://experienceleague.adobe.com/docs/experience-manager-65/developing/testing/tough-day.html#adding-multiple-instances-of-the-same-test){target="_blank"}
-* [Introduktion till arkitekturen i AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/core-concepts/architecture.html){target="_blank"}
-* [Automatisk skalning](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html#autoscaling){target="_blank"}
-
-**Avsnitt 6: Driva Admin Console**
-
-* [IMS-stöd för AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/security/ims-support.html#accessing-cloud-manager){target="_blank"}
-* [Användargrupper och AEM för Adobe IMS](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/adobe-ims-user-groups.html){target="_blank"}
 
 +++
 

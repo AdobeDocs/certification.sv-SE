@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="Prov AD0-E117" type="neutral"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: 2572f234a1a51667cfc584607c50af6bd14c0c8d
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '949'
+source-wordcount: '639'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 # Certifieringsresa för Adobe [!DNL Experience Manager Sites] Architect Master
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/374) ger dig en skräddarsydd väg genom testprocessen för certifiering, inklusive ingående studiematerial som du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
 
 ## Provbeskrivning {#exam-description}
 
@@ -139,91 +143,27 @@ Dessutom bör du kunna utföra följande uppgifter:
 
 {{study-materials-intro}}
 
-**Avsnitt 1: Upptäckt**
+**Handbok för testversioner**
 
-* [AEM 6.5 Developing User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
-* [Resurshandbok](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html){target="_blank"}
-* [AEM 6.4 Mobile User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/mobile/home.html){target="_blank"}
-* [AEM Assets videor och självstudiekurser](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html){target="_blank"}
-* [[!DNL Experience Manager as a Cloud Service] dokumentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
-* [Adobe [!DNL Experience Manager] 6.5 Communities Guide](https://experienceleague.adobe.com/docs/experience-manager-65/communities/home.html){target="_blank"}
-* [AEM Sites videor och självstudiekurser](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
-* [AEM 6.5 Handbok för användarhantering](https://experienceleague.adobe.com/docs/experience-manager-65/communities/home.html){target="_blank"}
-* [Vi presenterar AEM som en molntjänst](https://www.jetteroheller.com/introducing-aem-as-a-cloud-service/){target="_blank"}
-* [Introduktion till Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html){target="_blank"}
-* [AEM Foundation videor och självstudiekurser](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html){target="_blank"}
-* [Introduktion till HTTP/2](https://developers.google.com/web/fundamentals/performance/http2){target="_blank"}
-* [Översikt över taggar](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=sv){target="_blank"}
-* [Komma igång med AEM och Adobe Target](https://experienceleague.adobe.com/docs/experience-manager-learn/aem-target-tutorial/overview.html){target="_blank"}
+{{exam-prep-guide}}
 
-**Avsnitt 2: Lösningsdesign**
+<a href="https://app.rockinfo.com/courses/playScorm/374" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-* [AEM Assets videor och självstudiekurser](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html){target="_blank"}
-* [SPA/SEO: A Single-Page App Guide to Google 1st Page](https://snipcart.com/spa-seo){target="_blank"}
-* [Sling Context-Aware configuration](https://cqdump.wordpress.com/2018/04/24/sling-context-aware-configuration/){target="_blank"}
-* [Konferenssamtal: Sling Context-Aware Configuration](https://adapt.to/2016/en/schedule/sling-context-aware-configuration.html){target="_blank"}
-* [AEM Sites videor och självstudiekurser](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
-* [Visa/dölj sidegenskaper baserat på mall i AEM 6.4](https://blogs.perficient.com/2019/01/03/how-to-show-hide-page-properties-based-on-page-template-in-aem-6-4/){target="_blank"}
-* [AEM Bevilja anpassade återgivningsvillkor](https://www.nateyolles.com/blog/2016/07/aem-granite-custom-render-conditions){target="_blank"}
-* [Förhindra XSS i React Applications](https://dev.to/spukas/preventing-xss-in-react-applications-5f5j){target="_blank"}
-* [Användarhandbok för AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
-* [AEM 6.4 Mobile User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/mobile/home.html){target="_blank"}
-* [Introduktion till kärnkomponenter](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html){target="_blank"}
-* [Användarhandbok för redigering av AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
-* [AEM Sites videor och självstudiekurser](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
-* [AEM Screens bästa praxis](https://experienceleague.adobe.com/docs/experience-manager-screens/using/about-guide.html){target="_blank"}
-* [Hjälpdokument för Adobe](https://helpx.adobe.com/se/enterprise/using/adobe-asset-link.html){target="_blank"}
-* [AEM 6.5 Forms Guide](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html){target="_blank"}
-* [Användarhandbok för AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
-* [Dispatcher - översikt](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html){target="_blank"}
-* [Rensa Dispatcher Cache i AEM](https://www.axamit.com/blog/adobe/dispatcher-4#:~:text=At%20the%20low%20level%20dispatcher,the%20root%20of%20htdocs%20directory.){target="_blank"}
-* [AEM Cloud Service Dispatcher Converter](https://github.com/adobe/aem-cloud-service-dispatcher-converter){target="_blank"}
-* [[!DNL Experience Manager as a Cloud Service] Ökning](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
-* [HTML-guide](https://experienceleague.adobe.com/docs/experience-manager-htl/content/overview.html){target="_blank"}
-* [[!DNL AEM Sites as a Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/home.html){target="_blank"}
-* [Användarhandbok för distribution av AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html){target="_blank"}
-
-**Avsnitt 3: Genomförande**
-
-* [Användarhandbok för distribution av AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html){target="_blank"}
-* [Adobe Enterprise Documentation](https://experienceleague.adobe.com/docs/){target="_blank"}
-* [Adobe [!DNL Experience Manager] översikt över datorprogram](https://experienceleague.adobe.com/docs/experience-manager-desktop-app/using/introduction.html){target="_blank"}
-* [AEM Foundation Videos och Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html){target="_blank"}
-* [Identitetstyper på Adobe Admin Console](https://helpx.adobe.com/ca/enterprise/using/identity.html){target="_blank"}
-* [Dispatcher - översikt](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html){target="_blank"}
-* [AEM Sites Videos och Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
-* [Introduktion till Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html){target="_blank"}
-* [Adobe Target Guide](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
-* [Användarhandbok för redigering av AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
-* [Resurshandbok](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html){target="_blank"}
-* [AEM Assets Videos och Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html){target="_blank"}
-* [Användarhandbok för distribution av AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html){target="_blank"}
-* [Experience Manager as a Cloud Service Overview](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
-
-
-**Avsnitt 4: Tillgångstyper**
-
-* [Användarhandbok för AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
-* [Oak tarMK-minnesmappade filer](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/oak-tarmk-memory-mapped-files/td-p/218220){target="_blank"}
-* [Dispatcher - översikt](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html){target="_blank"}
-* [Apache Sling: Mappningar för resursupplösning](https://sling.apache.org/documentation/the-sling-engine/mappings-for-resource-resolution.html){target="_blank"}
-* [AEM Sök jämfört med Solr-sökning](https://blog.3sharecorp.com/aem-search-vs.-solr-search){target="_blank"}
-* [TARMK: Fakta och figurer](https://adapt.to/content/dam/adaptto/production/presentations/2017/adaptTo2017-TarMK-Facts-and-Figures-Michael-Duerig-Valentin-Olteanu-notes.pdf/_jcr_content/renditions/original./adaptTo2017-TarMK-Facts-and-Figures-Michael-Duerig-Valentin-Olteanu-notes.pdf){target="_blank"}
-* [Introduktion till Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html){target="_blank"}
-* [Cloud Manager: Komma igång](https://developer.adobe.com/experience-cloud/cloud-manager/guides/getting-started/){target="_blank"}
-* [CQBufferedImageCache använder heap under överföring av tillgångar](https://helpx.adobe.com/experience-manager/kb/cqbufferedimagecache-consumes-heap-during-asset-uploads.html){target="_blank"}
-* [Resurshandbok](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html){target="_blank"}
-* [AEM Dispatcher Cache - självstudiekurs](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/overview.html){target="_blank"}
-* [Lucene-index](https://jackrabbit.apache.org/oak/docs/query/lucene.html){target="_blank"}
-* [AEM 6.4 Developing User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html){target="_blank"}
-
-<br>
+<span class="spectrum-Button-label has-no-wrap">
+   Visa guiden Förbered prov
+</span>
+</a>
 
 **Exempelfrågor**
 
 {{sample-questions}}
 
-[Visa exempelfrågor](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ycpz52/ad-q-e117-readiness-questionnaire-for-adobe-aem-architect-master-exam){target="_blank"}
+<a href="https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ycpz52/ad-q-e117-readiness-questionnaire-for-adobe-aem-architect-master-exam" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Visa exempelfrågor
+</span>
+</a>
 
 +++
 
