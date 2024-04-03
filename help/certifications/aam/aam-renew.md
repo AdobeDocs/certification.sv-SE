@@ -7,9 +7,9 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
-source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
+source-git-commit: 856946800cb9911550c2c79555350e1f250d1665
 workflow-type: tm+mt
-source-wordcount: '1171'
+source-wordcount: '1714'
 ht-degree: 0%
 
 ---
@@ -36,15 +36,141 @@ Observera att om din certifiering upphör att gälla måste du göra om certifie
 
 >[!TAB Professional]
 
+## Adobe [!DNL Audience Manager] Yrkesmässig förnyelse - tentamen
+
+Du bör vara certifierad (inte utgånget) i:
+
+* Adobe [!DNL Audience Manager] Yrkesverksamma inom affärsverksamhet
+
+### Instruktioner för att förnya din certifiering:
+
+* **Steg 1**: Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}och sedan återgå till den här sidan
+* **Steg 2**: Granska testens mål och resurser
+* **Steg 3**: Ta och ta examen
+
+### Gör dig redo
+
+**Information om tentamen:**
+
+* Nivå: Professionell (0-12 månaders upplevelse)
+* Passing Score: 27/35
+* Tid: 70 minuter
+* Leverans: On-demand/icke-upphandling
+* Tillgängliga språk: engelska
+* Kostnad: KOSTNADSFRITT
+* Exempel-ID: AD5-E852 Adobe [!DNL Audience Manager] Yrkesmässig förnyelse - tentamen
+
+### Mål och tillämpningsområde**
+
+**Skapa och syndikera segment 32 %**
+
+* Identifiera sätt att använda första-, andra- och tredjepartsdata för målinriktning och analys
+* Beskriv den grundläggande processen för aktivering av affärs- eller kampanjmål
+* Differentiera metoderna för segmentaktivering
+* Identifiera olika typer av destinationer
+* Identifiera olika typer av källor
+
+**Skapa egna egenskaper 16 %**
+
+* Identifiera signaler, egenskaper, segment och målgrupper utifrån ett scenario
+* Identifiera användning av olika typer av egenskaper
+
+**Rapportering och mått 16 %**
+
+* Generera rapporter för att mäta aktiverings- eller kampanjmål utifrån ett scenario
+* Jämför målgrupper utifrån matchningsfrekvenser i ett scenario
+
+**Felsökning 10 %**
+
+* I ett scenario felsöker du inkommande data från olika källor och källtyper
+* Validera format för inkommande datafiler
+
+**Taxonomi 12 %**
+
+* Identifiera bästa praxis för strukturerad mappstruktur med hjälp av tydlig och konsekvent nomenklatur
+* Klassificera egenskaper och segment i mappar med enhetlig och tydlig nomenklatur
+
+**Profilsammanfogning, ID-synkronisering och Audience Marketplace 14 %**
+
+* Organisera användaregenskaper i en enda enhetlig profil för att skapa hushåll- eller enhetsbaserade målgrupper
+* Identifiera aktivering med Audience Marketplace
+
+### Förbered
+
+Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
+
+Här följer några förslag på resurser som hjälper dig att förbereda dig:
+
+**Avsnitt 1**
+
+* [Typer av insamlade data](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-types-collected.html?lang=en){target="_blank"}
+* [Datasäkerhet i Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-security.html){target="_blank"}
+* [Begäranden om dataintegritet](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/data-privacy-requests.html){target="_blank"}
+* [Översikt över Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html?lang=sv){target="_blank"}
+* [Vanliga frågor om kunddataflöden](https://experienceleague.adobe.com/docs/audience-manager/user-guide/faqs/faq-cdf.html){target="_blank"}
+* [Destinationsverktyget](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations-reference/destination-builder.html){target="_blank"}
+* [Målmakron definierade](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations-reference/destination-macros.html){target="_blank"}
+* [Aktivera målgrupper för att batchprofilera exportmål](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations.html?lang=en){target="_blank"}
+* [Lägg till nya enhetsbaserade mål](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/device-based/add-device-based-destinations.html?lang=en){target="_blank"}
+
+**Avsnitt 2**
+
+* [Förstå segment inom analys och Audience Manager](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/audience-analytics-workflow/aam-analytics-segments.html?lang=en){target="_blank"}
+* [Signaler](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-understanding-signals.html?lang=en){target="_blank"}
+* [Prefixkrav för nyckelvariabler](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-variable-prefixes.html?lang=en){target="_blank"}
+* [Trait Recommendations](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html?lang=en){target="_blank"}
+* [Skapa algoritmiska egenskaper](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/create-algorithmic-traits.html?lang=en){target="_blank"}
+
+**Avsnitt 3**
+
+* [Konverteringsrapporter](https://experienceleague.adobe.com/docs/analytics/technotes/ga-to-aa/reports/conversions-reports.html?lang=en){target="_blank"}
+* [Unikt användarområde](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-publishers/publisher-unique-reach.html?lang=en){target="_blank"}
+* [Annonsväxling](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-publishers/publisher-ad-unit-overlap.html?lang=en){target="_blank"}
+* [Förstå matchningsfrekvenser](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/data-activation/destinations-basics/understanding-match-rates.html?lang=en){target="_blank"}
+* [Orsaker till låg matchningsfrekvens för adresserbara målgrupper](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html?lang=en#low-match-rates){target="_blank"}
+* [Förstå ID-synkronisering och matchningsfrekvenser](https://experienceleague.adobe.com/docs/id-service/using/intro/match-rates.html?lang=en){target="_blank"}
+
+**Avsnitt 4**
+
+* [Statusrapport för introduktion: Om](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/onboarding-status-report.html?lang=en#onboarding-status-about){target="_blank"}
+* [Lista över datakällor och inställningar](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-sources/datasources-list-and-settings.html?lang=en){target="_blank"}
+* [Innehåll i inkommande datafil: syntax, ogiltiga tecken, variabler och exempel](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?lang=en){target="_blank"}
+
+**Avsnitt 5**
+
+* [Användningsexempel i Audience Manager](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/intro-to-audience-manager/audience-manager-use-cases.html?lang=en){target="_blank"}
+* [Skapa en egen taxonomi](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-a-trait-taxonomy.html?lang=en){target="_blank"}
+* [Klassificera egenskaper med en gemensam taxonomi](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-common-taxonomy.html?lang=en){target="_blank"}
+* [Skapa en segmenttaxonomi](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-a-segment-taxonomy.html?lang=en){target="_blank"}
+
+**Avsnitt 6**
+
+* [Allmänna användningsexempel för profilkopplingsregler](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rule-targeting-options.html?lang=en){target="_blank"}
+* [Översikt över regler för profilsammanslagning](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html?lang=en)
+* [Komma igång med profilkopplingsregler](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-start.html?lang=en){target="_blank"}
+* [Skapa, prissätta och hantera dataflöden](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-providers/marketplace-create-manage-feeds.html?lang=en){target="_blank"}
+* [Audience Marketplace](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace.html?lang=en){target="_blank"}
+
+### Förnya din certifiering
+
+Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} först. Klicka sedan på länken nedan för att förnya din certifiering.
+
+[!BADGE Ta Adobe [!DNL Audience Manager] Yrkesmässig förnyelse - tentamen - AD5-E852]{type=Informative url="https://www.certmetrics.com/adobe/support/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E852&amp;cid=358899 newtab=true"}
+
 >[!NOTE]
 >
->Professionell förnyelse kommer snart.
+>Det här provet är kostnadsfritt, öppet och obearbetat. Du får ta tentamen upp till tre gånger. Om du inte lyckas efter det tredje försöket måste du vänta **30 dagar** för att försöka igen. Om du inte följer reglerna kan certifieringen återkallas.
+
+
+
+
+<!--divider-->
 
 >[!TAB Expert]
 
 Du bör vara certifierad (inte utgånget) i:
 
-* Adobe Audience Manager Business Practizer-expert
+* Adobe Audience Manager Business Practitioner Expert
 
 ## Instruktioner för att förnya din certifiering:
 
