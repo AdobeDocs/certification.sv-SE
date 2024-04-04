@@ -7,9 +7,9 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
-source-git-commit: 856946800cb9911550c2c79555350e1f250d1665
+source-git-commit: 408319cc7072f063cbcdfdda84a019075defbc72
 workflow-type: tm+mt
-source-wordcount: '1714'
+source-wordcount: '1729'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ Observera att om din certifiering upphör att gälla måste du göra om certifie
 
 >[!TAB Professional]
 
-## Adobe [!DNL Audience Manager] Yrkesmässig förnyelse - tentamen
+### Adobe [!DNL Audience Manager] Yrkesmässig förnyelse - tentamen
 
 Du bör vara certifierad (inte utgånget) i:
 
@@ -60,9 +60,9 @@ Du bör vara certifierad (inte utgånget) i:
 * Kostnad: KOSTNADSFRITT
 * Exempel-ID: AD5-E852 Adobe [!DNL Audience Manager] Yrkesmässig förnyelse - tentamen
 
-### Mål och tillämpningsområde**
+### Mål och tillämpningsområde för tentamen
 
-**Skapa och syndikera segment 32 %**
+**Avsnitt 1: Skapa och syndikera segment (32 %)**
 
 * Identifiera sätt att använda första-, andra- och tredjepartsdata för målinriktning och analys
 * Beskriv den grundläggande processen för aktivering av affärs- eller kampanjmål
@@ -70,27 +70,27 @@ Du bör vara certifierad (inte utgånget) i:
 * Identifiera olika typer av destinationer
 * Identifiera olika typer av källor
 
-**Skapa egna egenskaper 16 %**
+**Section 2: Trait Creation (16%)**
 
 * Identifiera signaler, egenskaper, segment och målgrupper utifrån ett scenario
 * Identifiera användning av olika typer av egenskaper
 
-**Rapportering och mått 16 %**
+**Avsnitt 3: Rapportering och mätningar (16 %)**
 
 * Generera rapporter för att mäta aktiverings- eller kampanjmål utifrån ett scenario
 * Jämför målgrupper utifrån matchningsfrekvenser i ett scenario
 
-**Felsökning 10 %**
+**Avsnitt 4: Felsökning (10 %)**
 
 * I ett scenario felsöker du inkommande data från olika källor och källtyper
 * Validera format för inkommande datafiler
 
-**Taxonomi 12 %**
+**Avsnitt 5: Taxonomi (12 %)**
 
 * Identifiera bästa praxis för strukturerad mappstruktur med hjälp av tydlig och konsekvent nomenklatur
 * Klassificera egenskaper och segment i mappar med enhetlig och tydlig nomenklatur
 
-**Profilsammanfogning, ID-synkronisering och Audience Marketplace 14 %**
+**Avsnitt 6: Profilsammanslagning, ID-synkronisering och Audience Marketplace (14 %)**
 
 * Organisera användaregenskaper i en enda enhetlig profil för att skapa hushåll- eller enhetsbaserade målgrupper
 * Identifiera aktivering med Audience Marketplace
@@ -161,18 +161,13 @@ Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för h
 >
 >Det här provet är kostnadsfritt, öppet och obearbetat. Du får ta tentamen upp till tre gånger. Om du inte lyckas efter det tredje försöket måste du vänta **30 dagar** för att försöka igen. Om du inte följer reglerna kan certifieringen återkallas.
 
-
-
-
-<!--divider-->
-
 >[!TAB Expert]
 
 Du bör vara certifierad (inte utgånget) i:
 
 * Adobe Audience Manager Business Practitioner Expert
 
-## Instruktioner för att förnya din certifiering:
+### Instruktioner för att förnya din certifiering:
 
 * **Steg 1**: Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}och sedan återgå till den här sidan
 * **Steg 2**: Granska testens mål och resurser
@@ -188,9 +183,9 @@ Du bör vara certifierad (inte utgånget) i:
 * Leverans: On-demand/icke-upphandling
 * Tillgängliga språk: engelska
 * Kostnad: KOSTNADSFRITT
-* Exam ID: AD5-E826 - Expertförnyelse för Adobe Audience Manager Business Practitioner
+* Exam ID: AD5-E826 - Adobe Audience Manager Business Practitioner Expert Renewal Exam
 
-**Mål och tillämpningsområde för tentamen**
+### Mål och tillämpningsområde för tentamen
 
 **Avsnitt 1: Skapa och syndikera segment (25 %)**
 
@@ -229,7 +224,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 [!BADGE Exempelfrågor]{type=Informative url="https://sei.caveon.com/launchpad/ad4-e453-adobe-audience-manager-business-practitioner-sample-exam newtab=true"}
 
-**Resurser:**
+### Resurser:
 
 * [Adobe [!DNL Audience Manager] Produktdokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
 * [Stöd för Adobe - Experience Cloud-målgrupper](https://experienceleaguecommunities.adobe.com/t5/Adobe-Experience-Cloud-Audiences/ct-p/experience-cloud-audiences-community){target="_blank"}
@@ -249,11 +244,11 @@ Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för h
 
 >[!TAB Master]
 
-Du bör vara certifierad (inte utgånget) i:
+### Du bör vara certifierad (inte utgånget) i:
 
 * Adobe Audience Manager Architect Master
 
-## Instruktioner för att förnya din certifiering
+### Instruktioner för att förnya din certifiering
 
 * **Steg 1** - Granska provens mål
 * **Steg 2** - Granska resurserna
@@ -269,11 +264,11 @@ Du bör vara certifierad (inte utgånget) i:
 * Leverans: On-demand/icke-upphandling
 * Tillgängliga språk: engelska
 * Kostnad: KOSTNADSFRITT
-* Exempel-ID: AD5-E825 - Adobe Audience Manager Architect Master-förnyelse
+* Exempel-ID: AD5-E825 - Adobe Audience Manager Architect Master Renewal Exam
 
-**Tillämpningsområde och mål:**
+## Mål och omfattning för tentamen:
 
-Avsnitt 1: Implementeringsanalys (28 %)
+**Avsnitt 1: Implementeringsanalys (28 %)**
 
 * Bestäm hur ni kan vägleda och stödja implementeringen av AAM som en fristående produkt eller som en del av en molnlösning
 * Analysera alternativ för utgående destinationer och rekommendera en AAM implementeringsmetod
@@ -281,14 +276,14 @@ Avsnitt 1: Implementeringsanalys (28 %)
 * Identifiera funktioner som besökarprofilens visningsprogram, taggar, RBAC o.s.v. för att anpassa sig till affärsmålen
 * Bestäm hur du utformar och testar pixlar som behövs för att skapa segment och egenskaper
 
-Avsnitt 2: Lösningsdesign och Recommendations (17 %)
+**Avsnitt 2: Lösningsdesign och Recommendations (17 %)**
 
 * fastställa AAM baserat på kundens användningsmodell för målgrupp och aktivering
 * Tillämpa procedurmässiga koncept för att utnyttja lösningar för målgruppsidentitet för en komplett designarkitektur
 * Identifiera attribut och beteendedata och mappa dem till specifika affärsanvändningsfall
 * Tillämpa procedurbegrepp på designmappens taxonomi och namnkonvention
 
-Avsnitt 3: Segmentering och aktivering (31 %)
+**Avsnitt 3: Segmentering och aktivering (31 %)**
 
 * Använd procedurbegrepp för att skapa destinationer i [!DNL Audience Manager]
 * Identifiera signaler för att skapa regelbaserade, onboardbaserade och algoritmiska egenskaper
@@ -297,12 +292,12 @@ Avsnitt 3: Segmentering och aktivering (31 %)
 * Använda procedurbegrepp för att skapa en algoritmisk eller prediktiv modell
 * Bestämma segmenteringslogik baserat på användningsfall
 
-Avsnitt 4: Integritet och datastyrning (7 %)
+**Avsnitt 4: Integritet och datastyrning (7 %)**
 
 * Rekommendera [!DNL Audience Manager] funktioner som rör styrning, integritet och säkerhet
 * Identifiera policyer för kunddata som är i linje med gällande bestämmelser
 
-Avsnitt 5: Prestanda och rapportering (17 %)
+**Avsnitt 5: Prestanda och rapportering (17 %)**
 
 * Bestäm hur rapporter ska konfigureras i AAM för att samla in signaler, egenskaper och segmentprestanda enligt verksamhetskrav
 
