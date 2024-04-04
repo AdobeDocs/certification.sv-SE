@@ -7,7 +7,7 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
-source-git-commit: 408319cc7072f063cbcdfdda84a019075defbc72
+source-git-commit: 4259d28b4cb603fe1d0aa1d184b9f27ad1b8bd03
 workflow-type: tm+mt
 source-wordcount: '1729'
 ht-degree: 0%
@@ -36,17 +36,17 @@ Observera att om din certifiering upphör att gälla måste du göra om certifie
 
 >[!TAB Professional]
 
+## Instruktioner för att förnya din certifiering:
+
+* **Steg 1**: Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}och sedan återgå till den här sidan
+* **Steg 2**: Granska testens mål och resurser
+* **Steg 3**: Ta och ta examen
+
 ### Adobe [!DNL Audience Manager] Yrkesmässig förnyelse - tentamen
 
 Du bör vara certifierad (inte utgånget) i:
 
 * Adobe [!DNL Audience Manager] Yrkesverksamma inom affärsverksamhet
-
-### Instruktioner för att förnya din certifiering:
-
-* **Steg 1**: Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}och sedan återgå till den här sidan
-* **Steg 2**: Granska testens mål och resurser
-* **Steg 3**: Ta och ta examen
 
 ### Gör dig redo
 
@@ -163,15 +163,15 @@ Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för h
 
 >[!TAB Expert]
 
-Du bör vara certifierad (inte utgånget) i:
-
-* Adobe Audience Manager Business Practitioner Expert
-
-### Instruktioner för att förnya din certifiering:
+## Instruktioner för att förnya din certifiering:
 
 * **Steg 1**: Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}och sedan återgå till den här sidan
 * **Steg 2**: Granska testens mål och resurser
 * **Steg 3**: Ta och ta examen
+
+### Du bör vara certifierad (inte utgånget) i:
+
+* Adobe Audience Manager Business Practitioner Expert
 
 ### Gör dig redo
 
@@ -244,15 +244,15 @@ Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för h
 
 >[!TAB Master]
 
-### Du bör vara certifierad (inte utgånget) i:
-
-* Adobe Audience Manager Architect Master
-
-### Instruktioner för att förnya din certifiering
+## Instruktioner för att förnya din certifiering
 
 * **Steg 1** - Granska provens mål
 * **Steg 2** - Granska resurserna
 * **Steg 3** - Ta och bli godkänd på provet
+
+### Du bör vara certifierad (inte utgånget) i:
+
+* Adobe Audience Manager Architect Master
 
 ### Gör dig redo
 
