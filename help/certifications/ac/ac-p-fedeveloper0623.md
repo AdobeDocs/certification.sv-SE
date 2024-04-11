@@ -7,9 +7,9 @@ role: Developer
 badge: label="Prov AD0-E721" type="neutral"
 mini-toc-levels: 1
 exl-id: 9bf1ec2a-dcd0-4952-8b0b-d24dd714b739
-source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
+source-git-commit: 985b0e0ec864e4acdc68e2901551cc4ff1eaec76
 workflow-type: tm+mt
-source-wordcount: '646'
+source-wordcount: '706'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/384) ger dig en skräddarsydd väg genom testprocessen för certifiering, inklusive ingående studiematerial som du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
+>Nu finns kostnadsfria resurser på begäran som hjälper dig att förbereda dig för ditt prov:
+>
+>**Kurs**: Om du just har börjat eller behöver en ny uppgradering, ta [Adobe Commerce Foundations Course](https://app.rockinfo.com/courses/148) för att få förklaringar till viktiga begrepp, produktgenomgångar och kunskapsanalyser. Kursen ger en grund för de kunskaper du kan bygga vidare på i din certifieringsresa.
+>
+>**Handbok för testversioner:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/384) ger dig en skräddarsydd väg genom testprocessen för certifiering, inklusive ingående studiematerial som du behöver för att lyckas med denna certifiering.
+>
+>_Om du uppmanas att logga in använder du din Adobe ID._
 
 ## Provbeskrivning {#exam-description}
 
@@ -149,6 +155,17 @@ Dessutom bör du känna till följande tekniker:
 **Gör ett övningsprov**
 
 {{practice-test}}
+
+**Ta en kurs**
+
+{{take-course}}
+
+<a href="https://app.rockinfo.com/courses/148" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Ta en kurs i Adobe Commerce Foundations
+</span>
+</a>
 
 **Handbok för testversioner**
 

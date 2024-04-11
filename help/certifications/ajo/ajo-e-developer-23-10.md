@@ -6,9 +6,9 @@ product: Journey Optimizer
 role: Developer
 badge: label="Prov AD0-E606" type="neutral"
 exl-id: 61fa61d8-f08c-4198-aafc-1dda9e4aab87
-source-git-commit: bd08c54f5c17b9eb08becfbf5ba47925db8d4254
+source-git-commit: 985b0e0ec864e4acdc68e2901551cc4ff1eaec76
 workflow-type: tm+mt
-source-wordcount: '595'
+source-wordcount: '643'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,10 @@ ht-degree: 0%
 # Certifieringsresa för Adobe [!DNL Journey Optimizer] Developer Expert
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Ny kurs tillgänglig:** Kostnadsfritt, on-demand [Adobe Journey Optimizer Developer Expert Course](https://app.rockinfo.com/courses/147) innehåller förklaringar av viktiga begrepp, praktiska demonstrationer och kunskapsundersökningar. _Om du uppmanas att logga in använder du din Adobe ID._
 
 ## Provbeskrivning {#exam-description}
 
@@ -122,6 +126,19 @@ Adobe Journey Optimizer drivs av Experience Platform. De sökande som vill bli c
 **Studiematerial**
 
 {{study-materials-intro}}
+
+**Ta en kurs**
+
+{{take-course}}
+
+<a href="https://app.rockinfo.com/courses/147" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Ta en expertkurs i Adobe Journey Optimizer Developer
+</span>
+</a>
+
+**Studieresurser**
 
 **Avsnitt 1: Administration och konfiguration**
 

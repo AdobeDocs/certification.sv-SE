@@ -1,5 +1,5 @@
 ---
-source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
+source-git-commit: 985b0e0ec864e4acdc68e2901551cc4ff1eaec76
 workflow-type: tm+mt
 source-wordcount: '1800'
 ht-degree: 0%
@@ -227,9 +227,13 @@ Schemalägg din tentamen mellan söndag - torsdag kl. 17.00 - kl. 23.00 ET för 
 
 [Japanska instruktioner för schemaläggning](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
+<!--divider-->
+
 ## Gå en kostnadsfri kurs {#take-course}
 
 Den här kostnadsfria on-demand-kursen hjälper dig att förbereda dig för provet med förklaringar av viktiga begrepp, praktiska demonstrationer och kunskapsanalyser.
+
+<!--divider-->
 
 ## Handbok för testversioner {#exam-prep-guide}
 
