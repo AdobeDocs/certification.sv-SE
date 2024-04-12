@@ -7,7 +7,7 @@ role: Developer
 badge: label="Prov AD0-E123" type="neutral"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
-source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
+source-git-commit: 9ba37a3c2970eddc0c397c353bc7adc41e8c54ab
 workflow-type: tm+mt
 source-wordcount: '414'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >* **Kurs:** Ta en [utbildningskurs](https://app.rockinfo.com/courses/105) som innehåller förklaringar av viktiga begrepp, praktiska demonstrationer och kunskapsbaserade kontroller.
 >
->* **Handbok för testversioner:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/364) ger en skräddarsydd väg genom testprocessen, inklusive det djupgående studiematerialet som du behöver för att lyckas med provet.
+>* **Handbok för testversioner:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/381) ger en skräddarsydd väg genom testprocessen, inklusive det djupgående studiematerialet som du behöver för att lyckas med provet.
 >
 >Om du uppmanas att logga in använder du din Adobe ID.
 
@@ -130,7 +130,7 @@ Du bör vara programutvecklare och ha:
 
 {{exam-prep-guide}}
 
-<a href="https://app.rockinfo.com/courses/playScorm/364" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<a href="https://app.rockinfo.com/courses/playScorm/381" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    Visa guiden Förbered prov
