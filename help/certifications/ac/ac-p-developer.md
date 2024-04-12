@@ -7,7 +7,7 @@ role: Developer
 badge: label="tentamen AD0-E717" type="neutral"
 mini-toc-levels: 1
 exl-id: 5dc85678-91f9-4865-b310-3460081b19f8
-source-git-commit: 985b0e0ec864e4acdc68e2901551cc4ff1eaec76
+source-git-commit: a2b143073ab26b3667a7c82243607e713595c92e
 workflow-type: tm+mt
 source-wordcount: '754'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 >
 >Nu finns kostnadsfria resurser på begäran som hjälper dig att förbereda dig för ditt prov:
 >
->* **Kurser:** Ta [Adobe Commerce Developer Professional Course](https://app.rockinfo.com/courses/106) som innehåller förklaringar av viktiga begrepp, praktiska demonstrationer och kunskapsbaserade kontroller. Om du precis har börjat, [Adobe Commerce Foundations Course](https://app.rockinfo.com/courses/148) ger en grund för de kunskaper du kan bygga vidare på i din certifieringsresa.
+>* **Kurser:** Ta [Adobe Commerce Developer Professional Course](https://app.rockinfo.com/courses/92) som innehåller förklaringar av viktiga begrepp, praktiska demonstrationer och kunskapsbaserade kontroller. Om du precis har börjat, [Adobe Commerce Foundations Course](https://app.rockinfo.com/courses/148) ger en grund för de kunskaper du kan bygga vidare på i din certifieringsresa.
 >
 >* **Handbok för testversioner:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/382) ger en skräddarsydd väg genom testprocessen, inklusive det djupgående studiematerialet som du behöver för att lyckas med provet.
 >
@@ -197,7 +197,7 @@ Dessutom bör du känna till följande tekniker och miljöer:
 </span>
 </a>
 
-<a href="https://app.rockinfo.com/courses/106" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<a href="https://app.rockinfo.com/courses/92" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    Ta en kurs i Adobe Commerce Developer Professional
