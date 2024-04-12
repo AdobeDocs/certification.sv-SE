@@ -7,7 +7,7 @@ role: User
 badge: label="Prov AD0-E608" type="neutral"
 mini-toc-levels: 1
 exl-id: b5981d32-dea5-4fb9-be3e-809ec890513f
-source-git-commit: 985b0e0ec864e4acdc68e2901551cc4ff1eaec76
+source-git-commit: 60d6f81f208b1b4257ab5f808870a473328aec5f
 workflow-type: tm+mt
 source-wordcount: '435'
 ht-degree: 0%
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >Nu finns kostnadsfria resurser på begäran som hjälper dig att förbereda dig för ditt prov:
 >
->**Kurs:** Om du just har börjat eller behöver en ny uppgradering, ta [Adobe Experience Platform Foundations Course](https://app.rockinfo.com/courses/216) för att få förklaringar till viktiga begrepp, produktgenomgångar och kunskapsanalyser. Kursen ger en grund för de kunskaper du kan bygga vidare på i din certifieringsresa.
+>* **Kurs:** Om du just har börjat eller behöver en ny uppgradering, ta [Adobe Experience Platform Foundations Course](https://app.rockinfo.com/courses/216) för att få förklaringar till viktiga begrepp, produktgenomgångar och kunskapsanalyser. Kursen ger en grund för de kunskaper du kan bygga vidare på i din certifieringsresa.
 >
->**Handbok för testversioner:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/375) ger dig en skräddarsydd väg genom testprocessen för certifiering, inklusive ingående studiematerial som du behöver för att lyckas med denna certifiering.
+>* **Handbok för testversioner:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/375) ger dig en skräddarsydd väg genom testprocessen för certifiering, inklusive ingående studiematerial som du behöver för att lyckas med denna certifiering.
 >
 >_Om du uppmanas att logga in använder du din Adobe ID._
 
