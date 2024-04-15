@@ -2,9 +2,9 @@
 user-guide-title: Certifiering i Adobe
 breadcrumb-title: Certifiering i Adobe
 user-guide-description: Läs mer om [!DNL Experience Cloud] Certifiering på Adobe. Ta reda på vad du kan få ut av certifieringen.
-source-git-commit: 1ce319897956f6f83a541d11e60f8003b6dd37e4
+source-git-commit: 488418b73116cc626377d1611b41bdbee9bd8a97
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '253'
 ht-degree: 28%
 
 ---
@@ -67,7 +67,7 @@ ht-degree: 28%
          + [Utvecklare](/help/certifications/acs/acs-e-developer.md)
       + [Förnyelse](/help/certifications/acs/acs-renew.md)
    + Adobe [!DNL Commerce] {#ac}
-      + [Handelsöversikt](/help/certifications/ac/ac-overview.md)
+      + [Commerce - översikt](/help/certifications/ac/ac-overview.md)
       + Professional {#ac-professional}
          + [Yrkesverksam](/help/certifications/ac/ac-p-business.md)
          + [Utvecklare](/help/certifications/ac/ac-p-developer.md)
@@ -119,6 +119,8 @@ ht-degree: 28%
       + [Förnyelse](/help/certifications/rtcdp/rtcdp-renew.md)
    + Adobe [!DNL Journey Optimizer] {#ajo}
       + [Journey Optimizer - översikt](/help/certifications/ajo/ajo-overview.md)
+      + Professional {#ajo-professional}
+         + [Yrkesverksam](/help/certifications/ajo/ajo-p-business.md)
       + Expert {#ajo-expert}
          + [Utvecklare](/help/certifications/ajo/ajo-e-developer-23-10.md)
       + [Förnyelse](/help/certifications/ajo/ajo-renew.md)

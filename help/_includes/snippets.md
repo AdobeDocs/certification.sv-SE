@@ -1,7 +1,7 @@
 ---
-source-git-commit: 985b0e0ec864e4acdc68e2901551cc4ff1eaec76
+source-git-commit: 488418b73116cc626377d1611b41bdbee9bd8a97
 workflow-type: tm+mt
-source-wordcount: '1800'
+source-wordcount: '1804'
 ht-degree: 0%
 
 ---
@@ -231,7 +231,7 @@ Schemalägg din tentamen mellan söndag - torsdag kl. 17.00 - kl. 23.00 ET för 
 
 ## Gå en kostnadsfri kurs {#take-course}
 
-Den här kostnadsfria on-demand-kursen hjälper dig att förbereda dig för provet med förklaringar av viktiga begrepp, praktiska demonstrationer och kunskapsanalyser.
+Våra kostnadsfria, on-demand-kurser hjälper dig att förbereda dig för ditt prov. Kurserna kan innehålla förklaringar av viktiga begrepp, produktgenomgångar, praktiska demonstrationer och kunskapsanalyser.
 
 <!--divider-->
 
