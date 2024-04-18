@@ -7,7 +7,7 @@ role: Developer,Data Architect
 badge: label="Prov AD0-E605" type="neutral"
 mini-toc-levels: 1
 exl-id: 8b462656-09d0-49c9-a45e-eb57e29400df
-source-git-commit: 16ffac2b0619d0cdce85e6f73a45cff84a5e306b
+source-git-commit: 3f7a9210a5a23880773e8d1f02801f0295f91426
 workflow-type: tm+mt
 source-wordcount: '877'
 ht-degree: 0%
@@ -21,6 +21,18 @@ ht-degree: 0%
 ## Provbeskrivning {#exam-description}
 
 {{exam-description}}
+
+<br>
+
+### Provinformation {#exam-details}
+
+* Nivå: Expert (1-3 års erfarenhet)
+* Passing Score: 45/68
+* Tid: 136 min
+* Leverans: Bearbetad online (kräver kameraåtkomst)
+* Språk: Engelska
+* Kostnad: $225 (global) / $150 (Indien)
+* Exam ID: AD0-E605
 
 <br>
 
@@ -66,18 +78,6 @@ Du bör känna dig bekväm i dessa miljöer:
 
 * AEP
 * Edge Network
-
-<br>
-
-### Provinformation {#exam-details}
-
-* Nivå: Expert (1-3 års erfarenhet)
-* Passing Score: 45/68
-* Tid: 136 min
-* Leverans: Bearbetad online (kräver kameraåtkomst)
-* Språk: Engelska
-* Kostnad: $225 (global) / $150 (Indien)
-* Exam ID: AD0-E605
 
 <br>
 

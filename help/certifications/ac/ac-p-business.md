@@ -7,9 +7,9 @@ role: User
 badge: label="Prov AD0-E712" type="neutral"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: 985b0e0ec864e4acdc68e2901551cc4ff1eaec76
+source-git-commit: 3f7a9210a5a23880773e8d1f02801f0295f91426
 workflow-type: tm+mt
-source-wordcount: '535'
+source-wordcount: '563'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >Nu finns kostnadsfria resurser på begäran som hjälper dig att förbereda dig för ditt prov:
 >
->**Kurs**: Om du precis har börjat, [Adobe Commerce Foundations Course](https://app.rockinfo.com/courses/148) ger en grund för de kunskaper du kan bygga vidare på i din certifieringsresa.
+>* **Kurser**: Ta [Adobe Commerce Business Practitioner Professional Course](https://app.rockinfo.com/courses/105) för förklaringar av viktiga begrepp, praktiska demonstrationer och kunskapsbaserade kontroller. Om du precis har börjat, [Adobe Commerce Foundations Course](https://app.rockinfo.com/courses/148) ger en grund för de kunskaper du kan bygga vidare på i din certifieringsresa.
 >
->**Handbok för testversioner:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/383) ger dig en skräddarsydd väg genom testprocessen för certifiering, inklusive ingående studiematerial som du behöver för att lyckas med denna certifiering.
+>* **Handbok för testversioner:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/383) ger dig en skräddarsydd väg genom testprocessen för certifiering, inklusive ingående studiematerial som du behöver för att lyckas med denna certifiering.
 >
 >_Om du uppmanas att logga in använder du din Adobe ID._
 
@@ -148,23 +148,15 @@ Dessutom bör du ha en grundläggande förståelse för e-handelsupplevelsen och
 
 {{take-course}}
 
-<a href="https://app.rockinfo.com/courses/148" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+[Ta en kurs i Adobe Commerce Foundations](https://app.rockinfo.com/courses/148)
 
-<span class="spectrum-Button-label has-no-wrap">
-   Ta en kurs i Adobe Commerce Foundations
-</span>
-</a>
+[Ta Adobe Commerce Business Practitioner Professional Course](https://app.rockinfo.com/courses/105)
 
 **Handbok för testversioner**
 
 {{exam-prep-guide}}
 
-<a href="https://app.rockinfo.com/courses/playScorm/383" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Visa guiden Förbered prov
-</span>
-</a>
+[Visa guiden Förbered prov](https://app.rockinfo.com/courses/playScorm/383)
 
 +++
 

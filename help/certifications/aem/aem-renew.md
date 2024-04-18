@@ -6,9 +6,9 @@ product: Experience Manager
 role: User,Developer,Data Architect
 hidefromtoc: true
 exl-id: e7f1d21d-8e4a-4cbf-b1e5-379c194e0073
-source-git-commit: 0ed57ea2810ffabed39e9bfd9612b3df43c4cea4
+source-git-commit: 3f7a9210a5a23880773e8d1f02801f0295f91426
 workflow-type: tm+mt
-source-wordcount: '2111'
+source-wordcount: '2123'
 ht-degree: 0%
 
 ---
@@ -138,7 +138,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} först. Klicka på knappen nedan om du vill förnya certifieringen.
 
-[!BADGE Take the Adobe [!DNL Experience Manager]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E843 newtab=true"}
+[!BADGE Ta Adobe [!DNL Experience Manager] Yrkesmässig förnyelse - tentamen AD5-E843]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E843 newtab=true"}
 
 >[!NOTE]
 >
@@ -248,7 +248,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} först. Klicka på knappen nedan om du vill förnya certifieringen.
 
-[!BADGE Take the Adobe [!DNL Experience Manager]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E837 newtab=true"}
+[!BADGE Ta Adobe [!DNL Experience Manager] Site Developer Professional Renewal Exam AD5-E837]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E837 newtab=true"}
 
 >[!NOTE]
 >
@@ -356,7 +356,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} först. Klicka på knappen nedan om du vill förnya certifieringen.
 
-[!BADGE Take the Adobe [!DNL Experience Manager]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E850 newtab=true"}
+[!BADGE Ta Adobe [!DNL Experience Manager] Assets Developer Professional Renewal Exam AD5-E850]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E850 newtab=true"}
 
 >[!NOTE]
 >
@@ -371,7 +371,6 @@ Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för h
 * Adobe [!DNL Experience Manager Sites] Developer Expert
 * Adobe [!DNL Experience Manager Sites] Affärsexpert
 * Adobe [!DNL Experience Manager Sites] Architect Master
-* Adobe [!DNL Experience Manager Assets] Developer Expert
 * Adobe [!DNL Experience Manager] Dev/Ops-tekniker, expert
 * Adobe [!DNL Experience Manager Forms] Developer Expert
 
