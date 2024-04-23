@@ -6,9 +6,9 @@ product: Journey Optimizer
 role: Developer
 badge: label="tentamen AD0-E607" type="neutral"
 exl-id: bc0be483-80c0-4a54-9562-1c2e93501db0
-source-git-commit: d50dfa88269e422b67613528efaa9057205a8a44
+source-git-commit: cbb1cccdcf51f5d5ac7635e558fcf7e9dd012842
 workflow-type: tm+mt
-source-wordcount: '1112'
+source-wordcount: '1116'
 ht-degree: 0%
 
 ---
@@ -115,14 +115,14 @@ Kandidaterna ska också kunna
 
 {{exam-objectives}}
 
-**Avsnitt 1: Optimering av kampanjer och resor**
+**Avsnitt 1: Optimering av kampanjer och resor (48 %)**
 
 * Identifiera hur en kundresa byggs
 * Bestäm hur en kundresa ska valideras efter ett scenario
 * Ange hur kundresan ska utvärderas om ett scenario inträffar efter att en resa har körts
 * Identifiera när en enhetshändelse eller affärshändelse ska användas
 
-**Avsnitt 2: Offer decisioning**
+**Avsnitt 2: Offer decisioning (12 %)**
 
 * Identifiera hur man skapar en samling
 * Identifiera stadierna i offera decisioningen
@@ -131,7 +131,7 @@ Kandidaterna ska också kunna
 * I ett scenario kan du identifiera när offer decisioning eller personalisering ska användas i stor skala
 * I ett scenario kan du skilja mellan statiska och dynamiska erbjudanden
 
-**Avsnitt 3: Skapa innehåll**
+**Avsnitt 3: Innehållsredigering (20 %)**
 
 * Identifiera hur du använder grundläggande resurser
 * Identifiera hur personaliserade fält läggs till i e-postmeddelanden i ett scenario
@@ -141,7 +141,7 @@ Kandidaterna ska också kunna
 * Identifiera fragmenttyperna
 * Identifiera hur man skapar en e-postmall
 
-**Avsnitt 4: Foundations of AEP**
+**Avsnitt 4: Foundations of AEP (20 %)**
 
 * Bestäm när olika typer av data ska användas
 * Identifiera var profilattributen och målgruppsmedlemskapet ska granskas
