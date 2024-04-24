@@ -8,10 +8,10 @@ level: Experienced
 badge: label="Prov AD0-E454" type="neutral"
 mini-toc-levels: 1
 exl-id: 6f87f669-f3c2-4a5c-a5f3-e3e73b93cd55
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 0664d9332c10fb8beb16c830b639677a5b540244
 workflow-type: tm+mt
-source-wordcount: '615'
-ht-degree: 2%
+source-wordcount: '557'
+ht-degree: 0%
 
 ---
 
@@ -38,8 +38,6 @@ ht-degree: 2%
 <br>
 
 ### Målgrupp {#intended-audience}
-
-**Målgrupp:**
 
 * [!DNL Audience Manager] Konsult
 * Arkitekt med flera lösningar
@@ -139,26 +137,26 @@ Dessutom bör du kunna utföra följande uppgifter:
 
 **Avsnitt 1: Implementeringsanalys**
 
-* [[!DNL Audience Manager] Användarhandbok](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
-* [Analytics-integrering](https://experienceleague.adobe.com/docs/analytics/integration/home.html){target="_blank"}
+* [[!DNL Audience Manager] Guide](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
+* [Analysintegrering](https://experienceleague.adobe.com/docs/analytics/integration/home.html){target="_blank"}
 * [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
 
 **Avsnitt 2: Lösningsdesign och Recommendations**
 
-* [[!DNL Audience Manager] Användarhandbok](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
+* [[!DNL Audience Manager] Guide](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
 * [[!DNL Audience Manager] självstudier](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html){target="_blank"}
 
 **Avsnitt 3: Segmentering och aktivering**
 
-* [[!DNL Audience Manager] Användarhandbok](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
+* [[!DNL Audience Manager] Guide](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
 * [Adobe [!DNL Audience Manager]](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager/ct-p/adobe-audience-manager-community){target="_blank"}
 * [[!DNL Audience Manager] självstudier](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html){target="_blank"}
 
 **Avsnitt 4: Integritet och datastyrning**
 
-* [[!DNL Audience Manager] Användarhandbok](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
+* [[!DNL Audience Manager] Guide](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
 * [[!DNL Audience Manager] REST API](https://bank.demdex.com/portal/swagger/index.html#/Segments%20API){target="_blank"}
-* [Användarhandbok om Analytics Admin](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
+* [Administratörshandbok för analyser](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
 
 **Avsnitt 5: Prestanda och rapportering**
 

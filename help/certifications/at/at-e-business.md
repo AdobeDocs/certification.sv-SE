@@ -7,9 +7,9 @@ role: User
 badge: label="Prov AD0-E406" type="neutral"
 mini-toc-levels: 1
 exl-id: e907929f-b4a4-45e1-ba2d-f407f46d41c6
-source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
+source-git-commit: 0664d9332c10fb8beb16c830b639677a5b540244
 workflow-type: tm+mt
-source-wordcount: '948'
+source-wordcount: '961'
 ht-degree: 0%
 
 ---
@@ -37,6 +37,8 @@ ht-degree: 0%
 <br>
 
 ### Målgrupp {#intended-audience}
+
+De sökande som ska genomgå certifieringen är bland annat medlemmar i följande grupper/organisationer:
 
 * Optimering
 * Personalisering

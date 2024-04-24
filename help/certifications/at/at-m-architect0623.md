@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="Prov AD0-E409" type="neutral"
 mini-toc-levels: 1
 exl-id: 50ef4855-9cf7-4a00-a6f7-1138b32a9634
-source-git-commit: 31a239ac92392d84d8307f9f298b9904234d167d
+source-git-commit: 0664d9332c10fb8beb16c830b639677a5b540244
 workflow-type: tm+mt
-source-wordcount: '665'
+source-wordcount: '678'
 ht-degree: 0%
 
 ---
@@ -37,6 +37,8 @@ ht-degree: 0%
 <br>
 
 ### Målgrupp {#intended-audience}
+
+De sökande som ska genomgå certifieringen är bland annat medlemmar i följande grupper/organisationer:
 
 * Optimeringstekniker/arkitekt för konverteringsgrad
 * Tekniker/arkitekt för personalisering
