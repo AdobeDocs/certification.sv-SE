@@ -6,9 +6,9 @@ role: Developer
 badge: label="Prov AD0-E908" type="neutral"
 mini-toc-levels: 1
 exl-id: 960f97cf-f5bf-4a60-a4e7-c08d0c121e60
-source-git-commit: 1ce319897956f6f83a541d11e60f8003b6dd37e4
+source-git-commit: 511f30e814c2e1ab112f9abef9fef76338a2d1a4
 workflow-type: tm+mt
-source-wordcount: '842'
+source-wordcount: '886'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,10 @@ ht-degree: 0%
 # Certifieringsresa för Adobe [!DNL Workfront] Core Developer Professional
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Ny kurs tillgänglig:** The [Adobe Workfront Core Developer - Professionell kurs](https://app.rockinfo.com/courses/231) innehåller förklaringar av viktiga begrepp, praktiska demonstrationer och kunskapsundersökningar. _Om du uppmanas att logga in använder du din Adobe ID._
 
 ## Provbeskrivning {#exam-description}
 
@@ -51,10 +55,10 @@ ht-degree: 0%
 
 ### Minimal upplevelse {#minimum-experience}
 
-Adobe [!DNL Workfront] Core Developer Certified Professional har:
+Denna tentamen kräver inga kunskaper om kodning/programmering, men den kräver minst 3-6 månaders praktisk erfarenhet av att använda Adobe [!DNL Workfront]
 
-* Obs! Detta prov kräver ingen programmerings- eller kodkunskap.
-* Minst 3-6 månaders praktisk erfarenhet av användning av Adobe [!DNL Workfront]
+Kvalificerade sökande ska också ha
+
 * Upplevelse med Adobe [!DNL Workfront] funktionalitet och anslutningsmöjligheter genom intag, godkännande, planering, utförande och rapportering
 * Detaljerad förståelse för Adobe [!DNL Workfront] objekttyper, inklusive anpassade formulär och arbetsflöden för godkännande, mallar, varaktighet, arbetsinsats/planerade timmar
 * Detaljerad förståelse för Adobe [!DNL Workfront] Inställning, inklusive åtkomstnivåer, layoutmallar, projektinställningar och andra metoder för att göra slutanvändardesignen enkel
@@ -69,19 +73,19 @@ Adobe [!DNL Workfront] Core Developer Certified Professional har:
 
 {{exam-objectives}}
 
-**Avsnitt 1: Strategi och användning 23 %**
+**Avsnitt 1: Strategi och införande (23 %)**
 
 * Använd Portfolio och program
 * Använd begärandeköer
 * Använd anpassad Forms
 * Använd grundläggande godkännanden
 
-**Avsnitt 2: Budget och planering 11 %**
+**Avsnitt 2: Budget och planering (11 %)**
 
 * Använda resursplaneraren
 * Använd konfigurationerna för att ställa in en projektmall utifrån ett scenario/en uppsättning krav
 
-**Avsnitt 3: Användarupplevelse 25 %**
+**Avsnitt 3: Användarupplevelse (25 %)**
 
 * Illustrera metodtips för användarhantering när det gäller att skapa rätt användarupplevelse
 * Använd rätt inställningar för delning och åtkomsträttigheter i systemet om ett scenario inträffar
@@ -89,13 +93,13 @@ Adobe [!DNL Workfront] Core Developer Certified Professional har:
 * Uppvisa hur man skapar och använder tidrapporter
 * Beskriv syfte och värde för anslutningar, plugin-program och tillägg
 
-**Avsnitt 4: Mätvärden och rapportering 16 %**
+**Avsnitt 4: Mätvärden och rapportering (16 %)**
 
 * Beskriv grundläggande begrepp för att skapa, skicka och anpassa rapporter
 * Förklara hur du bygger och anpassar kontrollpaneler
 * Uppvisa hur man konfigurerar funktionella vyer av rapporter
 
-**Section 5: Execution 24%**
+**Section 5: Execution (24%)**
 
 * Uppvisa hur man ställer in arbetsflöden för godkännande och korrektur
 * Identifiera syftet med att skapa ett problem för ett projekt
@@ -209,6 +213,12 @@ Adobe [!DNL Workfront] Core Developer Certified Professional har:
 **Gör ett övningsprov**
 
 {{practice-test}}
+
+**Ta en kurs**
+
+{{take-course}}
+
+[Ta Adobe Workfront Core Developer - Professionell kurs](https://app.rockinfo.com/courses/231)
 
 +++
 

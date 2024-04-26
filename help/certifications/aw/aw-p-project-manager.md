@@ -6,9 +6,9 @@ role: Developer
 badge: label="Prov AD0-E903" type="neutral"
 mini-toc-levels: 1
 exl-id: 5bb372b4-6237-44f9-ac71-6093e2f0d03f
-source-git-commit: 712b9183c851a4ffc0b29f2120f3f5e8f2f7c11b
+source-git-commit: 511f30e814c2e1ab112f9abef9fef76338a2d1a4
 workflow-type: tm+mt
-source-wordcount: '779'
+source-wordcount: '823'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,10 @@ ht-degree: 0%
 # Certifieringsresa för Adobe [!DNL Workfront] Project Manager Professional
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Ny kurs tillgänglig:** The [Adobe Workfront Project Manager - Professionell kurs](https://app.rockinfo.com/courses/230) innehåller förklaringar av viktiga begrepp, praktiska demonstrationer och kunskapsundersökningar. _Om du uppmanas att logga in använder du din Adobe ID._
 
 ## Provbeskrivning {#exam-description}
 
@@ -181,6 +185,12 @@ Du borde ha:
 **Gör ett övningsprov**
 
 {{practice-test}}
+
+**Ta en kurs**
+
+{{take-course}}
+
+[Ta Adobe Workfront Project Manager - Professional - kurs](https://app.rockinfo.com/courses/230)
 
 +++
 
