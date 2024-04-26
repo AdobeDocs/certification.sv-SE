@@ -6,9 +6,9 @@ product: Journey Optimizer
 role: Developer
 badge: label="tentamen AD0-E607" type="neutral"
 exl-id: bc0be483-80c0-4a54-9562-1c2e93501db0
-source-git-commit: cbb1cccdcf51f5d5ac7635e558fcf7e9dd012842
+source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
 workflow-type: tm+mt
-source-wordcount: '1116'
+source-wordcount: '929'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,7 @@ ht-degree: 0%
 >* The [Adobe Experience Platform Foundations Course](https://app.rockinfo.com/courses/216) kommer att presentera Adobe Experience Cloud, en komplett uppsättning verktyg för digital marknadsföring som bygger på den enda plattform som är utformad för personalisering i stor skala.
 >* The [Adobe Journey Optimizer Foundations Course](https://app.rockinfo.com/courses/113) ger en grund för kunskaper om det här specifika programmet.
 >* The [Adobe Journey Optimizer Business Practitioner Professional Course](https://app.rockinfo.com/courses/107) bygger vidare på Foundations-kursen och hjälper dig att förbereda dig för ett certifieringsprov på professionell nivå.
+>* The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/588) ger en skräddarsydd väg genom testprocessen, inklusive det djupgående studiematerialet som du behöver för att lyckas med provet.
 >
 >_Om du uppmanas att logga in använder du din Adobe ID._
 
@@ -180,69 +181,15 @@ Kandidaterna ska också kunna
 [Ta en kurs i Adobe Journey Optimizer Foundations](https://app.rockinfo.com/courses/113){target="_blank"}
 [Ta Adobe Journey Optimizer Business Practitioner Professional Course](https://app.rockinfo.com/courses/107){target="_blank"}
 
-**Studieresurser**
-
-**Avsnitt 1**
-
-* [Om datakällor](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/configure-journeys/data-source-journeys/about-data-sources.html){target="_blank"}
-* [Använda en målgrupp i en resa](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/read-audience.html?){target="_blank"}
-* [Uppdatera profil](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/update-profiles.html){target="_blank"}
-* [Testa din resa](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/create-journey/testing-the-journey.html?){target="_blank"}
-* [Kom igång med innehållsexperiment](https://experienceleague.adobe.com/docs/journey-optimizer/using/campaigns/content-experiment/get-started-experiment.html){target="_blank"}
-* [Definiera resans egenskaper](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/create-journey/journey-gs.html?#change-properties){target="_blank"}
-* [Villkorsaktivitet](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/condition-activity.html?){target="_blank"}
-* [Skapa din första resa](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/create-journey/journey-gs.html?){target="_blank"}
-* [Allmänna händelser](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/general-events.html?){target="_blank"}
-* [Testa din resa](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/create-journey/testing-the-journey.html?){target="_blank"}
-* [Publicera din resa](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/create-journey/publishing-the-journey.html?){target="_blank"}
-* [Slutpunkt för segmentjobb](https://experienceleague.adobe.com/docs/experience-platform/segmentation/api/segment-jobs.html){target="_blank"}
-* [Introduktion till Audience Portal and Composition](https://experienceleague.adobe.com/docs/platform-learn/tutorials/audiences/introduction-to-audience-portal-and-composition.html?){target="_blank"}
-* [Kom igång med Live Report](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/live-report/live-report.html?){target="_blank"}
-* [Undertryckningslista](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/deliverability/suppression-list.html?){target="_blank"}
-* [Åtkomstresor](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/create-journey/journey-gs.html?#journey-access){target="_blank"}
-* [Avsluta en resa](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/end-journey.html?){target="_blank"}
-* [Fliken E-post](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/global-report/journey-global-report.html?#email-global){target="_blank"}
-* [Kom igång med global rapport](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/global-report/global-report.html?){target="_blank"}
-* [Användningsfall - Affärshändelse](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-business-event.html){target="_blank"}
-
-**Avsnitt 2**
-
-* [Skapa samlingar](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/managing-offers-in-the-offer-library/creating-collections.html?){target="_blank"}
-* [Skapa beslut](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/create-manage-activities/create-offer-activities.html?){target="_blank"}
-* [Om beslutshantering](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/get-started-decision/starting-offer-decisioning.html?){target="_blank"}
-* [Lägg in skräddarsydda erbjudanden](https://experienceleague.adobe.com/docs/journey-optimizer/using/email/design-email/add-content/add-offers-email.html?){target="_blank"}
-
-**Avsnitt 3**
-
-* [Skapa och hantera mediefiler med Experience Manager Assets](https://experienceleague.adobe.com/docs/journey-optimizer/using/content-management/assets-images/assets.html?){target="_blank"}
-* [Hantera resurser](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-organize.html?){target="_blank"}
-* [Kom igång med personalisering](https://experienceleague.adobe.com/docs/journey-optimizer/using/content-management/personalization/personalize.html?){target="_blank"}
-* [Personalisering - användningsfall: orderstatusmeddelande](https://experienceleague.adobe.com/docs/journey-optimizer/using/content-management/personalization/personalization-use-cases/personalization-use-case.html?){target="_blank"}
-* [Adobe Experience Platform datakälla](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/configure-journeys/data-source-journeys/adobe-experience-platform-data-source.html?){target="_blank"}
-* [Kom igång med innehållsexperiment](https://experienceleague.adobe.com/docs/journey-optimizer/using/campaigns/content-experiment/get-started-experiment.html){target="_blank"}
-* [Skapa ett innehållsexperiment](https://experienceleague.adobe.com/docs/journey-optimizer/using/campaigns/content-experiment/content-experiment.html?){target="_blank"}
-* [Arbeta med fragment](https://experienceleague.adobe.com/docs/journey-optimizer/using/content-management/reusable-content/fragments.html){target="_blank"}
-* [Använd e-postmallar](https://experienceleague.adobe.com/docs/journey-optimizer/using/email/design-email/start-creating-content/use-email-templates.html?){target="_blank"}
-* [Skapa mall från grunden](https://experienceleague.adobe.com/docs/journey-optimizer/using/content-management/reusable-content/content-templates.html?#create-template-from-scratch){target="_blank"}
-
-**Avsnitt 4**
-
-* [Datatyper](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/building-advanced-conditions-journeys/syntax/data-types.html?){target="_blank"}
-* [Användargränssnittsguide för kundprofil i realtid](https://experienceleague.adobe.com/docs/experience-platform/profile/ui/user-guide.html?){target="_blank"}
-* [XDM - systemöversikt](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?){target="_blank"}
-* [Kom igång med identiteter](https://experienceleague.adobe.com/docs/journey-optimizer/using/audiences-profiles-identities/get-started-identity.html?){target="_blank"}
-* [Kom igång med Adobe Experience Platform målgrupper](https://experienceleague.adobe.com/docs/journey-optimizer/using/audiences-profiles-identities/audiences/about-audiences.html?){target="_blank"}
-* [Vanliga frågor och svar om målgruppskomposition och anpassad överföring](https://experienceleague.adobe.com/docs/journey-optimizer/using/audiences-profiles-identities/audiences/about-audiences.html?#streaming-segmentation-events-guardrails){target="_blank"}
-* [Kom igång med Adobe Experience Platform målgrupper](https://experienceleague.adobe.com/docs/journey-optimizer/using/audiences-profiles-identities/audiences/about-audiences.html?){target="_blank"}
-* [Rankningsaktivitet](https://experienceleague.adobe.com/docs/journey-optimizer/using/audiences-profiles-identities/audiences/audience-orchestration/composition-canvas.html?#rank){target="_blank"}
-* [Övervaka datainmatning](https://experienceleague.adobe.com/docs/experience-platform/ingestion/quality/monitor-data-ingestion.html?){target="_blank"}
-* [Lägga till dataanvändningsetiketter i ett schema](https://experienceleague.adobe.com/docs/experience-platform/data-governance/labels/user-guide.html?#add-labels-to-schema){target="_blank"}
-
-<br>
-
 **Gör ett övningsprov**
 
 {{practice-test}}
+
+**Handbok för testversioner**
+
+{{exam-prep-guide}}
+
+[Visa guiden Förbered prov](https://app.rockinfo.com/courses/playScorm/588)
 
 +++
 

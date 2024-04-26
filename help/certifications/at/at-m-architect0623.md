@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="Prov AD0-E409" type="neutral"
 mini-toc-levels: 1
 exl-id: 50ef4855-9cf7-4a00-a6f7-1138b32a9634
-source-git-commit: 0664d9332c10fb8beb16c830b639677a5b540244
+source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
 workflow-type: tm+mt
-source-wordcount: '678'
+source-wordcount: '585'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 # Certifieringsresa för [!DNL Adobe Target] Architect Master
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/595) ger dig en skräddarsydd väg genom testprocessen för certifiering, inklusive ingående studiematerial som du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
 
 ## Provbeskrivning {#exam-description}
 
@@ -151,61 +155,15 @@ Miljö:
 
 {{study-materials-intro}}
 
-**Avsnitt 1**
-
-* [Målaktivitetstyper](https://experienceleague.adobe.com/docs/target/using/activities/target-activities-guide.html){target="_blank"}
-* [Översikt över multivariata tester](https://experienceleague.adobe.com/docs/target/using/activities/multivariate-test/multivariate-testing.html){target="_blank"}
-* [Funktionerna at.js](https://experienceleague.adobe.com/docs/target-dev/developer/client-side/at-js-implementation/functions-overview/atjs-functions.html){target="_blank"}
-* [Besökarprofiler](https://experienceleague.adobe.com/docs/target/using/audiences/visitor-profiles/visitor-profile.html){target="_blank"}
-
-**Avsnitt 2**
-
-* [Integrera Target med Adobe Campaign](https://experienceleague.adobe.com/docs/target/using/integrate/campaign-and-target.html){target="_blank"}
-* [Adobe Analytics som rapportkälla för Adobe Target (A4T)](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html){target="_blank"}
-* [Experience Cloud målgrupper](https://experienceleague.adobe.com/docs/core-services/interface/services/audiences/audience-library.html){target="_blank"}
-* [Använda Experience Fragment-erbjudanden i Adobe Target](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/personalization/experience-fragment-target-offer-feature-video-use.html){target="_blank"}
-
-**Avsnitt 3**
-
-* [Värdar](https://experienceleague.adobe.com/docs/target/using/administer/hosts.html){target="_blank"}
-* [Användare](https://experienceleague.adobe.com/docs/target/using/administer/manage-users/users/user-management.html){target="_blank"}
-* [Konfigurera företagsbehörigheter](https://experienceleague.adobe.com/docs/target/using/administer/manage-users/enterprise/properties-overview.html){target="_blank"}
-* [Bästa praxis och begränsningar för Visual Experience Composer](https://experienceleague.adobe.com/docs/target/using/experiences/vec/experience-composer-best-practices.html){target="_blank"}
-
-
-**Avsnitt 4**
-
-* [Integrera Recommendations med e-post](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/integrating-recs-email.html){target="_blank"}
-* [Formulärbaserad Experience Composer](https://experienceleague.adobe.com/docs/target/using/experiences/form-experience-composer.html){target="_blank"}
-* [Create JSON offers](https://experienceleague.adobe.com/docs/target/using/experiences/offers/create-json-offer.html){target="_blank"}
-
-**Avsnitt 5**
-
-* [Recommendations](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations.html){target="_blank"}
-* [RECOMMENDATIONS FAQ](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/recommendations-faq.html){target="_blank"}
-* [Feeds](https://experienceleague.adobe.com/docs/target/using/recommendations/entities/feeds.html){target="_blank"}
-* [Anpassa en design med Snabb](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-design/customizing-a-template.html){target="_blank"}
-
-**Avsnitt 6**
-
-* [Driftsättning av Adobe Target Hybrid](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/hybrid-deployment.html){target="_blank"}
-* [Hur Target fungerar i mobilappar](https://experienceleague.adobe.com/docs/target-dev/developer/mobile-apps/version-4/how-target-works-mobile-apps.html){target="_blank"}
-* [Designa en målinriktad implementering](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.5-design-target-implementation.html){target="_blank"}
-* [Använda Adobe Target med Platform Web SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/personalization/adobe-target/target-overview.html){target="_blank"}
-
-**Avsnitt 7**
-
-* [Aktivitets-QA](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
-* [Felsöka innehållsleverans](https://experienceleague.adobe.com/docs/target/using/activities/troubleshoot-activities/content-trouble.html){target="_blank"}
-* [Vanliga frågor om design](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-design/template-faq.html){target="_blank"}
-* [RECOMMENDATIONS FAQ](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/recommendations-faq.html){target="_blank"}
-* [Logga in på Platform Web SDK för Adobe Analytics for Target (A4T)](https://experienceleague.adobe.com/docs/experience-platform/edge/personalization/adobe-target/a4t/overview.html){target="_blank"}
-
-<br>
-
 **Gör ett övningsprov**
 
 {{practice-test}}
+
+**Handbok för testversioner**
+
+{{exam-prep-guide}}
+
+[Visa guiden Förbered prov](https://app.rockinfo.com/courses/playScorm/595)
 
 +++
 

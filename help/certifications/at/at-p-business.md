@@ -7,9 +7,9 @@ role: User
 badge: label="Prov AD0-E408" type="neutral"
 mini-toc-levels: 1
 exl-id: e67e66a3-d3cc-4907-beb4-956940181279
-source-git-commit: cbb1cccdcf51f5d5ac7635e558fcf7e9dd012842
+source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
 workflow-type: tm+mt
-source-wordcount: '593'
+source-wordcount: '563'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 # Certifieringsresa för [!DNL Adobe Target] Yrkesverksamma inom affärsverksamhet
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/593) ger dig en skräddarsydd väg genom testprocessen för certifiering, inklusive ingående studiematerial som du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
 
 ## Provbeskrivning {#exam-description}
 
@@ -127,41 +131,18 @@ Du borde ha:
 
 {{study-materials-intro}}
 
-**Avsnitt 1: Planering och strategi**
-
-* [[!DNL Adobe Target] Handbok för affärspersonalen](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
-* [[!DNL Adobe Target] Dokumentation](https://experienceleague.adobe.com/docs/target.html){target="_blank"}
-* [Besökarprofiler](https://experienceleague.adobe.com/docs/target/using/audiences/visitor-profiles/visitor-profile.html){target="_blank"}
-* [[!DNL Adobe Target] välkomstpaket](https://experienceleague.adobe.com/docs/target/using/introduction/welcome/target-welcome-kit.html){target="_blank"}
-* [Success Metrics](https://experienceleague.adobe.com/docs/target/using/activities/success-metrics/success-metrics.html){target="_blank"}
-* [Kategorier för målgrupper](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/categories-audiences/target-rules.html){target="_blank"}
-
-**Avsnitt 2: Konfigurera, utföra och hantera**
-
-* [Visual Experience Composer (VEC)](https://experienceleague.adobe.com/docs/target/using/experiences/vec/visual-experience-composer.html){target="_blank"}
-* [[!DNL Adobe Target] välkomstpaket](https://experienceleague.adobe.com/docs/target/using/introduction/welcome/target-welcome-kit.html){target="_blank"}
-* [Översikt över A/B-test](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html){target="_blank"}
-* [Skapa en Experience Targeting-aktivitet](https://experienceleague.adobe.com/docs/target/using/activities/experience-targeting/create-targeting/xt-create.html){target="_blank"}
-* [Översikt över multivariata tester](https://experienceleague.adobe.com/docs/target/using/activities/multivariate-test/multivariate-testing.html){target="_blank"}
-* [Recommendations](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations.html){target="_blank"}
-* [Skapa målgrupper](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/audiences.html){target="_blank"}
-* [Aktivitets-QA](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
-
-**Avsnitt 3: Analys och rapportering**
-
-* [Rapportinställningar](https://experienceleague.adobe.com/docs/target/using/reports/settings/report-settings.html){target="_blank"}
-* [Översikt över A/B-test](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html){target="_blank"}
-
-**Avsnitt 4: Felsökning**
-
-* [[!DNL Adobe Target] Handbok för affärspersonalen](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
-* [Adobe Experience Cloud Debugger - översikt](https://experienceleague.adobe.com/docs/debugger/using/experience-cloud-debugger.html){target="_blank"}
-
-<br>
 
 **Gör ett övningsprov**
 
 {{practice-test}}
+
+**Handbok för testversioner**
+
+{{exam-prep-guide}}
+
+[Visa guiden Förbered prov](https://app.rockinfo.com/courses/playScorm/593)
+
+<br>
 
 +++
 

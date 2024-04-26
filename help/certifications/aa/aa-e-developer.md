@@ -8,9 +8,9 @@ level: Experienced
 badge: label="tentamen AD0-E209" type="neutral"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
+source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
 workflow-type: tm+mt
-source-wordcount: '707'
+source-wordcount: '647'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ ht-degree: 0%
 # Certifieringsresa för Adobe [!DNL Analytics] Developer Expert
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/530) ger dig en skräddarsydd väg genom testprocessen för certifiering, inklusive ingående studiematerial som du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
 
 ## Provbeskrivning {#exam-description}
 
@@ -147,39 +151,11 @@ Miljö:
 
 {{study-materials-intro}}
 
-**Avsnitt 1: Analysförståelse i Adobe Experience Cloud ekosystem**
+**Handbok för testversioner**
 
-* [Analytics Tech Notes](https://experienceleague.adobe.com/docs/analytics/technotes/home.html){target="_blank"}
-* [Ställa in analyser och Experience Cloud-ID](https://experienceleague.adobe.com/docs/id-service/using/reference/analytics-reference/analytics-ids.html){target="_blank"}
-* [Analysvideor och självstudiekurser](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html){target="_blank"}
+{{exam-prep-guide}}
 
-**Avsnitt 2: Strategi och design baserad på en referens för lösningsdesign (SDR)**
-
-* [Hantera resurser](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FResource_Mgmt%2F_manage-resources.htm&amp;_LANG=en){target="_blank"}
-* [[!DNL Adobe Analytics] Dokumentation](https://experienceleague.adobe.com/docs/analytics.html)
-
-**Avsnitt 3: Implementering och konfiguration av analyser**
-
-* [Implementera [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
-* [Förstå och skapa rapportsviter](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html){target="_blank"}
-* [Konfigurera länkspårning för [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/adobeanalytics-link.html){target="_blank"}
-
-**Avsnitt 4: Tagghanteringssystem**
-
-* [Tag Management](https://business.adobe.com/products/analytics/tag-management.html){target="_blank"}
-* [Översikt över taggar](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=sv){target="_blank"}
-* [Ökning](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html){target="_blank"}
-
-**Avsnitt 5: Mobiltjänster**
-
-* [Implementera analyser för mobila enheter](https://experienceleague.adobe.com/docs/analytics/implementation/mobile-device-sdk.html){target="_blank"}
-* [Migrera bearbetningsregler för mobila tjänster till [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/technotes/migrate-mobile.html){target="_blank"}
-
-**Avsnitt 6: Testning, validering och felsökning**
-
-* [Adobe Experience Platform Debugger - översikt](https://experienceleague.adobe.com/docs/experience-platform/debugger/home.html){target="_blank"}
-* [Aktivera, felsöka och anpassa [!DNL Adobe Analytics] Activity Map](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/activity-map/enabling-debugging-and-customizing-the-activity-map.html){target="_blank"}
-* [Optimera Analysis Workspace prestanda](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html){target="_blank"}
+[Visa guiden Förbered prov](https://app.rockinfo.com/courses/playScorm/530)
 
 <br>
 

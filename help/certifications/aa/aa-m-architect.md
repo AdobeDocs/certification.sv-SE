@@ -8,9 +8,9 @@ role: Data Architect,Developer
 badge: label="Prov AD0-E207" type="neutral"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: 712b9183c851a4ffc0b29f2120f3f5e8f2f7c11b
+source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ ht-degree: 0%
 # Certifieringsresa för [!DNL Adobe Analytics] Architect Master
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/541) ger dig en skräddarsydd väg genom testprocessen för certifiering, inklusive ingående studiematerial som du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
 
 ## Provbeskrivning {#exam-description}
 
@@ -111,40 +115,11 @@ Dessutom ansvarar du för att omvandla verksamhetskrav till spårningsspecifikat
 
 {{study-materials-intro}}
 
-**Avsnitt 1: Upptäckt**
+**Handbok för testversioner**
 
-* [Implementera [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
-* [[!DNL Analytics] Komponentguide](https://experienceleague.adobe.com/docs/analytics/components/home.html){target="_blank"}
-* [Översikt över taggar](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=sv){target="_blank"}
-* [[!DNL Analytics] Tekniska anteckningar](https://experienceleague.adobe.com/docs/analytics/technotes/home.html){target="_blank"}
-* [Datalagerhanteraren](https://exchange.adobe.com/apps/ec/101462/data-layer-manager){target="_blank"}
+{{exam-prep-guide}}
 
-**Avsnitt 2: Lösningsdesign**
-
-* [[!DNL Analytics] Administratörshandbok](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
-* [[!DNL Analytics] Komponentguide](https://experienceleague.adobe.com/docs/analytics/components/home.html){target="_blank"}
-* [[!DNL Analytics] Verktygshandbok](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
-* [iOS SDK 4.x for Experience Cloud Solutions](https://experienceleague.adobe.com/docs/mobile-services/ios/overview.html){target="_blank"}
-* [[!DNL Analytics] Importera guide](https://experienceleague.adobe.com/docs/analytics/import/home.html){target="_blank"}
-* [Implementera [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
-* [[!DNL Analytics] Tutorials](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html){target="_blank"}
-* [Administrativa roller](https://helpx.adobe.com/in/enterprise/using/admin-roles.html){target="_blank"}
-* [Admin Console - översikt](https://helpx.adobe.com/in/enterprise/using/admin-console.html#Settings){target="_blank"}
-* [Hantera användare individuellt](https://helpx.adobe.com/in/enterprise/using/manage-users-individually.html){target="_blank"}
-
-**Avsnitt 3: Efterimplementering**
-
-* [Implementera [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
-* [[!DNL Analytics] Komponentguide](https://experienceleague.adobe.com/docs/analytics/components/home.html){target="_blank"}
-* [[!DNL Analytics] Administratörshandbok](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
-* [Det händelsestyrda datalagret](https://jimalytics.com/tag-management/the-event-driven-data-layer/){target="_blank"}
-* [[!DNL Analytics] Exporthandbok](https://experienceleague.adobe.com/docs/analytics/export/home.html){target="_blank"}
-* [Adobe [!DNL Target] Handbok för affärspersonalen](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
-* [Adobe [!DNL Experience Cloud] Identitetstjänst](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
-* [[!DNL Analytics] Importera guide](https://experienceleague.adobe.com/docs/analytics/import/home.html){target="_blank"}
-* [[!DNL Analytics] Verktygshandbok](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
-* [Datainfogningsprocess](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/data-insertion-api/overview/c_data_insertion_process.md){target="_blank"}
-* [Implementera Experience Cloud på webbplatser med självstudiekursen Taggar](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html){target="_blank"}
+[Visa guiden Förbered prov](https://app.rockinfo.com/courses/playScorm/541)
 
 <br>
 

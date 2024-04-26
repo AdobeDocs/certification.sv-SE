@@ -8,9 +8,9 @@ level: Experienced
 badge: label="Prov AD0-E213" type="neutral"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: 549d260cf65e86479ee8f1c0cdaeb357cdc3db69
+source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
 workflow-type: tm+mt
-source-wordcount: '814'
+source-wordcount: '717'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ ht-degree: 0%
 # Certifieringsresa för [!DNL Adobe Analytics] Developer Professional
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/532) ger dig en skräddarsydd väg genom testprocessen för certifiering, inklusive ingående studiematerial som du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
 
 ## Provbeskrivning {#exam-description}
 
@@ -140,49 +144,11 @@ Du bör även ha erfarenhet av följande uppgifter:
 
 {{study-materials-intro}}
 
-**Avsnitt 1: Analyser i Adobe Experience Cloud ekosystem**
+**Handbok för testversioner**
 
-* [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
-* [Vanliga frågor](https://experienceleague.adobe.com/docs/id-service/using/faqs/faq-intro.html){target="_blank"}
-* [Användarhandbok för redigering av AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
-* [Översikt över taggar](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=sv){target="_blank"}
+{{exam-prep-guide}}
 
-**Avsnitt 2: Analysstrategi och utformning som bygger på en designreferens för lösningar**
-
-* [Implementera [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
-* [Administratörshandbok för analyser](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
-* [Listvariabler](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/list-var-admin.html){target="_blank"}
-* [Merchandising eVars and product finding methods](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/merchandising-evars.html){target="_blank"}
-
-**Avsnitt 3: Implementering och konfiguration av analyser**
-
-* [Analysverktygshandbok](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
-* [Snabbtips - Skicka data till startregler](https://webanalyticsfordevelopers.com/2018/09/18/quick-tip-passing-data-into-launch-rules/){target="_blank"}
-* [transactionID](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/transactionid.html){target="_blank"}
-* [Hur analysdata samlas in](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/how-analytics-data-is-collected.html){target="_blank"}
-
-**Avsnitt 4: Tagghanteringssystem**
-
-* [Översikt över taggar](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=sv){target="_blank"}
-* [Tag Management](https://business.adobe.com/products/analytics/tag-management.html){target="_blank"}
-* [Paketanalysatorer](https://experienceleague.adobe.com/docs/analytics/implementation/validate/packet-monitor.html){target="_blank"}
-* [Satellitobjektreferens](https://experienceleague.adobe.com/docs/experience-platform/tags/client-side/satellite-object.html){target="_blank"}
-
-**Avsnitt 5: Mobiltjänster och API**
-
-* [[!DNL Adobe Analytics]: Fallstudie för e-postmarknadsföring (ESP)](https://adobeexchangeec.zendesk.com/hc/en-us/articles/360003848112-Adobe-Analytics-Email-Marketing-ESP-Integration-Case-Study){target="_blank"}
-* [[!DNL Adobe Analytics] API:er](https://adobedocs.github.io/analytics-2.0-apis/#/){target="_blank"}
-* [Välkommen till administratörshandboken för företag och team](https://helpx.adobe.com/se/enterprise/admin-guide.html){target="_blank"}
-* [API för analysrapportering](https://experienceleague.adobe.com/docs/analytics/analyze/reporting-api.html){target="_blank"}
-* [Hur bearbetningsregler fungerar](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/c-processing-rules-configuration/processing-rules-about.html){target="_blank"}
-
-**Avsnitt 6: Testning, validering och felsökning**
-
-* [JavaScript-felreferens](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors){target="_blank"}
-* [Analytics Tech Notes](https://experienceleague.adobe.com/docs/analytics/technotes/home.html){target="_blank"}
-* [linkDownloadFileTypes](https://experienceleague.adobe.com/docs/analytics/implementation/vars/config-vars/linkdownloadfiletypes.html){target="_blank"}
-* [Spåra klickad komponent med [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/analytics/track-clicked-component.html){target="_blank"}
-* [[!DNL Adobe Analytics] Implementeringsfelsökning - verktyg](https://www.thelearningproject.in/posts/adobe-analytics-implementation-debugging-tools/){target="_blank"}
+[Visa guiden Förbered prov](https://app.rockinfo.com/courses/playScorm/532)
 
 <br>
 

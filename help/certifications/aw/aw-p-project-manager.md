@@ -6,9 +6,9 @@ role: Developer
 badge: label="Prov AD0-E903" type="neutral"
 mini-toc-levels: 1
 exl-id: 5bb372b4-6237-44f9-ac71-6093e2f0d03f
-source-git-commit: 511f30e814c2e1ab112f9abef9fef76338a2d1a4
+source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
 workflow-type: tm+mt
-source-wordcount: '823'
+source-wordcount: '721'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Ny kurs tillgänglig:** The [Adobe Workfront Project Manager - Professionell kurs](https://app.rockinfo.com/courses/230) innehåller förklaringar av viktiga begrepp, praktiska demonstrationer och kunskapsundersökningar. _Om du uppmanas att logga in använder du din Adobe ID._
+>Nu finns kostnadsfria resurser på begäran som hjälper dig att förbereda dig för ditt prov:
+>
+>* **Kurs:** The [Adobe Workfront Project Manager - Professionell kurs](https://app.rockinfo.com/courses/230) innehåller förklaringar av viktiga begrepp, praktiska demonstrationer och kunskapsundersökningar.
+>
+>* **Handbok för testversioner:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/551) ger en skräddarsydd väg genom testprocessen, inklusive det djupgående studiematerialet som du behöver för att lyckas med provet.
+>
+>_Om du uppmanas att logga in använder du din Adobe ID._
 
 ## Provbeskrivning {#exam-description}
 
@@ -137,51 +143,6 @@ Du borde ha:
 
 {{study-materials-intro}}
 
-**Avsnitt 1: Intagning och planering**
-
-* [Använd meddelanden](https://one.workfront.com/s/document-item?bundleId=workfront-classic&amp;topicId=Content%2FWorkfront_basics%2FUsing_Notifications%2F_use-notifications.htm&amp;_LANG=en){target="_blank"}
-* [Typ av aktivitetsvaraktighet och varaktighet](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FTasks%2FTaskDurtn%2F_task-duration-duration-type.htm&amp;_LANG=en){target="_blank"}
-* [Använd föregående aktiviteter](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FTasks%2FUse_Prdcssrs%2F_use-task-predecessors.htm&amp;_LANG=en){target="_blank"}
-* [Uppgiftsinformation](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FTasks%2FTask_information%2F_task-information.htm&amp;_LANG=en){target="_blank"}
-* [Uppdatera arbete i ett projekt](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FProjects%2FUpdating_Work_in_a_Project%2F_update-work-on-project.htm&amp;_LANG=en){target="_blank"}
-* [Hantera projekt](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FProjects%2FManage_projects%2F_manage-projects-overview.htm&amp;_LANG=en){target="_blank"}
-* [Adobe [!DNL Workfront] grunder](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_basics%2F_workfront-basics.htm&amp;_LANG=en){target="_blank"}
-* [Navigera Adobe [!DNL Workfront]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_basics%2FNavigate_Workfront%2F_navigate-workfront.htm&amp;_LANG=en){target="_blank"}
-* [Tilldela uppgifter](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FTasks%2FAssign_tasks%2F_assign-tasks.htm&amp;_LANG=en){target="_blank"}
-* [Kom igång smidigt i Adobe [!DNL Workfront]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAgile%2FGet_Started_with_Agile_in_Workfront%2F_get-started-with-agile.htm&amp;_LANG=en){target="_blank"}
-* [Skapa och hantera rapporter](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FReports_and_Dashboards%2FReports%2FCreating_and_Managing_Reports%2F_create-manage-reports.htm&amp;_LANG=en){target="_blank"}
-
-**Avsnitt 2: Kör**
-
-* [Godkännandeprocesser och milstolpar](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FCustomize_Workfront%2FConfigure_approval_milestone_processes%2F_config-approval-milestone-paths.htm&amp;_LANG=en){target="_blank"}
-* [Hantera uppgifter](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FTasks%2FManage_tasks%2F_manage-tasks.htm&amp;_LANG=en){target="_blank"}
-* [Hantera projekt](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FProjects%2FManage_projects%2F_manage-projects-overview.htm&amp;_LANG=en){target="_blank"}
-* [Uppgiftsinformation](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FTasks%2FTask_information%2F_task-information.htm&amp;_LANG=en){target="_blank"}
-* [Uppgifter](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FTasks%2F_tasks-overview.htm&amp;_LANG=en){target="_blank"}
-* [Aktivitetsbegränsningar](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FTasks%2FTask_Constraints%2F_task-constraints.htm&amp;_LANG=en){target="_blank"}
-* [Använda området Hem](https://one.workfront.com/s/document-item?bundleId=workfront-classic&amp;topicId=Content%2FWorkfront_basics%2FUsing_Home%2FUsing_the_Home_Area%2F_use-the-home-area.htm&amp;_LANG=en){target="_blank"}
-* [Lägg till nya dokument i Adobe [!DNL Workfront]](https://one.workfront.com/s/document-item?bundleId=workfront-classic&amp;topicId=Content%2FDocuments%2FAdding_Documents_to_Workfront%2F_add-new-documents-_to-workfront.htm&amp;_LANG=en){target="_blank"}
-* [Burndown](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAgile%2FUse_Scrum_in_an_Agile_Team%2FBurndown%2F_burndown.htm&amp;_LANG=en){target="_blank"}
-* [Resursanvändning](https://one.workfront.com/s/document-item?bundleId=workfront-classic&amp;topicId=Content%2FResource_Mgmt%2FResource_utilization%2F_resource-utilization.htm&amp;_LANG=en){target="_blank"}
-* [Projektets finanser](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FProjects%2FProject_Finances%2F_project-finances-overview.htm&amp;_LANG=en){target="_blank"}
-* [[!DNL Workfront] dokumentation](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topic[%C3%A2%E2%82%AC%C2%A6]urce_utilization%2Fview-utilization-information.htm&amp;_LANG=en){target="_blank"}
-* [Översikt över Gantt-schema](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FGantt_Chart%2FUse_the_Gantt_Chart%2F_gantt-chart-overview.htm&amp;_LANG=en){target="_blank"}
-* [Grupproller](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FManage_groups%2FGroup_roles%2F_group-roles.htm&amp;_LANG=en){target="_blank"}
-* [Arbeta med en grupps objekt](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FManage_groups%2FWork_with_group_objects%2F_work-with-a-groups-objects.htm&amp;_LANG=en){target="_blank"}
-* [Arbeta med grupper och team](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FPeople_Teams_and_Groups%2FWork_with_Groups_and_Teams%2F_work-with-groups-and-teams.htm&amp;_LANG=en){target="_blank"}
-* [Uppdatera arbete i ett projekt](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FProjects%2FUpdating_Work_in_a_Project%2F_update-work-on-project.htm&amp;_LANG=en){target="_blank"}
-* [Status och prioritetsetiketter](https://one.workfront.com/s/document-item?bundleId=workfront-classic&amp;topicId=Content%2FAdministration_and_Setup%2FCustomize_Workfront%2FCreating_Custom_Status_and_Priority_Labels%2F_create-custom-status-and-priority-labels.htm&amp;_LANG=en){target="_blank"}
-
-**Avsnitt 3: Avslutning**
-
-* [Översikt över rapportelement](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FReports_and_Dashboards%2FReports%2FReporting_Elements%2F_reporting-elements-overview.htm&amp;_LANG=en){target="_blank"}
-* [Skapa och hantera tidrapporter i Adobe [!DNL Workfront]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FTimesheets%2FCreate_and_Manage_Timesheets%2F_create-and-manage-timesheets.htm&amp;_LANG=en){target="_blank"}
-* [hantering av Portfolio](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FPortfolios%2F_portfolio-management-overview.htm&amp;_LANG=en){target="_blank"}
-* [Projektets tidslinje](https://www.workfront.com/project-management/knowledge-areas/time-management/project-timeline){target="_blank"}
-* [Skapa projekt](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FProjects%2FCreate_projects%2F_create-projects-overview.htm&amp;_LANG=enus){target="_blank"}
-
-<br>
-
 **Gör ett övningsprov**
 
 {{practice-test}}
@@ -191,6 +152,12 @@ Du borde ha:
 {{take-course}}
 
 [Ta Adobe Workfront Project Manager - Professional - kurs](https://app.rockinfo.com/courses/230)
+
+**Handbok för testversioner**
+
+{{exam-prep-guide}}
+
+[Visa guiden Förbered prov](https://app.rockinfo.com/courses/playScorm/551)
 
 +++
 

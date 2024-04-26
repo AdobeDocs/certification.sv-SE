@@ -7,9 +7,9 @@ role: User
 badge: label="Prov AD0-E208" type="neutral"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
+source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
 workflow-type: tm+mt
-source-wordcount: '775'
+source-wordcount: '738'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 # Certifieringsresa för [!DNL Adobe Analytics] Affärsexpert
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/533) ger dig en skräddarsydd väg genom testprocessen för certifiering, inklusive ingående studiematerial som du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
 
 ## Provbeskrivning {#exam-description}
 
@@ -26,13 +30,13 @@ ht-degree: 0%
 
 ### Provinformation {#exam-details}
 
-* **Nivå:** Expert (1-3 års erfarenhet)
-* **Lösenpoäng:** 31/50
-* **Tid:** 120 min
-* **Leverans:** Bearbetad online (kräver kameraåtkomst)
-* **Tillgängliga språk:** Engelska, japanska
-* **Kostnad:** $225 (global) / $150 (Indien)
-* **Exam-ID:** AD0-E208 (engelska), AD0-E208-J (japanska)
+* Nivå: Expert (1-3 års erfarenhet)
+* Löpande poäng: 31/50
+* Tid: 120 min
+* Leverans: Bearbetad online (kräver kameraåtkomst)
+* Tillgängliga språk: engelska, japanska
+* Kostnad: $225 (global) / $150 (Indien)
+* Exam ID: AD0-E208 (engelska), AD0-E208-J (japanska)
 
 <br>
 
@@ -154,36 +158,11 @@ Dessutom bör du känna till följande tekniker och miljöer:
 
 {{study-materials-intro}}
 
-**Avsnitt 1: Affärsanalys**
+**Handbok för testversioner**
 
-* [som [!DNL Adobe Analytics] bör jag använda verktyget?](https://experienceleague.adobe.com/docs/analytics/analyze/admin-overview/which-analytics-tool.html){target="_blank"}
-* [[!DNL Adobe Analytics] Dokumentation](https://helpx.adobe.com/se/support/analytics.html){target="_blank"}
-* [Om datainsamling](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html){target="_blank"}
-* [Översikt över Analytics Data Feed](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/data-feed-overview.html){target="_blank"}
+{{exam-prep-guide}}
 
-**Avsnitt 2: Rapportering och statuskontroll för projekt**
-
-* [Kom igång med rapporter och analyser](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/getting-started.html){target="_blank"}
-* [[!DNL Adobe Analytics] instrumentpaneler - översikt](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html){target="_blank"}
-* [Projektöversikt](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/freeform-overview.html){target="_blank"}
-* [Visualiseringar - översikt](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html){target="_blank"}
-* [Översikt över intelligenta aviseringar](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-manager.html){target="_blank"}
-
-**Avsnitt 3: Segmentering och beräknade mätvärden**
-
-* [Analyssegmentering](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-home.html){target="_blank"}
-* [Beräknade och avancerade beräknade (härledda) värden](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/cm-overview.html){target="_blank"}
-
-**Avsnitt 4: Allmän verktygsinformation och felsökning**
-
-* [Handbok för analysverktyg](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
-* [Analysis Workspace - översikt](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-manager.html){target="_blank"}
-
-**Avsnitt 5: Administration**
-
-* [Administratörshandbok för analyser](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
-* [Frågor och svar](https://experienceleague.adobe.com/docs/analytics/technotes/data-governance/gdpr-faq.html){target="_blank"}
-* [Arbetsflöde för klassificeringsregelbyggaren](https://experienceleague.adobe.com/docs/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html){target="_blank"}
+[Visa guiden Förbered prov](https://app.rockinfo.com/courses/playScorm/533)
 
 **Gör ett övningsprov**
 
