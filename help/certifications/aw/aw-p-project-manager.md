@@ -6,7 +6,7 @@ role: Developer
 badge: label="Prov AD0-E903" type="neutral"
 mini-toc-levels: 1
 exl-id: 5bb372b4-6237-44f9-ac71-6093e2f0d03f
-source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
+source-git-commit: 092884a61dd0c439f6fb80be271eb28db6399049
 workflow-type: tm+mt
 source-wordcount: '721'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >* **Kurs:** The [Adobe Workfront Project Manager - Professionell kurs](https://app.rockinfo.com/courses/230) innehåller förklaringar av viktiga begrepp, praktiska demonstrationer och kunskapsundersökningar.
 >
->* **Handbok för testversioner:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/551) ger en skräddarsydd väg genom testprocessen, inklusive det djupgående studiematerialet som du behöver för att lyckas med provet.
+>* **Handbok för testversioner:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/609) ger en skräddarsydd väg genom testprocessen, inklusive det djupgående studiematerialet som du behöver för att lyckas med provet.
 >
 >_Om du uppmanas att logga in använder du din Adobe ID._
 
@@ -157,7 +157,7 @@ Du borde ha:
 
 {{exam-prep-guide}}
 
-[Visa guiden Förbered prov](https://app.rockinfo.com/courses/playScorm/551)
+[Visa guiden Förbered prov](https://app.rockinfo.com/courses/playScorm/609)
 
 +++
 
