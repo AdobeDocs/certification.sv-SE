@@ -6,9 +6,9 @@ product: Experience Manager
 role: User,Developer,Data Architect
 hidefromtoc: true
 exl-id: e7f1d21d-8e4a-4cbf-b1e5-379c194e0073
-source-git-commit: 3f7a9210a5a23880773e8d1f02801f0295f91426
+source-git-commit: 8812242b1b5ab339115f9ef3ecb99af7659d9cda
 workflow-type: tm+mt
-source-wordcount: '2123'
+source-wordcount: '2125'
 ht-degree: 0%
 
 ---
@@ -390,7 +390,7 @@ Först väljer du **två kurser** för att slutföra och genomföra varje kursbe
 
   [Kundreferensblankett för Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA100){target="_blank"}
 
-  Du meddelas av Adobe Credential Team när kundens referens har granskats. Om din referens inte godkänns kan du skicka in den igen tills du har lyckats, så länge som det är innan certifieringen upphör att gälla.
+  Du meddelas via Adobe Digital Experience Certification Program när kundens referens har granskats. Om din referens inte godkänns kan du skicka in den igen tills du har lyckats, så länge som det är innan certifieringen upphör att gälla.
 
 >[!NOTE]
 >

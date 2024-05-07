@@ -7,9 +7,9 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: 8d59047bbea28438b655b98296ae19e0c281098b
+source-git-commit: 8812242b1b5ab339115f9ef3ecb99af7659d9cda
 workflow-type: tm+mt
-source-wordcount: '2293'
+source-wordcount: '2295'
 ht-degree: 0%
 
 ---
@@ -456,7 +456,7 @@ Först väljer du **två kurser** för att slutföra och genomföra varje kursbe
 
   [Kundreferensformulär för [!DNL Adobe Commerce]](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA700){target="_blank"}
 
-  Du meddelas av Adobe Credential Team när kundens referens har granskats. Om din referens inte godkänns kan du skicka in den igen tills du har lyckats, så länge som det är innan certifieringen upphör att gälla.
+  Du meddelas via Adobe Digital Experience Certification Program när kundens referens har granskats. Om din referens inte godkänns kan du skicka in den igen tills du har lyckats, så länge som det är innan certifieringen upphör att gälla.
 
 >[!NOTE]
 >
@@ -466,11 +466,11 @@ Först väljer du **två kurser** för att slutföra och genomföra varje kursbe
 
 | Kurser för expert och master | Kursutvärdering |
 | ------- | ------- |
-| [Adobe [!DNL Commerce] E-handelstrender](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ecommerce-trends.html){target="_blank"} | [ADR-EA703](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA703){target="_blank"} |
+| [Adobe [!DNL Commerce] E-Commerce Trends](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ecommerce-trends.html){target="_blank"} | [ADR-EA703](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA703){target="_blank"} |
 | [Adobe [!DNL Commerce] Personalisering](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/personalization.html){target="_blank"} | [ADR-EA704](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA704){target="_blank"} |
 | [Adobe [!DNL Commerce] AI-automatisering](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ai-and-automation.html){target="_blank"} | [ADR-EA705](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA705){target="_blank"} |
 | [[!DNL Commerce]: Dataintegrering till Experience Platform och bortom](https://video.tv.adobe.com/v/3413334/){target="_blank"} | [ADR-EA709](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA709){target="_blank"} |
-| [[!DNL Commerce]: Sammansatt handel på Adobe [!DNL Commerce]](https://video.tv.adobe.com/v/3413335/){target="_blank"} | [ADR-EA710](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA710){target="_blank"} |
+| [[!DNL Commerce]: Enkelt Commerce på Adobe [!DNL Commerce]](https://video.tv.adobe.com/v/3413335/){target="_blank"} | [ADR-EA710](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA710){target="_blank"} |
 
 >[!ENDTABS]
 

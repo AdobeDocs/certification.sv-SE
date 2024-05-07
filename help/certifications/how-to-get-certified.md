@@ -4,9 +4,9 @@ description: Lär dig certifiera dig på Adobe. Hitta alla resurser ni behöver 
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: a0598dd083602efa29a707efe623c54b84f185ff
+source-git-commit: 8812242b1b5ab339115f9ef3ecb99af7659d9cda
 workflow-type: tm+mt
-source-wordcount: '1494'
+source-wordcount: '1496'
 ht-degree: 0%
 
 ---
@@ -96,7 +96,7 @@ Obs! Det går inte att kombinera massrabatter med andra erbjudanden eller rabatt
 
 >[!TAB Certifieringsleverantörer]
 
-Adobe Credential-teamet samarbetar med leverantörer för att stödja programmets initiativ och mål.  Här är leverantörerna och deras kontaktinformation:
+Adobe program för certifiering av digitala upplevelser samarbetar med leverantörer för att stödja programmets initiativ och mål. Här är leverantörerna och deras kontaktinformation:
 
 | Leverantörsnamn | Beskrivning | Supportsida/e-post |
 | ------- | ------- | ------- |

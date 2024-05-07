@@ -7,9 +7,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: abd73bc0-2283-47d8-83fd-3568bc0298d8
-source-git-commit: f4aa50b8d3121567589fb94139bd01b833a6bd04
+source-git-commit: 8812242b1b5ab339115f9ef3ecb99af7659d9cda
 workflow-type: tm+mt
-source-wordcount: '1209'
+source-wordcount: '1211'
 ht-degree: 0%
 
 ---
@@ -190,7 +190,7 @@ Först väljer du **två kurser** för att slutföra och genomföra varje kursbe
 
   [Kundreferensformulär för [!DNL Adobe Target]](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA400){target="_blank"}
 
-  Du meddelas av Adobe Credential Team när kundens referens har granskats. Om din referens inte godkänns kan du skicka in den igen tills du har lyckats, så länge som det är innan certifieringen upphör att gälla.
+  Du meddelas via Adobe Digital Experience Certification Program när kundens referens har granskats. Om din referens inte godkänns kan du skicka in den igen tills du har lyckats, så länge som det är innan certifieringen upphör att gälla.
 
 >[!NOTE]
 >

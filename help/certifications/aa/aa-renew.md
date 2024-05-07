@@ -7,9 +7,9 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
-source-git-commit: d8759508e4f618a8c66c91c9ebce0478f2bd5168
+source-git-commit: 8812242b1b5ab339115f9ef3ecb99af7659d9cda
 workflow-type: tm+mt
-source-wordcount: '1862'
+source-wordcount: '1864'
 ht-degree: 1%
 
 ---
@@ -302,7 +302,7 @@ Först väljer du **två kurser** för att slutföra och genomföra varje kursbe
 
   [Kundreferensblankett för Adobe Analytics](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA200){target="_blank"}
 
-  Du meddelas av Adobe Credential Team när kundens referens har granskats. Om din referens inte godkänns kan du skicka in den igen tills du har lyckats, så länge som det är innan certifieringen upphör att gälla.
+  Du meddelas via Adobe Digital Experience Certification Program när kundens referens har granskats. Om din referens inte godkänns kan du skicka in den igen tills du har lyckats, så länge som det är innan certifieringen upphör att gälla.
 
 >[!NOTE]
 >

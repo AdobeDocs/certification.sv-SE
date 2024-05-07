@@ -6,9 +6,9 @@ role: Developer
 badge: label="Prov AD0-E907" type="neutral"
 mini-toc-levels: 1
 exl-id: dc74de79-c945-47a4-a13b-e027182919a5
-source-git-commit: 65828a4b55f95eccede714c831790d56fc8c694f
+source-git-commit: 8812242b1b5ab339115f9ef3ecb99af7659d9cda
 workflow-type: tm+mt
-source-wordcount: '1656'
+source-wordcount: '945'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,10 @@ ht-degree: 0%
 # Certifieringsresa för Adobe [!DNL Workfront] Core Developer Expert
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/611) ger dig en skräddarsydd väg genom testprocessen för certifiering, inklusive ingående studiematerial som du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
 
 ## Provbeskrivning {#exam-description}
 
@@ -154,82 +158,13 @@ Du bör ha minst 18-24 månaders erfarenhet av Adobe [!DNL Workfront]och bör ku
 
 {{study-materials-intro}}
 
-**Avsnitt 1: Administrering och installation av kärnsystem**
+**Handbok för testversioner**
 
-* [Hantera gruppstatus](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-groups/group-statuses/manage-group-statuses.html){target="_blank"}
-* [Hur åtkomstnivåer och behörigheter fungerar tillsammans](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/legacy-access-levels/how-access-levels-permissions-work-together.html){target="_blank"}
-* [Gruppadministratörer](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-groups/group-roles/group-administrators.html){target="_blank"}
-* [Spark-Starts](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/kick-starts/kick-starts.html){target="_blank"}
-* [Mappa användarattribut och autodistribuera nya användare](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/create-manage-users/map-user-attributes.html){target="_blank"}
-* [Skapa grupper och undergrupper](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/organizational-setup/user-organization-groups.html){target="_blank"}
-* [Hantera användare i Adobe Admin Console](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/create-manage-users/admin-console.html){target="_blank"}
-* [Styrelser i Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/get-started-with-boards.html){target="_blank"}
+{{exam-prep-guide}}
 
-**Avsnitt 2: Intag, anpassade formulär och projektinitiering**
+[Visa guiden Förbered prov](https://app.rockinfo.com/courses/playScorm/611)
 
-* [Konfigurera globala standardprojektinställningar](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/configure-system-defaults/create-and-manage-object-statuses.html){target="_blank"}
-* [Anpassade formulär - Formulärdesigner](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/form-designer/form-designer-toc.html){target="_blank"}
-* [Lägga till beräknade data i ett anpassat formulär](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-form-builder/use-the-custom-form-builder/add-calculated-data-to-custom-form.html){target="_blank"}
-* [Genomgång av felhantering](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/troubleshooting-and-error-handling/error-handling-walkthrough.html){target="_blank"}
-* [God praxis - projektmallar](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/project-templates-bp.html){target="_blank"}
-* [Lägg till beräknade fält med formulärdesignern](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/form-designer/design-a-form/add-a-calculated-field.html){target="_blank"}
-* [Skapa en begärandekö](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-request-queue.html){target="_blank"}
-
-**Avsnitt 3: Strategisk funktionalitet - portfölj- och programhantering, resurshantering**
-
-* [Förstå nyckeltal i förbättrad analys](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/enhanced-analytics/10-kpis-overview.html){target="_blank"}
-* [Hantering av projektomfång](https://business.adobe.com/blog/basics/scope-management){target="_blank"}
-* [Prioritera och hantera material med portfolior](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html){target="_blank"}
-* [Skapa och redigera risker i projekt](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/define-business-case/create-edit-risks-on-projects.html){target="_blank"}
-* [Förstå och uppdatera projektprioriteringar](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/plan-a-project/project-priority.html){target="_blank"}
-* [Resurshantering](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-management/get-started-resource-management.html){target="_blank"}
-* [Skapa projektbaslinjer](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/create-projects/create-baselines.html){target="_blank"}
-* [Portfolio Optimizer - översikt](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/manage-projects-in-portfolio-optimizer/portfolio-optimizer-overview.html){target="_blank"}
-
-**Avsnitt 4: Dokumenthantering och -korrektur**
-
-* [Korrektur - översikt](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/proofing-basics.html){target="_blank"}
-* [Förstå skillnaden mellan ett dokument och ett korrektur](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/document-vs-proof.html){target="_blank"}
-* [God praxis - korrektur](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/proofing-bp.html){target="_blank"}
-* [AEM Assets Integration - översikt](https://experienceleague.adobe.com/docs/workfront/using/documents/wf-aem-integrations/wf-aem-essentials/aem-asset-integrations.html){target="_blank"}
-* [Länka dokument från externa program](https://experienceleague.adobe.com/docs/workfront/using/documents/add-new-documents-to-workfront/link-documents-from-external-apps.html){target="_blank"}
-* [Skapa dokumentmappar](https://experienceleague.adobe.com/docs/workfront/using/documents/organize-documents/create-documents-folder.html){target="_blank"}
-* [Konfigurera Experience Manager Assets as a Cloud Service-integrering](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-aacs-integration.html){target="_blank"}
-
-**Avsnitt 5: Rapportering**
-
-* [Visa: sammanfoga information från flera kolumner i en delad kolumn](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/custom-view-samples/view-merge-columns.html){target="_blank"}
-* [Skapa filter med användarbaserade jokertecken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html){target="_blank"}
-* [Visa: visa relationen överordnad-underordnad i en uppgift genom att dra in uppgifterna](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/custom-view-samples/view-parent-child-relationship-by-indenting-tasks-with-custom-view.html){target="_blank"}
-* [Rapporter och kontrollpaneler](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports-and-dashboards-overview.html){target="_blank"}
-* [Textlägesrapportering](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/text-mode/text-mode-resources.html){target="_blank"}
-* [Skapa en anpassad rapport](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/create-manage-reports/create-custom-report.html){target="_blank"}
-* [Variabler för jokertecken](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/understand-wildcard-filter-variables.html){target="_blank"}
-
-**Avsnitt 6: Metod/bästa praxis/användningsfall**
-
-* [God praxis - introduktion och implementering](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html){target="_blank"}
-* [Spåra förlopp från projekttidslinjen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-timelines/track-work-progress-from-the-project-timeline.html){target="_blank"}
-* [Prioritera ditt arbete i [!DNL Workfront] Startsida](https://experienceleague.adobe.com/docs/workfront/using/basics/home/new-home/get-started-with-new-home.html){target="_blank"}
-* [Översikt över fakturering och intäkt](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/billing-and-revenue-overview.html){target="_blank"}
-* [Visa information om resursutnyttjande](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-utilization/view-utilization-information.html){target="_blank"}
-* [Skapa en godkännandeprocess för arbetsobjekt](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/approvals-milestones/create-approval-processes.html){target="_blank"}
-* [Översikt över automatiserat arbetsflöde](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/automated-workflow.html){target="_blank"}
-* [Styrelser i Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/get-started-with-boards.html)
-* [Översikt över kalenderrapporter](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/calendars/calendar-reports-overview.html){target="_blank"}
-* [Hantera projekt i Portfolio Optimizer](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/manage-projects-in-portfolio-optimizer/manage-projects-in-portfolio-optimizer.html){target="_blank"}
-
-**Avsnitt 7: Konsulttjänster**
-
-* [Förstå arbetsinsats](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-work-effort.html){target="_blank"}
-* [Redigera en automatiserad arbetsflödesmall](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/proof-workflows/edit-an-automated-workflow-template.html){target="_blank"}
-* [Konvertera ärenden till andra arbetsuppgifter](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/convert-issues-to-other-work-items.html){target="_blank"}
-* [Konfigurera globala standardprojektinställningar](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/configure-system-defaults/configure-global-default-project-settings.html){target="_blank"}
-* [Definiera mål för Adobe [!DNL Workfront] implementering](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html){target="_blank"}
-* [Bästa praxis - Resursplanering](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/resource-planner-bp.html){target="_blank"}
-* [&quot;Kan starta&quot; - översikt för uppgifter](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/can-start-task-overview.html){target="_blank"}
-* [God praxis - introduktion och implementering](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html){target="_blank"}
-* [Översikt över godkännandeprocessen](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/work-approvals/approval-process-in-workfront.html)
+<br>
 
 +++
 
