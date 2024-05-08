@@ -8,10 +8,10 @@ role: User
 badge: label="Prov AD0-E501" type="neutral"
 mini-toc-levels: 1
 exl-id: f89a197f-dfe9-4e53-a783-97326bd6d934
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '732'
-ht-degree: 1%
+source-wordcount: '585'
+ht-degree: 0%
 
 ---
 
@@ -130,7 +130,7 @@ Du bör även ha erfarenhet av att arbeta med följande funktioner:
 
 <br>
 
-+++Steg 2: Förbered dig för provet
++++Steg 2: Förbered dig för provet med vårt kostnadsfria studiematerial
 
 **Studiematerial**
 
@@ -147,7 +147,7 @@ Du bör även ha erfarenhet av att arbeta med följande funktioner:
 
 **Avsnitt 2: Rapporter, insikter och verktyg**
 
-* [[!DNL Analytics] Användarhandbok om verktyg](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
+* [[!DNL Analytics] Verktygshandbok](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
 * [Kom igång med [!DNL Reports & Analytics]](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/getting-started.html){target="_blank"}
 * [[!DNL Campaign] Rapportering](https://business.adobe.com/in/products/campaign/campaign-reporting.html){target="_blank"}
 * [Skapa [!DNL Analytics] Profiler för Adobe [!DNL Advertising] Aktivering och rapportering](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-profiles-a4adc.html){target="_blank"}

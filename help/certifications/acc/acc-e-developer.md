@@ -7,9 +7,9 @@ role: Developer
 badge: label="Prov AD0-E330" type="neutral"
 mini-toc-levels: 1
 exl-id: 0c827fe3-b56b-4130-8436-2d3698c2e30b
-source-git-commit: 6196ca57b04cb2c197db3c3dc96eedb89fbf9ccc
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '727'
+source-wordcount: '732'
 ht-degree: 0%
 
 ---
@@ -136,7 +136,7 @@ Du borde ha:
 
 <br>
 
-+++Steg 2: Förbered dig för provet
++++Steg 2: Förbered dig för provet med vårt kostnadsfria studiematerial
 
 **Studiematerial**
 
@@ -165,7 +165,7 @@ Du borde ha:
 **Avsnitt 3: Åtkomsthantering**
 
 * [Kom igång med behörigheter](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management.html){target="_blank"}
-* [Viktiga funktioner](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/key-features.html){target="_blank"}
+* [Viktiga funktioner](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/key-features.html?lang=sv){target="_blank"}
 * [Övervaka serverkapacitet](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/sftp-management/monitor-server-capacity.html){target="_blank"}
 * [Om schemautgåva](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/about-schema-edition.html){target="_blank"}
 

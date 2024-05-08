@@ -7,9 +7,9 @@ role: Developer
 badge: label="Prov AD0-E331" type="neutral"
 mini-toc-levels: 1
 exl-id: e6a7790b-4758-4bef-826c-fc3e1675faa1
-source-git-commit: 68fc4c19e0dc551baff9a3c8056249dd49ef8c38
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '761'
+source-wordcount: '766'
 ht-degree: 0%
 
 ---
@@ -146,7 +146,7 @@ Du borde ha:
 
 <br>
 
-+++Steg 2: Förbered dig för provet
++++Steg 2: Förbered dig för provet med vårt kostnadsfria studiematerial
 
 **Studiematerial**
 

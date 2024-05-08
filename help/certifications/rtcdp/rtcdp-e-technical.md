@@ -9,9 +9,9 @@ badge: label="Prova AD0-E600 och AD7-E601" type="neutral"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
 hidefromtoc: true
-source-git-commit: b8ace7d5d249933e54f6828356cd7e569bfe3f84
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '1464'
+source-wordcount: '1474'
 ht-degree: 0%
 
 ---
@@ -136,7 +136,7 @@ Provet AD0-E600 avser att verifiera färdigheter och kunskaper som omfattar grun
 
 <br>
 
-+++Steg 2: Förbered dig för provet
++++Steg 2: Förbered dig för provet med vårt kostnadsfria studiematerial
 
 **Studiematerial**
 
@@ -306,7 +306,7 @@ Avsnitt 3: Destinationer (27 %)
 
 <br>
 
-+++Steg 2: Förbered dig för provet
++++Steg 2: Förbered dig för provet med vårt kostnadsfria studiematerial
 
 **Studiematerial**
 

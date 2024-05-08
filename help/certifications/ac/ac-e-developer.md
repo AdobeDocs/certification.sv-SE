@@ -7,9 +7,9 @@ level: Experienced
 badge: label="Prov AD0-E716" type="neutral"
 mini-toc-levels: 1
 exl-id: 025be894-3f29-4370-ac41-19901df4fb00
-source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '853'
+source-wordcount: '858'
 ht-degree: 0%
 
 ---
@@ -179,7 +179,7 @@ Du bör ha minst 1-3 års erfarenhet av Adobe [!DNL Commerce] och du är bekant 
 
 <br>
 
-+++Steg 2: Förbered dig för provet
++++Steg 2: Förbered dig för provet med vårt kostnadsfria studiematerial
 
 **Studiematerial**
 

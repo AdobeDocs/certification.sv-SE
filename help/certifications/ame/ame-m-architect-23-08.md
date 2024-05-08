@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="Prov AD0-E560" type="neutral"
 mini-toc-levels: 1
 exl-id: a3d5e3bd-751f-4c35-a27e-7839199030d8
-source-git-commit: c81e158a12b6f52a01919f15c32e6614139ebd9d
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '733'
+source-wordcount: '738'
 ht-degree: 0%
 
 ---
@@ -145,7 +145,7 @@ Dessutom bör du känna till följande verktyg och tekniker:
 
 <br>
 
-+++Steg 2: Förbered dig för provet
++++Steg 2: Förbered dig för provet med vårt kostnadsfria studiematerial
 
 **Studiematerial**
 

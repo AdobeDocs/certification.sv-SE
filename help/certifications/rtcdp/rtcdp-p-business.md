@@ -8,9 +8,9 @@ recommendations: disable, exclude
 badge: label="Prov AD0-E602" type="neutral"
 mini-toc-levels: 1
 exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
-source-git-commit: 60d6f81f208b1b4257ab5f808870a473328aec5f
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '485'
+source-wordcount: '490'
 ht-degree: 0%
 
 ---
@@ -124,7 +124,7 @@ Upplev uppgifter som innefattar:
 
 <br>
 
-+++Steg 2: Förbered dig för provet
++++Steg 2: Förbered dig för provet med vårt kostnadsfria studiematerial
 
 **Studiematerial**
 

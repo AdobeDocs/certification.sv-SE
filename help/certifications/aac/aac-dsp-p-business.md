@@ -7,9 +7,9 @@ role: User
 badge: label="Prov AD0-E502" type="neutral"
 mini-toc-levels: 1
 exl-id: 15f3e05a-4896-488c-a65d-d6e8f948c8cc
-source-git-commit: 0664d9332c10fb8beb16c830b639677a5b540244
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '469'
+source-wordcount: '474'
 ht-degree: 0%
 
 ---
@@ -112,7 +112,7 @@ Du bör också känna till följande verktyg och tekniker:
 
 <br>
 
-+++Steg 2: Förbered dig för provet
++++Steg 2: Förbered dig för provet med vårt kostnadsfria studiematerial
 
 **Studiematerial**
 

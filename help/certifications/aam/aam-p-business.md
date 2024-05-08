@@ -8,9 +8,9 @@ level: Experienced
 badge: label="Prov AD0-E458" type="neutral"
 mini-toc-levels: 1
 exl-id: 3665137b-8057-4205-ba4e-5deecf2672d6
-source-git-commit: a299ce43944bab736c2b0c86e9be80225d4c681d
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '588'
+source-wordcount: '594'
 ht-degree: 0%
 
 ---
@@ -87,7 +87,7 @@ Ni bör ha en grundläggande förståelse för dataflöden, affärsmål och nyck
 * Bestäm lämplig struktur för att skapa egenskaper och segment som använder en tydlig och konsekvent nomenklatur
 * Identifiera rätt teknik för att upprätthålla en organiserad plattform med hjälp av en tydlig mappstruktur
 
-**Avsnitt 6: Profilsammanfogning, ID-synkronisering och Audience Marketplace**
+**Avsnitt 6: Profilsammanslagning, ID-synkronisering och Audience Marketplace (14 %)**
 
 * Organisera användaregenskaper i en enda enhetlig profil för att skapa hushåll- eller enhetsbaserade målgrupper
 * Identifiera aktivering med Audience Marketplace
@@ -106,7 +106,7 @@ Ni bör ha en grundläggande förståelse för dataflöden, affärsmål och nyck
 
 <br>
 
-+++Steg 2: Förbered dig för provet
++++Steg 2: Förbered dig för provet med vårt kostnadsfria studiematerial
 
 **Studiematerial**
 

@@ -8,10 +8,10 @@ badge: label="Prova AD0-E600 och AD7-E601" type="neutral"
 hidefromtoc: true
 mini-toc-levels: 1
 exl-id: 5e15b6e5-a9c0-4927-89d8-4a43fbb0e863
-source-git-commit: 0dbc3cf707bc6274776c0580a927b07166179f60
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '1318'
-ht-degree: 3%
+source-wordcount: '1069'
+ht-degree: 0%
 
 ---
 
@@ -125,7 +125,7 @@ Provet AD0-E600 avser att verifiera färdigheter och kunskaper som omfattar grun
 
 <br>
 
-+++Steg 2: Förbered dig för provet
++++Steg 2: Förbered dig för provet med vårt kostnadsfria studiematerial
 
 **Studiematerial**
 
@@ -140,19 +140,19 @@ Provet AD0-E600 avser att verifiera färdigheter och kunskaper som omfattar grun
 
 **Avsnitt 2: Inmatning av data**
 
-* [Datainmatning](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html){target="_blank"}
+* [Inmatning av data](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html){target="_blank"}
 
 **Avsnitt 3: Enhetliga profiler**
 
 * [Identitets- och identitetsdiagram](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/understanding-identity-and-identity-graphs.html){target="_blank"}
 * [Mappa identiteter](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/map-identities.html){target="_blank"}
-* [Märka, mata in och verifiera identitetsdata](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/label-ingest-and-verify-identity-data.html){target="_blank"}
+* [Etikett, ingest och verifiera identitetsdata](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/label-ingest-and-verify-identity-data.html){target="_blank"}
 * [Skapa en datauppsättning för att exportera ett målgruppssegment](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/create-dataset-export-segment.html){target="_blank"}
 * [Skapa maskininlärda segment med kundprofil i realtid](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-science-workspace/dsw-profile-segmentation.html){target="_blank"}
 
 **Avsnitt 4: Aktivering**
 
-* [Översikt över mål](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.htmll?lang=sv){target="_blank"}
+* [Översikt över destinationer](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.htmll?lang=sv){target="_blank"}
 
 <br>
 
@@ -265,7 +265,7 @@ Avsnitt 3: Destinationer (27 %)
 
 <br>
 
-+++Steg 2: Förbered dig för provet
++++Steg 2: Förbered dig för provet med vårt kostnadsfria studiematerial
 
 **Studiematerial**
 
