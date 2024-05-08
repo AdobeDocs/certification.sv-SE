@@ -6,9 +6,9 @@ role: Developer
 badge: label="Prov AD0-E906" type="neutral"
 mini-toc-levels: 1
 exl-id: f00092c9-1288-447f-adcd-229cf325bc3e
-source-git-commit: a299ce43944bab736c2b0c86e9be80225d4c681d
+source-git-commit: 42e49c6bc5c7b20d3d298cff4c2c72d1d409c607
 workflow-type: tm+mt
-source-wordcount: '541'
+source-wordcount: '457'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,10 @@ ht-degree: 0%
 # Certifieringsresa för Adobe [!DNL Workfront] for [!DNL Experience Manager] Förbättrad Connector Expert
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/615) ger dig en skräddarsydd väg genom testprocessen för certifiering, inklusive ingående studiematerial som du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
 
 ## Provbeskrivning {#exam-description}
 
@@ -117,40 +121,11 @@ Och du borde ha:
 
 {{study-materials-intro}}
 
-**Avsnitt 1: Tekniska krav**
+**Handbok för testversioner**
 
-* [Översikt över anpassade formulär](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-forms-overview.html){target="_blank"}
-* [Konfigurera dokumentintegreringar](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-document-integrations.html){target="_blank"}
-* [Understanding Multitenancy and Concurrent Development](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/deployment/multitenancy-concurrent-article-understand.html){target="_blank"}
-* [Lägga till beräknade data i ett anpassat formulär med äldre formulärverktyg](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-form-builder/use-the-custom-form-builder/add-calculated-data-to-custom-form.html){target="_blank"}
-* [Adobe [!DNL Workfront] Statuswebbplats](https://experienceleague.adobe.com/docs/workfront/using/basics/tips-tricks-for-basics/understand-the-status-site.html){target="_blank"}
-* [Avancerad felsökning med utvecklingsverktyget](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/troubleshooting-and-error-handling/advanced-troubleshooting-with-the-dev-tool.html){target="_blank"}
+{{exam-prep-guide}}
 
-**Avsnitt 2: Konfiguration**
-
-* [God praxis - introduktion och implementering](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html){target="_blank"}
-* [Skapa en enskild användarprofil](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/create-an-individual-user-profile.html){target="_blank"}
-* [Adobe [!DNL Experience Manager Assets] integrering med Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-integrations.html){target="_blank"}
-* [Metadata och nyckelord: metadatainställning](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/metadata-and-keywords/metadata-setup.html){target="_blank"}
-* [Installera [!DNL Workfront] for [!DNL Experience Manager] förbättrad koppling](https://experienceleague.adobe.com/docs/experience-manager-64/assets/integrations/workfront-connector-install.html){target="_blank"}
-
-**Avsnitt 3: Affärspraxis**
-
-* [Utveckla en [!DNL Workfront] DAM-strategi](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.html){target="_blank"}
-* [Skapa en godkännandeprocess för arbetsobjekt](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/approvals-milestones/create-approval-processes.html){target="_blank"}
-* [Översikt över automatiserat arbetsflöde](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/automated-workflow.html){target="_blank"}
-* [Granska och godkänna ett korrektur](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/review-and-approve-work-for-proof/review-and-approve-a-proof.html){target="_blank"}
-* [Spåra förlopp från projekttidslinjen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-timelines/track-work-progress-from-the-project-timeline.html){target="_blank"}
-* [Definiera mål för Adobe [!DNL Workfront] implementering](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html){target="_blank"}
-
-**Avsnitt 4: Installation och konfigurering av anslutning**
-
-* [Installera [!DNL Workfront] for [!DNL Experience Manager] förbättrad koppling](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-connector-install.html){target="_blank"}
-* [[!DNL Workfront] bättre anslutningsgrunder](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/basics.html){target="_blank"}
-* [Konfigurera [!DNL Workfront] for [!DNL Experience Manager] förbättrad koppling](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-connector-configure.html){target="_blank"}
-* [Adobe [!DNL Experience Manager Assets] integrering med Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-integrations.html){target="_blank"}
-
-<br>
+[Visa guiden Förbered prov](https://app.rockinfo.com/courses/playScorm/615)
 
 **Exempelfrågor**
 
