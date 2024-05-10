@@ -7,9 +7,9 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
-source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
+source-git-commit: e8af3d80437671df62f99a60f80eecc31c5976bf
 workflow-type: tm+mt
-source-wordcount: '2843'
+source-wordcount: '2421'
 ht-degree: 0%
 
 ---
@@ -303,7 +303,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} först. Klicka sedan på Adobe för att förnya certifieringen [!DNL Marketo Engage] Länk till förnyelse av Business Practitioner Expert nedan.
 
-[!BADGE Take the Adobe [!DNL Marketo Engage]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true"}
+[!BADGE Ta Adobe [!DNL Marketo Engage] Expertförnyelseprov på affärspraktiserande läkare AD5-E824]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true"}
 
 >[!NOTE]
 >
@@ -326,7 +326,7 @@ Du bör vara certifierad (inte utgånget) i:
 **Information om tentamen:**
 
 * Nivå: Expert (3-5 års erfarenhet)
-* Passing Score: 27/36
+* Löpande poäng: 23/36
 * Tid: 72 min
 * Leverans: On-demand/icke-upphandling
 * Tillgängliga språk: engelska
