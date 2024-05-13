@@ -7,7 +7,7 @@ role: Developer,Data Architect
 badge: label="Prov AD0-E605" type="neutral"
 mini-toc-levels: 1
 exl-id: 8b462656-09d0-49c9-a45e-eb57e29400df
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 8e20ec297693b463b2065e70c6f057e03c3cee60
 workflow-type: tm+mt
 source-wordcount: '537'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/515) ger dig en skräddarsydd väg genom testprocessen för certifiering, inklusive ingående studiematerial som du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
+>**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/617) ger dig en skräddarsydd väg genom testprocessen för certifiering, inklusive ingående studiematerial som du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
 
 ## Provbeskrivning {#exam-description}
 
@@ -156,7 +156,7 @@ Du bör känna dig bekväm i dessa miljöer:
 
 {{exam-prep-guide}}
 
-[Visa guiden Förbered prov](https://app.rockinfo.com/courses/playScorm/515)
+[Visa guiden Förbered prov](https://app.rockinfo.com/courses/playScorm/617)
 
 <br>
 
