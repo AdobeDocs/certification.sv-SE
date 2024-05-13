@@ -1,15 +1,15 @@
 ---
 title: Ny certifiering för frontutvecklare Professional
-description: Så här blir du certifierad Adobe Developer-proffs för Adobe [!DNL Commerce] .
+description: Så här blir du certifierad Adobe Developer-proffs för Adobe [!DNL Commerce].
 solution: Commerce
 product: Magento
 role: Developer
 badge: label="Prov AD0-E721" type="neutral"
 mini-toc-levels: 1
 exl-id: 9bf1ec2a-dcd0-4952-8b0b-d24dd714b739
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '711'
+source-wordcount: '710'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >Nu finns kostnadsfria resurser på begäran som hjälper dig att förbereda dig för ditt prov:
 >
->* **Kurs**: Om du just har börjat eller behöver en ny uppgradering, ta [Adobe Commerce Foundations Course](https://app.rockinfo.com/courses/148) för att få förklaringar till viktiga begrepp, produktgenomgångar och kunskapsanalyser. Kursen ger en grund för de kunskaper du kan bygga vidare på i din certifieringsresa.
+>* **Kurs**: Om du just har börjat eller behöver en uppdaterare, ta [Adobe Commerce Foundations Course](https://app.rockinfo.com/courses/148) för att få förklaringar till viktiga begrepp, produktgenomgångar och kunskapsanalyser. Detta ger en grund för de kunskaper du kan bygga vidare på i din certifieringsresa.
 >
->* **Handbok för testversioner:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/384) ger dig en skräddarsydd väg genom testprocessen för certifiering, inklusive ingående studiematerial som du behöver för att lyckas med denna certifiering.
+>* **Handbok för testversioner:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/384) ger en skräddarsydd väg genom er process för testning av certifieringar, inklusive det ingående studiematerial ni behöver för att lyckas med denna certifiering.
 >
 >_Om du uppmanas att logga in använder du din Adobe ID._
 
@@ -118,7 +118,7 @@ Dessutom bör du känna till följande tekniker:
 * Beskriv användningen av blockerad JS
 * Beskriv användningen av jQuery-widgetar
 
-**Avsnitt 5: Administratörskonfiguration och PageBuilder (6 %)**
+**Avsnitt 5: Administratörskonfiguration och Page Builder (6 %)**
 
 * Uppvisa förmåga att anpassa Page Builder- och CMS-material&quot;
 * Använd/schemalägg ett tema för ett specifikt omfång (webbplats, butik, butiksvy)
@@ -127,7 +127,7 @@ Dessutom bör du känna till följande tekniker:
 
 **Avsnitt 6: Verktyg (CLI och Grunt) (8 %)**
 
-* Beskriv användningen av grundläggande bin/magento-kommandon
+* Beskriv användningen av grundläggande bin/Magento-kommandon
 * Beskriv användningen av Composer-kommandon (installera, uppdatera, begära, ta bort)
 * Differentiera lämplig användning för driftsättningslägen
 * Beskriv andra verktyg som molnet tillhandahåller (snabbt, hämta databas, distribuera innehåll)
@@ -146,7 +146,7 @@ Dessutom bör du känna till följande tekniker:
 
 <br>
 
-+++Steg 2: Förbered dig för provet med vårt kostnadsfria studiematerial
++++Steg 2: Förbered dig för provet med dessa kostnadsfria studiematerial
 
 **Studiematerial**
 

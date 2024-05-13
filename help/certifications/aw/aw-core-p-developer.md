@@ -7,7 +7,7 @@ badge: label="Prov AD0-E905" type="neutral"
 mini-toc-levels: 1
 exl-id: 08f5386c-901c-44be-9537-48c9ac5d2be2
 hidefromtoc: true
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: dc8dc213ce43e8f521242fc2c3d320f6480d57b1
 workflow-type: tm+mt
 source-wordcount: '752'
 ht-degree: 0%
@@ -136,7 +136,7 @@ Och du borde ha:
 
 <br>
 
-+++Steg 2: Förbered dig för provet med vårt kostnadsfria studiematerial
++++Steg 2: Förbered dig för provet med dessa kostnadsfria studiematerial
 
 **Studiematerial**
 

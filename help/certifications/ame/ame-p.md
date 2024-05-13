@@ -7,7 +7,7 @@ role: User
 badge: label="Prov AD0-E555" type="neutral"
 mini-toc-levels: 1
 exl-id: df1a2c71-5216-47d1-a971-5c07dd3e2d2a
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: dc8dc213ce43e8f521242fc2c3d320f6480d57b1
 workflow-type: tm+mt
 source-wordcount: '681'
 ht-degree: 0%
@@ -141,7 +141,7 @@ Dessutom bör du känna till följande verktyg och tekniker:
 
 <br>
 
-+++Steg 2: Förbered dig för provet med vårt kostnadsfria studiematerial
++++Steg 2: Förbered dig för provet med dessa kostnadsfria studiematerial
 
 **Studiematerial**
 

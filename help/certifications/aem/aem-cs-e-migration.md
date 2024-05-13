@@ -7,9 +7,9 @@ role: Developer
 badge: label="Prov AD0-E136" type="neutral"
 mini-toc-levels: 1
 exl-id: 64b53064-8280-405b-a5f7-b50264394b82
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '565'
+source-wordcount: '566'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/373) ger dig en skräddarsydd väg genom testprocessen för certifiering, inklusive ingående studiematerial som du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
+>**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/373) ger en skräddarsydd väg genom er process för testning av certifieringar, inklusive det ingående studiematerial ni behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
 
 ## Provbeskrivning {#exam-description}
 
@@ -59,7 +59,7 @@ Du borde ha:
 * En förståelse för de övergripande förändringarna i arkitekturen och funktionerna när man går över från AEM (självhanterade, AMS eller något tredjepartsmoln) till AEM as a Cloud Service.
 * 1-3 års webbapplikationsutveckling med Adobe [!DNL Experience Manager]
 * Handleder upplevelser med AEM Forms, Assets och Sites
-* Möjlighet att vägleda kunderna genom migreringsprocessen och ge råd och delta i alla faser i ett AEM projekt
+* Möjlighet att vägleda kunderna genom migreringsprocessen, ge råd och delta i alla faser i ett AEM projekt
 
 Dessutom bör du känna till följande tekniker och miljöer:
 
@@ -105,7 +105,7 @@ Dessutom bör du känna till följande tekniker och miljöer:
 
 **Avsnitt 3: Driftsättning (16 %)**
 
-* Konfigurera Cloud Manager-pipelines och koppla dem till miljöer
+* Konfigurera Cloud Manager-pipelines och koppla till miljöerna
 * Etablera AEMaaCS-miljöer (dev, stage, prod - författare, publicera, förhandsgranska)
 * Hantera driftsättningsprocessen med Adobe IO CLI
 
@@ -119,7 +119,7 @@ Dessutom bör du känna till följande tekniker och miljöer:
 
 **Avsnitt 5: Implementering (16 %)**
 
-* Slå samman flera projekt till ett enda projekt som ska distribueras via rörledningen i Adobe
+* Sammanfoga flera projekt till ett enda projekt som ska distribueras via Adobe
 * Hantera rapportskript för användar-/gruppbehörighet
 * Konfigurera lokala SDK:er
 * Uppdatera konfigurationer baserat på tillgängliga runmodes på AEM as a Cloud Service
@@ -138,7 +138,7 @@ Dessutom bör du känna till följande tekniker och miljöer:
 
 <br>
 
-+++Steg 2: Förbered dig för provet med vårt kostnadsfria studiematerial
++++Steg 2: Förbered dig för provet med dessa kostnadsfria studiematerial
 
 **Studiematerial**
 

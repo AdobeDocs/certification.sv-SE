@@ -8,9 +8,9 @@ level: Experienced
 badge: label="Prov AD0-E708" type="neutral"
 mini-toc-levels: 1
 exl-id: 1f44f543-4303-43b8-a42e-431f504d7a03
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '753'
 ht-degree: 0%
 
 ---
@@ -21,8 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/386) ger dig en skräddarsydd väg genom testprocessen för certifiering, inklusive ingående studiematerial som du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
-
+>**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/386) ger en skräddarsydd väg genom er process för testning av certifieringar, inklusive det ingående studiematerial ni behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
 
 ## Provbeskrivning {#exam-description}
 
@@ -88,10 +87,10 @@ Dessutom bör du vara bekväm med följande tekniker:
 * Bestäm hur du använder produkttyper och deras funktioner för att uppfylla kundernas krav
 * Tolka krav och skapa dummies för att avgöra om de kan uppfyllas med inbyggd funktionalitet
 * Uppvisa kunskap om administratörspanelen och var de gemensamma funktionerna finns
-* Uppvisa möjligheten att importera/exportera Adobe [!DNL Commerce] enheter
+* Uppvisa förmåga att importera/exportera Adobe [!DNL Commerce] enheter
 * Förstå hur kundvagnen och kassan konfigureras internt
 * Utvärdera de systemspecifika tillgängliga leveransmetoderna i Adobe [!DNL Commerce] och hur de gäller för vanliga användningsområden
-* Så här skapar och publicerar du stiliserat innehåll med Adobe [!DNL Commerce] CMS-funktioner som PageBuilder
+* Så här skapar och publicerar du stiliserat innehåll med Adobe [!DNL Commerce] CMS-funktioner som Page Builder
 * Använda inbyggda verktyg för att hantera orderns livscykel
 * Uppvisa förmåga att konfigurera de olika presentalternativen (presentkort, presentomslag, meddelanden)
 * Konfigurera och ändra transaktionsmeddelanden
@@ -128,7 +127,7 @@ Dessutom bör du vara bekväm med följande tekniker:
 **Avsnitt 6: Efterlevnad/säkerhet (12 %)**
 
 * Uppvisa hur man säkrar Adobe [!DNL Commerce] dataåtkomst med roller och behörigheter
-* Förstå grunderna om efterlevnad av sekretesslagstiftning och betalningssäkerhet
+* Förstå grunderna för efterlevnad av sekretesslagstiftning och betalningssäkerhet
 * Förklara vanliga säkerhetsaspekter på Adobe [!DNL Commerce] projekt
 * Förstå grunderna i skattelagstiftning och hur man konfigurerar
 
@@ -154,7 +153,7 @@ Dessutom bör du vara bekväm med följande tekniker:
 
 <br>
 
-+++Steg 2: Förbered dig för provet med vårt kostnadsfria studiematerial
++++Steg 2: Förbered dig för provet med dessa kostnadsfria studiematerial
 
 **Studiematerial**
 

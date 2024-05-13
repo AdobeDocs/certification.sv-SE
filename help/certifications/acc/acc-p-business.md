@@ -7,7 +7,7 @@ role: User
 badge: label="Prov AD0-E329" type="neutral"
 mini-toc-levels: 1
 exl-id: 38af77fd-8e31-4cca-b953-3f83b61d3000
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '836'
 ht-degree: 0%
@@ -97,7 +97,7 @@ Du borde ha:
 
 * Bestäm hur du ändrar kolumner i en vy för att testa data/utdata
 * Beskriv syftet med de riktade aktiviteterna för union, skärning, uteslutning och delat arbetsflöde
-* Identifiera lämplig metod för att stämma av data, generera ett komplement, ta bort dubbletter och importera data
+* Bestäm lämplig metod för att stämma av data, generera ett komplement, ta bort dubbletter och importera data
 * Ange i ett scenario vilken dataanrikningsregel som ska användas
 * Bestäm hur du segmenterar en målgrupp och lagrar som en lista och celler
 * I ett scenario bör du fastställa den bästa metoden för att exportera data till destinationer genom att konfigurera dem
@@ -142,7 +142,7 @@ Du borde ha:
 
 <br>
 
-+++Steg 2: Förbered dig för provet med vårt kostnadsfria studiematerial
++++Steg 2: Förbered dig för provet med dessa kostnadsfria studiematerial
 
 **Studiematerial**
 

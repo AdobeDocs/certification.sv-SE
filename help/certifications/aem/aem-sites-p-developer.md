@@ -7,9 +7,9 @@ role: Developer
 badge: label="Prov AD0-E123" type="neutral"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '418'
 ht-degree: 0%
 
 ---
@@ -70,10 +70,10 @@ Du bör vara programutvecklare och ha:
 
 **Avsnitt 1: Konfigurationer (26 %)**
 
-* Identifiera syftet med AEM-konfigurationer och cachelagring
+* Identifiera syftet med AEM Dispatcher-konfigurationer och cachelagring
 * Identifiera rätt steg för att konfigurera flera platser i AEM
 * Förklara hur du skapar och hanterar OSGi-konfigurationer
-* Bestäm de rätta stegen för att hantera anpassade OAK-index
+* Bestäm vilka steg som ska användas för att hantera anpassade ekningsindex
 * Kontrollera hur du konfigurerar integreringen mellan OTB SAML och IMS
 
 **Avsnitt 2: AEM (40 %)**
@@ -109,7 +109,7 @@ Du bör vara programutvecklare och ha:
 
 <br>
 
-+++Steg 2: Förbered dig för provet med vårt kostnadsfria studiematerial
++++Steg 2: Förbered dig för provet med dessa kostnadsfria studiematerial
 
 **Studiematerial**
 

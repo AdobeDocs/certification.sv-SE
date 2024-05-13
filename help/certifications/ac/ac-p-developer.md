@@ -7,7 +7,7 @@ role: Developer
 badge: label="tentamen AD0-E717" type="neutral"
 mini-toc-levels: 1
 exl-id: 5dc85678-91f9-4865-b310-3460081b19f8
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '759'
 ht-degree: 0%
@@ -146,7 +146,7 @@ Dessutom bör du känna till följande tekniker och miljöer:
 * Känn igen grundläggande kunskaper om användarhantering i molnet och introduktionsgränssnitt
 * Beskriv miljöhantering med användargränssnittet
 * Beskriv förgreningar med användargränssnittet
-* Identifiera funktionerna i Adobe Commerce Cloud-planen
+* Identifiera funktioner i Adobe Commerce Cloud Plan
 
 **Avsnitt 9: [!DNL Commerce] CLI-verktyg i molnet (hanteringsdel) (6 %)**
 
@@ -176,7 +176,7 @@ Dessutom bör du känna till följande tekniker och miljöer:
 
 <br>
 
-+++Steg 2: Förbered dig för provet med vårt kostnadsfria studiematerial
++++Steg 2: Förbered dig för provet med dessa kostnadsfria studiematerial
 
 **Studiematerial**
 

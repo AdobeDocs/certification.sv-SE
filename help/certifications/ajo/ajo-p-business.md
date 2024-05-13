@@ -6,9 +6,9 @@ product: Journey Optimizer
 role: Developer
 badge: label="tentamen AD0-E607" type="neutral"
 exl-id: bc0be483-80c0-4a54-9562-1c2e93501db0
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '934'
+source-wordcount: '933'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 >
 >Kostnadsfria, on-demand-kurser finns nu tillgängliga som hjälp att förbereda dig för ditt prov. Börja din utbildningsresa idag genom att välja den kurs som bäst matchar din upplevelse!
 >
->* The [Adobe Experience Platform Foundations Course](https://app.rockinfo.com/courses/216) kommer att presentera Adobe Experience Cloud, en komplett uppsättning verktyg för digital marknadsföring som bygger på den enda plattform som är utformad för personalisering i stor skala.
+>* The [Adobe Experience Platform Foundations Course](https://app.rockinfo.com/courses/216) introducerar Adobe Experience Cloud, en komplett uppsättning verktyg för digital marknadsföring som bygger på den enda plattform som utformats för personalisering i stor skala.
 >* The [Adobe Journey Optimizer Foundations Course](https://app.rockinfo.com/courses/113) ger en grund för kunskaper om det här specifika programmet.
 >* The [Adobe Journey Optimizer Business Practitioner Professional Course](https://app.rockinfo.com/courses/107) bygger vidare på Foundations-kursen och hjälper dig att förbereda dig för ett certifieringsprov på professionell nivå.
 >* The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/588) ger en skräddarsydd väg genom testprocessen, inklusive det djupgående studiematerialet som du behöver för att lyckas med provet.
@@ -84,8 +84,8 @@ Kandidaterna ska kunna
 * Förstå och använda olika aktiviteter inom resor
 * Grundläggande felsökning - via testläge eller rapportering (ingen frågetjänst krävs)
 * krav på att samla in och dokumentera kundresor med företaget
-* Lär känna bästa praxis kring resor och kanaler (t.ex. bästa tiden att skicka, bästa möjliga kanal att använda, bästa designmönster för resan för olika användningsområden, när transaktions- och marknadsföringsmeddelanden ska användas).
-* Förstå leveransbegrepp (t.ex. olika studsar, uppvärmning)
+* Lär känna bästa praxis kring resor och kanaler (t.ex. bästa tiden att skicka, bästa möjliga kanal att använda, bästa designmönster för resan för olika användningsområden, när transaktionsmeddelanden och marknadsföringsmeddelanden ska användas).
+* Förstå leveransbegrepp (till exempel olika studsar, uppvärmning)
 * Förstå regler för frekvens och utmattning
 * Förhandsgranska datauppsättningar
 * Grundläggande förståelse för identiteter
@@ -167,7 +167,7 @@ Kandidaterna ska också kunna
 
 <br>
 
-+++Steg 2: Förbered dig för provet med vårt kostnadsfria studiematerial
++++Steg 2: Förbered dig för provet med dessa kostnadsfria studiematerial
 
 **Studiematerial**
 

@@ -8,7 +8,7 @@ level: Experienced
 badge: label="Prov AD0-E458" type="neutral"
 mini-toc-levels: 1
 exl-id: 3665137b-8057-4205-ba4e-5deecf2672d6
-source-git-commit: 8b103c67e4232498461482ae33937eda7cb2c0f7
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '423'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/616) ger dig en skräddarsydd väg genom testprocessen för certifiering, inklusive ingående studiematerial som du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
+>**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/616) ger en skräddarsydd väg genom er process för testning av certifieringar, inklusive det ingående studiematerial ni behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
 
 ## Provbeskrivning {#exam-description}
 
@@ -110,7 +110,7 @@ Ni bör ha en grundläggande förståelse för dataflöden, affärsmål och nyck
 
 <br>
 
-+++Steg 2: Förbered dig för provet med vårt kostnadsfria studiematerial
++++Steg 2: Förbered dig för provet med dessa kostnadsfria studiematerial
 
 **Studiematerial**
 

@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="Prov AD0-E560" type="neutral"
 mini-toc-levels: 1
 exl-id: a3d5e3bd-751f-4c35-a27e-7839199030d8
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '738'
+source-wordcount: '736'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->Certifieringen har en förutsättning. Du MÅSTE ha en aktiv (inte utgången) Adobe [!DNL Marketo Engage] Yrkesverksamma inom affärsverksamhet **Expert** Certifiering för att ta Adobe [!DNL Marketo Engage] Arkitektprov, magisterexamen.
+>Certifieringen har en förutsättning. Du MÅSTE ha en aktiv (inte utgången) Adobe [!DNL Marketo Engage] Yrkesverksamma inom affärsverksamhet **Expert** Certifiering för Adobe [!DNL Marketo Engage] Arkitektprov, magisterexamen.
 
 * Krav: Aktiv (inte utgången) Adobe [!DNL Marketo Engage] Expertcertifiering för Business Practitioner
 * Nivå: Masternivå (3-5 års erfarenhet)
@@ -66,7 +66,7 @@ ht-degree: 0%
 Du borde ha:
 
 * En certifiering som certifierad expert på Marketo Engage Business Practitioner
-* Minst fem års erfarenhet, helst med flera instanser av Marketo Engage
+* Minst fem års erfarenhet, helst med flera fall av Marketo Engage
 * En förståelse för vilken inverkan verksamheten har och effektivt förklara/informera intressenter (tekniska och icke-tekniska) på olika nivåer om deras lösning
 * Möjligheten att skapa en lösning och omvandla den till en Marketo Engage-arkitektur, förstå de affärsprocesser som påverkas av integreringar
 * Förtrogenhet med principerna för att skapa en instans
@@ -145,7 +145,7 @@ Dessutom bör du känna till följande verktyg och tekniker:
 
 <br>
 
-+++Steg 2: Förbered dig för provet med vårt kostnadsfria studiematerial
++++Steg 2: Förbered dig för provet med dessa kostnadsfria studiematerial
 
 **Studiematerial**
 

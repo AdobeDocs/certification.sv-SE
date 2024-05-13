@@ -7,7 +7,7 @@ role: User,Developer
 badge: label="Prov AD0-E457" type="neutral"
 mini-toc-levels: 1
 exl-id: 71141d87-828c-4c28-a6e2-0e12e885e1ad
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '654'
 ht-degree: 0%
@@ -55,7 +55,9 @@ Du borde ha:
 * 1-2 års erfarenhet inom marknadsföringsteknik
 * 3-6 månaders erfarenhet av målgruppsaktivering
 * Upplevelse med boolesk logik, digital marknadsföring, dataanalys och strategier
-* Kunskap om affärsmål och nyckeltal, kunskap om digitala marknadsföringsteknologier och olika plattformsintegrationer samt förståelse för dataflöden (ID-typer, ID-synk, pixelspårning, personbaserade destinationer)
+* Kunskap om affärsmål och nyckeltal
+* Förtrogenhet med teknikstackar för digital marknadsföring och olika plattformsintegreringar
+* En förståelse för dataflöden (ID-typer, ID-synk, pixelspårning, personbaserade mål)
 
 Du bör känna till följande tekniker och miljöer:
 
@@ -63,7 +65,7 @@ Teknik:
 
 * DSP Platform (Trade Desk, Double Click Bid Manager, osv.)
 * Excel
-* Tableau och liknande verktyg (PowerBI, Qlik)
+* Tableu och liknande verktyg (Power BI, Qlik)
 * Annonsserver (kampanjhanterare med dubbelklick)
 * Adobe/Google Analytics
 * Adobe Experience Platform
@@ -132,7 +134,7 @@ Miljö:
 
 <br>
 
-+++Steg 2: Förbered dig för provet med vårt kostnadsfria studiematerial
++++Steg 2: Förbered dig för provet med dessa kostnadsfria studiematerial
 
 **Studiematerial**
 

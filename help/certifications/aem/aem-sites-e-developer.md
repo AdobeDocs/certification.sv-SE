@@ -7,7 +7,7 @@ role: Developer
 badge: label="Prov AD0-E134" type="neutral"
 mini-toc-levels: 1
 exl-id: 4b97177a-38aa-4082-95da-1e4c9962f3c8
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '501'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/369) ger dig en skräddarsydd väg genom testprocessen för certifiering, inklusive ingående studiematerial som du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
+>**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/369) ger en skräddarsydd väg genom er process för testning av certifieringar, inklusive det ingående studiematerial ni behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
 
 ## Provbeskrivning {#exam-description}
 
@@ -77,10 +77,10 @@ Dessutom bör du känna till följande tekniker och miljöer:
 
 **Avsnitt 1: Konfigurationer (22 %)**
 
-* Identifiera stegen för att skapa och hantera AEM dispatcherkonfigurationer
+* Identifiera stegen för att skapa och hantera AEM Dispatcher-konfigurationer
 * Bestäm de rätta stegen för att konfigurera multi-tenancy
 * Förklara hur du skapar och hanterar OSGi-konfigurationer
-* I ett scenario måste du fastställa rätt metod för att skapa och hantera anpassade OAK-index
+* I ett scenario måste du fastställa rätt metod för att skapa och hantera anpassade ekningsindex
 * Kontrollera hur du konfigurerar integreringen mellan OTB SAML och LDAP
 
 **Avsnitt 2: AEM (44 %)**
@@ -126,7 +126,7 @@ Dessutom bör du känna till följande tekniker och miljöer:
 
 <br>
 
-+++Steg 2: Förbered dig för provet med vårt kostnadsfria studiematerial
++++Steg 2: Förbered dig för provet med dessa kostnadsfria studiematerial
 
 **Studiematerial**
 

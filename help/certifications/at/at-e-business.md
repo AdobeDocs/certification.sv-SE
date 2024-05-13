@@ -7,9 +7,9 @@ role: User
 badge: label="Prov AD0-E406" type="neutral"
 mini-toc-levels: 1
 exl-id: e907929f-b4a4-45e1-ba2d-f407f46d41c6
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '862'
+source-wordcount: '863'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/594) ger dig en skräddarsydd väg genom testprocessen för certifiering, inklusive ingående studiematerial som du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
+>**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/594) ger en skräddarsydd väg genom er process för testning av certifieringar, inklusive det ingående studiematerial ni behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
 
 ## Provbeskrivning {#exam-description}
 
@@ -74,7 +74,7 @@ Dessutom bör du känna till följande tekniker och miljöer:
 
 Teknik:
 
-* Marketing cloud debugger / även kallad Adobe Experience Cloud debugger
+* Marketing cloud debugger/även kallad Adobe Experience Cloud debugger
 * Adobe Analytics som rapporteringskälla för Target specifikt A4T-integrering
 * Verktyg för webbläsarkonsol/webbläsarutvecklare, t.ex. konsol, nätverksflik
 * Nätverksverktyg i webbläsaren
@@ -91,7 +91,7 @@ Teknik:
 Miljö:
 
 * Stationär dator/webbplats, inklusive stationära datorer och mobila enheter
-* Mobilapp (grundläggande förståelse) / Användning av Target för mobila enheter
+* Mobilapp (grundläggande förståelse)/Användning av Target för mobila enheter
 * Mellanutveckling
 * Produktion
 * Produktionsmiljöer för mobila enheter, surfplattor och datorer
@@ -115,7 +115,7 @@ Miljö:
 * Analysera en testhypotes utifrån ett givet scenario och identifiera aspekter av en giltig hypotes
 * Bestämma KPI-baserade primära och sekundära framgångsmått
 * Utvärdera målgruppens behov
-* Bestäm lämpliga analysrapportkällor (dvs. Target eller Adobe Analytics)
+* Bestäm lämpliga analyskällor (dvs. Target eller Adobe Analytics)
 
 **Avsnitt 2: Konfigurera, köra och hantera (42 %)**
 
@@ -163,7 +163,7 @@ Miljö:
 
 <br>
 
-+++Steg 2: Förbered dig för provet med vårt kostnadsfria studiematerial
++++Steg 2: Förbered dig för provet med dessa kostnadsfria studiematerial
 
 **Studiematerial**
 

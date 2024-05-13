@@ -7,7 +7,7 @@ role: User
 badge: label="Prov AD0-E712" type="neutral"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '568'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >* **Kurser**: Ta [Adobe Commerce Business Practitioner Professional Course](https://app.rockinfo.com/courses/105) för förklaringar av viktiga begrepp, praktiska demonstrationer och kunskapsbaserade kontroller. Om du precis har börjat, [Adobe Commerce Foundations Course](https://app.rockinfo.com/courses/148) ger en grund för de kunskaper du kan bygga vidare på i din certifieringsresa.
 >
->* **Handbok för testversioner:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/383) ger dig en skräddarsydd väg genom testprocessen för certifiering, inklusive ingående studiematerial som du behöver för att lyckas med denna certifiering.
+>* **Handbok för testversioner:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/383) ger en skräddarsydd väg genom er process för testning av certifieringar, inklusive det ingående studiematerial ni behöver för att lyckas med denna certifiering.
 >
 >_Om du uppmanas att logga in använder du din Adobe ID._
 
@@ -102,13 +102,13 @@ Dessutom bör du ha en grundläggande förståelse för e-handelsupplevelsen och
 
 * Identifiera de grundläggande användningsområdena för verktygen för digital marknadsföring (Google Analytics/Adobe Analytics, Google Tag Manager, e-postmarknadsföring, segmentering, sociala plugin-program)
 * Förklara de grundläggande principerna för SEO
-* Identifiera de grundläggande användningsområdena för vanliga e-handelsverktyg (t.ex. shoppingflöden)
+* Identifiera de grundläggande användningsområdena för vanliga e-handelsverktyg (t.ex. kundflöden)
 * Identifiera nyckelfunktionerna på en e-handelswebbplats
 * Identifiera grundläggande e-handelskoncept (inklusive butiksalternativ)
 
 **Avsnitt 4: Grunderna för efterlevnad/säkerhet (13 %)**
 
-* Förstå grunderna om efterlevnad av sekretesslagstiftning och betalningssäkerhet
+* Förstå grunderna för efterlevnad av sekretesslagstiftning och betalningssäkerhet
 * Identifiera vanliga säkerhetsaspekter av en Adobe [!DNL Commerce] projekt
 * Identifiera bästa praxis och juridiska krav på tillgänglighet
 
@@ -134,7 +134,7 @@ Dessutom bör du ha en grundläggande förståelse för e-handelsupplevelsen och
 
 <br>
 
-+++Steg 2: Förbered dig för provet med vårt kostnadsfria studiematerial
++++Steg 2: Förbered dig för provet med dessa kostnadsfria studiematerial
 
 **Studiematerial**
 

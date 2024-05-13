@@ -6,9 +6,9 @@ product: Journey Optimizer
 role: Developer
 badge: label="Prov AD0-E606" type="neutral"
 exl-id: 61fa61d8-f08c-4198-aafc-1dda9e4aab87
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '648'
+source-wordcount: '649'
 ht-degree: 0%
 
 ---
@@ -80,7 +80,7 @@ Adobe Journey Optimizer drivs av Experience Platform. De sökande som vill bli c
 
 **Avsnitt 2: Journey Orchestration (22 %)**
 
-* Om ni utgår från ett scenario kan ni rikta in er på kunder på en flerkanals-/flerstegsresa
+* Vid ett scenario kan ni inrikta er på kunder på en resa i flera kanaler/flera steg
 * Tolka rapporter och felsökningsprestandamätningar
 * Ange lämpliga användningsfall för en resetyp utifrån ett scenario
 * Förbered testfall (t.ex. experiment eller flerkanalsresor)
@@ -121,7 +121,7 @@ Adobe Journey Optimizer drivs av Experience Platform. De sökande som vill bli c
 
 <br>
 
-+++Steg 2: Förbered dig för provet med vårt kostnadsfria studiematerial
++++Steg 2: Förbered dig för provet med dessa kostnadsfria studiematerial
 
 **Studiematerial**
 

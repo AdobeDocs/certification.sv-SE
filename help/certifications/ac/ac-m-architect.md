@@ -8,9 +8,9 @@ level: Experienced
 badge: label="Prov AD0-E722" type="neutral"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '535'
+source-wordcount: '536'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/388) ger dig en skräddarsydd väg genom testprocessen för certifiering, inklusive ingående studiematerial som du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
+>**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/388) ger en skräddarsydd väg genom er process för testning av certifieringar, inklusive det ingående studiematerial ni behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
 
 ## Provbeskrivning {#exam-description}
 
@@ -82,7 +82,7 @@ Dessutom bör du känna till följande aktiviteter och tekniker:
 * Medveten om bästa praxis inom kodning, kodningsstandarder, PSR, SOLID-principen
 * Konfigurera och använda [!DNL Adobe Commerce] Services Connector (och tillhörande tjänster)
 * Mellanlagring av innehållshantering
-* Förstå [!DNL Adobe Commerce] standardvärden, när de är tillgängliga och inte tillgängliga
+* Förstå [!DNL Adobe Commerce] standard, när den är tillgänglig och inte tillgänglig
 * Stort antal samhörande [!DNL Adobe Commerce] domän
 * Designprojektarkitektur
 * Optimera prestanda för [!DNL Adobe Commerce] standard
@@ -138,7 +138,7 @@ Dessutom bör du känna till följande aktiviteter och tekniker:
 
 <br>
 
-+++Steg 2: Förbered dig för provet med vårt kostnadsfria studiematerial
++++Steg 2: Förbered dig för provet med dessa kostnadsfria studiematerial
 
 **Studiematerial**
 

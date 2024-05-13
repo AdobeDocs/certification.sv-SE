@@ -7,9 +7,9 @@ role: Developer,Data Architect
 badge: label="Prov AD0-E605" type="neutral"
 mini-toc-levels: 1
 exl-id: 8b462656-09d0-49c9-a45e-eb57e29400df
-source-git-commit: 8e20ec297693b463b2065e70c6f057e03c3cee60
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '537'
+source-wordcount: '538'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/617) ger dig en skräddarsydd väg genom testprocessen för certifiering, inklusive ingående studiematerial som du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
+>**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/617) ger en skräddarsydd väg genom er process för testning av certifieringar, inklusive det ingående studiematerial ni behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
 
 ## Provbeskrivning {#exam-description}
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 Du borde ha:
 
 * Förstå skillnader i segmentutvärderingen (ström, batch, kant)
-* Förstå användningsexempel för API:er (hur man bygger utvecklarprojekt, hur autentiseringsprocessen fungerar)
+* Förstå användningsexempel för API:er (hur du skapar ett utvecklarprojekt, hur autentiseringen fungerar)
 * Förståelse av identitetstjänst
 * Dataflödets förståelse
 * Förstå Adobe I/O
@@ -100,7 +100,7 @@ Du bör känna dig bekväm i dessa miljöer:
 * Beskriv hur profilsammanställning fungerar
 * Beskriv hur identitetsdiagrammet fungerar
 * Beskriv profilkomposition
-* Skillnad mellan kant- och navprofil
+* Differentiera mellan kant och navprofil
 
 **Dataintag (13 %)**
 
@@ -112,7 +112,7 @@ Du bör känna dig bekväm i dessa miljöer:
 
 * Beskriv olika sätt att bygga målgrupper och segment inom CDP
 * Förklara de olika segmenteringstyperna och hur de fungerar
-* Uppvisa förståelse för hur man använder användningsfall för segment-/målgruppsaktivering
+* Uppvisa förståelse för hur man använder användningsexempel vid aktivering av segment/målgrupper
 
 **Aktivering (12 %)**
 
@@ -146,7 +146,7 @@ Du bör känna dig bekväm i dessa miljöer:
 
 <br>
 
-+++Steg 2: Förbered dig för provet med vårt kostnadsfria studiematerial
++++Steg 2: Förbered dig för provet med dessa kostnadsfria studiematerial
 
 **Studiematerial**
 

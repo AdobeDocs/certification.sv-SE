@@ -7,9 +7,9 @@ role: User
 badge: label="Prov AD0-E208" type="neutral"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '743'
+source-wordcount: '744'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/533) ger dig en skräddarsydd väg genom testprocessen för certifiering, inklusive ingående studiematerial som du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
+>**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/533) ger en skräddarsydd väg genom er process för testning av certifieringar, inklusive det ingående studiematerial ni behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
 
 ## Provbeskrivning {#exam-description}
 
@@ -59,8 +59,8 @@ ht-degree: 0%
 
 Du borde ha:
 
-* 2 års erfarenhet inom digital analys med en marknadsföringsbakgrund
-* En djupgående förståelse för mätvärden och dimensioner för digital analys
+* 2 års erfarenhet av digital analys med en marknadsföringsbakgrund
+* En djupgående förståelse för statistik och dimensioner i digital analys
 * En förståelse för webbteknikens affärsvärde
 * Förmåga att omsätta affärskrav i mätvärden eller nyckeltal
 * Möjlighet att skapa och tolka rapporter
@@ -68,7 +68,7 @@ Du borde ha:
 * Hjälpte kunderna att förstå hur de kan extrahera/hämta in den information de vill ha (till exempel hjälpa dem att definiera sina affärsfrågor)
 * En förståelse för hur tekniken fungerar och förstår en kunds implementering (till exempel var data finns, hur de kan samlas in, hur de spåras) ur funktionell synpunkt
 * Minst ett år [!DNL Adobe Analytics] praktisk upplevelse
-* En grundläggande förståelse för hur digital analys filtrerar/strukturerar data
+* En grundläggande förståelse för hur digitala analyser filtrerar och strukturerar data
 * Kunskap om integrationen av [!DNL Adobe Analytics] med andra Adobe-lösningar
 
 Dessutom bör du känna till följande tekniker och miljöer:
@@ -76,7 +76,7 @@ Dessutom bör du känna till följande tekniker och miljöer:
 * FTP-klient
 * Aktuell [!DNL Adobe Analytics] Arbetsytefunktioner och andra rapportalternativ utanför arbetsytan (t.ex. schemalägg projekt och schemalägg rapporter)
 * Felsökningsverktyg som är relevanta för [!DNL Adobe Analytics] (Packet monitor som Adobe Debugger, verktyg för webbläsare, Charles)
-* Admin console (Analytics Reports Suite Admin console och Experience Cloud Admin console)
+* Admin Console (Analytics Reports Suite Admin Console och Experience Cloud Admin Console)
 * Grundläggande om Adobe Launch
 * Appar, SPA, grundläggande webbplatsförståelse
 * Användargränssnitt för mobiltjänster
@@ -152,7 +152,7 @@ Dessutom bör du känna till följande tekniker och miljöer:
 
 <br>
 
-+++Steg 2: Förbered dig för provet med vårt kostnadsfria studiematerial
++++Steg 2: Förbered dig för provet med dessa kostnadsfria studiematerial
 
 **Studiematerial**
 

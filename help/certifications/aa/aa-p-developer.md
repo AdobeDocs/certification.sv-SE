@@ -8,7 +8,7 @@ level: Experienced
 badge: label="Prov AD0-E213" type="neutral"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '722'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/532) ger dig en skräddarsydd väg genom testprocessen för certifiering, inklusive ingående studiematerial som du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
+>**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/532) ger en skräddarsydd väg genom er process för testning av certifieringar, inklusive det ingående studiematerial ni behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
 
 ## Provbeskrivning {#exam-description}
 
@@ -59,7 +59,7 @@ Du borde ha:
 
 Du bör även ha erfarenhet av följande uppgifter:
 
-* Tolka ett SDR (Solutions Design Document) och förstå syftet med allt [!DNL Adobe Analytics] insamlade variabler
+* Tolka ett SDR (Solutions Design Document) och förstå syftet med alla [!DNL Adobe Analytics] insamlade variabler
 * Understanding and work with Adobe (Experience Platform) Launch
 * Om konfiguration av baslinje [!DNL Adobe Analytics] dimensioner och händelser Sidnamn, länknamn, Activity Map o.s.v., men kommer att arbeta med expertutvecklare för fler kundimplementeringar - Variabelmappning ägs fortfarande av expertnivåutvecklare
 * Skapa och konfigurera regler i Launch efter designen från en AA-expert
@@ -83,7 +83,7 @@ Du bör även ha erfarenhet av följande uppgifter:
 * Identifiera användning för Adobe Launch.
 * Identifiera hur man aktiverar/stöder [!DNL Adobe Analytics] i Adobe Experience Cloud Eco-system.
 
-**Avsnitt 2: Analysstrategi och design baserad på SDR (12 %)**
+**Avsnitt 2: Analysstrategi och design som bygger på SDR (12 %)**
 
 * Ange vilka dataobjekt som ska fyllas i med hjälp av en referens för lösningsdesign.
 * Identifiera hur datainhämtningen ska implementeras i ett Tech Spec-dokument.
@@ -138,7 +138,7 @@ Du bör även ha erfarenhet av följande uppgifter:
 
 <br>
 
-+++Steg 2: Förbered dig för provet med vårt kostnadsfria studiematerial
++++Steg 2: Förbered dig för provet med dessa kostnadsfria studiematerial
 
 **Studiematerial**
 

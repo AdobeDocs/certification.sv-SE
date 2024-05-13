@@ -8,7 +8,7 @@ badge: label="Prova AD0-E600 och AD7-E601" type="neutral"
 hidefromtoc: true
 mini-toc-levels: 1
 exl-id: 5e15b6e5-a9c0-4927-89d8-4a43fbb0e863
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '1069'
 ht-degree: 0%
@@ -125,7 +125,7 @@ Provet AD0-E600 avser att verifiera färdigheter och kunskaper som omfattar grun
 
 <br>
 
-+++Steg 2: Förbered dig för provet med vårt kostnadsfria studiematerial
++++Steg 2: Förbered dig för provet med dessa kostnadsfria studiematerial
 
 **Studiematerial**
 
@@ -134,7 +134,7 @@ Provet AD0-E600 avser att verifiera färdigheter och kunskaper som omfattar grun
 **Avsnitt 1: Datamodellering**
 
 * [Scheman](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html){target="_blank"}
-* [Schema och XDM-översikt / Adobe [!DNL Experience Platform]: Datamodellering och inmatning](https://video.tv.adobe.com/v/27105){target="_blank"}
+* [Schema och XDM-översikt/Adobe [!DNL Experience Platform]: Datamodellering och inmatning](https://video.tv.adobe.com/v/27105){target="_blank"}
 * [Modelldata i scheman](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/model-data-in-schemas.html){target="_blank"}
 * [Schema och XDM - översikt](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html){target="_blank"}
 
@@ -265,7 +265,7 @@ Avsnitt 3: Destinationer (27 %)
 
 <br>
 
-+++Steg 2: Förbered dig för provet med vårt kostnadsfria studiematerial
++++Steg 2: Förbered dig för provet med dessa kostnadsfria studiematerial
 
 **Studiematerial**
 

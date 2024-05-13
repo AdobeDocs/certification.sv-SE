@@ -7,7 +7,7 @@ role: User
 badge: label="Prov AD0-D106" type="neutral"
 mini-toc-levels: 1
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '453'
 ht-degree: 0%
@@ -50,7 +50,7 @@ Du borde ha:
 
 * Minst 0-12 månaders erfarenhet inom [!DNL Adobe Document Cloud]
 * kunna identifiera och kommunicera affärsbehov
-* Möjliggör produktaktivering och ge råd om [!DNL Adobe Document Cloud] lösningar.
+* Möjliggöra produktaktiveringsråd för [!DNL Adobe Document Cloud] lösningar.
 
 <br>
 
@@ -92,7 +92,7 @@ Du borde ha:
 
 <br>
 
-+++Steg 2: Förbered dig för provet med vårt kostnadsfria studiematerial
++++Steg 2: Förbered dig för provet med dessa kostnadsfria studiematerial
 
 **Studiematerial**
 

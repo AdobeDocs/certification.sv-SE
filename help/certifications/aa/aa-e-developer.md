@@ -8,9 +8,9 @@ level: Experienced
 badge: label="tentamen AD0-E209" type="neutral"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '652'
+source-wordcount: '653'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/530) ger dig en skräddarsydd väg genom testprocessen för certifiering, inklusive ingående studiematerial som du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
+>**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/530) ger en skräddarsydd väg genom er process för testning av certifieringar, inklusive det ingående studiematerial ni behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
 
 ## Provbeskrivning {#exam-description}
 
@@ -51,9 +51,9 @@ ht-degree: 0%
 
 ### Minimal upplevelse {#minimum-experience}
 
-Du bör ha erfarenhet som implementeringskonsult i en blandad roll med ungefär två års erfarenhet av [!DNL Adobe Analytics] implementering. Ni fungerar som en länk mellan IT och företaget, översätter verksamhetskraven till en teknisk lösning (SDR) och bygger på krav från analytikern, förstår vilken typ av variabel som behövs, var och hur data ska samlas in, utformar datamodellen (datalagret), konfigurerar och underhåller tagghanteringslösningen.
+Du bör ha erfarenhet som implementeringskonsult i en blandad roll med ungefär två års erfarenhet av [!DNL Adobe Analytics] implementering. Ni fungerar som en bro mellan IT och företaget, översätt verksamhetskraven till en teknisk lösning (SDR) och, baserat på krav från analytikern, förstå vilken typ av variabel som behövs, var och hur data ska samlas in, utforma datamodellen (datalagret), konfigurera och underhålla tagghanteringslösningen.
 
-Eftersom Analytics Developer sällan implementerar taggarna på sidan implementeras de i stället av IT-avdelningen eller systemintegratören.
+Som Analytics Developer implementerar du sällan taggarna på sidan, utan implementeras i stället av IT eller systemintegratören.
 
 Du bör känna till följande verktyg och miljöer:
 
@@ -61,7 +61,7 @@ Systemutvärdering:
 
 * Adobe Experience Platform Launch (Adobe Launch)
 * Felsökningsverktyg som är relevanta för [!DNL Adobe Analytics] (Packet monitor som Adobe Debugger, verktyg för webbläsare, Charles)
-* [!DNL Adobe Analytics] Rapportsvitsinställningar för Admin Console
+* [!DNL Adobe Analytics] Inställningar för Admin Console rapportsvit
 * Grundläggande arbetsytekunskap
 * Webbutvecklingsverktyg, kodredigerare och felsökningsverktyg för mobiler
 * Adobe Auditor
@@ -121,7 +121,7 @@ Miljö:
 * Felsöka JavaScript-fel
 * Felsökning [!DNL Adobe Analytics] variabler
 * Rekommendera bästa praxis för testning och felsökning
-* Felsöka ett [!DNL Adobe Analytics] serveranrop under hela livscykeln (dvs. från beacon-begäran till att visas i rapporten)
+* Felsöka ett [!DNL Adobe Analytics] serveranrop under hela livscykeln (d.v.s. från beacon-begäran till visning i rapporten)
 
 <br>
 
@@ -145,7 +145,7 @@ Miljö:
 
 <br>
 
-+++Steg 2: Förbered dig för provet med vårt kostnadsfria studiematerial
++++Steg 2: Förbered dig för provet med dessa kostnadsfria studiematerial
 
 **Studiematerial**
 

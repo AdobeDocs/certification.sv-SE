@@ -8,7 +8,7 @@ role: User
 badge: label="Prov AD0-E501" type="neutral"
 mini-toc-levels: 1
 exl-id: f89a197f-dfe9-4e53-a783-97326bd6d934
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '585'
 ht-degree: 0%
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 * Sök efter kampanjansvariga för marknadsföring
 * Yrkesverksamma inom sökmarknadsföring
-* Individer som regelbundet använder Sök för att köra och hantera sökkampanjer
+* Individer som regelbundet använder Sök för att genomföra och hantera sökkampanjer
 
 <br>
 
@@ -130,7 +130,7 @@ Du bör även ha erfarenhet av att arbeta med följande funktioner:
 
 <br>
 
-+++Steg 2: Förbered dig för provet med vårt kostnadsfria studiematerial
++++Steg 2: Förbered dig för provet med dessa kostnadsfria studiematerial
 
 **Studiematerial**
 

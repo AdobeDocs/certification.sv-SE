@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="Prov AD0-E328" type="neutral"
 mini-toc-levels: 1
 exl-id: 81b4fc87-73c8-4e8c-9a33-4c90050e6dc1
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '694'
+source-wordcount: '697'
 ht-degree: 0%
 
 ---
@@ -56,14 +56,14 @@ Du borde ha:
 * Möjlighet att tillhandahålla den tekniska färdplanen, inklusive LEO och uppgiftsberoenden
 * Möjlighet att tillhandahålla teknisk kravinformation för projektets omfattning och tidslinje
 * Upplevelser med workshops om verksamhetskrav
-* Ledande designworkshops
+* Erfarenheter från ledande workshops för lösningsdesign
 * Möjlighet att utvärdera flera olika lösningsstrategier och ge rekommendationer
 * Möjlighet att granska befintliga kampanjer och processer på andra plattformar för att avgöra vilka behov Adobe Campaign har
 * Möjlighet att beskriva och demonstrera produktfunktioner
 * Möjlighet att mappa produktfunktioner till höganvändningsfall
-* Upplevelser som stöder team före försäljningen
+* Upplevelsen i att stödja det säljande teamet
 * Möjlighet att erbjuda kodning på datorsidan (bästa praxis för produkten, rapportering, statistik osv.)
-* Upplevelse som beskriver skillnaderna mellan distributionsmodeller
+* Erfarenhet av att beskriva skillnaderna mellan distributionsmodeller
 
 <br>
 
@@ -129,7 +129,7 @@ Du borde ha:
 
 <br>
 
-+++Steg 2: Förbered dig för provet med vårt kostnadsfria studiematerial
++++Steg 2: Förbered dig för provet med dessa kostnadsfria studiematerial
 
 **Studiematerial**
 
