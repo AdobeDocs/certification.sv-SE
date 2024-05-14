@@ -7,9 +7,9 @@ role: Developer
 badge: label="Prov AD0-E123" type="neutral"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
-source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
+source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '416'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >* **Kurs:** Ta en [utbildningskurs](https://app.rockinfo.com/courses/105) som innehåller förklaringar av viktiga begrepp, praktiska demonstrationer och kunskapsbaserade kontroller.
 >
->* **Handbok för testversioner:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/381) ger en skräddarsydd väg genom testprocessen, inklusive det djupgående studiematerialet som du behöver för att lyckas med provet.
+>* **Handbok för testversioner:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/381) ger en skräddarsydd väg genom testprocessen, inklusive det material du behöver för att lyckas med provet.
 >
 >Om du uppmanas att logga in använder du din Adobe ID.
 

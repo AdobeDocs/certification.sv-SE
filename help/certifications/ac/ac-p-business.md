@@ -7,9 +7,9 @@ role: User
 badge: label="Prov AD0-E712" type="neutral"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
+source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
 workflow-type: tm+mt
-source-wordcount: '568'
+source-wordcount: '566'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >* **Kurser**: Ta [Adobe Commerce Business Practitioner Professional Course](https://app.rockinfo.com/courses/105) för förklaringar av viktiga begrepp, praktiska demonstrationer och kunskapsbaserade kontroller. Om du precis har börjat, [Adobe Commerce Foundations Course](https://app.rockinfo.com/courses/148) ger en grund för de kunskaper du kan bygga vidare på i din certifieringsresa.
 >
->* **Handbok för testversioner:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/383) ger en skräddarsydd väg genom er process för testning av certifieringar, inklusive det ingående studiematerial ni behöver för att lyckas med denna certifiering.
+>* **Handbok för testversioner:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/383) ger dig en skräddarsydd väg genom din förberedande process för certifieringstester, inklusive det material du behöver för att lyckas med denna certifiering.
 >
 >_Om du uppmanas att logga in använder du din Adobe ID._
 
