@@ -7,9 +7,9 @@ role: User
 badge: label="Prov AD0-E132" type="neutral"
 mini-toc-levels: 1
 exl-id: a1ea92d3-9b7b-4aeb-80f7-0c07e6d332c0
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: e6c21f460981eacd0a7614d4a6e47ffb926e320a
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '445'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/368) ger dig en skräddarsydd väg genom din förberedande process för certifieringstester, inklusive det material du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
+>Nu finns kostnadsfria resurser på begäran som hjälper dig att förbereda dig för ditt prov:
+>
+>* **Kurs:** Om du just har börjat eller behöver en ny uppgradering, ta [Adobe Experience Manager Foundations-kurs](https://app.rockinfo.com/courses/240) för att få förklaringar till viktiga begrepp, produktgenomgångar och kunskapsanalyser. Kursen ger en grund för de kunskaper du kan bygga vidare på i din certifieringsresa.
+>
+>* **Handbok för testversioner:**  The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/368) ger dig en skräddarsydd väg genom din förberedande process för certifieringstester, inklusive det material du behöver för att lyckas med denna certifiering.
+>
+>_Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
 
 ## Provbeskrivning {#exam-description}
 
@@ -127,6 +133,12 @@ Dessutom bör du känna till följande tekniker och miljöer:
 **Studiematerial**
 
 {{study-materials-intro}}
+
+**Ta en kurs**
+
+{{take-course}}
+
+[Ta en kurs i Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240)
 
 **Handbok för testversioner**
 

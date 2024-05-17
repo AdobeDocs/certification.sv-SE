@@ -7,9 +7,9 @@ role: Developer
 badge: label="Prov AD0-E123" type="neutral"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: e6c21f460981eacd0a7614d4a6e47ffb926e320a
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '469'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 >
 >Nu finns kostnadsfria resurser på begäran som hjälper dig att förbereda dig för ditt prov:
 >
->* **Kurs:** Ta en [utbildningskurs](https://app.rockinfo.com/courses/105) som innehåller förklaringar av viktiga begrepp, praktiska demonstrationer och kunskapsbaserade kontroller.
+>* **Kurs:** Ta [Adobe Experience Manager Sites for Developers - Professionell kurs](https://app.rockinfo.com/courses/105), som innehåller förklaringar av viktiga begrepp, praktiska demonstrationer och kunskapsbaserade kontroller. Om du just har börjat eller behöver en ny uppgradering, ta [Adobe Experience Manager Foundations-kurs](https://app.rockinfo.com/courses/240), som ger en grund för de kunskaper du kan bygga vidare på i din certifieringsresa.
 >
 >* **Handbok för testversioner:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/381) ger en skräddarsydd väg genom testprocessen, inklusive det material du behöver för att lyckas med provet.
 >
@@ -119,34 +119,21 @@ Du bör vara programutvecklare och ha:
 
 {{take-course}}
 
-<a href="https://app.rockinfo.com/courses/105" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+[Ta en kurs i Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240)
 
-<span class="spectrum-Button-label has-no-wrap">
-   Ta en kurs
-</span>
-</a>
+[Ta Adobe Experience Manager Sites for Developers - Professionell kurs](https://app.rockinfo.com/courses/105)
 
 **Handbok för testversioner**
 
 {{exam-prep-guide}}
 
-<a href="https://app.rockinfo.com/courses/playScorm/381" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Visa guiden Förbered prov
-</span>
-</a>
+[Visa guiden Förbered prov](https://app.rockinfo.com/courses/playScorm/381)
 
 **Exempelfrågor**
 
 {{sample-questions}}
 
-<a href="https://scorpion.caveon.com/launchpad/ad3-e123-adobe-experience-manager-sites-developer-professional-sample-questions" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Visa exempelfrågor
-</span>
-</a>
+[Visa exempelfrågor](https://scorpion.caveon.com/launchpad/ad3-e123-adobe-experience-manager-sites-developer-professional-sample-questions)
 
 +++
 
