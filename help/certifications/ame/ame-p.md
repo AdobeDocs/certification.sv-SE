@@ -7,9 +7,9 @@ role: User
 badge: label="Prov AD0-E555" type="neutral"
 mini-toc-levels: 1
 exl-id: df1a2c71-5216-47d1-a971-5c07dd3e2d2a
-source-git-commit: 2848558a21682c15837c676bb2c1eb3d95c9bc48
+source-git-commit: 594ffcacc7c753515f39c42cb66373a3e2266e93
 workflow-type: tm+mt
-source-wordcount: '631'
+source-wordcount: '663'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/618) ger dig en skräddarsydd väg genom testprocessen för certifiering, inklusive ingående studiematerial som du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
+>**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/247) ger dig en skräddarsydd väg genom testprocessen för certifiering, inklusive ingående studiematerial som du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
 
 ## Provbeskrivning {#exam-description}
 
@@ -85,12 +85,20 @@ Dessutom bör du känna till följande verktyg och tekniker:
 
 **Avsnitt 1: Bygga och förvalta program (39 %)**
 
-* Ange en lämplig rapporteringsstrategi för att utföra en analys utifrån ett affärsbehov/en fråga
-* Analysera data för att besvara affärsfrågor
-* Identifiera konverteringsfunktioner (som ett koncept för att förstå affärsanalyser)
-* Läs i Solution Design Reference (SDR) för att se vilka data som är tillgängliga i rapporter
-* Analysera rapportdata för att sammanfatta och dra slutsatser
-* Känn igen avvikelser och avvikelser i rapporter
+* Identifiera när var och en av de fyra programtyperna ska användas.
+* Identifiera varför/när du ska använda händelseprogrammet.
+* Ange varför/när standardprogrammet ska användas.
+* Identifiera specialfunktionerna i engagemangsprogrammet.
+* Identifiera specialfunktionerna i e-postprogrammet.
+* Identifiera vad som kan klonas.
+* Identifiera fördelarna med anpassade taggar.
+* Identifiera syftet med kanalerna.
+* Beskriv betydelsen av periodkostnader.
+* Känn igen begreppet att använda poängsättning för leads.
+* Kommunikationsbegränsningar.
+* Känn igen programmedlemskap och -värvning.
+* Förstå kundpreferenser (prenumeration, kommunikation).
+* Använd vedertagna rutiner för granskning före lansering.
 
 **Avsnitt 2: Byggtillgångar (19 %)**
 
@@ -159,7 +167,7 @@ Dessutom bör du känna till följande verktyg och tekniker:
 
 {{exam-prep-guide}}
 
-[Visa guiden Förbered prov](https://app.rockinfo.com/courses/playScorm/618)
+[Visa guiden Förbered prov](https://app.rockinfo.com/courses/247)
 
 +++
 
