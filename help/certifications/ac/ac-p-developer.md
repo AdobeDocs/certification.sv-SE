@@ -7,7 +7,7 @@ role: Developer
 badge: label="tentamen AD0-E717" type="neutral"
 mini-toc-levels: 1
 exl-id: 5dc85678-91f9-4865-b310-3460081b19f8
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
 workflow-type: tm+mt
 source-wordcount: '757'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >* **Kurser:** Ta [Adobe Commerce Developer Professional Course](https://app.rockinfo.com/courses/92) som innehåller förklaringar av viktiga begrepp, praktiska demonstrationer och kunskapsbaserade kontroller. Om du precis har börjat, [Adobe Commerce Foundations Course](https://app.rockinfo.com/courses/148) ger en grund för de kunskaper du kan bygga vidare på i din certifieringsresa.
 >
->* **Handbok för testversioner:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/382) ger en skräddarsydd väg genom testprocessen, inklusive det material du behöver för att lyckas med provet.
+>* **Handbok för testversioner:** The [Handbok för testversioner](https://app.rockinfo.com/courses/136) ger en skräddarsydd väg genom testprocessen, inklusive det material du behöver för att lyckas med provet.
 >
 >Om du uppmanas att logga in använder du din Adobe ID.
 
@@ -208,12 +208,7 @@ Dessutom bör du känna till följande tekniker och miljöer:
 
 {{exam-prep-guide}}
 
-<a href="https://app.rockinfo.com/courses/playScorm/382" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Visa guiden Förbered prov
-</span>
-</a>
+[Visa guiden Förbered prov](https://app.rockinfo.com/courses/136)
 
 +++
 

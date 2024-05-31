@@ -7,7 +7,7 @@ role: Developer
 badge: label="Prov AD0-E129" type="neutral"
 mini-toc-levels: 1
 exl-id: 710f6c8b-9a6c-445e-b831-a891b559f208
-source-git-commit: e6c21f460981eacd0a7614d4a6e47ffb926e320a
+source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
 workflow-type: tm+mt
 source-wordcount: '564'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >* **Kurs:** Om du just har börjat eller behöver en ny uppgradering, ta [Adobe Experience Manager Foundations-kurs](https://app.rockinfo.com/courses/240) för att få förklaringar till viktiga begrepp, produktgenomgångar och kunskapsanalyser. Kursen ger en grund för de kunskaper du kan bygga vidare på i din certifieringsresa.
 >
->* **Handbok för testversioner:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/364) ger dig en skräddarsydd väg genom din förberedande process för certifieringstester, inklusive det material du behöver för att lyckas med denna certifiering.
+>* **Handbok för testversioner:** The [Handbok för testversioner](https://app.rockinfo.com/courses/120) ger dig en skräddarsydd väg genom din förberedande process för certifieringstester, inklusive det material du behöver för att lyckas med denna certifiering.
 >
 >_Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
 
@@ -161,12 +161,8 @@ Dessutom bör du ha erfarenhet av följande tekniker och miljöer:
 
 {{exam-prep-guide}}
 
-<a href="https://app.rockinfo.com/courses/playScorm/364" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+[Visa guiden Förbered prov](https://app.rockinfo.com/courses/120)
 
-<span class="spectrum-Button-label has-no-wrap">
-   Visa guiden Förbered prov
-</span>
-</a>
 
 +++
 

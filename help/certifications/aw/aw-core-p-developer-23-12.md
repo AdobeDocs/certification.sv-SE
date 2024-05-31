@@ -6,7 +6,7 @@ role: Developer
 badge: label="Prov AD0-E908" type="neutral"
 mini-toc-levels: 1
 exl-id: 960f97cf-f5bf-4a60-a4e7-c08d0c121e60
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
 workflow-type: tm+mt
 source-wordcount: '554'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >* **Ny kurs tillgänglig:** The [Adobe Workfront Core Developer - Professionell kurs](https://app.rockinfo.com/courses/231) innehåller förklaringar av viktiga begrepp, praktiska demonstrationer och kunskapsundersökningar.
 >
->* **Handbok för testversioner:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/610) ger en skräddarsydd väg genom testprocessen, inklusive det material du behöver för att lyckas med provet.
+>* **Handbok för testversioner:** The [Handbok för testversioner](https://app.rockinfo.com/courses/238) ger en skräddarsydd väg genom testprocessen, inklusive det material du behöver för att lyckas med provet.
 >
 >_Om du uppmanas att logga in använder du din Adobe ID._
 
@@ -148,7 +148,7 @@ Kvalificerade sökande ska också ha
 
 {{exam-prep-guide}}
 
-[Visa guiden Förbered prov](https://app.rockinfo.com/courses/playScorm/610)
+[Visa guiden Förbered prov](https://app.rockinfo.com/courses/238)
 
 +++
 

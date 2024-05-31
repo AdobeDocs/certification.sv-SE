@@ -7,7 +7,7 @@ role: Developer
 badge: label="Prov AD0-E123" type="neutral"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
-source-git-commit: e6c21f460981eacd0a7614d4a6e47ffb926e320a
+source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
 workflow-type: tm+mt
 source-wordcount: '469'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >* **Kurs:** Ta [Adobe Experience Manager Sites for Developers - Professionell kurs](https://app.rockinfo.com/courses/105), som innehåller förklaringar av viktiga begrepp, praktiska demonstrationer och kunskapsbaserade kontroller. Om du just har börjat eller behöver en ny uppgradering, ta [Adobe Experience Manager Foundations-kurs](https://app.rockinfo.com/courses/240), som ger en grund för de kunskaper du kan bygga vidare på i din certifieringsresa.
 >
->* **Handbok för testversioner:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/381) ger en skräddarsydd väg genom testprocessen, inklusive det material du behöver för att lyckas med provet.
+>* **Handbok för testversioner:** The [Handbok för testversioner](https://app.rockinfo.com/courses/121) ger en skräddarsydd väg genom testprocessen, inklusive det material du behöver för att lyckas med provet.
 >
 >Om du uppmanas att logga in använder du din Adobe ID.
 
@@ -127,7 +127,7 @@ Du bör vara programutvecklare och ha:
 
 {{exam-prep-guide}}
 
-[Visa guiden Förbered prov](https://app.rockinfo.com/courses/playScorm/381)
+[Visa guiden Förbered prov](https://app.rockinfo.com/courses/121)
 
 **Exempelfrågor**
 
