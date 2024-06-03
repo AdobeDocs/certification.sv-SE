@@ -6,7 +6,7 @@ role: Developer
 badge: label="Prov AD0-E907" type="neutral"
 mini-toc-levels: 1
 exl-id: dc74de79-c945-47a4-a13b-e027182919a5
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: d2631442d3a4029453edbd532e9f52708c01c3f9
 workflow-type: tm+mt
 source-wordcount: '948'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/611) ger dig en skräddarsydd väg genom din förberedande process för certifieringstester, inklusive det material du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
+>**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/241) ger dig en skräddarsydd väg genom din förberedande process för certifieringstester, inklusive det material du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
 
 ## Provbeskrivning {#exam-description}
 
@@ -162,7 +162,7 @@ Du bör ha minst 18-24 månaders erfarenhet av Adobe [!DNL Workfront]och bör ku
 
 {{exam-prep-guide}}
 
-[Visa guiden Förbered prov](https://app.rockinfo.com/courses/playScorm/611)
+[Visa guiden Förbered prov](https://app.rockinfo.com/courses/241)
 
 <br>
 

@@ -8,7 +8,7 @@ recommendations: disable, exclude
 badge: label="Prov AD0-E602" type="neutral"
 mini-toc-levels: 1
 exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
-source-git-commit: 368efd8497209e2342806f9cea6005c30ced306f
+source-git-commit: d2631442d3a4029453edbd532e9f52708c01c3f9
 workflow-type: tm+mt
 source-wordcount: '487'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 >
 >* **Kurs:** Om du just har börjat eller behöver en ny uppgradering, ta [Adobe Experience Platform Foundations Course](https://app.rockinfo.com/courses/216) för att få förklaringar till viktiga begrepp, produktgenomgångar och kunskapsanalyser. Kursen ger en grund för de kunskaper du kan bygga vidare på i din certifieringsresa.
 >
->* **Handbok för testversioner:** The [Handbok för testversioner](https://app.rockinfo.com/courses/playScorm/637) ger dig en skräddarsydd väg genom din förberedande process för certifieringstester, inklusive det material du behöver för att lyckas med denna certifiering.
+>* **Handbok för testversioner:** The [Handbok för testversioner](https://app.rockinfo.com/courses/133) ger dig en skräddarsydd väg genom din förberedande process för certifieringstester, inklusive det material du behöver för att lyckas med denna certifiering.
 >
 >_Om du uppmanas att logga in använder du din Adobe ID._
 
@@ -130,10 +130,6 @@ Upplev uppgifter som innefattar:
 
 {{study-materials-intro}}
 
-**Gör ett övningsprov**
-
-{{practice-test}}
-
 **Ta en kurs**
 
 {{take-course}}
@@ -145,16 +141,16 @@ Upplev uppgifter som innefattar:
 </span>
 </a>
 
+**Gör ett övningsprov**
+
+{{practice-test}}
+
 **Handbok för testversioner**
 
 {{exam-prep-guide}}
 
-<a href="https://app.rockinfo.com/courses/playScorm/637" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+[Visa guiden Förbered prov](https://app.rockinfo.com/courses/133)
 
-<span class="spectrum-Button-label has-no-wrap">
-   Visa guiden Förbered prov
-</span>
-</a>
 
 +++
 
