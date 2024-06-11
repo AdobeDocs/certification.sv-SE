@@ -6,9 +6,9 @@ product: Journey Optimizer
 role: Developer
 badge: label="Prov AD0-E606" type="neutral"
 exl-id: 61fa61d8-f08c-4198-aafc-1dda9e4aab87
-source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
+source-git-commit: b71b893b405e990b59d7e398f9f90339ec7418a1
 workflow-type: tm+mt
-source-wordcount: '649'
+source-wordcount: '595'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Ny kurs tillgänglig:** Kostnadsfritt, on-demand [Adobe Journey Optimizer Developer Expert Course](https://app.rockinfo.com/courses/147) innehåller förklaringar av viktiga begrepp, praktiska demonstrationer och kunskapsundersökningar. _Om du uppmanas att logga in använder du din Adobe ID._
+>Nu finns kostnadsfria resurser på begäran som hjälper dig att förbereda dig för ditt prov:
+>
+>* **Kurs:** Kostnadsfritt, on-demand [Adobe Journey Optimizer Developer Expert Course](https://app.rockinfo.com/courses/147) innehåller förklaringar av viktiga begrepp, praktiska demonstrationer och kunskapsundersökningar.
+>
+>* **Handbok för testversioner:** The [Handbok för testversioner](https://app.rockinfo.com/courses/143) ger en skräddarsydd väg genom testprocessen, inklusive det djupgående studiematerialet som du behöver för att lyckas med provet.
+>
+>_Om du uppmanas att logga in använder du din Adobe ID._
 
 ## Provbeskrivning {#exam-description}
 
@@ -131,44 +137,17 @@ Adobe Journey Optimizer drivs av Experience Platform. De sökande som vill bli c
 
 {{take-course}}
 
-<a href="https://app.rockinfo.com/courses/147" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Ta en expertkurs i Adobe Journey Optimizer Developer
-</span>
-</a>
-
-**Studieresurser**
-
-**Avsnitt 1: Administration och konfiguration**
-
-* [Experience Platform, åtkomstkontroll, sandlådeguide](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html){target="_blank"}
-* [AJO Guide, Configuration, SMS channel, Journeys](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
-* [AJO API:er](https://developer.adobe.com/journey-optimizer-apis/#tag/Suppression/operation/deleteAllSuppressions){target="_blank"}
-
-**Avsnitt 2: Journey Orchestration**
-
-* [AJO Guide, Journeys, Expressions, Track and monitor](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
-
-**Avsnitt 3: Offer decisioning**
-
-* [AJO Guide, Decision management, API reference](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
-
-**Section 4: Content Authoring**
-
-* [AJO Guide, SMS channel, Privacy, Configuration, Journeys, Expression, Content Management, Track and Monitor, Push Notification channel](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
-* [Journey Optimizer Tutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html){target="_blank"}
-
-**Avsnitt 5: Datamodellering**
-
-* [AJO-guide, konfiguration, målgrupper, profiler och identitet, datahantering](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
-* [Experience Platform, datauppsättningar, Source Connectors Guide, API Tutorials, Platform Identity Service Guide, Segmenteringsgränssnitt, UI Tutorials](https://experienceleague.adobe.com/docs/experience-platform.html){target="_blank"}
-
-<br>
+[Ta en expertkurs i Adobe Journey Optimizer Developer](https://app.rockinfo.com/courses/147)
 
 **Gör ett övningsprov**
 
 {{practice-test}}
+
+**Handbok för testversioner**
+
+{{exam-prep-guide}}
+
+[Visa guiden Förbered prov](https://app.rockinfo.com/courses/143)
 
 +++
 
