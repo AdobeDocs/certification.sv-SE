@@ -6,9 +6,10 @@ product: Experience Platform
 role: Developer
 badge: label="Prova AD0-E600 och AD7-E601" type="neutral"
 hidefromtoc: true
+hide: true
 mini-toc-levels: 1
 exl-id: 5e15b6e5-a9c0-4927-89d8-4a43fbb0e863
-source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
+source-git-commit: 03d57783516ef0768e84393d09c97ae95fdd819e
 workflow-type: tm+mt
 source-wordcount: '1069'
 ht-degree: 0%
@@ -152,7 +153,7 @@ Provet AD0-E600 avser att verifiera färdigheter och kunskaper som omfattar grun
 
 **Avsnitt 4: Aktivering**
 
-* [Översikt över destinationer](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.htmll?lang=sv){target="_blank"}
+* [Översikt över destinationer](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html){target="_blank"}
 
 <br>
 
@@ -277,7 +278,7 @@ Avsnitt 3: Destinationer (27 %)
 * [Kontrollpanel för profil](https://experienceleague.adobe.com/docs/experience-platform/dashboards/guides/profiles.html){target="_blank"}
 * [Standardgurkor för kundprofildata i realtid](https://experienceleague.adobe.com/docs/experience-platform/profile/guardrails.html)
 * [Aktivera kundprofil i realtid](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/enable-profiles.html){target="_blank"}
-* [Real-time Customer Data Platform - översikt](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html?lang=sv){target="_blank"}
+* [Real-time Customer Data Platform - översikt](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html){target="_blank"}
 * [AEP Application Services: Real-Time CDP](https://solutionpartners.adobe.com/content/solution/us/en/training/courses/course3569029.html){target="_blank"}
 * [Komma igång med Real-Time CDP](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/get-started.html){target="_blank"}
 * [Real-time Customer Data Platform hemsida och kontrollpaneler](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/home-page-dashboards.html){target="_blank"}
@@ -314,7 +315,7 @@ Avsnitt 3: Destinationer (27 %)
 
 **Avsnitt 3: Destinationer**
 
-* [Målöversikt](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.htmll?lang=sv){target="_blank"}
+* [Målöversikt](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html){target="_blank"}
 * [Måltyper och -kategorier](https://experienceleague.adobe.com/docs/experience-platform/destinations/destination-types.html){target="_blank"}
 * [Arbetsytan Mål](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/destinations-workspace.html){target="_blank"}
 * [Skapa en ny målanslutning](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html){target="_blank"}
