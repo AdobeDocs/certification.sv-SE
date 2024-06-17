@@ -7,10 +7,10 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
-source-git-commit: 8812242b1b5ab339115f9ef3ecb99af7659d9cda
+source-git-commit: 2dccb15126e43c102ab9afdbd99f75c73e315deb
 workflow-type: tm+mt
 source-wordcount: '1864'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -171,7 +171,7 @@ Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för h
 
 **Information om tentamen:**
 
-* Passing Score: 26/35
+* Passing Score: 27/35
 * Tid: 70 min
 * Kostnad: KOSTNADSFRITT/icke-upphandlat
 * Leverans: On-demand
@@ -235,14 +235,14 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 * [Översikt över bidragsanalys](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html)
 * [Analysis Workspace - översikt](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html)
-* [Konverteringstratt](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/funnels.html)
+* [Konverteringsström](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/funnels.html)
 * [Postdimensioner](https://experienceleague.adobe.com/docs/analytics/components/dimensions/entry-dimensions.html)
 
 **Avsnitt 2**
 
 * [Dela projekt](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html)
-* [Komponenter – översikt](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html)
-* [Alert Builder](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-builder.html)
+* [Komponenter - översikt](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html)
+* [Varningsverktyg](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-builder.html)
 * [Skapa ett mobilstyrkort](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/create-scorecard.html)
 
 **Avsnitt 3**
@@ -256,7 +256,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 * [Felsöka tagningar och datasläppningar](https://experienceleague.adobe.com/docs/analytics/technotes/event/spikes-drops.html)
 * [Anpassade händelser](https://experienceleague.adobe.com/docs/analytics/components/metrics/custom-events.html)
-* [Hämta PDF- eller CSV-filer](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html)
+* [Hämta PDF eller CSV-filer](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html)
 * [A Beginner&#39;s Guide to URL Parameters](https://www.semrush.com/blog/url-parameters/)
 
 **Avsnitt 5**
