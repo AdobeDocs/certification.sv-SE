@@ -8,9 +8,9 @@ level: Experienced
 badge: label="Prov AD0-E458" type="neutral"
 mini-toc-levels: 1
 exl-id: 3665137b-8057-4205-ba4e-5deecf2672d6
-source-git-commit: b71b893b405e990b59d7e398f9f90339ec7418a1
+source-git-commit: a12c353cfa46d2610a90cad52dbbd9ea125af16e
 workflow-type: tm+mt
-source-wordcount: '421'
+source-wordcount: '490'
 ht-degree: 0%
 
 ---
@@ -122,11 +122,15 @@ Ni bör ha en grundläggande förståelse för dataflöden, affärsmål och nyck
 
 [Visa guiden Förbered prov](https://app.rockinfo.com/courses/245)
 
-**Exempelfrågor**
+**Gör ett övningsprov**
 
-{{sample-questions}}
+Vi rekommenderar att du gör ett test innan du börjar. Du får obegränsad tillgång till alla tillgängliga övningstester för prov på Adobe expertnivå.
 
-[Visa exempelfrågor](https://scorpion.caveon.com/launchpad/ad0-e458-adobe-audience-manager-business-practitioner-professional-copy-dvaivw){target="_blank"}
+Våra övningstester har alla utvecklats från samma plan som direktproven. Praktiktestet hjälper dig att förstå de ämnen som tas upp i provet.
+
+Tänk på att du inte kommer att bli godkänd på certifieringstest om du godkänner ett praktiktest.
+
+[Testa övningarna](https://scorpion.caveon.com/launchpad/ad4-e458-adobe-audience-manager-business-practitioner-professional-practice-exam)
 
 +++
 
