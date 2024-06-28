@@ -7,9 +7,9 @@ role: User
 badge: label="Prov AD0-E555" type="neutral"
 mini-toc-levels: 1
 exl-id: df1a2c71-5216-47d1-a971-5c07dd3e2d2a
-source-git-commit: 594ffcacc7c753515f39c42cb66373a3e2266e93
+source-git-commit: 8102211f100b326a62f51081f34db145320fe231
 workflow-type: tm+mt
-source-wordcount: '663'
+source-wordcount: '727'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/247) ger dig en skräddarsydd väg genom testprocessen för certifiering, inklusive ingående studiematerial som du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
+>Nu finns kostnadsfria resurser på begäran som hjälper dig att förbereda dig för ditt prov:
+>
+>* **Kurs**: Om du just har börjat eller behöver en uppdaterare, ta [Adobe Marketo Engage Foundations Course](https://app.rockinfo.com/courses/261) för att få förklaringar till viktiga begrepp, produktgenomgångar och kunskapsanalyser. Detta ger en grund för de kunskaper du kan bygga vidare på i din certifieringsresa.
+>
+>* **Handbok för testversioner:** The [Handbok för testversioner](https://app.rockinfo.com/courses/247) ger en skräddarsydd väg genom testprocessen, inklusive det djupgående studiematerialet som du behöver för att lyckas med provet.
+>
+>_Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
 
 ## Provbeskrivning {#exam-description}
 
@@ -162,6 +168,12 @@ Dessutom bör du känna till följande verktyg och tekniker:
 **Gör ett övningsprov**
 
 {{practice-test}}
+
+**Ta en kurs**
+
+{{take-course}}
+
+[Ta en kurs i Adobe Marketo Engage Foundations](https://app.rockinfo.com/courses/261)
 
 **Handbok för testversioner**
 
