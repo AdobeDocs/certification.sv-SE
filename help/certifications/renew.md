@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Om du vill behålla din Adobe-certifiering måste du förnya den vartannat år. Om du inte förnyar din certifiering innan den upphör att gälla måste du göra om den fullständiga certifieringen.
 
-Visa aktuella och utgångna certifikat under **Certifieringar** -fliken, i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"}.
+Visa aktuella och utgångna certifikat på fliken **Certifikat** i [Adobe-systemet för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"}.
 
 ## Hur förnyar jag min certifiering?
 
@@ -57,6 +57,6 @@ De certifieringar som finns under länkarna nedan kan förnyas kostnadsfritt, an
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.

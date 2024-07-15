@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/132) ger dig en skräddarsydd väg genom din förberedande process för certifieringstester, inklusive det material du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
+>**Nya studieresurser tillgängliga:** I [handboken för testversioner](https://app.rockinfo.com/courses/132) finns en skräddarsydd väg genom din testprocess för certifiering, inklusive det material du behöver för att lyckas med certifieringen. _Använd din Adobe ID om du uppmanas att logga in på guiden för testversioner._
 
 ## Provbeskrivning {#exam-description}
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 ### Minimal upplevelse {#minimum-experience}
 
-Du bör ha 12-24 månaders erfarenhet i Adobe [!DNL Customer Journey Analytics]och kan utföra följande uppgifter:
+Du bör ha 12-24 månaders erfarenhet i Adobe [!DNL Customer Journey Analytics] och kunna utföra följande uppgifter:
 
 * Läs och förstå XDM-schema (klasser)
 * Uppvisa hur välbekant plattformens gränssnitt är
@@ -68,7 +68,7 @@ Du bör ha 12-24 månaders erfarenhet i Adobe [!DNL Customer Journey Analytics]o
 * Konfigurera en datavy (konfiguration av mått/dimension)
 * Konfigurera Adobe [!DNL Customer Journey Analytics]
 * Omvandla data inom mått och mätvärden
-* Analysera arbetsytans grunder (visualiseringar, attribueringsinställningar, filter, beräknade värden)
+* Analysera Workspace grunder (visualiseringar, attribueringsinställningar, filter, beräknade värden)
 * Förstå datastyrning i CJA (DULE)
 * Bygg flerkanalsstatistik eller personbaserade filter
 * Skilja ut/förstå sandlådor i AEP
@@ -123,15 +123,15 @@ Du bör ha 12-24 månaders erfarenhet i Adobe [!DNL Customer Journey Analytics]o
 
 {{study-materials-intro}}
 
-**Gör ett övningsprov**
+**Testa**
 
 {{practice-test}}
 
-**Handbok för testversioner**
+**Handbok för provprogram**
 
 {{exam-prep-guide}}
 
-[Visa guiden Förbered prov](https://app.rockinfo.com/courses/132)
+[Visa guide för testversioner](https://app.rockinfo.com/courses/132)
 
 +++
 
@@ -186,6 +186,6 @@ Du bör ha 12-24 månaders erfarenhet i Adobe [!DNL Customer Journey Analytics]o
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.

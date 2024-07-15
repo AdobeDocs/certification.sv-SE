@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/126) ger dig en skräddarsydd väg genom din förberedande process för certifieringstester, inklusive det material du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
+>**Nya studieresurser tillgängliga:** I [handboken för testversioner](https://app.rockinfo.com/courses/126) finns en skräddarsydd väg genom din testprocess för certifiering, inklusive det material du behöver för att lyckas med certifieringen. _Använd din Adobe ID om du uppmanas att logga in på guiden för testversioner._
 
 ## Provbeskrivning {#exam-description}
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 Du borde ha:
 
-* Minst 1-3 års erfarenhet av att använda och konfigurera Adobe Cloud Manager
+* Minst 1-3 års erfarenhet av användning och konfigurering av Adobe Cloud Manager
 * Minst två års erfarenhet av att konfigurera, implementera och hantera uppgifter för kontinuerlig integrering/kontinuerlig driftsättning
 
 Du bör känna dig trygg när du arbetar i Adobe Managed Services och Adobe Experience Manager as a Cloud Service och kan konfigurera miljöer och infrastruktur i Adobe Experience Manager.
@@ -68,7 +68,7 @@ Dessutom bör du känna till följande tekniker och miljöer:
 * Adobe IO CLI
 * Git CLI
 * Verktyg för molnövergång
-* Dispatcher-konverterare
+* Dispatcher convertor
 * Databasuppdaterare
 * Mellanlagring och produktion av dev
 * Dev, sandlåda
@@ -86,21 +86,21 @@ Dessutom bör du känna till följande tekniker och miljöer:
 * I ett scenario kan du felsöka Adobe Experience Manager-problem
 * Bestäm rätt metod för att konfigurera OSGi
 
-**Avsnitt 2: Operate Cloud Manager och Cloud Manager API (20 %)**
+**Avsnitt 2: Använd Cloud Manager- och Cloud Manager-API (20 %)**
 
-* Bestäm rätt metod för att hantera miljöinställningar i Cloud Manager via användargränssnittet
-* Identifiera rätt metod för att etablera program och miljöer i Cloud Manager
+* Bestäm rätt metod för att hantera inställningar för Cloud Manager-miljöer via användargränssnittet
+* Bestäm rätt metod för att etablera program och miljöer på Cloud Manager
 * Identifiera rätt metod att migrera till Adobe Experience Manager as a Cloud Service
 * Bestäm rätt metod för att konfigurera integreringar på Adobe I/O
 
 **Avsnitt 3: Konfigurera webbproxyinfrastrukturen (12 %)**
 
-* Identifiera rätt metod för att hantera Dispatcher-konfigurationer
+* Bestäm rätt metod för att hantera Dispatcher-konfigurationer
 * I ett scenario felsöker du problem med cachning
 
-**Avsnitt 4: Bygg och driftsätta (28 %)**
+**Avsnitt 4: Skapa och distribuera (28 %)**
 
-* Identifiera rätt metod för att hantera distributioner av Cloud Manager
+* Identifiera rätt metod för att hantera Cloud Manager-distributioner
 * Analysera läget för en Cloud Manager-pipeline utifrån ett scenario
 * Identifiera rätt metod för att hantera innehållspaket i flera Adobe Experience Manager-instanser
 * Bestäm rätt metod för att göra ändringar i Maven-filer som stöder rörledningar
@@ -119,7 +119,7 @@ Dessutom bör du känna till följande tekniker och miljöer:
 
 {{readiness}}
 
-[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ejk3tx/ad-q-e124-readiness-questionnaire-for-adobe-aem-devops-engineer-expert-exam){target="_blank"}
+[Ta enkäten om onlineberedskap](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ejk3tx/ad-q-e124-readiness-questionnaire-for-adobe-aem-devops-engineer-expert-exam){target="_blank"}
 
 <br>
 
@@ -141,11 +141,11 @@ Dessutom bör du känna till följande tekniker och miljöer:
 
 {{study-materials-intro}}
 
-**Handbok för testversioner**
+**Handbok för provprogram**
 
 {{exam-prep-guide}}
 
-[Visa guiden Förbered prov](https://app.rockinfo.com/courses/126)
+[Visa guide för testversioner](https://app.rockinfo.com/courses/126)
 
 +++
 
@@ -211,6 +211,6 @@ Dessutom bör du känna till följande tekniker och miljöer:
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.

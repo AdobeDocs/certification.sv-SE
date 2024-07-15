@@ -1,6 +1,6 @@
 ---
 title: Expertcertifiering
-description: Lär dig hur du blir certifierad Adobe [!DNL Journey Optimizer] Developer Expert.
+description: Lär dig hur du blir en certifierad Adobe [!DNL Journey Optimizer] Developer Expert.
 solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Det här är den senaste Adobe [!DNL Journey Optimizer] Expertprov på utvecklare (AD0-E606). Om du redan har börjat studera eller har schemalagt [äldre version](ajo-e-developer.md)måste du slutföra den senast 22 december 2023.
+>Det här är det senaste Adobe [!DNL Journey Optimizer]-provet för utvecklarexpert (AD0-E606). Om du redan har börjat studera eller har schemalagt den [äldre versionen](ajo-e-developer.md) måste du slutföra den senast 22 december 2023.
 
 
 ## Provbeskrivning {#exam-description}
@@ -90,11 +90,11 @@ Adobe Journey Optimizer drivs av Experience Platform. De sökande som vill bli c
 
 * Uppvisa förståelse för att skapa och hantera erbjudanden och komponenter
 * Uppvisa hur man använder testprofiler för att köra erbjudandesimulering
-* Förklara skillnaden mellan erbjudandehubben och Edge API
+* Förklara skillnaden mellan Erbjudandehubben och Edge API
 * Använda processen för att skapa beslut
 * Lägg till erbjudanden i olika kanaler
 
-**Section 4: Content Authoring (22%)**
+**Avsnitt 4: Innehållsredigering (22 %)**
 
 * Uppvisa hur man skapar e-post, SMS i appmeddelanden och push-meddelanden
 * Tolka hjälpfunktioner och personaliseringssyntax för att visa vad som skulle visas
@@ -130,7 +130,7 @@ Adobe Journey Optimizer drivs av Experience Platform. De sökande som vill bli c
 
 **Avsnitt 1: Administration och konfiguration**
 
-* [Experience Platform, åtkomstkontroll, sandlådeguide](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html){target="_blank"}
+* [Experience Platform, Åtkomstkontroll, Handbok för sandlådor](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html){target="_blank"}
 * [AJO Guide, Configuration, SMS channel, Journeys](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 * [AJO API:er](https://developer.adobe.com/journey-optimizer-apis/#tag/Suppression/operation/deleteAllSuppressions){target="_blank"}
 
@@ -142,9 +142,9 @@ Adobe Journey Optimizer drivs av Experience Platform. De sökande som vill bli c
 
 * [AJO Guide, Decision management, API reference](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 
-**Section 4: Content Authoring**
+**Avsnitt 4: Skapa innehåll**
 
-* [AJO Guide, SMS channel, Privacy, Configuration, Journeys, Expression, Content Management, Track and Monitor, Push Notification channel](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
+* [AJO Guide, SMS channel, Privacy, Configuration, Journeys, Expressions, Content Management, Track and Monitor, Push Notification channel](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 * [Journey Optimizer Tutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html){target="_blank"}
 
 **Avsnitt 5: Datamodellering**
@@ -180,7 +180,7 @@ Adobe Journey Optimizer drivs av Experience Platform. De sökande som vill bli c
 
 >[!NOTE]
 >
->Det här är den senaste Adobe [!DNL Journey Optimizer] Expertprov på utvecklare (AD0-E606). Om du redan har börjat studera eller har schemalagt [äldre version](ajo-e-developer.md)måste du slutföra den senast 22 december 2023.
+>Det här är det senaste Adobe [!DNL Journey Optimizer]-provet för utvecklarexpert (AD0-E606). Om du redan har börjat studera eller har schemalagt den [äldre versionen](ajo-e-developer.md) måste du slutföra den senast 22 december 2023.
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E606" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -209,6 +209,6 @@ Adobe Journey Optimizer drivs av Experience Platform. De sökande som vill bli c
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.

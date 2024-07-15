@@ -1,6 +1,6 @@
 ---
 title: Certifiering av affärsman
-description: Lär dig certifiera dig som [!DNL Adobe Analytics] Affärsexpert
+description: Lär dig hur du blir certifierad som en  [!DNL Adobe Analytics] Business Practitioner Expert
 solution: Analytics
 product: Analytics
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Certifieringsresa för [!DNL Adobe Analytics] Affärsexpert
+# Certifieringsresa för [!DNL Adobe Analytics] Business Practitioner Expert
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/220) ger dig en skräddarsydd väg genom din förberedande process för certifieringstester, inklusive det material du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
+>**Nya studieresurser tillgängliga:** I [handboken för testversioner](https://app.rockinfo.com/courses/220) finns en skräddarsydd väg genom din testprocess för certifiering, inklusive det material du behöver för att lyckas med certifieringen. _Använd din Adobe ID om du uppmanas att logga in på guiden för testversioner._
 
 ## Provbeskrivning {#exam-description}
 
@@ -67,15 +67,15 @@ Du borde ha:
 * Möjlighet att förmedla resultat och kan föreslå en åtgärd baserad på analys av rapporter
 * Hjälpte kunderna att förstå hur de kan extrahera/hämta in den information de vill ha (till exempel hjälpa dem att definiera sina affärsfrågor)
 * En förståelse för hur tekniken fungerar och förstår en kunds implementering (till exempel var data finns, hur de kan samlas in, hur de spåras) ur funktionell synpunkt
-* Minst ett år [!DNL Adobe Analytics] praktisk upplevelse
+* Minst ett års [!DNL Adobe Analytics] praktisk erfarenhet
 * En grundläggande förståelse för hur digitala analyser filtrerar och strukturerar data
-* Kunskap om integrationen av [!DNL Adobe Analytics] med andra Adobe-lösningar
+* En medvetenhet om integrationen av [!DNL Adobe Analytics] med andra Adobe-lösningar
 
 Dessutom bör du känna till följande tekniker och miljöer:
 
 * FTP-klient
-* Aktuell [!DNL Adobe Analytics] Arbetsytefunktioner och andra rapportalternativ utanför arbetsytan (t.ex. schemalägg projekt och schemalägg rapporter)
-* Felsökningsverktyg som är relevanta för [!DNL Adobe Analytics] (Packet monitor som Adobe Debugger, verktyg för webbläsare, Charles)
+* Aktuella [!DNL Adobe Analytics] Workspace-funktioner och andra rapporteringsalternativ utanför Workspace (t.ex. schemalägg projekt och schemalägg rapporter)
+* Felsökningsverktyg som är relevanta för [!DNL Adobe Analytics] (paketövervakare som Adobe Debugger, webbläsarutvecklarverktyg, Charles)
 * Admin Console (Analytics Reports Suite Admin Console och Experience Cloud Admin Console)
 * Grundläggande om Adobe Launch
 * Appar, SPA, grundläggande webbplatsförståelse
@@ -95,7 +95,7 @@ Dessutom bör du känna till följande tekniker och miljöer:
 * Uppvisa förståelse för Adobe Launch
 * Uppvisa förståelse för vanliga integreringar i Adobe Experience Cloud ekosystem
 
-**Avsnitt 2: Rapportering och introduktion av instrumentpaneler för projekt (30 %)**
+**Avsnitt 2: Rapportering och instrumentpaneler för projekt (30 %)**
 
 * Tänk på fördelarna med att använda ett rapportverktyg baserat på ett givet scenario
 * Jämför bortfalls- och flödesvisualisering och lämpliga variabeltyper för rapportering
@@ -118,16 +118,16 @@ Dessutom bör du känna till följande tekniker och miljöer:
 **Avsnitt 4: Allmän verktygsinformation och felsökning (12 %)**
 
 * Analysera rapporter och identifiera problem med datakvaliteten
-* Definiera olika typer av dimensioner och parametrar som finns i [!DNL Adobe Analytics] (Vars, props och events)
+* Definiera olika typer av dimensioner och parametrar som finns i [!DNL Adobe Analytics] (eVars, props och events)
 * Bestäm hur data ska hämtas in och ut från [!DNL Adobe Analytics]
 * Identifiera information från marknadsförings-URL:er
 
-**Section 5: Administration (10%)**
+**Avsnitt 5: Administration (10 %)**
 
-* Konfigurera [!UICONTROL Marknadsföringskanal] rapporter med [!UICONTROL Marknadsföringskanal] bearbetningsregler
+* Använd processen för att konfigurera [!UICONTROL marknadsföringskanalernas]-rapporter med bearbetningsregler för [!UICONTROL marknadsföringskanalen]
 * Använd processen för att konfigurera klassificeringsimporteraren och regelbyggaren
 * Använda processen för att konfigurera en virtuell rapportserie baserat på ett befintligt segment
-* Använd [!UICONTROL Datafeed] Administratörsgränssnitt för chef
+* Använd användargränssnittet för [!UICONTROL Hanteraren för dataflöden]
 * Förståelse av datastyrning
 
 <br>
@@ -136,7 +136,7 @@ Dessutom bör du känna till följande tekniker och miljöer:
 
 {{readiness}}
 
-[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam/adq-e208){target="_blank"}
+[Ta enkäten om onlineberedskap](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam/adq-e208){target="_blank"}
 
 <br>
 
@@ -158,15 +158,15 @@ Dessutom bör du känna till följande tekniker och miljöer:
 
 {{study-materials-intro}}
 
-**Gör ett övningsprov**
+**Testa**
 
 {{practice-test}}
 
-**Handbok för testversioner**
+**Handbok för provprogram**
 
 {{exam-prep-guide}}
 
-[Visa guiden Förbered prov](https://app.rockinfo.com/courses/220)
+[Visa guide för testversioner](https://app.rockinfo.com/courses/220)
 
 +++
 
@@ -232,7 +232,7 @@ Dessutom bör du känna till följande tekniker och miljöer:
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.
 

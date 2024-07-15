@@ -1,6 +1,6 @@
 ---
 title: Certifikatförnyelse
-description: Lär dig förnya [!DNL Campaign Classic] certifiering innan den upphör att gälla.
+description: Lär dig hur du förnyar din [!DNL Campaign Classic] certifiering innan den upphör att gälla.
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: User,Developer,Data Architect
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Förnya Adobe [!DNL Campaign Classic] certifiering
+# Förnya din certifiering för Adobe [!DNL Campaign Classic]
 
 Din Adobe-certifiering gäller i två år. Om du närmar dig den här tvåårsmärkningen är det dags att förnya din certifiering för att den ska förbli aktiv.
 
@@ -26,40 +26,40 @@ Observera att om din certifiering upphör att gälla måste du göra om certifie
 
 >[!IMPORTANT]
 >
->**Logga in först:** Följande länkar fungerar **endast** efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
+>**Logga in först:** Följande länkar fungerar **endast** efter en **lyckad inloggning** till [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
 ><br>
 >
->**Så här delar du en länk:** Om du vill dela länken till en förnyelseprov eller utvärdering med en kollega, ska du länka till den övergripande sidan för förnyelse av tentamen, inte URL:en för tentamen, för att undvika inloggningsproblem.
+>**Så här delar du en länk:** Om du vill dela länken till ett förnyelseprov eller en utvärdering med en kollega, ska du länka till den övergripande sidan för provförnyelse, inte URL:en för provet i sig, för att undvika inloggningsproblem.
 
 >[!BEGINTABS]
 
 >[!TAB Professional]
 
-+++Adobe [!DNL Campaign Classic] Yrkesmässig förnyelse - tentamen
++++Adobe [!DNL Campaign Classic] Prov för yrkesmässig förnyelse av affärspraktikant
 
-## Du måste ha följande **aktiv** Certifieringar att förnya:
+## Du måste ha följande **aktiva**-certifieringar för att kunna förnya:
 
-Adobe [!DNL Campaign Classic] Yrkesverksamma inom affärsverksamhet
+Adobe [!DNL Campaign Classic] - Business Practitioner Professional
 
 ## Så här förnyar du din certifiering:
 
-* **Steg 1**: Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}och sedan återgå till den här sidan
-* **Steg 2**: Granska testens mål och resurser
-* **Steg 3**: Ta och ta examen
+* **Steg 1**: Logga in på [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} och gå sedan tillbaka till den här sidan
+* **Steg 2**: Granska mål och resurser för provet
+* **Steg 3**: Ta och godkänn provet
 
 ## Gör dig redo
 
-**Provinformation**
+**Information om tentamen**
 
 * Passing Score: 27/35
 * Tid: 70 minuter
 * Kostnad: KOSTNADSFRITT/icke-upphandlat
 * Leverans: On-demand
 * Tillgängliga språk: engelska
-* Exam ID: AD5-E841 - Adobe [!DNL Campaign Classic] Yrkesverksamma inom affärsverksamhet
+* Exam ID: AD5-E841 - Adobe [!DNL Campaign Classic] Business Practitioner Professional
 
-**Tillämpningsområde och mål**
+**Omfång och mål**
 
 Avsnitt 1: Skapa en kampanj 31,4 %
 
@@ -116,7 +116,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 **Avsnitt 1**
 
 * [Adobe Campaign Standard-rapportering](https://experienceleague.adobe.com/docs/analytics/integration/adobe-campaign.html?lang=en#:~:text=This%20integration%20between%20Adobe%20Analytics,formulas%20with%20Adobe%20Analytics%20parameters.){target="_blank"}
-* [Vad är en KPI? Definition och exempel](https://www.forbes.com/advisor/business/what-is-a-kpi-definition-examples/){target="_blank"}
+* [Vad är en KPI? Definition och exempel ](https://www.forbes.com/advisor/business/what-is-a-kpi-definition-examples/){target="_blank"}
 * [Kom igång med marknadsföringskampanjer](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=sv){target="_blank"}
 * [Använd mallar](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/delivery-bestpractices/use-templates.html){target="_blank"}
 * [Anpassa e-postmeddelanden med dynamiska innehållsblock](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/content-creation/email/personalize-using-dynamic-content-blocks.html){target="_blank"}
@@ -139,7 +139,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 **Avsnitt 3**
 
 * [Använd arbetsflödesdata](https://experienceleague.adobe.com/docs/campaign/automation/workflows/introduction/use-workflow-data.html){target="_blank"}
-* [Målinriktade aktiviteter i arbetsflöden](https://experienceleague.adobe.com/docs/campaign/automation/workflows/wf-activities/targeting-activities/targeting-activities.html){target="_blank"}
+* [Målaktiviteter i arbetsflöden](https://experienceleague.adobe.com/docs/campaign/automation/workflows/wf-activities/targeting-activities/targeting-activities.html){target="_blank"}
 * [Datavstämning](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html?lang=en#data-reconciliation){target="_blank"}
 * [Kom igång med import och export av data](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/importing-and-exporting-data/get-started-data-import-export.html){target="_blank"}
 * [Celler](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/cells.html){target="_blank"}
@@ -150,7 +150,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 **Avsnitt 4**
 
-* [Direktleverans](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/channel-activities/direct-mail-delivery.html){target="_blank"}
+* [Direktleverans via e-post](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/channel-activities/direct-mail-delivery.html){target="_blank"}
 * [Personaliseringsblock](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-blocks.html){target="_blank"}
 * [Konfigurera och skicka leveransen](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-sending-the-delivery.html){target="_blank"}
 * [Om kampanjtypologier](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html){target="_blank"}
@@ -159,17 +159,17 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 **Avsnitt 5**
 
-* [Kom igång med rapporter](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html){target="_blank"}
+* [Kom igång med rapportering](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html){target="_blank"}
 * [Indikatorberäkning](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reports-on-deliveries/indicator-calculation.html){target="_blank"}
-* [Använd guiden för beskrivande analys](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/analyzing-populations/using-the-descriptive-analysis-wizard.html){target="_blank"}
+* [Använd den beskrivande analysguiden](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/analyzing-populations/using-the-descriptive-analysis-wizard.html){target="_blank"}
 * [Adobe Campaign Classic-menyauktoriseringar](https://experienceleague.adobe.com/docs/campaign-classic/assets/access-rights-matrix.pdf){target="_blank"}
-* [Använd namngivna rättigheter för att ställa in behörigheter](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-named-rights.html){target="_blank"}
+* [Använd namngivna rättigheter för att konfigurera behörigheter](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-named-rights.html){target="_blank"}
 
 ## Förnya din certifiering
 
-Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} först. Klicka sedan på **Adobe [!DNL Campaign Classic] Yrkesmässig förnyelse - prov - AD5-E841** nedan.
+Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} först. Klicka sedan på länken **Adobe [!DNL Campaign Classic] Business Practitioner Professional Renewal Exam - AD5-E841** nedan för att förnya din certifiering.
 
-[Ta Adobe [!DNL Campaign Classic] Yrkesmässig förnyelse - prov - AD5-E841](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E841){target="_blank"}
+[Ta Adobe [!DNL Campaign Classic] Business Practitioner Professional Renewal Exam - AD5-E841](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E841){target="_blank"}
 
 >[!NOTE]
 >
@@ -177,21 +177,21 @@ Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för h
 
 +++
 
-+++Adobe [!DNL Campaign Classic] Förnyelse för utvecklare
++++Adobe [!DNL Campaign Classic] Förnyelse av utvecklaryrket
 
-## Du måste ha följande **aktiv** Certifieringar att förnya:
+## Du måste ha följande **aktiva**-certifieringar för att kunna förnya:
 
 Adobe [!DNL Campaign Classic] Developer Professional
 
 ## Så här förnyar du din certifiering:
 
-* **Steg 1**: Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}och sedan återgå till den här sidan
-* **Steg 2**: Granska testens mål och resurser
-* **Steg 3**: Ta och ta examen
+* **Steg 1**: Logga in på [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} och gå sedan tillbaka till den här sidan
+* **Steg 2**: Granska mål och resurser för provet
+* **Steg 3**: Ta och godkänn provet
 
 ## Gör dig redo
 
-**Provinformation**
+**Information om tentamen**
 
 * Löpande poäng: 31/41
 * Tid: 82 minuter
@@ -200,7 +200,7 @@ Adobe [!DNL Campaign Classic] Developer Professional
 * Tillgängliga språk: engelska
 * Exam ID: AD5-E851 - Adobe [!DNL Campaign Classic] Developer Professional
 
-**Tillämpningsområde och mål**
+**Omfång och mål**
 
 Avsnitt 1: Systemkonfiguration 26 %
 
@@ -275,19 +275,19 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 **Avsnitt 1**
 
 * [Vanliga frågor om kampanjinställningar](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/faq/faq-campaign-config.html){target="_blank"}
-* [Använda en anpassad mottagartabell](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/about-custom-recipient-table.html){target="_blank"}
+* [Använd en anpassad mottagartabell](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/about-custom-recipient-table.html){target="_blank"}
 * [Importera och exportera målgrupper](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/audience-sharing/importing-and-exporting-audiences.html){target="_blank"}
-* [Implementera SOAP-metoder](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/api/implementing-soap-methods.html){target="_blank"}
+* [Implementera SOAP ](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/api/implementing-soap-methods.html){target="_blank"}
 * [Arbeta med datapaket](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/administration-basics/working-with-data-packages.html){target="_blank"}
 * [Databasmappning](https://experienceleague.adobe.com/docs/campaign/campaign-v8/architecture/shemas-forms/database-mapping.html){target="_blank"}
-* [Koppla samman Campaign med era lösningar](https://experienceleague.adobe.com/docs/campaign/campaign-v8/connect/integration.html){target="_blank"}
+* [Anslut kampanj med dina lösningar](https://experienceleague.adobe.com/docs/campaign/campaign-v8/connect/integration.html){target="_blank"}
 * [Kampanjspecifika externa konton](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/external-accounts.html#sftp-external-account){target="_blank"}
-* [Använd typologi på en leverans](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/applying-rules.html#applying-a-typology-to-a-delivery){target="_blank"}
+* [Använd en typologi för en leverans](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/applying-rules.html#applying-a-typology-to-a-delivery){target="_blank"}
 
 **Avsnitt 2**
 
 * [Schemastruktur](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/schema-reference/schema-structure.html){target="_blank"}
-* [Fröadresser](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/seed-addresses.html){target="_blank"}
+* [dirigeringsadresser](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/seed-addresses.html){target="_blank"}
 * [Publikationsmallar](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/content-management/publication-templates.html){target="_blank"}
 * [Använd datamodeller i Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/content-management/data-schemas.html){target="_blank"}
 * [Redigera formulär](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/input-forms/editing-forms.html){target="_blank"}
@@ -295,7 +295,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 **Avsnitt 3**
 
 * [Skapa och hantera operatorer](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-operators.html){target="_blank"}
-* [Använd namngivna rättigheter för att ställa in behörigheter](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-named-rights.html){target="_blank"}
+* [Använd namngivna rättigheter för att konfigurera behörigheter](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-named-rights.html){target="_blank"}
 
 **Avsnitt 4**
 
@@ -316,7 +316,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 **Avsnitt 6**
 
-* [Använda kontrollgrupper](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/sending-messages/email/use-control-groups.html){target="_blank"}
+* [Använd kontrollgrupper](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/sending-messages/email/use-control-groups.html){target="_blank"}
 * [Definiera godkännanden](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/defining-approvals.html){target="_blank"}
 * [Övervaka arbetsflödeskörning](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/monitoring-workflow-execution.html?lang=sv){target="_blank"}
 * [Återkommande leverans](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/recurring-delivery.html){target="_blank"}
@@ -325,9 +325,9 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 ## Förnya din certifiering
 
-Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} först. Klicka sedan på **Adobe [!DNL Campaign Classic] Förnyelseprov för utvecklare - AD5-E851** nedan.
+Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} först. Om du vill förnya certifieringen klickar du på länken **Adobe [!DNL Campaign Classic] Developer Professional Renewal Exam - AD5-E851** nedan.
 
-[Ta Adobe [!DNL Campaign Classic] Förnyelseprov för utvecklare - AD5-E851](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E851){target="_blank"}
+[Ta förnyelseprovet för Adobe [!DNL Campaign Classic] Developer Professional - AD5-E851](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E851){target="_blank"}
 
 >[!NOTE]
 >
@@ -335,40 +335,40 @@ Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för h
 
 +++
 
->[!TAB Expert och master]
+>[!TAB Expert och mallsida]
 
 ## Du bör vara certifierad (inte utgånget) i:
 
 * Adobe [!DNL Campaign Classic] Developer Expert
-* Adobe [!DNL Campaign Classic] Affärsexpert
-* Adobe [!DNL Campaign Classic] Architect Master
+* Adobe [!DNL Campaign Classic] - affärsexpert
+* Adobe [!DNL Campaign Classic] - arkitekthögste
 
 ## Så här förnyar du din certifiering:
 
-* **Steg 1**: Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}och sedan återgå till den här sidan
-* **Steg 2**: Granska testens mål och resurser
-* **Steg 3**: Ta och ta examen
+* **Steg 1**: Logga in på [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} och gå sedan tillbaka till den här sidan
+* **Steg 2**: Granska mål och resurser för provet
+* **Steg 3**: Ta och godkänn provet
 
 ## Gör dig redo
 
-**Provinformation**
+**Information om tentamen**
 
 * Passing Score: 42/55
 * Tid: 110 min
 * Kostnad: KOSTNADSFRITT/icke-upphandlat
 * Leverans: On-demand
 * Tillgängliga språk: engelska
-* Krav: aktuell (inte utgången) Adobe [!DNL Campaign Classic] expertcertifiering och/eller huvudcertifiering
+* Krav: aktuell (inte utgången) expertcertifiering och/eller huvudcertifiering för Adobe [!DNL Campaign Classic]
 * Exempel-ID: AD5-E823
 
-**Tillämpningsområde och mål**
+**Omfång och mål**
 
 Avsnitt 1: Installation och systemkonfiguration (23 %)
 
 * Ange vilka alternativ som ska användas för ett scenario (dvs. flytta saker från fas till produktion)
 * Möjlighet att använda paket för att migrera mellan instanser
 * Förklara hur inställningarna i guiden påverkar leveransmöjligheterna
-* Ange den underliggande infrastrukturen för värdmodellen som är tillgänglig för Adobe [!DNL Campaign Classic] v8
+* Ange den underliggande infrastrukturen för värdmodellen som är tillgänglig för Adobe [!DNL Campaign Classic] v8.
 * Beskriv vanliga OTB-funktioner
 * Förklara integrationen med andra Adobe Experience Cloud-produkter
 * Förklara integrering med vanliga externa konton
@@ -419,7 +419,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 **Avsnitt 2: Anpassning**
 
-* [JavaScript-skript och -mallar](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/javascript-scripts-and-templates.html){target="_blank"}
+* [JavaScript skript och mallar](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/javascript-scripts-and-templates.html){target="_blank"}
 * [Bästa praxis för datamodell](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/data-model/data-model-best-practices.html){target="_blank"}
 * [Skapa och hantera operatorer](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-operators.html){target="_blank"}
 * [Hantera åtkomst till mappar](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-folders.html){target="_blank"}
@@ -427,22 +427,22 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 **Avsnitt 3: Dataarkitektur**
 
 * [Övergång från [!DNL Campaign Classic] v7 till Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=sv){target="_blank"}
-* [Arbeta med källor och destinationer](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/aep-sources-destinations/get-started-sources-destinations.html){target="_blank"}
+* [Arbeta med källor och mål](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/aep-sources-destinations/get-started-sources-destinations.html){target="_blank"}
 * [Specifika FFDA Campaign-API:er](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/architecture/ffda/ffda-characteristics/new-apis.html){target="_blank"}
 * [Om Adobe ID](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/connect-to-campaign/connecting-via-an-adobe-id/about-adobe-id.html){target="_blank"}
 
 **Avsnitt 4: Kampanj, arbetsflöde, leverans och rapportering**
 
 * [Bästa praxis för arbetsflöden](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html){target="_blank"}
-* [Ställ in och hantera godkännandeprocessen](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-approval.html){target="_blank"}
+* [Konfigurera och hantera godkännandeprocessen](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-approval.html){target="_blank"}
 * [Berikning](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html){target="_blank"}
 * [Importera och exportera metodtips](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html){target="_blank"}
 
 ## Förnya din certifiering
 
-Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} först. Klicka sedan på länken för förnyelse av Campaign Classic - AD5-823 nedan för att förnya din certifiering.
+Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} först. Klicka sedan på länken för förnyelse av Campaign Classic - AD5-823 nedan för att förnya din certifiering.
 
-[Ta Adobe [!DNL Campaign Classic] förnyelse för Business Practitioner-, Developer and Architect-provet nu - AD5-823](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E823){target="_blank"}
+[Ta Adobe [!DNL Campaign Classic] förnyelsen för Business Practitioner, Developer and Architect-provet nu - AD5-823](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E823){target="_blank"}
 
 >[!NOTE]
 >
@@ -452,6 +452,6 @@ Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för h
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.

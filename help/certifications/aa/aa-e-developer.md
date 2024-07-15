@@ -1,6 +1,6 @@
 ---
 title: Certifiering av utvecklarexpert
-description: Lär dig certifiera dig som [!DNL Adobe Analytics] Developer Expert.
+description: Lär dig hur du blir certifierad som  [!DNL Adobe Analytics] utvecklarexpert.
 solution: Analytics
 product: Analytics
 role: Developer
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/221) ger dig en skräddarsydd väg genom din förberedande process för certifieringstester, inklusive det material du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
+>**Nya studieresurser tillgängliga:** I [handboken för testversioner](https://app.rockinfo.com/courses/221) finns en skräddarsydd väg genom din testprocess för certifiering, inklusive det material du behöver för att lyckas med certifieringen. _Använd din Adobe ID om du uppmanas att logga in på guiden för testversioner._
 
 ## Provbeskrivning {#exam-description}
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 ### Minimal upplevelse {#minimum-experience}
 
-Du bör ha erfarenhet som implementeringskonsult i en blandad roll med ungefär två års erfarenhet av [!DNL Adobe Analytics] implementering. Ni fungerar som en bro mellan IT och företaget, översätt verksamhetskraven till en teknisk lösning (SDR) och, baserat på krav från analytikern, förstå vilken typ av variabel som behövs, var och hur data ska samlas in, utforma datamodellen (datalagret), konfigurera och underhålla tagghanteringslösningen.
+Du bör ha erfarenhet som implementeringskonsult i en blandad roll med ungefär två års erfarenhet av [!DNL Adobe Analytics]-implementering. Ni fungerar som en bro mellan IT och företaget, översätt verksamhetskraven till en teknisk lösning (SDR) och, baserat på krav från analytikern, förstå vilken typ av variabel som behövs, var och hur data ska samlas in, utforma datamodellen (datalagret), konfigurera och underhålla tagghanteringslösningen.
 
 Som Analytics Developer implementerar du sällan taggarna på sidan, utan implementeras i stället av IT eller systemintegratören.
 
@@ -60,15 +60,15 @@ Du bör känna till följande verktyg och miljöer:
 Systemutvärdering:
 
 * Adobe Experience Platform Launch (Adobe Launch)
-* Felsökningsverktyg som är relevanta för [!DNL Adobe Analytics] (Packet monitor som Adobe Debugger, verktyg för webbläsare, Charles)
-* [!DNL Adobe Analytics] Inställningar för Admin Console rapportsvit
-* Grundläggande arbetsytekunskap
+* Felsökningsverktyg som är relevanta för [!DNL Adobe Analytics] (paketövervakare som Adobe Debugger, webbläsarutvecklingsverktyg, Charles)
+* Inställningar för rapportsviten [!DNL Adobe Analytics] Admin Console
+* Grundläggande Workspace-kunskap
 * Webbutvecklingsverktyg, kodredigerare och felsökningsverktyg för mobiler
 * Adobe Auditor
 * Bearbetar regler
 * Klassificeringsregler - Regex-baserade klassificeringsregler
 * JavaScript-fel
-* Grundläggande förståelse för tillgängliga [!DNL Adobe Analytics] relaterade API:er
+* Grundläggande förståelse för tillgängliga [!DNL Adobe Analytics]-relaterade API:er
 * Integrering med Adobe I/O
 
 Miljö:
@@ -82,7 +82,7 @@ Miljö:
 
 {{exam-objectives}}
 
-**Mål och omfattning för tentamen**
+**Mål och omfattning för provet**
 
 **Avsnitt 1: Förstå analyser i Adobe Experience Cloud ekosystem (10 %)**
 
@@ -97,10 +97,10 @@ Miljö:
 
 **Avsnitt 3: Analysimplementering och konfiguration (36 %)**
 
-* Bestäm vilken miljö som ska distribueras [!DNL Adobe Analytics] Code
+* Bestäm vilken miljö som [!DNL Adobe Analytics]-koden ska distribueras till
 * Kör en minimal distributionskod för Analytics-spårning
-* Konfigurera olika komponenter i [!DNL Adobe Analytics] UI
-* Konfigurera [!DNL Adobe Analytics] rapportsvit och variabelinställningar
+* Konfigurera olika komponenter i användargränssnittet för [!DNL Adobe Analytics]
+* Konfigurera rapportsviten och variabelinställningar för [!DNL Adobe Analytics]
 * Använda ett datalager i en distribution
 * Kör avancerade spårningsfunktioner som länkspårning och produktsträngar
 
@@ -119,9 +119,9 @@ Miljö:
 **Avsnitt 6: Testning, validering och felsökning (20 %)**
 
 * Felsöka JavaScript-fel
-* Felsökning [!DNL Adobe Analytics] variabler
+* Felsök [!DNL Adobe Analytics]-variabler
 * Rekommendera bästa praxis för testning och felsökning
-* Felsöka ett [!DNL Adobe Analytics] serveranrop under hela livscykeln (d.v.s. från beacon-begäran till visning i rapporten)
+* Felsöka ett [!DNL Adobe Analytics]-serveranrop under dess livscykel (det vill säga från beacon-begäran till visning i rapporten)
 
 <br>
 
@@ -129,7 +129,7 @@ Miljö:
 
 {{readiness}}
 
-[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-hp0hz5/ad-q-e209-readiness-questionnaire-for-adobe-analytics-developer-expert-exam){target="_blank"}
+[Ta enkäten om onlineberedskap](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-hp0hz5/ad-q-e209-readiness-questionnaire-for-adobe-analytics-developer-expert-exam){target="_blank"}
 
 <br>
 
@@ -151,15 +151,15 @@ Miljö:
 
 {{study-materials-intro}}
 
-**Handbok för testversioner**
+**Handbok för provprogram**
 
 {{exam-prep-guide}}
 
-[Visa guiden Förbered prov](https://app.rockinfo.com/courses/221)
+[Visa guide för testversioner](https://app.rockinfo.com/courses/221)
 
 <br>
 
-**Gör ett övningsprov**
+**Testa**
 
 {{practice-test}}
 
@@ -228,6 +228,6 @@ Miljö:
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.

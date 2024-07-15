@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Certifieringsresa för Adobe [!DNL Campaign Standard] Affärsexpert
+# Certifieringsresa för Adobe [!DNL Campaign Standard] Business Practitioner Expert
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/255) ger dig en skräddarsydd väg genom testprocessen för certifiering, inklusive ingående studiematerial som du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
+>**Nya studieresurser tillgängliga:** I [handboken för testversioner](https://app.rockinfo.com/courses/255) finns en skräddarsydd väg genom din förberedande process för certifieringstester, inklusive det ingående studiematerialet som du behöver för att lyckas med certifieringen. _Använd din Adobe ID om du uppmanas att logga in på guiden för testversioner._
 
 ## Provbeskrivning {#exam-description}
 
@@ -60,7 +60,7 @@ Ni bör ha erfarenhet av att arbeta i en kanalleveransmiljö (e-post, direktrekl
 
 Dessutom bör du ha:
 
-* Fältupplevelse som fungerar med Adobe [!DNL Campaign Standard] med normal frekvens
+* Fältupplevelse som arbetar med Adobe [!DNL Campaign Standard] med normal frekvens
 * Möjlighet att bearbeta datafiler
 * En förståelse för begreppen relationsdatabaser, utlösare, API:er och tekniska arbetsflöden
 * En förståelse för hur man bygger upp arbetsflöden för marknadsföring och arbetar med underliggande data för att starta arbetsflöden för marknadsföring
@@ -77,7 +77,7 @@ Dessutom bör du ha:
 
 * Använda bästa praxis vid konfiguration och driftsättning av en leverans
 * Kontrollera rätt leveranskonfiguration
-* Använd e-postdesignerfunktioner i rätt scenario
+* Använd e-post-Designer-funktioner i rätt scenario
 
 **Avsnitt 2: Kampanjhantering (25 %)**
 
@@ -101,10 +101,10 @@ Dessutom bör du ha:
 * Övervaka och identifiera fel
 * Analysera och tolka distributionsresultat
 
-**Avsnitt 6: Datahantering och administration (15%)**
+**Avsnitt 6: Datahantering och administration (15 %)**
 
 * Förklara datamodellresurser
-* Utför [!DNL Campaign Standard] administration
+* Utför [!DNL Campaign Standard]-administration
 * Använda processen för att skapa målgrupper
 
 <br>
@@ -113,7 +113,7 @@ Dessutom bör du ha:
 
 {{readiness}}
 
-[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-nxam4m/ad-q-e307-readiness-questionnaire-for-adobe-campaign-standard-business-practitioner-expert-exam){target="_blank"}
+[Ta enkäten om onlineberedskap](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-nxam4m/ad-q-e307-readiness-questionnaire-for-adobe-campaign-standard-business-practitioner-expert-exam){target="_blank"}
 
 <br>
 
@@ -135,15 +135,15 @@ Dessutom bör du ha:
 
 {{study-materials-intro}}
 
-**Gör ett övningsprov**
+**Testa**
 
 {{practice-test}}
 
-**Handbok för testversioner**
+**Handbok för provprogram**
 
 {{exam-prep-guide}}
 
-[Visa guiden Förbered prov](https://app.rockinfo.com/courses/255)
+[Visa guide för testversioner](https://app.rockinfo.com/courses/255)
 
 +++
 
@@ -198,7 +198,7 @@ Dessutom bör du ha:
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.
 

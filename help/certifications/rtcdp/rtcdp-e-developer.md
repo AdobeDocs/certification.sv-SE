@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/246) ger dig en skräddarsydd väg genom din förberedande process för certifieringstester, inklusive det material du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
+>**Nya studieresurser tillgängliga:** I [handboken för testversioner](https://app.rockinfo.com/courses/246) finns en skräddarsydd väg genom din testprocess för certifiering, inklusive det material du behöver för att lyckas med certifieringen. _Använd din Adobe ID om du uppmanas att logga in på guiden för testversioner._
 
 ## Provbeskrivning {#exam-description}
 
@@ -81,7 +81,7 @@ Du bör känna till följande koncept:
 Du bör känna dig bekväm i dessa miljöer:
 
 * AEP
-* Edge Network
+* Edge
 
 <br>
 
@@ -91,7 +91,7 @@ Du bör känna dig bekväm i dessa miljöer:
 
 **Dataarkitektur (19 %)**
 
-* Översätt RDBMS till Adobe baserat på ett scenario [!DNL RT-CDP]NoSQL-datamodell
+* Översätt RDBMS till NoSQL-datamodellen för Adobe [!DNL RT-CDP] baserat på ett scenario
 * Uppvisa bästa praxis för modellering av kundprofilen i realtid
 * Utforma identitetsstrategin och relationerna för modellering
 
@@ -102,10 +102,10 @@ Du bör känna dig bekväm i dessa miljöer:
 * Beskriv profilkomposition
 * Differentiera mellan kant och navprofil
 
-**Dataintag (13 %)**
+**Datainmatning (13 %)**
 
 * Beskriv dataöverföringskapaciteten med CDP
-* Beskriv möjligheterna med Edge-intag
+* Beskriv möjligheterna med Edge-inmatning
 * Beskriv de avancerade teknikerna kring dataöverföringstekniken
 
 **Segmentering (18 %)**
@@ -122,7 +122,7 @@ Du bör känna dig bekväm i dessa miljöer:
 
 **Styrning (9 %)**
 
-* Använda bästa praxis för styrning i Adobe [!DNL RT-CDP] implementering
+* Använd bästa praxis för styrning i implementeringen av Adobe [!DNL RT-CDP]
 * Beskriv hur data ska hanteras i de olika tjänsterna
 
 **Administration (15 %)**
@@ -152,15 +152,15 @@ Du bör känna dig bekväm i dessa miljöer:
 
 {{study-materials-intro}}
 
-**Gör ett övningsprov**
+**Testa**
 
 {{practice-test}}
 
-**Handbok för testversioner**
+**Handbok för provprogram**
 
 {{exam-prep-guide}}
 
-[Visa guiden Förbered prov](https://app.rockinfo.com/courses/246)
+[Visa guide för testversioner](https://app.rockinfo.com/courses/246)
 
 +++
 
@@ -215,6 +215,6 @@ Du bör känna dig bekväm i dessa miljöer:
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.

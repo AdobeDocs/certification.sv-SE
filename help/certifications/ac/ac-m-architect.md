@@ -1,6 +1,6 @@
 ---
 title: Architect Master-certifiering
-description: Lär dig hur du blir certifierad Adobe Architect-mästare i Adobe [!DNL Commerce].
+description: Lär dig hur du blir certifierad Adobe Architect-master i Adobe [!DNL Commerce].
 solution: Commerce
 product: Magento
 role: Data Architect
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/142) ger dig en skräddarsydd väg genom din förberedande process för certifieringstester, inklusive det material du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
+>**Nya studieresurser tillgängliga:** I [handboken för testversioner](https://app.rockinfo.com/courses/142) finns en skräddarsydd väg genom din testprocess för certifiering, inklusive det material du behöver för att lyckas med certifieringen. _Använd din Adobe ID om du uppmanas att logga in på guiden för testversioner._
 
 ## Provbeskrivning {#exam-description}
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 ### Målgrupp {#intended-audience}
 
-* Lead Software/[!DNL Adobe Commerce] Arkitekt
+* Lead Software/[!DNL Adobe Commerce] Architect
 * Teknisk arkitekt
 * Lösningsarkitekt
 * Technical Lead
@@ -59,35 +59,35 @@ ht-degree: 0%
 
 ### Minimal upplevelse {#minimum-experience}
 
-Du bör ha minst 3-5 års erfarenhet som ledare [!DNL Commerce] utvecklingsprojekt och kan utforma, integrera, implementera och förklara lösningar på affärsproblem genom att använda [!DNL Adobe Commerce] tillsammans med tillhörande tjänster.
+Du bör ha minst 3-5 års erfarenhet av att leda [!DNL Commerce] utvecklingsprojekt och kan utforma, integrera, implementera och förklara lösningar på affärsproblem genom att använda [!DNL Adobe Commerce] tillsammans med tillhörande tjänster.
 
 Dessutom bör du känna till följande aktiviteter och tekniker:
 
 * Utöka kärnfunktionerna
-* Konfigurera [!DNL Adobe Commerce] helt
+* Konfigurera [!DNL Adobe Commerce] fullständigt
 * Skapa en fullständig plan för hur ett tillägg ska fungera, företagets krav på att skissa på hur det ska fungera, utan att behöva gå in i koden
 * Förstå affärsbehov/funktioner
 * Effektiva lösningar och tillägg
 * Serviceavtalslogik
 * GraphQL
 * Förstå Composer som ett beroendeverktyg
-* Konfigurera och konfigurera arbetsinstansen för Adobe [!DNL Adobe Commerce] från början
+* Konfigurera och konfigurera arbetsinstansen för Adobe [!DNL Adobe Commerce] från grunden
 * Anpassa administrationspanelen, skapa stödraster och formulär
 * Cache- och indexhantering; skapa anpassat index
 * Skapa ny cachetyp
 * Felsöka och felsöka olika problem i miljön
 * Utöka och hantera databasschema
 * Säkerhetsfunktioner, ger säker installation och utveckling
-* Utför serverbaserade tjänster som [!DNL Adobe Commerce] anslutningar (Redis, Varnish configuration management)
+* Utför serverbaserade tjänster som [!DNL Adobe Commerce] ansluter (Redis, Varnish-konfigurationshantering)
 * Medveten om bästa praxis inom kodning, kodningsstandarder, PSR, SOLID-principen
-* Konfigurera och använda [!DNL Adobe Commerce] Services Connector (och tillhörande tjänster)
+* Konfigurera och använd [!DNL Adobe Commerce] Services Connector (och tillhörande tjänster)
 * Mellanlagring av innehållshantering
-* Förstå [!DNL Adobe Commerce] standard, när den är tillgänglig och inte tillgänglig
-* Stort antal samhörande [!DNL Adobe Commerce] domän
+* Om [!DNL Adobe Commerce] standardinställningar, när det är tillgängligt och inte tillgängligt
+* Bred överblick över alla relaterade [!DNL Adobe Commerce]-domäner
 * Designprojektarkitektur
-* Optimera prestanda för [!DNL Adobe Commerce] standard
+* Optimera prestanda för [!DNL Adobe Commerce] som standard
 * Skapa och ändra B2B
-* AMQP-protokoll och -kort i [!DNL Adobe Commerce] (S3)
+* AMQP-protokoll och kort i [!DNL Adobe Commerce] (S3)
 
 <br>
 
@@ -97,23 +97,23 @@ Dessutom bör du känna till följande aktiviteter och tekniker:
 
 **Avsnitt 1: Design (46 %)**
 
-* Utforma och implementera optimala lösningar för Adobe [!DNL Commerce] för att tillgodose verksamhetens behov
+* Utforma och implementera optimala lösningar för Adobe [!DNL Commerce] för att uppfylla affärsbehoven
 * Utforma logiska och tekniska flöden
-* Anpassa [!DNL Commerce] funktioner
+* Anpassa [!DNL Commerce]-funktioner
 * Integrera Adobe [!DNL Commerce] med externa system och tjänster
 * Felsöka designflöden
 
-**Avsnitt 2: Granskning (32 %)**
+**Avsnitt 2: Granska (32 %)**
 
-* Granska och omskapa Adobe [!DNL Commerce] anpassningar
-* Utnyttja [!DNL Commerce] testramverk i hela arbetsflödet
+* Granska och omforma befintliga anpassningar av Adobe [!DNL Commerce]
+* Använd [!DNL Commerce] testramverk i hela arbetsflödet
 * Optimera prestanda och skalbarhet för Adobe [!DNL Commerce]
 * Felsökning för att identifiera den grundläggande orsaken till problem med Adobe [!DNL Commerce]
 * Tvinga kodstandarder
 
 **Avsnitt 3: Konfigurera och distribuera (22 %)**
 
-* Konfigurera Adobe [!DNL Commerce] och se till att projektet är optimalt konfigurerat
+* Konfigurera Adobe [!DNL Commerce] och kontrollera att projektet har konfigurerats optimalt
 * Konfigurera alla aspekter av Adobe [!DNL Commerce] Cloud
 * Översikt och förbättrad distributionsprocess
 * Felsöka infrastruktur- och konfigurationsproblem
@@ -122,7 +122,7 @@ Dessutom bör du känna till följande aktiviteter och tekniker:
 
 {{readiness}}
 
-[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e718-readiness-questionnaire-for-adobe-commerce-architect-master-exam){target="_blank"}
+[Ta enkäten om onlineberedskap](https://scorpion.caveon.com/launchpad/ad-q-e718-readiness-questionnaire-for-adobe-commerce-architect-master-exam){target="_blank"}
 
 <br>
 
@@ -144,15 +144,15 @@ Dessutom bör du känna till följande aktiviteter och tekniker:
 
 {{study-materials-intro}}
 
-**Gör ett övningsprov**
+**Testa**
 
 {{practice-test}}
 
-**Handbok för testversioner**
+**Handbok för provprogram**
 
 {{exam-prep-guide}}
 
-[Visa guiden Förbered prov](https://app.rockinfo.com/courses/142)
+[Visa guide för testversioner](https://app.rockinfo.com/courses/142)
 
 +++
 
@@ -207,6 +207,6 @@ Dessutom bör du känna till följande aktiviteter och tekniker:
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.

@@ -1,6 +1,6 @@
 ---
 title: Certifikatförnyelse
-description: Lär dig förnya Adobe [!DNL Commerce] certifiering innan den upphör att gälla.
+description: Lär dig hur du förnyar din Adobe [!DNL Commerce] certifiering innan den upphör att gälla.
 solution: Commerce
 product: Magento
 role: Developer,User,Data Architect
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Förnya Adobe [!DNL Commerce] certifiering
+# Förnya din certifiering för Adobe [!DNL Commerce]
 
 Din Adobe-certifiering gäller i två år. Om du närmar dig den här tvåårsmärkningen är det dags att förnya din certifiering för att den ska förbli aktiv.
 
@@ -26,27 +26,27 @@ Observera att om din certifiering upphör att gälla måste du göra om certifie
 
 >[!IMPORTANT]
 >
->**Logga in först:** Följande länkar fungerar **endast** efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
+>**Logga in först:** Följande länkar fungerar **endast** efter en **lyckad inloggning** till [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
 ><br>
 >
->**Så här delar du en länk:** Om du vill dela länken till en förnyelseprov eller utvärdering med en kollega, ska du länka till den övergripande sidan för förnyelse av tentamen, inte URL:en för tentamen, för att undvika inloggningsproblem.
+>**Så här delar du en länk:** Om du vill dela länken till ett förnyelseprov eller en utvärdering med en kollega, ska du länka till den övergripande sidan för provförnyelse, inte URL:en för provet i sig, för att undvika inloggningsproblem.
 
 >[!BEGINTABS]
 
 >[!TAB Professional]
 
-+++Adobe [!DNL Commerce] Yrkesverksamma inom affärsverksamhet
++++Adobe [!DNL Commerce] Business Practitioner Professional
 
-## Du måste ha följande **aktiv** certifiering att förnya med den här metoden:
+## Du måste ha följande **active**-certifiering för att kunna förnya med den här metoden:
 
-* Adobe [!DNL Commerce] Yrkesverksamma inom affärsverksamhet
+* Adobe [!DNL Commerce] - Business Practitioner Professional
 
 ## Instruktioner för att förnya din certifiering:
 
-* **Steg 1**: Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}och sedan återgå till den här sidan
-* **Steg 2**: Granska testens mål och resurser
-* **Steg 3**: Ta och ta examen
+* **Steg 1**: Logga in på [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} och gå sedan tillbaka till den här sidan
+* **Steg 2**: Granska mål och resurser för provet
+* **Steg 3**: Ta och godkänn provet
 
 ## Gör dig redo
 
@@ -58,9 +58,9 @@ Observera att om din certifiering upphör att gälla måste du göra om certifie
 * Leverans: On-demand/icke-upphandling
 * Tillgängliga språk: engelska
 * Kostnad: KOSTNADSFRITT
-* Exam ID: AD5-E840 Adobe [!DNL Commerce] Yrkesmässig förnyelse - tentamen
+* Exam ID: AD5-E840 Adobe [!DNL Commerce] Business Practitioner Professional Renewal Exam
 
-**Tillämpningsområde och mål:**
+**Omfång och mål:**
 
 Avsnitt 1: Funktioner i Magento Open Source Core (54 %)
 
@@ -101,16 +101,16 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 **Avsnitt 1**
 
-* [Adobe [!DNL Commerce] Content and Design Guide](https://experienceleague.adobe.com/docs/commerce-admin/content-design/guide-overview.html){target="_blank"}
-* [Widgetar](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html){target="_blank"}
+* [Adobe [!DNL Commerce] Innehålls- och designhandbok](https://experienceleague.adobe.com/docs/commerce-admin/content-design/guide-overview.html){target="_blank"}
+* [Widgets](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html){target="_blank"}
 * [Adobe [!DNL Commerce] Kataloghanteringsguide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/guide-overview.html){target="_blank"}
-* [Adobe [!DNL Commerce] Butiks and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/guide-overview.html){target="_blank"}
-* [Varumärke för butiker](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/storefront-branding.html){target="_blank"}
+* [Adobe [!DNL Commerce] Lagrar och köpa Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/guide-overview.html){target="_blank"}
+* [StoreFront Branding](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/storefront-branding.html){target="_blank"}
 * [Lägg till kundvariabler](https://experienceleague.adobe.com/docs/commerce-admin/systems/variables/variables-custom.html){target="_blank"}
 * [Kundprisregler](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart.html){target="_blank"}
-* [Nya alternativ för kundkonton](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/configure/account-options-new.html){target="_blank"}
-* [Orderstatus](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-status.html){target="_blank"}
-* [Business Intelligence](https://experienceleague.adobe.com/docs/commerce-admin/start/reporting/business-intelligence.html){target="_blank"}
+* [Nya alternativ för kundkonto](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/configure/account-options-new.html){target="_blank"}
+* [Beställningsstatus](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-status.html){target="_blank"}
+* [Verktyg för Business Intelligence](https://experienceleague.adobe.com/docs/commerce-admin/start/reporting/business-intelligence.html){target="_blank"}
 
 **Avsnitt 2**
 
@@ -128,21 +128,21 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [SEO-översikt](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/seo-overview.html){target="_blank"}
 * [Förbättrade butiksupplevelser](https://experienceleague.adobe.com/docs/commerce-admin/start/storefront/enhanced-experiences.html){target="_blank"}
 * [PCI-kompatibilitet](https://business.adobe.com/products/magento/pci-compliance.html){target="_blank"}
-* [Läs om skillnaden mellan flerkanalig och flerkanalsmarknadsföring](https://business.adobe.com/blog/basics/omnichannel-vs-multichannel-marketing){target="_blank"}
+* [Läs om skillnaden mellan flerkanalig marknadsföring och flerkanalsmarknadsföring](https://business.adobe.com/blog/basics/omnichannel-vs-multichannel-marketing){target="_blank"}
 
 **Avsnitt 4**
 
 * [GDPR](https://experienceleague.adobe.com/docs/commerce-operations/security-and-compliance/privacy/gdpr.html){target="_blank"}
 * [Adobe [!DNL Commerce] Bästa praxis för säkerhet](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/experience-cloud/adobe-commerce-best-practices-guide.pdf){target="_blank"}
-* [Hur ni gör er e-handelswebbplats till ADA-kompatibel](https://business.adobe.com/blog/perspectives/understanding-ada-compliance-and-how-it-relates-ecommerce-websites){target="_blank"}
+* [Gör din e-handelswebbplats ADA-kompatibel](https://business.adobe.com/blog/perspectives/understanding-ada-compliance-and-how-it-relates-ecommerce-websites){target="_blank"}
 
 ## Förnya din certifiering
 
-Förnya Adobe [!DNL Commerce] Yrkescertifiering:
+Så här förnyar du certifieringen för Business Practitioner Professional för Adobe [!DNL Commerce]:
 
-Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} först. Klicka sedan på Adobe för att förnya certifieringen [!DNL Commerce] Länk till Business Practitioner Professional Renewal Exam (AD5-E840) nedan.
+Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} först. Klicka på länken [!DNL Commerce] Business Practitioner Professional Renewal Exam (AD5-E840) nedan för att förnya din certifiering.
 
-[!BADGE Ta Adobe [!DNL Commerce] Yrkesmässig förnyelse - tentamen (AD5-E840)]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E840 newtab=true"}
+[!BADGE Ta [!DNL Commerce] Business Practitioner Professional Renewal Exam (AD5-E840) på Adobe]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E840 newtab=true"}
 
 >[!NOTE]
 >
@@ -152,15 +152,15 @@ Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för h
 
 +++Adobe [!DNL Commerce] Developer Professional
 
-## Du måste ha följande **aktiv** certifiering att förnya med den här metoden:
+## Du måste ha följande **active**-certifiering för att kunna förnya med den här metoden:
 
 Adobe [!DNL Commerce] Developer Professional
 
 ## Instruktioner för att förnya din certifiering:
 
-* **Steg 1**: Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}och sedan återgå till den här sidan
-* **Steg 2**: Granska testens mål och resurser
-* **Steg 3**: Ta och ta examen
+* **Steg 1**: Logga in på [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} och gå sedan tillbaka till den här sidan
+* **Steg 2**: Granska mål och resurser för provet
+* **Steg 3**: Ta och godkänn provet
 
 ## Gör dig redo
 
@@ -174,7 +174,7 @@ Adobe [!DNL Commerce] Developer Professional
 * Kostnad: KOSTNADSFRITT
 * Exam ID: AD5-E839 Adobe [!DNL Commerce] Developer Professional
 
-**Tillämpningsområde och mål:**
+**Omfång och mål:**
 
 **Avsnitt 1: Arbeta med administratör (7 %)**
 
@@ -198,7 +198,7 @@ Adobe [!DNL Commerce] Developer Professional
 * Beskriv cachelagringssystemet i Magento
 * Beskriv butiker, webbplatser och butiksvyer (grundläggande kunskaper)
 
-**Avsnitt 3: EAV/databas (17 %)**
+**Avsnitt 3: EAV/Database (17%)**
 
 * I ett scenario ändrar/lägger du till/tar bort attributuppsättningar och/eller attribut
 * Beskriv olika typer av attribut
@@ -215,7 +215,7 @@ Adobe [!DNL Commerce] Developer Professional
 * I ett scenario arbetar du med JavaScript-filer (grundläggande)
 * Beskriv hur kunddata används på frontend
 
-**Avsnitt 5: Kassa och försäljning (12 %)**
+**Avsnitt 5: Utcheckning och försäljning (12 %)**
 
 * Beskriv kundvagnskomponenter
 * Beskriv en kampanjregel för kundvagn
@@ -239,9 +239,9 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 **Avsnitt 1**
 
-* [Skapa en åtkomstkontrollistregel (ACL)](https://developer.adobe.com/commerce/php/tutorials/backend/create-access-control-list-rule){target="_blank"}
-* [Lägga till ett administratörsrutnät](https://developer.adobe.com/commerce/php/development/components/add-admin-grid/){target="_blank"}
-* [system.xml, referens](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-systemxml.html){target="_blank"}
+* [Skapa en åtkomstkontrollistregel ](https://developer.adobe.com/commerce/php/tutorials/backend/create-access-control-list-rule){target="_blank"}
+* [Lägg till ett administratörsrutnät](https://developer.adobe.com/commerce/php/development/components/add-admin-grid/){target="_blank"}
+* [system.xml-referens](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-systemxml.html){target="_blank"}
 
 **Avsnitt 2**
 
@@ -252,7 +252,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Kommandoradsverktyg](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html){target="_blank"}
 * [Konfiguration för beroendeinjektion](https://developer.adobe.com/commerce/php/development/build/dependency-injection-file/){target="_blank"}
 * [Skapa en modul](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/create-module.html){target="_blank"}
-* [Indexering](https://developer.adobe.com/commerce/php/development/components/indexing/){target="_blank"}
+* [Indexerar](https://developer.adobe.com/commerce/php/development/components/indexing/){target="_blank"}
 * [Översättningar](https://developer.adobe.com/commerce/frontend-core/guide/translations/){target="_blank"}
 * [Plugins](https://developer.adobe.com/commerce/php/development/components/plugins/){target="_blank"}
 
@@ -269,17 +269,17 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Visa modeller](https://developer.adobe.com/commerce/php/development/components/view-models/){target="_blank"}
 * [Layoutinstruktioner](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/){target="_blank"}
 * [Temastruktur](https://developer.adobe.com/commerce/frontend-core/guide/themes/structure/){target="_blank"}
-* [Anropa och initiera JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/init/){target="_blank"}
+* [Ring och initiera JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/init/){target="_blank"}
 * [Privat innehåll](https://developer.adobe.com/commerce/php/development/cache/page/private-content/){target="_blank"}
 
 **Avsnitt 5**
 
-* [Kundkonfiguration](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/point-of-purchase/cart/cart-configuration.html){target="_blank"}
-* [Skapa en kundvagnsprisregel](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html){target="_blank"}
+* [Kundvagnskonfiguration](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/point-of-purchase/cart/cart-configuration.html){target="_blank"}
+* [Skapa en kundprisregel](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html){target="_blank"}
 * [Lägg till anpassade fält som påverkar andra utcheckningsfält](https://developer.adobe.com/commerce/php/tutorials/frontend/custom-checkout/add-checkbox/){target="_blank"}
 * [Citattabell](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/tables/sales-flat-quote-table.html){target="_blank"}
 * [Anpassa listan över leveransmetoder](https://developer.adobe.com/commerce/php/tutorials/frontend/custom-checkout/add-shipping-methods/){target="_blank"}
-* [Inställningar för momskonfiguration](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-settings-general.html){target="_blank"}
+* [Skattekonfigurationsinställningar](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-settings-general.html){target="_blank"}
 
 **Avsnitt 6**
 
@@ -290,11 +290,11 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 ## Förnya din certifiering
 
-Förnya Adobe [!DNL Commerce] Certifiering för utvecklare:
+Så här förnyar du din Adobe [!DNL Commerce] Developer Professional-certifiering:
 
-Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} först. Klicka sedan på Adobe för att förnya certifieringen [!DNL Commerce] Developer Professional Renewal Exam (AD5-E839) länk nedan.
+Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} först. Klicka på länken [!DNL Commerce] Developer Professional Renewal Exam (AD5-E839) nedan för att förnya din certifiering.
 
-[!BADGE Ta Adobe [!DNL Commerce] Prov på förnyelse av utvecklare Professional (AD5-E839)]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E839 newtab=true"}
+[!BADGE Ta förnyelseprovet för utvecklare [!DNL Commerce] i Adobe (AD5-E839)]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E839 newtab=true"}
 
 >[!NOTE]
 >
@@ -304,15 +304,15 @@ Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för h
 
 +++Adobe [!DNL Commerce] Front-End Developer Professional
 
-## Du måste ha följande **aktiv** certifiering att förnya med den här metoden:
+## Du måste ha följande **active**-certifiering för att kunna förnya med den här metoden:
 
 Adobe [!DNL Commerce] Front-End Developer Professional
 
 ## Instruktioner för att förnya din certifiering:
 
-* **Steg 1**: Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}och sedan återgå till den här sidan
-* **Steg 2**: Granska testens mål och resurser
-* **Steg 3**: Ta och ta examen
+* **Steg 1**: Logga in på [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} och gå sedan tillbaka till den här sidan
+* **Steg 2**: Granska mål och resurser för provet
+* **Steg 3**: Ta och godkänn provet
 
 ## Gör dig redo
 
@@ -324,17 +324,17 @@ Adobe [!DNL Commerce] Front-End Developer Professional
 * Leverans: On-demand/icke-upphandling
 * Tillgängliga språk: engelska
 * Kostnad: KOSTNADSFRITT
-* Exam ID: AD5-E844 Adobe [!DNL Commerce] Förnyelse för frontutvecklare
+* Exam ID: AD5-E844 Adobe [!DNL Commerce] Förnyelse av frontendutvecklare Professional
 
-**Tillämpningsområde och mål:**
+**Omfång och mål:**
 
 **Avsnitt 1: Temahantering (temahierarki, bildkonfiguration, översättningar) (14 %)**
 
-* Beskriv Adobe [!DNL Commerce] temamappstruktur
+* Beskriv temamappstrukturen för Adobe [!DNL Commerce]
 * Uppvisa förmåga att skapa nya eller utöka befintliga teman
 * Uppvisa förmåga att lägga till anpassade översättningsfraser
 
-**Avsnitt 2: XML och mallar för layout (30 %)**
+**Avsnitt 2: Layout-XML och mallar (30 %)**
 
 * Uppvisa förmåga att arbeta med grundläggande XML-instruktioner för layout
 * Uppvisa förmåga att använda befintliga sidlayouter
@@ -389,14 +389,14 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 * [referenceBlock och referenceContainer](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/#referenceblock-and-referencecontainer)
 * [Layoutinstruktioner](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/)
-* [Åsidosätta en layout](https://developer.adobe.com/commerce/frontend-core/guide/layouts/override/)
+* [Åsidosätt en layout](https://developer.adobe.com/commerce/frontend-core/guide/layouts/override/)
 * [argument](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/#argument)
 * [Skapa en ny layout](https://developer.adobe.com/commerce/frontend-core/guide/layouts/create/)
 * [Åsidosätta en layout](https://developer.adobe.com/commerce/frontend-core/guide/layouts/override/#how-to-override-a-layout)
 * [Genomgång av mallanpassning](https://developer.adobe.com/commerce/frontend-core/guide/templates/walkthrough/)
 * [magento2/app/design/front/Magento/luma/Magento_LayeredNavigation/templates/layer/](https://github.com/magento/magento2/tree/2.4.6/app/design/frontend/Magento/luma/Magento_LayeredNavigation/templates/layer)
-* [Arv av teman](https://developer.adobe.com/commerce/frontend-core/guide/themes/inheritance/)
-* [XSS (Cross-site scripting)](https://developer.adobe.com/commerce/php/development/security/cross-site-scripting/)
+* [Temarv](https://developer.adobe.com/commerce/frontend-core/guide/themes/inheritance/)
+* [Serveröverskridande skriptning (XSS)](https://developer.adobe.com/commerce/php/development/security/cross-site-scripting/)
 
 **Avsnitt 3**
 
@@ -408,20 +408,20 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 **Avsnitt 4**
 
-* [Anropa och initiera JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/init/)
-* [mixiner](https://developer.adobe.com/commerce/frontend-core/javascript/requirejs/#shim)
+* [Ring och initiera JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/init/)
+* [mixins](https://developer.adobe.com/commerce/frontend-core/javascript/requirejs/#shim)
 * [Blandat omfång](https://developer.adobe.com/commerce/frontend-core/javascript/mixins/#mixin-scope)
-* [Temaststrängar](https://developer.adobe.com/commerce/frontend-core/guide/translations/theory/)
+* [Temastrar](https://developer.adobe.com/commerce/frontend-core/guide/translations/theory/)
 * [Bindningskarta](https://developer.adobe.com/commerce/frontend-core/ui-components/concepts/binding-syntax/#binding-map)
 * [Initiera dragspelswidgeten](https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/accordion/#initialize-the-accordion-widget)
 
 ## Förnya din certifiering
 
-Förnya Adobe [!DNL Commerce] Certifiering för utvecklare:
+Så här förnyar du din [!DNL Commerce]-certifiering för frontutvecklare på Adobe:
 
-Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} först. Klicka sedan på Adobe för att förnya certifieringen [!DNL Commerce] Front-End Developer Professional Renewal Exam (AD5-E844) länk nedan.
+Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} först. Klicka sedan på länken [!DNL Commerce] Front-End Developer Professional Renewal Exam (AD5-E844) nedan för att förnya din certifiering.
 
-[!BADGE Ta Adobe [!DNL Commerce] Front-End Developer Professional Renewal Exam (AD5-E844)]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E844 newtab=true"}
+[!BADGE Ta [!DNL Commerce] Förnyelseprovet för frontutvecklare (AD5-E844) på Adobe]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E844 newtab=true"}
 
 >[!NOTE]
 >
@@ -429,30 +429,30 @@ Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för h
 
 +++
 
->[!TAB Expert och master]
+>[!TAB Expert och mallsida]
 
-## Du måste ha minst ett av följande **aktiv** Certifieringar att förnya:
+## Du måste ha minst ett av följande **aktiva**-certifikat för att kunna förnya:
 
-* [!DNL Adobe Commerce] Affärsexpert
+* [!DNL Adobe Commerce] Business Practitioner Expert
 * [!DNL Adobe Commerce] Developer Expert
 * [!DNL Adobe Commerce] Architect Master
 * [!DNL Adobe Commerce] Front End Developer Expert
 
-## Instruktioner för att förnya [!DNL Adobe Commerce] certifiering
+## Instruktioner för att förnya din [!DNL Adobe Commerce]-certifiering
 
-Välj **tre verksamheter** slutföra och genomföra de kursbedömningar som är kopplade till varje kurs.
+Välj **tre aktiviteter** om du vill slutföra och genomföra kursutvärderingar som är kopplade till varje aktivitet.
 
-* **Steg 1:** Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}och sedan återgå till den här sidan
+* **Steg 1:** Logga in på [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} och gå sedan tillbaka till den här sidan
 * **Steg 2:** Studera kurserna i Experience League
 * **Steg 3:** Välj bland alternativen nedan för att slutföra förnyelsen.
 
   **Alternativ A:**
-Välj **tre kurser** för att slutföra och genomföra varje kursbedömning med en poäng på 80 procent eller högre. Kursomdömen är kostnadsfria, on-demand, icke-upphandlade och öppna böcker. Du kan upprepa kurserna tills du har klarat utvärderingen till 80 %.
+Välj **tre kurser** för att slutföra och genomföra varje kursbedömning med en poäng på 80 % eller högre. Kursomdömen är kostnadsfria, on-demand, icke-upphandlade och öppna böcker. Du kan upprepa kurserna tills du har klarat utvärderingen till 80 %.
 
   **Alternativ B:**
-Först väljer du **två kurser** för att slutföra och genomföra varje kursbedömning med en poäng på 80 procent eller högre. Kursomdömen är kostnadsfria, on-demand, icke-upphandlade och öppna böcker. Du kan upprepa kurserna tills du har klarat utvärderingen till 80 %.
+Välj först **två kurser** för att slutföra och genomföra varje kursutvärdering med en poängsättning på 80 % eller mer. Kursomdömen är kostnadsfria, on-demand, icke-upphandlade och öppna böcker. Du kan upprepa kurserna tills du har klarat utvärderingen till 80 %.
 
-  Andra, **skicka ett kundreferensformulär** validera ditt fortsatta arbete som en Adobe-certifierad person som leder, hanterar och/eller deltar i ett Adobe Experience Cloud-implementeringsprojekt. Det här formuläret bekräftar att du har deltagit i minst 100 timmars dokumenterat projektengagemang under 2-årsförnyelsen av certifieringen.
+  Därefter **skickar du in ett kundreferensformulär** som validerar ditt fortsatta arbete som en Adobe-certifierad enskild ledare, hanterar och/eller deltar i ett Adobe Experience Cloud-implementeringsprojekt. Det här formuläret bekräftar att du har deltagit i minst 100 timmars dokumenterat projektengagemang under 2-årsförnyelsen av certifieringen.
 
   [Kundreferensformulär för [!DNL Adobe Commerce]](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA700){target="_blank"}
 
@@ -460,22 +460,22 @@ Först väljer du **två kurser** för att slutföra och genomföra varje kursbe
 
 >[!NOTE]
 >
->Om du håller flera [!DNL Adobe Commerce] Expert- och Master-certifieringar, uppfyller förnyelsekraven för endast en certifiering och resten förnyas automatiskt.
+>Om du har flera [!DNL Adobe Commerce] Expert- och Master-certifieringar kan du slutföra förnyelsekraven för endast en certifiering. Resten förnyas automatiskt.
 
 ### Kurser och kursbedömningar för expert och master:
 
 | Kurser för expert och master | Kursutvärdering |
 | ------- | ------- |
 | [Adobe [!DNL Commerce] E-Commerce Trends](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ecommerce-trends.html){target="_blank"} | [ADR-EA703](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA703){target="_blank"} |
-| [Adobe [!DNL Commerce] Personalisering](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/personalization.html){target="_blank"} | [ADR-EA704](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA704){target="_blank"} |
+| [Adobe [!DNL Commerce] Personalization](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/personalization.html){target="_blank"} | [ADR-EA704](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA704){target="_blank"} |
 | [Adobe [!DNL Commerce] AI-automatisering](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ai-and-automation.html){target="_blank"} | [ADR-EA705](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA705){target="_blank"} |
 | [[!DNL Commerce]: Dataintegrering till Experience Platform och bortom](https://video.tv.adobe.com/v/3413334/){target="_blank"} | [ADR-EA709](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA709){target="_blank"} |
-| [[!DNL Commerce]: Enkelt Commerce på Adobe [!DNL Commerce]](https://video.tv.adobe.com/v/3413335/){target="_blank"} | [ADR-EA710](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA710){target="_blank"} |
+| [[!DNL Commerce]: Sammansättningsbar Commerce på Adobe [!DNL Commerce]](https://video.tv.adobe.com/v/3413335/){target="_blank"} | [ADR-EA710](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA710){target="_blank"} |
 
 >[!ENDTABS]
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.

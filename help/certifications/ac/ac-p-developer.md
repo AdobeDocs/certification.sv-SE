@@ -1,6 +1,6 @@
 ---
 title: Certifiering för utvecklare
-description: Så här blir du certifierad Adobe Developer-proffs i Adobe [!DNL Commerce].
+description: Lär dig hur du blir certifierad Adobe Developer Professional i Adobe [!DNL Commerce].
 solution: Commerce
 product: Magento
 role: Developer
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >Nu finns kostnadsfria resurser på begäran som hjälper dig att förbereda dig för ditt prov:
 >
->* **Kurser:** Ta [Adobe Commerce Developer Professional Course](https://app.rockinfo.com/courses/92) som innehåller förklaringar av viktiga begrepp, praktiska demonstrationer och kunskapsbaserade kontroller. Om du precis har börjat, [Adobe Commerce Foundations Course](https://app.rockinfo.com/courses/148) ger en grund för de kunskaper du kan bygga vidare på i din certifieringsresa.
+>* **Kurser:** Ta [Adobe Commerce Developer Professional Course](https://app.rockinfo.com/courses/92) som innehåller förklaringar till viktiga begrepp, praktiska demonstrationer och kunskapsbaserade kontroller. Om du just har börjat erbjuder [Adobe Commerce Foundations Course](https://app.rockinfo.com/courses/148) en grund för de kunskaper du kan bygga vidare på under din certifieringsresa.
 >
->* **Handbok för testversioner:** The [Handbok för testversioner](https://app.rockinfo.com/courses/136) ger en skräddarsydd väg genom testprocessen, inklusive det material du behöver för att lyckas med provet.
+>* **Handbok för testversioner:** I [handboken för testversioner](https://app.rockinfo.com/courses/136) finns en skräddarsydd sökväg som du kan använda till att förbereda proven, inklusive det material du behöver för att kunna genomföra provet.
 >
 >Om du uppmanas att logga in använder du din Adobe ID.
 
@@ -60,7 +60,7 @@ ht-degree: 0%
 
 ### Minimal upplevelse {#minimum-experience}
 
-Du borde känna dig trygg när du arbetar i Adobe [!DNL Commerce] och ha en grundläggande förståelse för Adobe [!DNL Commerce] administratörsutveckling, arkitektur, EAV/database, layout/gränssnitt, utcheckning och försäljning samt katalog.
+Du bör känna dig bekväm med att arbeta i Adobe [!DNL Commerce] och ha en grundläggande förståelse för Adobe [!DNL Commerce]-administratörsutveckling, arkitektur, EAV/-databas, layout/gränssnitt, utcheckning och försäljning samt katalog.
 
 Dessutom bör du känna till följande tekniker och miljöer:
 
@@ -84,7 +84,7 @@ Dessutom bör du känna till följande tekniker och miljöer:
 
 **Avsnitt 2: Arkitektur (29 %)**
 
-* Beskriv [!DNL Magento] filstruktur
+* Beskriv filstrukturen [!DNL Magento]
 * Beskriv [!DNL Magento] CLI-kommandon
 * Beskriv kronfunktioner
 * Beskriv användningen av di.xml för ett scenario
@@ -95,10 +95,10 @@ Dessutom bör du känna till följande tekniker och miljöer:
 * Beskriv plugin-program, inställningar, händelseobservatörer och spärrar
 * Beskriv anpassade modulflöden
 * Beskriv URL-omskrivningar
-* Beskriv [!DNL Magento] cachningssystem
+* Beskriv cachelagringssystemet [!DNL Magento]
 * Beskriv butiker, webbplatser och butiksvyer (grundläggande kunskaper)
 
-**Avsnitt 3: EAV/databas (13 %)**
+**Avsnitt 3: EAV/database (13%)**
 
 * I ett scenario ändrar/lägger du till/tar bort attributuppsättningar och/eller attribut
 * Beskriv olika typer av attribut
@@ -113,7 +113,7 @@ Dessutom bör du känna till följande tekniker och miljöer:
 * Uppvisa förmåga att hantera index och anpassa prisutdata
 * Förklara hur lager påverkas av flera källor (programnivå)
 
-**Avsnitt 5: Kassa och försäljning (8 %)**
+**Avsnitt 5: Utcheckning och försäljning (8 %)**
 
 * Beskriv kundvagnskomponenter
 * Beskriv en kampanjregel för kundvagn
@@ -122,7 +122,7 @@ Dessutom bör du känna till följande tekniker och miljöer:
 * Ställ in betalnings- och leveransmetoder efter ett scenario
 * Konfigurera momsregler, valutor, kundvagn och/eller kassa för ett scenario
 
-**Avsnitt 6: Katalog(8 %)**
+**Avsnitt 6: Katalog(8%)**
 
 * Identifiera grunderna för kategorihantering och produkthantering
 * Beskriv produkttyper
@@ -131,15 +131,15 @@ Dessutom bör du känna till följande tekniker och miljöer:
 
 **Avsnitt 7: Adobe [!DNL Commerce] Molnarkitektur (12 %)**
 
-* Definiera Adobe [!DNL Commerce] arbetsflöde för arkitektur/miljö
+* Definiera arbetsflödet för arkitektur/miljö i Adobe [!DNL Commerce]
 * Beskriv filer, behörigheter och struktur i molnprojekt
-* Listtjänster som är tillgängliga i Adobe [!DNL Commerce] i molnet
+* Visa tjänster som är tillgängliga på Adobe [!DNL Commerce] i molnet
 * Beskriv hur du får åtkomst till olika typer av loggar
 * Beskriv hur du tillämpar korrigeringsfiler (identifiera vilken mapp du vill placera korrigeringsfiler i)
 * Beskriv hur man underhåller och uppgraderar ECE-verktyg
 * Identifiera när supporten ska kontaktas *Yaml-filer och -begränsningar (DIY vs supportärenden)
 
-**Avsnitt 8: Konfigurera/konfigurera Adobe [!DNL Commerce] Moln (4 %)**
+**Avsnitt 8: Konfigurera/konfigurera Adobe [!DNL Commerce] Cloud (4 %)**
 
 * Identifiera hur du konfigurerar/konfigurerar Adobe [!DNL Commerce] Cloud
 * Definiera grundläggande molnfelsökning (webbanvändarhierarki och variabler, konfigurationsprioritet)
@@ -148,10 +148,10 @@ Dessutom bör du känna till följande tekniker och miljöer:
 * Beskriv förgreningar med användargränssnittet
 * Identifiera funktioner i Adobe Commerce Cloud Plan
 
-**Avsnitt 9: [!DNL Commerce] CLI-verktyg i molnet (hanteringsdel) (6 %)**
+**Avsnitt 9: [!DNL Commerce] Molnbaserat CLI-verktyg (hanteringsdel) (6 %)**
 
-* Beskriv Adobe exklusiva funktioner [!DNL Commerce] CLI-verktyg i molnet (exklusiva CLI-funktioner: aktivera e-post, Rebase-miljöer, ögonblicksbild, db dump, lokal miljöinställning)
-* Beskriv förgreningar med Adobe [!DNL Commerce] CLI-verktyget i molnet
+* Beskriv exklusiva funktioner i CLI-verktyget för Adobe [!DNL Commerce] (exklusiva CLI-funktioner: aktivera e-post, Rebase-miljöer, snapshot, db dump, lokal miljökonfiguration)
+* Beskriv förgreningar med CLI-verktyget i Adobe [!DNL Commerce]
 * Identifiera sätt att ansluta till molntjänster? (My SQL, Redis, tunnel:info)
 
 <br>
@@ -160,7 +160,7 @@ Dessutom bör du känna till följande tekniker och miljöer:
 
 {{readiness}}
 
-[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e717-readiness-questionnaire-for-adobe-commerce-developer-professional/ad-q-e717-readiness-questionnaire-for-adobe-commerce-developer-professional){target="_blank"}
+[Ta enkäten om onlineberedskap](https://scorpion.caveon.com/launchpad/ad-q-e717-readiness-questionnaire-for-adobe-commerce-developer-professional/ad-q-e717-readiness-questionnaire-for-adobe-commerce-developer-professional){target="_blank"}
 
 <br>
 
@@ -182,7 +182,7 @@ Dessutom bör du känna till följande tekniker och miljöer:
 
 {{study-materials-intro}}
 
-**Gör ett övningsprov**
+**Testa**
 
 {{practice-test}}
 
@@ -204,11 +204,11 @@ Dessutom bör du känna till följande tekniker och miljöer:
 </span>
 </a>
 
-**Handbok för testversioner**
+**Handbok för provprogram**
 
 {{exam-prep-guide}}
 
-[Visa guiden Förbered prov](https://app.rockinfo.com/courses/136)
+[Visa guide för testversioner](https://app.rockinfo.com/courses/136)
 
 +++
 
@@ -263,6 +263,6 @@ Dessutom bör du känna till följande tekniker och miljöer:
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.

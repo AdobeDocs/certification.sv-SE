@@ -11,7 +11,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->Från och med den 1 augusti 2023 är schemaläggning av prov inte längre tillgängligt med PSI. Om du redan har schemalagt en tentamen med PSI måste du göra den före 1 augusti 2023. Om du har schemalagt en tentamen med PSI efter 1 augusti 2023, vänligen schemalägg om din tentamen så att den äger rum före detta datum. Om du inte kan eller inte är beredd att genomföra provet före 1 augusti 2023, skicka ett e-postmeddelande <certif@adobe.com> så att vi kan stödja dig när du överför din tentamen till Examity. Detta gäller även japanska språkprov.
+>Från och med den 1 augusti 2023 är schemaläggning av prov inte längre tillgängligt med PSI. Om du redan har schemalagt en tentamen med PSI måste du göra den före 1 augusti 2023. Om du har schemalagt en tentamen med PSI efter 1 augusti 2023, vänligen schemalägg om din tentamen så att den äger rum före detta datum. Om du inte kan eller inte är beredd att genomföra provet före 1 augusti 2023, skicka ett e-postmeddelande till <certif@adobe.com> så att vi kan ge dig stöd för att överföra ditt prov till Examity. Detta gäller även japanska språkprov.
 
 <!--divider-->
 
@@ -49,13 +49,13 @@ De här stegen tar dig igenom certifieringsprocessen från början till slut.
 
 >[!IMPORTANT]
 >
-> **Myndighets-ID krävs:** Du MÅSTE använda ett foto-ID som är utfärdat av en myndighet som din giltiga form av ID. Mjuka kopior eller digitala ID:n tillåts inte. <br><br> **Adobe ID-kontonamn:** Ditt Adobe ID-kontonamn MÅSTE matcha ditt namn på ditt myndighets-ID. Uppdatera ditt Adobe ID-kontonamn genom att skicka ett e-postmeddelande <certif@adobe.com>. Begär den här korrigeringen **72 timmar i förväg**. Om namnen inte överensstämmer vid tidpunkten för provet måste du registrera dig för en ny tentamen till en extra kostnad.
+> **Offentligt ID krävs:** Du MÅSTE använda ett foto-ID som din giltiga form av ID. Mjuka kopior eller digitala ID:n tillåts inte. <br><br> **Adobe ID-kontonamn:** Ditt Adobe ID-kontonamn MÅSTE matcha ditt namn på ditt myndighets-ID. Om du vill uppdatera ditt Adobe ID-kontonamn skickar du e-post <certif@adobe.com>. Begär den här korrigeringen **72 timmar i förväg**. Om namnen inte överensstämmer vid tidpunkten för provet måste du registrera dig för en ny tentamen till en extra kostnad.
 
 Du måste ha en Adobe ID för att kunna boka och ta prov. Om du inte har någon Adobe ID kan du skapa en [här](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
 
 Det är nödvändigt att ha en Adobe ID av tre skäl:
 
-* Du behöver en Adobe ID för att skapa och logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} konto. Här kan du se dina certifieringar, examinationshistorik, examinationsmoment och ytterligare information.
+* Du behöver en Adobe ID för att skapa och logga in på ditt [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}-konto. Här kan du se dina certifieringar, examinationshistorik, examinationsmoment och ytterligare information.
 * Du måste vara inloggad på Adobe Credential Management System för att kunna skapa och logga in på ditt Examity-konto. Det är där du ska planera, betala för och ta ditt test.
 * Du måste vara inloggad på Adobe Credential Management System för att kunna genomföra övningstester på Adobe Certification Exam Prep Portal.
 
@@ -69,7 +69,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 >[!NOTE]
 >
->Vissa länkar i det här avsnittet fungerar bara när du har loggat in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}. Logga in lite nu.
+>Vissa länkar i det här avsnittet fungerar bara när du har loggat in på [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. Logga in lite nu.
 
 <!--divider-->
 
@@ -89,9 +89,9 @@ Tänk på att du inte kommer att bli godkänd på certifieringstest om du godkä
 
 Så här gör du övningstestet:
 
-1. Logga först in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} med din Adobe ID.
+1. Logga först in på [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} med din Adobe ID.
 
-2. Gå sedan till [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} för att hitta ditt praktiktest.
+2. Gå sedan till [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} för att hitta ditt övningstest.
 
 <!--divider-->
 
@@ -99,9 +99,9 @@ Så här gör du övningstestet:
 
 >[!NOTE]
 >
->Vissa i det här avsnittet fungerar bara efter att du har loggat in i [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}. Logga in lite nu.
+>Vissa i det här avsnittet fungerar bara när du har loggat in på [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. Logga in lite nu.
 
-**Examinleverans**
+**Examleverans**
 
 Adobe använder en leverantör som heter Examity för att administrera schemalagda, bearbetade tentamina. Alla nya certifieringsprov behandlas. Förnyelseprov är on-demand och obearbetade.
 
@@ -109,19 +109,19 @@ Adobe använder en leverantör som heter Examity för att administrera schemalag
 
 Så här schemalägger, schemalägger du om eller avbryter provet:
 
-1. Logga först in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} med din Adobe ID.
+1. Logga först in på [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} med din Adobe ID.
 
-2. Gå sedan till [Underskriftsportal](https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?){target="_blank"} och följa instruktionerna på skärmen.
+2. Gå sedan till [Underlighetsportalen](https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?){target="_blank"} och följ instruktionerna som visas på skärmen.
 
-Annulleringar och omplanering måste initieras **48 timmar före** schemalagd provtid. Kandidaterna måste själva ändra den här avtalade tiden. Varken Adobe Support eller provleverantörer kan bearbeta begäranden om omläggning och annullering. För annulleringar under 48 timmar tas en avgift ut utöver examensavgiften.
+Annulleringar och omplanering måste initieras **48 timmar före** den schemalagda provperioden. Kandidaterna måste själva ändra den här avtalade tiden. Varken Adobe Support eller provleverantörer kan bearbeta begäranden om omläggning och annullering. För annulleringar under 48 timmar tas en avgift ut utöver examensavgiften.
 
-**Så här betalar du**
+**Betalning**
 
 Betala med kreditkort: När du schemalägger din tentamen uppmanas du att ange ditt kreditkort för betalning.
 
 Betala med verifikation: Om du vill köpa en provkupong går du till: Adobe Certification Voucher Center. Du kan använda verifikationskoden när du schemalägger provet. Se nedan för information om kupongrabatt.
 
-**Köpa en verifikation**
+**Köpa en voucher**
 
 Du kan betala för en tentamen med en verifikation. Om du vill köpa en provvoucher går du till [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
@@ -129,7 +129,7 @@ Du kan använda verifikationskoden när du schemalägger provet. Se nedan för i
 
 Alla sökande kan få rabatt på massinköp på minst 10 prov när de köper via Adobe Certification Voucher Center.
 
-Mer information om kuponger finns i [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/program/faq.html){target="_blank"}.
+Mer information om vouchers finns i [Vanliga frågor och svar](https://experienceleague.adobe.com/docs/certification/program/faq.html){target="_blank"}.
 
 **Rabatter**
 
@@ -151,7 +151,7 @@ Obs! Det går inte att kombinera massrabatter med andra erbjudanden eller rabatt
 
 ## Före och efter {#before-and-after}
 
-**Före examensdagen**
+**Före examensdag**
 
 * Kör systemtestet.
 * Kontrollera att Zoom är installerat på datorn. Zoomningen måste ha behörighet att använda kameran och mikrofonen, att dela skärmen och att låta processorn ta över datorn tillfälligt.
@@ -160,9 +160,9 @@ Obs! Det går inte att kombinera massrabatter med andra erbjudanden eller rabatt
 
 >[!IMPORTANT]
 >
-> **Myndighets-ID krävs:** Du MÅSTE använda ett foto-ID som är utfärdat av en myndighet som din giltiga form av ID. Mjuka kopior eller digitala ID:n tillåts inte. <br><br> **Adobe ID-kontonamn:** Ditt Adobe ID-kontonamn MÅSTE matcha ditt namn på ditt myndighets-ID. Uppdatera ditt Adobe ID-kontonamn genom att skicka ett e-postmeddelande <certif@adobe.com>. Begär den här korrigeringen **72 timmar i förväg**. Om namnen inte överensstämmer vid tidpunkten för provet måste du registrera dig för en ny tentamen till en extra kostnad.
+> **Offentligt ID krävs:** Du MÅSTE använda ett foto-ID som din giltiga form av ID. Mjuka kopior eller digitala ID:n tillåts inte. <br><br> **Adobe ID-kontonamn:** Ditt Adobe ID-kontonamn MÅSTE matcha ditt namn på ditt myndighets-ID. Om du vill uppdatera ditt Adobe ID-kontonamn skickar du e-post <certif@adobe.com>. Begär den här korrigeringen **72 timmar i förväg**. Om namnen inte överensstämmer vid tidpunkten för provet måste du registrera dig för en ny tentamen till en extra kostnad.
 
-**Tv-dagen**
+**Provdag**
 
 * Var tidig! Din leverantör kommer att starta sessionen precis när den avtalade tiden börjar, så ge dig tid att logga in och titta närmare innan du avtalar.
 * Förbered skrivbordsutrymmet. Ta bort eventuella extra bildskärmar, elektronik, böcker, anteckningsböcker, papper osv. från datorn.
@@ -181,15 +181,15 @@ Obs! Det går inte att kombinera massrabatter med andra erbjudanden eller rabatt
 
 Adobe använder sig av Examity för att administrera proffsiga examina online. I portalen för Exempel kan du:
 
-* **Schemalägg, schemalägg om eller avbryt provet.** Observera att du måste avbryta och göra om schemaläggningen före 48 timmar före det schemalagda besöket. Kandidaterna måste själva ändra den här avtalade tiden.
+* **Schemalägg, schemalägg om eller avbryt provet.** Observera att du måste avbryta och schemalägga om innan 48 timmar har gått innan den schemalagda provperioden. Kandidaterna måste själva ändra den här avtalade tiden.
 
-* **Betala för provet.** Betala för din certifieringstest med hjälp av verifikation eller kreditkort i Underportalen. Om du vill köpa en provvoucher går du till: [Voucher-system för Adobe-certifiering](https://market.xvoucher.com/adobe/global){target="_blank"}. Du kan använda verifikationskoden när du schemalägger provet. Om du har en rabatt gäller den i kassan.
+* **Betala för provet.** Betala för din certifieringstest antingen med verifikation eller kreditkort i granskningsporten. Om du vill köpa en provvoucher går du till: [Adobe Certification Voucher System](https://market.xvoucher.com/adobe/global){target="_blank"}. Du kan använda verifikationskoden när du schemalägger provet. Om du har en rabatt gäller den i kassan.
 
-* **Ta ditt prov.**
+* **Ta din tentamen.**
 
 >[!NOTE]
 >
->Du måste logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} innan du klickar på knappen Undersök nedan.
+>Du måste logga in på [Adobe-systemet för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} innan du klickar på knappen Undersök nedan.
 
 <!--divider-->
 
@@ -201,15 +201,15 @@ Ditt märke är ett bevis på din kompetens med Adobe Experience Cloud produkter
 
 **För befintliga användare finns det två sätt att acceptera ditt Adobe-certifieringsmärke:**
 
-* **Steg 1:** Logga in på [Tillförlitligt](https://www.credly.com/users/sign_in){target="_blank"}. (Du måste använda samma e-postadress som du använde för att hämta dina Adobe-uppgifter, annars visas inte ditt emblem.)
-* **Steg 2:** Eller gå till e-postmeddelandet som du fick från Credly för att godkänna märket.
-* **Steg 3:** Godkänn och dela din bricka.
+* **Steg 1:** Logga in på [Medarbetare](https://www.credly.com/users/sign_in){target="_blank"}. (Du måste använda samma e-postadress som du använde för att hämta dina Adobe-uppgifter, annars visas inte ditt emblem.)
+* **Steg 2:** Eller gå till det e-postmeddelande du fick från Meddela om du godkänner märket.
+* **Steg 3:** Acceptera och dela ditt emblem.
 
-**För nya användare, följ instruktionerna nedan för att godkänna ditt Adobe-certifieringsmärke:**
+**För nya användare följer du instruktionerna nedan för att godkänna ditt Adobe-certifieringsmärke:**
 
-* **Steg 1:** Gå till det e-postmeddelande du fått från Medarbetare för att godkänna märket.
+* **Steg 1:** Gå till e-postmeddelandet som du fick från Medarbetare för att acceptera märket.
 * **Steg 2:** Skapa ett konto. (Du måste använda samma e-postadress som du använde för att hämta dina Adobe-uppgifter, annars visas inte ditt emblem.)
-* **Steg 3:** Godkänn och dela din bricka.
+* **Steg 3:** Acceptera och dela ditt emblem.
 
 [Läs mer](https://support.credly.com/hc/en-us/articles/360021222231-How-to-accept-and-manage-your-digital-badge){target="_blank"}
 
@@ -217,7 +217,7 @@ Ditt märke är ett bevis på din kompetens med Adobe Experience Cloud produkter
 
 ## Förnya din certifiering {#renewing-intro}
 
-Certifieringarna upphör att gälla efter två år. Om du vill behålla din certifiering måste du förnya den innan den upphör att gälla. Besök [Förnya din certifiering](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"} sida för mer information.
+Certifieringarna upphör att gälla efter två år. Om du vill behålla din certifiering måste du förnya den innan den upphör att gälla. Mer information finns på sidan [Förnya din certifiering](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"}.
 
 <!--divider-->
 

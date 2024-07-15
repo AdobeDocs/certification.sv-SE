@@ -1,6 +1,6 @@
 ---
 title: Certifiering av utvecklarexpert
-description: Lär dig hur du blir certifierad Adobe [!DNL Experience Manager Sites] Expert.
+description: Lär dig hur du blir en certifierad Adobe [!DNL Experience Manager Sites] expert.
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Developer
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/125) ger dig en skräddarsydd väg genom din förberedande process för certifieringstester, inklusive det material du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
+>**Nya studieresurser tillgängliga:** I [handboken för testversioner](https://app.rockinfo.com/courses/125) finns en skräddarsydd väg genom din testprocess för certifiering, inklusive det material du behöver för att lyckas med certifieringen. _Använd din Adobe ID om du uppmanas att logga in på guiden för testversioner._
 
 ## Provbeskrivning {#exam-description}
 
@@ -80,7 +80,7 @@ Dessutom bör du känna till följande tekniker och miljöer:
 * Identifiera stegen för att skapa och hantera AEM Dispatcher-konfigurationer
 * Bestäm de rätta stegen för att konfigurera multi-tenancy
 * Förklara hur du skapar och hanterar OSGi-konfigurationer
-* I ett scenario måste du fastställa rätt metod för att skapa och hantera anpassade ekningsindex
+* I ett scenario måste du fastställa rätt metod för att skapa och hantera anpassade Oak-index
 * Kontrollera hur du konfigurerar integreringen mellan OTB SAML och LDAP
 
 **Avsnitt 2: AEM (44 %)**
@@ -92,7 +92,7 @@ Dessutom bör du känna till följande tekniker och miljöer:
 * I ett scenario ska du fastställa metoden för tredjepartsintegrering
 * Fastställa metoden för att implementera en headless- eller hybridimplementering
 
-**Avsnitt 3: Skapa och driftsätta (14 %)**
+**Avsnitt 3: Skapa och distribuera (14 %)**
 
 * Identifiera stegen för att konfigurera och underhålla hantering av användarberoenden för front-end och back-end
 * Identifiera rätt arketyp när du skapar projekt
@@ -110,7 +110,7 @@ Dessutom bör du känna till följande tekniker och miljöer:
 
 {{readiness}}
 
-[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-9ts38u/ad-q-e116-readiness-questionnaire-for-adobe-aem-developer-expert-exam){target="_blank"}
+[Ta enkäten om onlineberedskap](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-9ts38u/ad-q-e116-readiness-questionnaire-for-adobe-aem-developer-expert-exam){target="_blank"}
 
 <br>
 
@@ -132,15 +132,15 @@ Dessutom bör du känna till följande tekniker och miljöer:
 
 {{study-materials-intro}}
 
-**Gör ett övningsprov**
+**Testa**
 
 {{practice-test}}
 
-**Handbok för testversioner**
+**Handbok för provprogram**
 
 {{exam-prep-guide}}
 
-[Visa guiden Förbered prov](https://app.rockinfo.com/courses/125)
+[Visa guide för testversioner](https://app.rockinfo.com/courses/125)
 
 +++
 
@@ -206,6 +206,6 @@ Dessutom bör du känna till följande tekniker och miljöer:
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.

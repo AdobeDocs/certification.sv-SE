@@ -1,6 +1,6 @@
 ---
 title: Yrkescertifiering för Business Practizer
-description: Lär dig hur du blir certifierad [!DNL Adobe Target] Yrkesverksamma inom affärsverksamhet.
+description: Lär dig hur du blir certifierad [!DNL Adobe Target] Business Practitioner Professional.
 solution: Target
 product: Target
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Certifieringsresa för [!DNL Adobe Target] Yrkesverksamma inom affärsverksamhet
+# Certifieringsresa för [!DNL Adobe Target] Business Practitioner Professional
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/235) ger dig en skräddarsydd väg genom din förberedande process för certifieringstester, inklusive det material du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
+>**Nya studieresurser tillgängliga:** I [handboken för testversioner](https://app.rockinfo.com/courses/235) finns en skräddarsydd väg genom din testprocess för certifiering, inklusive det material du behöver för att lyckas med certifieringen. _Använd din Adobe ID om du uppmanas att logga in på guiden för testversioner._
 
 ## Provbeskrivning {#exam-description}
 
@@ -56,7 +56,7 @@ De sökande som ska genomgå certifieringen är bland annat medlemmar i följand
 Du borde ha:
 
 * 0-12 månaders erfarenhet av optimeringsplattformar, inklusive [!DNL Adobe Target]
-* Tillsynsfull praktisk upplevelse med [!DNL Adobe Target]
+* Övervakad praktisk upplevelse med [!DNL Adobe Target]
 * 0-12 månaders erfarenhet som leder/bidrar till optimeringsprogram
 * Möjlighet att identifiera grundläggande administrativa uppgifter för Target/Adobe Marketing Cloud (inställningar, användarroller och behörigheter, inställningar)
 * En grundläggande kunskap om trestegsarbetsflödet (upplevelser, målgruppsanpassning, mål och inställningar, inklusive alla rapportkällor)
@@ -96,10 +96,10 @@ Du borde ha:
 * Beskriv förfaranden för att genomföra verksamhets-QA
 * Beskriv procedurer för att hantera aktiviteter och målgrupper inom Target
 
-**Avsnitt 3: Analys och rapportering (16 %)**
+**Avsnitt 3: Analysera och rapportera (16 %)**
 
 * Beskriv inställningar för att hjälpa dig att ange elementen som visas i en rapport
-* Beskriv skillnaden i [!DNL Adobe Target] Beräkna samplingsstorlek mellan planering och validering
+* Beskriv skillnaden i inställningarna för beräkningen av provstorlek för [!DNL Adobe Target] mellan planering och validering
 * Beskriv vanliga problem i samband med A/B-testning
 * Identifiera hur sammanfattningsrapporter från Automated Personalization skiljer sig från andra rapporter
 * Beskriv funktionerna i Experience Performance-rapporter (MVT)
@@ -131,15 +131,15 @@ Du borde ha:
 
 {{study-materials-intro}}
 
-**Gör ett övningsprov**
+**Testa**
 
 {{practice-test}}
 
-**Handbok för testversioner**
+**Handbok för provprogram**
 
 {{exam-prep-guide}}
 
-[Visa guiden Förbered prov](https://app.rockinfo.com/courses/235)
+[Visa guide för testversioner](https://app.rockinfo.com/courses/235)
 
 <br>
 
@@ -196,6 +196,6 @@ Du borde ha:
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.

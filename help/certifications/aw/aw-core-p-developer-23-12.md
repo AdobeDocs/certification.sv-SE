@@ -21,11 +21,11 @@ ht-degree: 0%
 >
 >Nu finns kostnadsfria resurser på begäran som hjälper dig att förbereda dig för ditt prov:
 >
->* **Ny kurs tillgänglig:** The [Adobe Workfront Core Developer - Professionell kurs](https://app.rockinfo.com/courses/231) innehåller förklaringar av viktiga begrepp, praktiska demonstrationer och kunskapsundersökningar.
+>* **Ny kurs tillgänglig:** [Adobe Workfront Core Developer - Professional ](https://app.rockinfo.com/courses/231) innehåller förklaringar av viktiga begrepp, praktiska demonstrationer och kunskapsbaserade kontroller.
 >
->* **Handbok för testversioner:** The [Handbok för testversioner](https://app.rockinfo.com/courses/238) ger en skräddarsydd väg genom testprocessen, inklusive det material du behöver för att lyckas med provet.
+>* **Handbok för testversioner:** I [handboken för testversioner](https://app.rockinfo.com/courses/238) finns en skräddarsydd sökväg som du kan använda till att förbereda proven, inklusive det material du behöver för att kunna genomföra provet.
 >
->_Om du uppmanas att logga in använder du din Adobe ID._
+>_Använd din Adobe ID om du uppmanas att logga in._
 
 ## Provbeskrivning {#exam-description}
 
@@ -61,16 +61,16 @@ ht-degree: 0%
 
 ### Minimal upplevelse {#minimum-experience}
 
-Denna tentamen kräver inga kunskaper om kodning/programmering, men den kräver minst 3-6 månaders praktisk erfarenhet av att använda Adobe [!DNL Workfront]
+Det här provet kräver ingen kunskap om kodning/programmering, men det kräver minst 3-6 månaders praktisk erfarenhet av att använda Adobe [!DNL Workfront]
 
 Kvalificerade sökande ska också ha
 
-* Upplevelse med Adobe [!DNL Workfront] funktionalitet och anslutningsmöjligheter genom intag, godkännande, planering, utförande och rapportering
-* Detaljerad förståelse för Adobe [!DNL Workfront] objekttyper, inklusive anpassade formulär och arbetsflöden för godkännande, mallar, varaktighet, arbetsinsats/planerade timmar
-* Detaljerad förståelse för Adobe [!DNL Workfront] Inställning, inklusive åtkomstnivåer, layoutmallar, projektinställningar och andra metoder för att göra slutanvändardesignen enkel
+* Upplev funktionaliteten och anslutningsmöjligheterna i Adobe [!DNL Workfront] genom intag, godkännande, planering, utförande och rapportering
+* Detaljerad förståelse för objekttyperna Adobe [!DNL Workfront], inklusive anpassade formulär och arbetsflöden för godkännande, mallar, varaktighet, arbetsinsats/planerade timmar
+* Detaljerad förståelse för inställningarna för Adobe [!DNL Workfront], inklusive åtkomstnivåer, layoutmallar, projektinställningar och andra metoder för att uppnå enkelhet i slutanvändardesignen
 * Förståelse och erfarenhet av processmappning
-* Förståelse för olika Adobe [!DNL Workfront] persona och engagera i support
-* Förtrogenhet med inbyggda kontakter och andra Adobe [!DNL Workfront] produkter och tjänster
+* Förståelse av olika Adobe [!DNL Workfront]-profiler och hur man engagerar sig i stödet
+* Förtrogenhet med inbyggda anslutningar och andra produkter och tjänster för Adobe [!DNL Workfront]
 * Projekthantering, bl.a. flexibel hantering och vattenfall samt resurshanteringssystem
 
 <br>
@@ -79,7 +79,7 @@ Kvalificerade sökande ska också ha
 
 {{exam-objectives}}
 
-**Avsnitt 1: Strategi och införande (23 %)**
+**Avsnitt 1: Strategi och deltagande (23 %)**
 
 * Använd Portfolio och program
 * Använd begärandeköer
@@ -99,13 +99,13 @@ Kvalificerade sökande ska också ha
 * Uppvisa hur man skapar och använder tidrapporter
 * Beskriv syfte och värde för anslutningar, plugin-program och tillägg
 
-**Avsnitt 4: Mätvärden och rapportering (16 %)**
+**Avsnitt 4: Mått och rapportering (16 %)**
 
 * Beskriv grundläggande begrepp för att skapa, skicka och anpassa rapporter
 * Förklara hur du bygger och anpassar kontrollpaneler
 * Uppvisa hur man konfigurerar funktionella vyer av rapporter
 
-**Section 5: Execution (24%)**
+**Avsnitt 5: Körning (24 %)**
 
 * Uppvisa hur man ställer in arbetsflöden för godkännande och korrektur
 * Identifiera syftet med att skapa ett problem för ett projekt
@@ -134,7 +134,7 @@ Kvalificerade sökande ska också ha
 
 {{study-materials-intro}}
 
-**Gör ett övningsprov**
+**Testa**
 
 {{practice-test}}
 
@@ -144,11 +144,11 @@ Kvalificerade sökande ska också ha
 
 [Ta Adobe Workfront Core Developer - Professionell kurs](https://app.rockinfo.com/courses/231)
 
-**Handbok för testversioner**
+**Handbok för provprogram**
 
 {{exam-prep-guide}}
 
-[Visa guiden Förbered prov](https://app.rockinfo.com/courses/238)
+[Visa guide för testversioner](https://app.rockinfo.com/courses/238)
 
 +++
 
@@ -203,6 +203,6 @@ Kvalificerade sökande ska också ha
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.

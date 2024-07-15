@@ -1,6 +1,6 @@
 ---
 title: Expertcertifiering
-description: Lär dig hur du blir certifierad Adobe [!DNL Experience Manager] expert.
+description: Lär dig hur du blir en certifierad Adobe [!DNL Experience Manager] expert.
 solution: Experience Manager, Experience Manager as a Cloud Service
 product: Experience Manager
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Certifieringsresa för Adobe [!DNL Experience Manager] as a Cloud Service Migration Expert
+# Certifieringsresa för as a Cloud Service migreringsexpert på Adobe [!DNL Experience Manager]
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/129) ger dig en skräddarsydd väg genom din förberedande process för certifieringstester, inklusive det material du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
+>**Nya studieresurser tillgängliga:** I [handboken för testversioner](https://app.rockinfo.com/courses/129) finns en skräddarsydd väg genom din testprocess för certifiering, inklusive det material du behöver för att lyckas med certifieringen. _Använd din Adobe ID om du uppmanas att logga in på guiden för testversioner._
 
 ## Provbeskrivning {#exam-description}
 
@@ -44,11 +44,11 @@ ht-degree: 0%
 
 * Utvecklare som har erfarenhet av Adobe [!DNL Experience Manager]
 * Utvecklare som har deltagit i minst en molnmigrering
-* Adobe [!DNL Experience Manager] Webbutvecklare
-* Adobe [!DNL Experience Manager] Sites Architect
-* Adobe [!DNL Experience Manager] Resursutvecklare
-* Adobe [!DNL Experience Manager] Forms-utvecklare
-* Utvecklare/DevOps/Leads/Architects som har deltagit i flera AEM-installationer med minst 2-3 års webbapplikationsutveckling med Adobe [!DNL Experience Manager]
+* Webbplatsutvecklare för Adobe [!DNL Experience Manager]
+* Webbplatsarkitekt för Adobe [!DNL Experience Manager]
+* Assets-utvecklare för Adobe [!DNL Experience Manager]
+* Forms-utvecklare för Adobe [!DNL Experience Manager]
+* Utvecklare/DevOps/Leads/Architects som har deltagit i flera AEM-distributioner med minst 2-3 års webbapplikationsutveckling med Adobe [!DNL Experience Manager]
 
 <br>
 
@@ -56,8 +56,8 @@ ht-degree: 0%
 
 Du borde ha:
 
-* En förståelse för de övergripande förändringarna i arkitekturen och funktionerna när man går över från AEM (självhanterade, AMS eller något tredjepartsmoln) till AEM as a Cloud Service.
-* 1-3 års webbapplikationsutveckling med Adobe [!DNL Experience Manager]
+* En förståelse för de övergripande förändringarna i arkitekturen och funktionerna när man går över från en AEM (självhanterade, AMS eller något tredjepartsmoln) till AEM as a Cloud Service.
+* 1-3 års webbprogramutveckling med Adobe [!DNL Experience Manager]
 * Handleder upplevelser med AEM Forms, Assets och Sites
 * Möjlighet att vägleda kunderna genom migreringsprocessen, ge råd och delta i alla faser i ett AEM projekt
 
@@ -65,7 +65,7 @@ Dessutom bör du känna till följande tekniker och miljöer:
 
 * Indexkonverteringsverktyg
 * Verktyg för arbetsflödeskonvertering
-* Dispatcher-verktyg
+* Dispatcher
 * CDN (Content Delivery Network)
 * Best Practices Analyzer
 * AEM modernisering
@@ -75,8 +75,8 @@ Dessutom bör du känna till följande tekniker och miljöer:
 * I/O-kommandoverktyg
 * New Relic
 * Lokalt moln-SDK
-* Utvecklings-, scen-, produktskapare-, publicerings- och förhandsgranskningstjänst
-* Installation av lokal Dispatcher med Docker
+* Utvecklings-, scen-, produktskapare-, Publish- och förhandsgranskningstjänst
+* Lokal installation av Dispatcher med Docker
 * Molnloggar testas i lokal miljö
 * Gränssnitt i molnkonsolen
 
@@ -86,7 +86,7 @@ Dessutom bör du känna till följande tekniker och miljöer:
 
 {{exam-objectives}}
 
-**Avsnitt 1: Bedömning (32 %)**
+**Avsnitt 1: Utvärdering (32 %)**
 
 * Använda BPA
 * Förbereda och uppskatta en migreringsplan
@@ -95,7 +95,7 @@ Dessutom bör du känna till följande tekniker och miljöer:
 * Ange arbetsflödeskrav
 * Förklara kraven för innehållsöverföring
 * Förklara implementeringen av tillgångar och dess inverkan
-* Identifiera Dispatcher-relaterade krav
+* Identifiera Dispatcher relaterade krav
 
 **Avsnitt 2: Design (16 %)**
 
@@ -103,9 +103,9 @@ Dessutom bör du känna till följande tekniker och miljöer:
 * Förbereda konfiguration för resurser och mikrotjänster
 * Förklara cachningsstrategi
 
-**Avsnitt 3: Driftsättning (16 %)**
+**Avsnitt 3: Distribution (16 %)**
 
-* Konfigurera Cloud Manager-pipelines och koppla till miljöerna
+* Konfigurera Cloud Manager-rörledningar och koppla dem till miljöerna
 * Etablera AEMaaCS-miljöer (dev, stage, prod - författare, publicera, förhandsgranska)
 * Hantera driftsättningsprocessen med Adobe IO CLI
 
@@ -122,7 +122,7 @@ Dessutom bör du känna till följande tekniker och miljöer:
 * Sammanfoga flera projekt till ett enda projekt som ska distribueras via Adobe
 * Hantera rapportskript för användar-/gruppbehörighet
 * Konfigurera lokala SDK:er
-* Uppdatera konfigurationer baserat på tillgängliga runmodes på AEM as a Cloud Service
+* Uppdatera konfigurationer baserade på runmodes som är tillgängliga i AEM as a Cloud Service
 
 <br>
 
@@ -144,15 +144,15 @@ Dessutom bör du känna till följande tekniker och miljöer:
 
 {{study-materials-intro}}
 
-**Gör ett övningsprov**
+**Testa**
 
 {{practice-test}}
 
-**Handbok för testversioner**
+**Handbok för provprogram**
 
 {{exam-prep-guide}}
 
-[Visa guiden Förbered prov](https://app.rockinfo.com/courses/129)
+[Visa guide för testversioner](https://app.rockinfo.com/courses/129)
 
 +++
 
@@ -207,6 +207,6 @@ Dessutom bör du känna till följande tekniker och miljöer:
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.

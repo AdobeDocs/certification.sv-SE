@@ -1,14 +1,14 @@
 ---
-title: Överordnad tekniska certifieringar
-description: Översikt över certifieringsalternativ för Överordnad användare
+title: Tekniska certifieringar
+description: Översikt över certifieringsalternativ för Master-användare
 source-git-commit: c830fda9da1da53807369d72dbfbacf9d17d4d13
 workflow-type: tm+mt
 source-wordcount: '38'
-ht-degree: 31%
+ht-degree: 18%
 
 ---
 
-# Överordnad tekniska certifieringar
+# Tekniska certifieringar
 
 
 **Analytics** 
@@ -35,7 +35,7 @@ ht-degree: 31%
 
 * [Arkitekt](/help/certifications/ame/ame-m-architect.md) <!--AD0-E556-->
 
-**Target**
+**Mål**
 
 * [Arkitekt](/help/certifications/at/at-m-architect.md) <!--AD0-E407-->
 
@@ -43,4 +43,3 @@ ht-degree: 31%
 >
 >* [Expertcertifieringar](expert.md)
 >* [Professionella tekniska certifieringar](professional.md)
-

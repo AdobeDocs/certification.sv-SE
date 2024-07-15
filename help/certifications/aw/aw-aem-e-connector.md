@@ -13,13 +13,13 @@ ht-degree: 0%
 
 ---
 
-# Certifieringsresa för Adobe [!DNL Workfront] for [!DNL Experience Manager] Förbättrad Connector Expert
+# Certifieringsresa för Adobe [!DNL Workfront] för [!DNL Experience Manager] Enhanced Connector Expert
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/244) ger dig en skräddarsydd väg genom din förberedande process för certifieringstester, inklusive det material du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
+>**Nya studieresurser tillgängliga:** I [handboken för testversioner](https://app.rockinfo.com/courses/244) finns en skräddarsydd väg genom din testprocess för certifiering, inklusive det material du behöver för att lyckas med certifieringen. _Använd din Adobe ID om du uppmanas att logga in på guiden för testversioner._
 
 ## Provbeskrivning {#exam-description}
 
@@ -60,7 +60,7 @@ Och du borde ha:
 
 * 1+ års CMS-upplevelse
 * 1+ års AEM
-* 1+ år [!DNL Workfront] upplevelse
+* 1+ års [!DNL Workfront] erfarenhet
 * 2+ års Java/J2EE-utvecklarupplevelse
 * Samarkitekturerad minst en AEM lösning
 * Arbeta direkt med kunderna för att skapa anpassade lösningar
@@ -75,10 +75,10 @@ Och du borde ha:
 
 **Avsnitt 1: Tekniska krav (25 %)**
 
-* Använd [!DNL Workfront] Anpassad Forms
+* Använd [!DNL Workfront] anpassade Forms
 * Visa dokumenthantering för ett scenario
 * Uppvisa kunskap om hur man marknadsför kod i olika miljöer
-* Ange hur värden skickas till ett scenario [!DNL Workfront] anpassade formulär
+* Identifiera hur värden skickas till [!DNL Workfront] anpassade formulär utifrån ett scenario
 * Felsöka kod på serversidan
 
 **Avsnitt 2: Konfiguration (26 %)**
@@ -91,12 +91,12 @@ Och du borde ha:
 **Avsnitt 3: Affärspraxis (21 %)**
 
 * Tolka klientbehov för att rekommendera lämpliga arbetsflödesstrategier
-* Uppvisa hur man konfigurerar [!DNL Workfront] arbetsflöden för godkännande och korrektur
+* Uppvisa hur du konfigurerar arbetsflöden för godkännande och korrektur av [!DNL Workfront]
 * I ett scenario bör du identifiera de bästa sätten att använda korrekturläsaren, inställningarna och markeringsfunktionerna
 * Uppvisa förståelse för att spåra slutprodukter som en del av kampanjhanteringen
-* Om du utgår från ett scenario bör du identifiera de viktigaste aspekterna av ändringshantering för en [!DNL Workfront] implementering
+* I ett scenario måste du identifiera viktiga aspekter av ändringshantering för en [!DNL Workfront]-implementering
 
-**Avsnitt 4: Installation och konfigurering av koppling (28 %)**
+**Avsnitt 4: Installation och konfiguration av koppling (28 %)**
 
 * Validera krav i AEM
 * Identifiera funktionerna för den koppling som ska implementeras i ett kundanvändningsexempel
@@ -121,11 +121,11 @@ Och du borde ha:
 
 {{study-materials-intro}}
 
-**Handbok för testversioner**
+**Handbok för provprogram**
 
 {{exam-prep-guide}}
 
-[Visa guiden Förbered prov](https://app.rockinfo.com/courses/244)
+[Visa guide för testversioner](https://app.rockinfo.com/courses/244)
 
 **Exempelfrågor**
 
@@ -186,6 +186,6 @@ Och du borde ha:
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.

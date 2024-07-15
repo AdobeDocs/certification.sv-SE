@@ -1,6 +1,6 @@
 ---
 title: Yrkescertifiering för Business Practizer
-description: Lär dig certifiera dig som [!DNL Adobe Analytics] Yrkesverksamma inom affärsverksamhet.
+description: Lär dig hur du blir certifierad som  [!DNL Adobe Analytics] Business Practitioner.
 solution: Analytics
 product: Analytics
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Certifieringsresa för Adobe [!DNL Analytics] Yrkesverksamma inom affärsverksamhet
+# Certifieringsresa för Adobe [!DNL Analytics] Business Practitioner Professional
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/145) ger dig en skräddarsydd väg genom din förberedande process för certifieringstester, inklusive det material du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
+>**Nya studieresurser tillgängliga:** I [handboken för testversioner](https://app.rockinfo.com/courses/145) finns en skräddarsydd väg genom din testprocess för certifiering, inklusive det material du behöver för att lyckas med certifieringen. _Använd din Adobe ID om du uppmanas att logga in på guiden för testversioner._
 
 ## Provbeskrivning {#exam-description}
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 ### Minimal upplevelse {#minimum-experience}
 
-Du bör ha minst tre månaders erfarenhet av [!DNL Adobe Analytics] och följande upplevelse:
+Du bör ha minst tre månaders erfarenhet i [!DNL Adobe Analytics] och följande erfarenhet:
 
 * En marknadsföringsbakgrund eller kommer från en marknadsföringsroll, men kan komma från en mängd olika jobbroller.
 * En grundläggande kunskap om digitala analysvärden och dimensioner.
@@ -79,7 +79,7 @@ Du bör ha minst tre månaders erfarenhet av [!DNL Adobe Analytics] och följand
 * Analysera rapportdata för att sammanfatta och dra slutsatser
 * Känn igen avvikelser och avvikelser i rapporter
 
-**Avsnitt 2: Rapportering och introduktion av statsobjekt för projekt (38 %)**
+**Avsnitt 2: Rapportering och instrumentpaneler för projekt (38 %)**
 
 * Tänk på fördelarna med att använda specifika visualiseringar baserat på ett visst scenario
 * Jämför utfalls- och flödesvisualisering
@@ -98,8 +98,8 @@ Du bör ha minst tre månaders erfarenhet av [!DNL Adobe Analytics] och följand
 
 **Avsnitt 4: Allmän verktygsinformation och felsökning (9 %)**
 
-* Förstå olika typer av dimensioner och parametrar som finns i [!DNL Adobe Analytics] (evar, props och events)
-* Bestäm hur du exporterar data från [!DNL Adobe Analytics]
+* Förstå olika typer av dimensioner och parametrar som finns i [!DNL Adobe Analytics] (variabler, props och händelser)
+* Bestäm hur data ska exporteras från [!DNL Adobe Analytics]
 
 <br>
 
@@ -107,7 +107,7 @@ Du bör ha minst tre månaders erfarenhet av [!DNL Adobe Analytics] och följand
 
 {{readiness}}
 
-[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-w9tako/ad-q-e212-readiness-questionnaire-for-adobe-analytics-business-practitioner-professional-exam){target="_blank"}
+[Ta enkäten om onlineberedskap](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-w9tako/ad-q-e212-readiness-questionnaire-for-adobe-analytics-business-practitioner-professional-exam){target="_blank"}
 
 <br>
 
@@ -129,11 +129,11 @@ Du bör ha minst tre månaders erfarenhet av [!DNL Adobe Analytics] och följand
 
 {{study-materials-intro}}
 
-**Handbok för testversioner**
+**Handbok för provprogram**
 
 {{exam-prep-guide}}
 
-[Visa guiden Förbered prov](https://app.rockinfo.com/courses/145)
+[Visa guide för testversioner](https://app.rockinfo.com/courses/145)
 
 **Exempelfrågor**
 
@@ -199,6 +199,6 @@ Du bör ha minst tre månaders erfarenhet av [!DNL Adobe Analytics] och följand
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.

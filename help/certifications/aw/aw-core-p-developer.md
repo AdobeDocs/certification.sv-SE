@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Detta prov, Adobe [!DNL Workfront] Core Developer Professional (AD0-E905) har uppdaterats. Om du redan har börjat studera eller är schemalagd att ta den här versionen är du noga med att slutföra den före 26 februari 2024. Om du precis har börjat rekommenderar vi att du [den senaste versionen av detta prov (AD0-E908)](aw-core-p-developer-23-12.md). Om du behöver göra om schemat måste du ta det nya provet.
+>Det här provet, Adobe [!DNL Workfront] Core Developer Professional (AD0-E905), har uppdaterats. Om du redan har börjat studera eller är schemalagd att ta den här versionen är du noga med att slutföra den före 26 februari 2024. Om du precis har börjat rekommenderar vi att du använder den [senaste versionen av den här tentamen (AD0-E908)](aw-core-p-developer-23-12.md). Om du behöver göra om schemat måste du ta det nya provet.
 
 ## Provbeskrivning {#exam-description}
 
@@ -58,19 +58,19 @@ ht-degree: 0%
 
 Du borde ha:
 
-* Minst 3-6 månaders praktisk erfarenhet av användning av Adobe [!DNL Workfront]
-* Upplevelse med Adobe [!DNL Workfront] funktionalitet och anslutningsmöjligheter genom intag, godkännande, planering, utförande och rapportering
-* En djupgående förståelse för Adobe [!DNL Workfront] objekttyper, inklusive anpassade formulär och arbetsflöden för godkännande, mallar, varaktighet, arbetsinsats/planerade timmar
-* En djupgående förståelse för Adobe [!DNL Workfront] Inställning, inklusive åtkomstnivåer, layoutmallar, projektinställningar och andra metoder för att göra slutanvändardesignen enkel
+* Åtminstone 3-6 månaders praktisk erfarenhet med Adobe [!DNL Workfront]
+* Upplev funktionaliteten och anslutningsmöjligheterna i Adobe [!DNL Workfront] genom intag, godkännande, planering, utförande och rapportering
+* En djupgående förståelse av objekttyperna [!DNL Workfront] i Adobe, inklusive anpassade formulär och arbetsflöden för godkännande, mallar, varaktighet, arbetsinsats/planerade timmar
+* En djupgående förståelse av installationsprogrammet för Adobe [!DNL Workfront], inklusive åtkomstnivåer, layoutmallar, projektinställningar och andra metoder för att uppnå enkelhet i slutanvändardesignen
 * Kunskap och erfarenhet av processmappning
-* En förståelse för olika Adobe [!DNL Workfront] persona och engagera i support
+* En förståelse för olika Adobe [!DNL Workfront]-profiler och hur man använder stöd
 
 Och du borde ha:
 
-* Förtrogenhet med [!DNL Workfront] API- och API-utforskaren, men behöver inte nödvändigtvis vara effektiv vid API-anrop
+* Förtrogenhet med [!DNL Workfront] API- och API-utforskaren, men inte nödvändigtvis med stor kunskap i API-anrop
 * Möjligheten att använda anpassade API-anrop för att arbeta med [!DNL Workfront] och andra API:er
 * Förtrogenhet med Adobe [!DNL Workfront]
-* Förtrogenhet med inbyggda kontakter och andra Adobe [!DNL Workfront] produkter och tjänster
+* Förtrogenhet med inbyggda anslutningar och andra produkter och tjänster för Adobe [!DNL Workfront]
 * Projekthantering, bl.a. flexibel hantering och vattenfall samt resurshanteringssystem
 
 <br>
@@ -120,7 +120,7 @@ Och du borde ha:
 
 {{readiness}}
 
-[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional){target="_blank"}
+[Ta enkäten om onlineberedskap](https://scorpion.caveon.com/launchpad/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional){target="_blank"}
 
 <br>
 
@@ -145,7 +145,7 @@ Och du borde ha:
 **Avsnitt 1: Strategi och intag**
 
 * [God praxis - Portfolio och program](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/portfolios-programs-bp.html){target="_blank"}
-* [Översikt över Portfolio i Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/portfolio-overview-in-adobe-workfront/portfolio-overview.html){target="_blank"}
+* [Portfolio - översikt i Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/portfolio-overview-in-adobe-workfront/portfolio-overview.html){target="_blank"}
 * [Skapa en begärandekö](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-request-queue.html){target="_blank"}
 * [Förstå begärandeköer](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues.html){target="_blank"}
 * [Översikt över anpassade formulär](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-forms-overview.html){target="_blank"}
@@ -158,22 +158,22 @@ Och du borde ha:
 * [Bästa praxis - Resursplanering](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/resource-planner-bp.html){target="_blank"}
 * [Skapa en projektmall](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/create-a-project-template.html){target="_blank"}
 * [Redigera projektmallar](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/create-and-manage-project-templates/edit-templates.html){target="_blank"}
-* [God praxis - projektmallar](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/project-templates-bp.html){target="_blank"}
+* [Bästa praxis - Projektmallar](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/project-templates-bp.html){target="_blank"}
 
 **Avsnitt 3: Användarupplevelse**
 
-* [God praxis - introduktion och implementering](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html){target="_blank"}
+* [God praxis - introduktion och anpassning](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html){target="_blank"}
 * [Skapa en enskild användarprofil](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/create-an-individual-user-profile.html){target="_blank"}
 * [Systemkonfiguration: grupper och användare](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/system-setup-groups-and-users.html){target="_blank"}
 * [Dela ett projekt](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.html){target="_blank"}
 * [Hur åtkomstnivåer och behörigheter fungerar tillsammans](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/access-levels/how-access-levels-permissions-work-together.html){target="_blank"}
-* [Importera data till Adobe [!DNL Workfront] använda en snabbstartsmall](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/kick-starts/import-data-via-kickstarts.html){target="_blank"}
+* [Importera data till Adobe [!DNL Workfront] med en snabbstartmall](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/kick-starts/import-data-via-kickstarts.html){target="_blank"}
 
 **Avsnitt 4: Mätvärden och rapportering**
 
 * [Skapa en anpassad rapport](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/create-manage-reports/create-custom-report.html){target="_blank"}
 * [Skicka och dela rapporter](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/how-to-send-and-share-reports.html){target="_blank"}
-* [Bästa praxis - Anpassade rapporter](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/custom-reports-bp.html){target="_blank"}
+* [God praxis - anpassade rapporter](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/custom-reports-bp.html){target="_blank"}
 
 
 **Avsnitt 5: Körning**
@@ -219,7 +219,7 @@ Och du borde ha:
 
 >[!NOTE]
 >
->Detta prov, Adobe [!DNL Workfront] Core Developer Professional (AD0-E905) har uppdaterats. Om du redan har börjat studera eller är schemalagd att ta den här versionen är du noga med att slutföra den före 26 februari 2024. Om du precis har börjat rekommenderar vi att du [den senaste versionen av detta prov (AD0-E908)](aw-core-p-developer-23-12.md).
+>Det här provet, Adobe [!DNL Workfront] Core Developer Professional (AD0-E905), har uppdaterats. Om du redan har börjat studera eller är schemalagd att ta den här versionen är du noga med att slutföra den före 26 februari 2024. Om du precis har börjat rekommenderar vi att du använder den [senaste versionen av den här tentamen (AD0-E908)](aw-core-p-developer-23-12.md).
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E905" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -248,6 +248,6 @@ Och du borde ha:
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.

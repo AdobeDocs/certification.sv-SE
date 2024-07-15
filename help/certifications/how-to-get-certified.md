@@ -23,26 +23,26 @@ Adobe använder sig av Examity för att administrera proffsiga examina online.
 
 **Följ de här stegen för att registrera dig för din certifieringstest:**
 
-* **Steg 1:** Inloggningen till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
-* **Steg 2:** Gå tillbaka till den här webbplatsen och klicka på Tekniska certifieringar.
-* **Steg 3:** Välj Adobe, certifieringsnivå och roll
-* **Steg 4:** Följ stegen i **Bli certifierad** -avsnitt.
+* **Steg 1:** Inloggningen till [Adobe-systemet för hantering av autentiseringsuppgifter har slutförts](https://www.certmetrics.com/adobe){target="_blank"}.
+* **Steg 2:** Återgå till den här webbplatsen och klicka på Tekniska certifieringar.
+* **Steg 3:** Välj Adobe-program, certifieringsnivå och roll
+* **Steg 4:** Följ stegen i avsnittet **Hämta certifierad**.
 
-**Resurs**
+**Resurser**
 
 Underlighet:
 
-* [Hur man registrerar sig för en onlinebearbetad tentamen](https://express.adobe.com/page/Opvo0RlRrlVvr/){target="_blank"}
-* [Starta tentamen och anslut till proktorn](https://express.adobe.com/page/6tQ2pnEDumKY7/){target="_blank"}
-* [Systemkrav för kontrolltagare](https://www.examity.com/test-taker-systems-requirements/){target="_blank"}
+* [Registrera dig för ett onlineprov](https://express.adobe.com/page/Opvo0RlRrlVvr/){target="_blank"}
+* [Starta provet och anslut till proktorn](https://express.adobe.com/page/6tQ2pnEDumKY7/){target="_blank"}
+* [Systemkrav för kontrollinsamling för kontrolltest](https://www.examity.com/test-taker-systems-requirements/){target="_blank"}
 
->[!TAB Ta ditt prov]
+>[!TAB Tar din tentamen]
 
 **Din Adobe ID**
 
-Dina [profil](https://www.certmetrics.com/adobe/candidate/demographics.aspx){target="_blank"} namnet i Adobe Credential Management System måste exakt matcha ditt Government ID. Om informationen inte är identisk eller om det inte finns någon matchning avbryts provet och du måste schemalägga om mötet utöver att betala en extra provavgift.
+Ditt [profilnamn](https://www.certmetrics.com/adobe/candidate/demographics.aspx){target="_blank"} i Adobe Credential Management System måste matcha ditt myndighets-ID exakt. Om informationen inte är identisk eller om det inte finns någon matchning avbryts provet och du måste schemalägga om mötet utöver att betala en extra provavgift.
 
-**Avbryta och omplanera**
+**Avbryter och schemalägger om**
 
 Avbokningar och omplanering är vanligtvis möjliga om de påbörjas före 48 timmar före det schemalagda provbesöket. Kandidaterna måste själva ändra den här avtalade tiden.
 
@@ -56,7 +56,7 @@ När du har avslutat en tentamen får du ett tillfälligt pass eller misslyckand
 
 Om du inte klarar en Adobe-certifieringstest på ditt första försök måste du vänta minst 24 timmar innan du startar provet igen. Om en tentamen inte godkänns vid det andra eller efterföljande försök krävs en vänteperiod på 14 kalenderdagar innan tentamen återupptas. Varje försök medför en separat avgift för tentamen.
 
->[!TAB Studiekostnad]
+>[!TAB Granska kostnad]
 
 **Examineringspriser för certifiering**
 
@@ -68,21 +68,21 @@ Om du inte klarar en Adobe-certifieringstest på ditt första försök måste du
 
 **Förnyelsepriser**
 
-De flesta certifieringsförnyelser **kostnadsfritt**. För certifieringar som inte har något alternativ för kostnadsfri förnyelse måste du göra om den fullständiga certifieringstest som förnyar din certifiering.
+De flesta certifieringsförnyelser är **kostnadsfria**. För certifieringar som inte har något alternativ för kostnadsfri förnyelse måste du göra om den fullständiga certifieringstest som förnyar din certifiering.
 
-**Betalning för prov**
+**Betalar för din tentamen**
 
-Du kan betala för ditt certifieringsprov med hjälp av verifikation eller kreditkort. Om du vill köpa en provvoucher går du till: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}.
+Du kan betala för ditt certifieringsprov med hjälp av verifikation eller kreditkort. Gå till [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"} om du vill köpa en provvoucher.
 
 Du kan använda verifikationskoden när du schemalägger provet. Om du har en rabatt tillämpas den i kassan.
 
 **Partnerrabatter**
 
-Bronze och högre partners får rabatter på alla Adobe certifieringstester och klasser. Du kan läsa mer om rabatten och hur du får tillgång till partnerförmåner på [Solution Partner Portal](https://solutionpartners.adobe.com/solution-partners/home/learn/credentials/certification/certification_exam_registration_and_management.html?nav=cost){target="_blank"}.
+Bronze och högre partners får rabatter på alla Adobe certifieringstester och klasser. Du kan läsa mer om dessa rabatter och hur du får tillgång till partnerförmåner på [Solution Partner Portal](https://solutionpartners.adobe.com/solution-partners/home/learn/credentials/certification/certification_exam_registration_and_management.html?nav=cost){target="_blank"}.
 
 **Andra rabatter**
 
-Dessutom kan alla deltagare få en rabatt på minst 10 prov när de köper via [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}.
+Dessutom kan alla kandidater få en rabatt på massinköp på minst 10 prov när de köper via [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
 **Massrabattnivåer**
 
@@ -101,16 +101,16 @@ Adobe program för certifiering av digitala upplevelser samarbetar med leverant�
 | Leverantörsnamn | Beskrivning | Supportsida/e-post |
 | ------- | ------- | ------- |
 | Tillförlitligt | Badge Management System | [Support](https://credlyissuer.zendesk.com/hc/en-us){target="_blank"} |
-| Underbarhet | Testa leveransleverantör (endast onlinebearbetning) | [E-post](mailto:support@examity.com){target="_blank"} eller 855-Examity (855-392-6489) |
+| Underbarhet | Testa leveransleverantör (endast onlinebearbetning) | [Email](mailto:support@examity.com){target="_blank"} eller 855-Examity (855-392-6489) |
 | Xvoucher - Adobe Certification Voucher Center | Verifikationscenter för att köpa enskilda eller bulkverifikationer | [E-post](mailto:support@xvoucher.com){target="_blank"} eller [Onlinehjälp](https://help.xvoucher.com/hc/en-us) |
 
 Andra leverantörsresurser:
 
-**Underbarhet**
+**Underlighet**
 
-* [Handbok för onlinebearbetning av Examity](https://www.examity.com/online-proctoring-troubleshooting-guide-for-test-takers-v4/){target="_blank"}
+* [Handbok för onlinebearbetning för granskning](https://www.examity.com/online-proctoring-troubleshooting-guide-for-test-takers-v4/){target="_blank"}
 * [Vanliga frågor](https://www.examity.com/faq/test-takers/){target="_blank"}
-* [Systemkrav för kontrolltagare](https://www.examity.com/test-taker-systems-requirements/){target="_blank"}
+* [Systemkrav för kontrollinsamling för kontrolltest](https://www.examity.com/test-taker-systems-requirements/){target="_blank"}
 
 >[!NOTE]
 >
@@ -118,10 +118,10 @@ Andra leverantörsresurser:
 
 Användbara videor:
 
-* [Testtagare för första gången](https://vimeo.com/394506654){target="_blank"}
-* [Schemalägg din avtalade tid](https://vimeo.com/394506786){target="_blank"}
-* [Ändra schemat för din testavtalade tid](https://vimeo.com/394507149){target="_blank"}
-* [Så här avbryter du din testavtalade tid](https://vimeo.com/394507135){target="_blank"}
+* [Första gången du testar](https://vimeo.com/394506654){target="_blank"}
+* [Schemalägg din testavtalade tid](https://vimeo.com/394506786){target="_blank"}
+* [Så här schemalägger du om din testavtalade tid](https://vimeo.com/394507149){target="_blank"}
+* [Så här avbryter du din testtid](https://vimeo.com/394507135){target="_blank"}
 * [Så här testar du online](https://vimeo.com/394506686){target="_blank"}
 
 Vanliga frågor och svar om Adobe Certification Voucher Center (Xvoucher)
@@ -189,12 +189,12 @@ All försäljning är slutgiltig. Returer och återbetalningar accepteras inte. 
 
 >[!TAB Hantera din certifieringsprofil]
 
-Följande avsnitt och länkar fungerar endast efter att du har loggat in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
+Följande avsnitt och länkar fungerar endast efter en lyckad inloggning till [Adobe-systemet för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
 
 | Snabblänkar | Beskrivning |
 | ------- | ------- | 
 | Adobe system för hantering av autentiseringsuppgifter | [Inledande inloggning på Adobe-hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} |
-| Profil | [Demografisk informationssida med plats för kontonamn, adress, företag och så vidare. Namn kan bara uppdateras av en Adobe-administratör](https://www.certmetrics.com/adobe/candidate/demographics.aspx){target="_blank"}. |
+| Profil | [Demografisk informationssida med plats för kontonamn, adress, företag och så vidare. Namn kan bara uppdateras av Adobe-administratören ](https://www.certmetrics.com/adobe/candidate/demographics.aspx){target="_blank"}. |
 | Identifiering | [Plats för Adobe/inloggnings-ID. Börjar oftast med ADB](https://www.certmetrics.com/adobe/candidate/identification.aspx){target="_blank"} |
 | Historik | [Visa resultatrapport och provhistorik](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"} |
 | Certifieringar | [Visa alla aktuella och utgångna certifikat](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"} |
@@ -207,15 +207,15 @@ Ditt märke är ett bevis på din kompetens med Adobe Experience Cloud produkter
 
 **För befintliga användare finns det två sätt att acceptera ditt Adobe-certifieringsmärke:**
 
-* **Steg 1:** Logga in på [Tillförlitligt](https://www.credly.com/users/sign_in){target="_blank"}. _(Du måste använda samma e-postadress som du använde för att hämta dina Adobe-uppgifter, annars visas inte ditt emblem.)_
-* **Steg 2:** Eller gå till e-postmeddelandet som du fick från Credly för att godkänna märket.
-* **Steg 3:** Godkänn och dela din bricka.
+* **Steg 1:** Logga in på [Medarbetare](https://www.credly.com/users/sign_in){target="_blank"}. _(Du måste använda samma e-postadress som du använde för att hämta dina Adobe-autentiseringsuppgifter, annars visas inte ditt emblem.)_
+* **Steg 2:** Eller gå till det e-postmeddelande du fick från Meddela om du godkänner märket.
+* **Steg 3:** Acceptera och dela ditt emblem.
 
-**För nya användare, följ instruktionerna nedan för att godkänna ditt Adobe-certifieringsmärke:**
+**För nya användare följer du instruktionerna nedan för att godkänna ditt Adobe-certifieringsmärke:**
 
-* **Steg 1:** Gå till det e-postmeddelande du fått från Medarbetare för att godkänna märket.
-* **Steg 2:** Skapa ett konto. _(Du måste använda samma e-postadress som du använde för att hämta dina Adobe-uppgifter, annars visas inte ditt emblem.)_
-* **Steg 3:** Godkänn och dela din bricka.
+* **Steg 1:** Gå till e-postmeddelandet som du fick från Medarbetare för att acceptera märket.
+* **Steg 2:** Skapa ett konto. _(Du måste använda samma e-postadress som du använde för att hämta dina Adobe-autentiseringsuppgifter, annars visas inte ditt emblem.)_
+* **Steg 3:** Acceptera och dela ditt emblem.
 
 [Läs mer](https://support.credly.com/hc/en-us/articles/360021222231-How-to-accept-and-manage-your-digital-badge){target="_blank"}
 
@@ -223,6 +223,6 @@ Ditt märke är ett bevis på din kompetens med Adobe Experience Cloud produkter
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.

@@ -1,6 +1,6 @@
 ---
 title: Architect Master-certifiering
-description: Lär dig hur du blir certifierad Adobe Architect Master i [!DNL Campaign Classic].
+description: Lär dig hur du blir certifierad Adobe Architect Master i  [!DNL Campaign Classic].
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: Data Architect
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/254) ger dig en skräddarsydd väg genom testprocessen för certifiering, inklusive ingående studiematerial som du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
+>**Nya studieresurser tillgängliga:** I [handboken för testversioner](https://app.rockinfo.com/courses/254) finns en skräddarsydd väg genom din förberedande process för certifieringstester, inklusive det ingående studiematerialet som du behöver för att lyckas med certifieringen. _Använd din Adobe ID om du uppmanas att logga in på guiden för testversioner._
 
 ## Provbeskrivning {#exam-description}
 
@@ -42,9 +42,9 @@ ht-degree: 0%
 
 ### Målgrupp {#intended-audience}
 
-* Teknisk ledning med Adobe [!DNL Campaign Classic] background
-* ADOBE CERTIFIED EXPERT - [!DNL Campaign Classic] Utvecklare
-* Adobe [!DNL Campaign Classic] utvecklare eller liknande roll
+* Teknisk lead med Adobe [!DNL Campaign Classic]-bakgrund
+* Adobe Certified Expert - [!DNL Campaign Classic] Developer
+* Adobe [!DNL Campaign Classic]-utvecklare eller liknande roll
 * Martech Solution Architect
 
 <br>
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 Du borde ha:
 
-* Upplevelse med flera Adobe [!DNL Campaign Classic] implementeringar
+* Upplevelse med flera implementeringar av Adobe [!DNL Campaign Classic]
 * En förståelse för hur Adobe Campaign fungerar som en digital marknadsföringslösning och implementerar den baserat på projektkrav
 * Möjlighet att skapa ett funktionellt designdokument
 * Möjlighet att skapa ett funktionellt arbetsflöde för en Adobe Campaign-installation
@@ -79,7 +79,7 @@ Du borde ha:
 
 * Med hänsyn till specifika affärskrav, fastställa den information som är relevant för lösningsdesign
 * Ange rekommendationer för prestanda, infrastruktur och konfiguration för ett scenario
-* Analysera [!DNL Campaign Classic] inställningar för att ge råd om förbättringar
+* Analysera [!DNL Campaign Classic]-inställningar för att ge råd om förbättringar
 * Fastställa affärskrav för att utforma en digital marknadsföringslösning
 * Ange rätt produktdistributionsmetod för ett scenario
 
@@ -92,7 +92,7 @@ Du borde ha:
 **Avsnitt 3: Installation och hantering (16 %)**
 
 * Verifiera konfigurationen av modulen utifrån en uppsättning nyckelmoduler
-* I ett scenario rekommenderar vi integreringslösningar för att möjliggöra integrering mellan interna och externa leverantörer med Adobe [!DNL Campaign Classic]
+* Om ett scenario har angetts rekommenderar vi integreringslösningar för att aktivera interna och externa integreringar med Adobe [!DNL Campaign Classic]
 * Fastställ diagnosmetoder utifrån ett scenario
 * Ange integreringsparametrar och -metod för programintegreringar från Adobe och andra program än Adobe
 * I ett scenario bör du ge råd om lämplig maskinvaruinfrastruktur som behövs under lösningsdesignen
@@ -117,7 +117,7 @@ Du borde ha:
 
 {{readiness}}
 
-[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e318-readiness-questionnaire-for-adobe-campaign-classic-architect-master-exam/ad-q-e318-readiness-questionnaire-for-adobe-campaign-classic-architect-master-exam){target="_blank"}
+[Ta enkäten om onlineberedskap](https://scorpion.caveon.com/launchpad/ad-q-e318-readiness-questionnaire-for-adobe-campaign-classic-architect-master-exam/ad-q-e318-readiness-questionnaire-for-adobe-campaign-classic-architect-master-exam){target="_blank"}
 
 <br>
 
@@ -139,11 +139,11 @@ Du borde ha:
 
 {{study-materials-intro}}
 
-**Handbok för testversioner**
+**Handbok för provprogram**
 
 {{exam-prep-guide}}
 
-[Visa guiden Förbered prov](https://app.rockinfo.com/courses/254)
+[Visa guide för testversioner](https://app.rockinfo.com/courses/254)
 
 +++
 
@@ -198,7 +198,7 @@ Du borde ha:
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.
 

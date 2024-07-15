@@ -1,6 +1,6 @@
 ---
 title: Professionell certifiering
-description: Lär dig hur du blir certifierad [!DNL Experience Platform] Professional in [!DNL Real-Time Customer Data Platform]
+description: Lär dig hur du blir certifierad [!DNL Experience Platform] Professional i [!DNL Real-Time Customer Data Platform]
 solution: Real-Time Customer Data Platform
 product: Adobe Real Time Customer Data Platform
 role: User
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ---
 
-# Certifieringsresa för Adobe [!DNL Real-Time CDP] Yrkesverksamma inom affärsverksamhet
+# Certifieringsresa för Adobe [!DNL Real-Time CDP] Business Practitioner Professional
 
 {{intro}}
 
@@ -23,11 +23,11 @@ ht-degree: 0%
 >
 >Nu finns kostnadsfria resurser på begäran som hjälper dig att förbereda dig för ditt prov:
 >
->* **Kurs:** Om du just har börjat eller behöver en ny uppgradering, ta [Adobe Experience Platform Foundations Course](https://app.rockinfo.com/courses/216) för att få förklaringar till viktiga begrepp, produktgenomgångar och kunskapsanalyser. Kursen ger en grund för de kunskaper du kan bygga vidare på i din certifieringsresa.
+>* **Kurs:** Om du just har börjat eller behöver en uppdaterare kan du gå igenom [Adobe Experience Platform Foundations Course](https://app.rockinfo.com/courses/216) och få förklaringar av viktiga begrepp, produktgenomgångar och kunskapsanalyser. Kursen ger en grund för de kunskaper du kan bygga vidare på i din certifieringsresa.
 >
->* **Handbok för testversioner:** The [Handbok för testversioner](https://app.rockinfo.com/courses/133) ger dig en skräddarsydd väg genom din förberedande process för certifieringstester, inklusive det material du behöver för att lyckas med denna certifiering.
+>* **Handbok för testversioner:** I [handboken för testversioner](https://app.rockinfo.com/courses/133) finns en skräddarsydd sökväg som du kan använda genom att förbereda certifieringstester, inklusive det material du behöver för att lyckas med certifieringen.
 >
->_Om du uppmanas att logga in använder du din Adobe ID._
+>_Använd din Adobe ID om du uppmanas att logga in._
 
 ## Provbeskrivning {#exam-description}
 
@@ -107,7 +107,7 @@ Upplev uppgifter som innefattar:
 
 **Avsnitt 4: Scheman och profiler (18 %)**
 
-* Uppvisa förståelse för Adobe [!DNL Experience Platform] begrepp
+* Uppvisa förståelse för [!DNL Experience Platform]-koncept i Adobe
 * Använd profilfunktioner
 
 <br>
@@ -141,15 +141,15 @@ Upplev uppgifter som innefattar:
 </span>
 </a>
 
-**Gör ett övningsprov**
+**Testa**
 
 {{practice-test}}
 
-**Handbok för testversioner**
+**Handbok för provprogram**
 
 {{exam-prep-guide}}
 
-[Visa guiden Förbered prov](https://app.rockinfo.com/courses/133)
+[Visa guide för testversioner](https://app.rockinfo.com/courses/133)
 
 
 +++
@@ -205,6 +205,6 @@ Upplev uppgifter som innefattar:
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.

@@ -1,6 +1,6 @@
 ---
 title: Expertcertifiering
-description: Lär dig hur du blir certifierad Adobe [!DNL Journey Optimizer] Developer Expert.
+description: Lär dig hur du blir en certifierad Adobe [!DNL Journey Optimizer] Developer Expert.
 solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
@@ -20,7 +20,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->Detta prov, Adobe [!DNL Journey Optimizer] Developer Expert (AD0-E603) har uppdaterats. Om du redan har börjat studera eller är schemalagd att ta den här versionen, vänligen se till att slutföra den före 22 december 2023. Om du precis har börjat rekommenderar vi att du [senaste versionen av denna tentamen](ajo-e-developer-23-10.md).
+>Detta prov, Adobe [!DNL Journey Optimizer] Developer Expert (AD0-E603), har uppdaterats. Om du redan har börjat studera eller är schemalagd att ta den här versionen, vänligen se till att slutföra den före 22 december 2023. Om du precis har börjat rekommenderar vi att du använder den [senaste versionen av denna tentamen](ajo-e-developer-23-10.md).
 
 ## Provbeskrivning {#exam-description}
 
@@ -116,7 +116,7 @@ Du bör ha minst ett års erfarenhet av att arbeta med olika CDP- och marknadsf�
 
 {{readiness}}
 
-[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam-copy-jnq9sq/ad-q-e603-readiness-questionnaire-for-adobe-journey-optimizer-developer-expert-exam){target="_blank"}
+[Ta enkäten om onlineberedskap](https://scorpion.caveon.com/launchpad/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam-copy-jnq9sq/ad-q-e603-readiness-questionnaire-for-adobe-journey-optimizer-developer-expert-exam){target="_blank"}
 
 <br>
 
@@ -165,8 +165,8 @@ Du bör ha minst ett års erfarenhet av att arbeta med olika CDP- och marknadsf�
    * Scheman
 
 * [Introduktion till Adobe [!DNL Experience Platform] kurs](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1){target="_blank"}
-* [Komma igång med Adobe [!DNL Experience Platform] för datatekniker, kurs](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2){target="_blank"}
-* [Datainmatning för datatekniker, kurs](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.1.dataingestion){target="_blank"}
+* [Komma igång med Adobe [!DNL Experience Platform] för datatekniker-kurs](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2){target="_blank"}
+* [Datainmatning för datatekniker-kurs](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.1.dataingestion){target="_blank"}
 * [Digital Experience-utkast](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html){target="_blank"}
 
 **Avsnitt 3: Offer decisioning**
@@ -175,11 +175,11 @@ Du bör ha minst ett års erfarenhet av att arbeta med olika CDP- och marknadsf�
 
    * Beslutshantering
 
-* [Adobe [!DNL Journey Optimizer] Videor och Tutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] Videoklipp och Tutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html){target="_blank"}
 
    * Skapa resor
 
-**Section 4: Content Authoring**
+**Avsnitt 4: Skapa innehåll**
 
 * [Adobe [!DNL Journey Optimizer] Dokumentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 
@@ -200,7 +200,7 @@ Du bör ha minst ett års erfarenhet av att arbeta med olika CDP- och marknadsf�
 
 <br>
 
-**Gör ett övningsprov**
+**Testa**
 
 {{practice-test}}
 
@@ -232,7 +232,7 @@ Du bör ha minst ett års erfarenhet av att arbeta med olika CDP- och marknadsf�
 
 >[!NOTE]
 >
->Detta prov, Adobe [!DNL Journey Optimizer] Developer Expert (AD0-E603) har uppdaterats. Om du redan har börjat studera eller är schemalagd att ta den här versionen, vänligen se till att slutföra den före 22 december 2023. Om du precis har börjat rekommenderar vi att du [senaste versionen av denna tentamen](ajo-e-developer-23-10.md).
+>Detta prov, Adobe [!DNL Journey Optimizer] Developer Expert (AD0-E603), har uppdaterats. Om du redan har börjat studera eller är schemalagd att ta den här versionen, vänligen se till att slutföra den före 22 december 2023. Om du precis har börjat rekommenderar vi att du använder den [senaste versionen av denna tentamen](ajo-e-developer-23-10.md).
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E603" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -261,6 +261,6 @@ Du bör ha minst ett års erfarenhet av att arbeta med olika CDP- och marknadsf�
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.

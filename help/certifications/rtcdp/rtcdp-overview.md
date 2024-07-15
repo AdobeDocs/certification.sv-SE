@@ -10,14 +10,14 @@ ht-degree: 22%
 
 ---
 
-# [!DNL Adobe Real-Time CDP] Certifieringsöversikt
+# [!DNL Adobe Real-Time CDP] certifieringsöversikt
 
 **Professional**
 
-* [Yrkesverksamma inom affärsverksamhet](/help/certifications/rtcdp/rtcdp-p-business.md) <!--AD0-E602-->
+* [Affärsdeltagare](/help/certifications/rtcdp/rtcdp-p-business.md) <!--AD0-E602-->
 
 **Expert**
 
 * [Utvecklare](/help/certifications/rtcdp/rtcdp-e-developer.md) <!--AD0-E605-->
 
-Besök [Förnya din certifiering](/help/certifications/renew.md) för att se om det finns något förnyelsealternativ för den här produkten.
+Gå till sidan [Förnya din certifiering](/help/certifications/renew.md) för att se om det finns något förnyelsealternativ för den här produkten.

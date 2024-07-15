@@ -1,6 +1,6 @@
 ---
 title: Certifiering av expert på affärsverksamhet
-description: Lär dig hur du blir en certifierad expert på Adobe Business Practitioner i [!DNL Marketo Engage].
+description: Lär dig hur du blir en certifierad Adobe Business Practitioner-expert i  [!DNL Marketo Engage].
 solution: Marketo Engage
 product: Marketo
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Certifieringsresa för Adobe [!DNL Marketo Engage] Affärsexpert
+# Certifieringsresa för Adobe [!DNL Marketo Engage] Business Practitioner Expert
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/144) ger dig en skräddarsydd väg genom din förberedande process för certifieringstester, inklusive det material du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
+>**Nya studieresurser tillgängliga:** I [handboken för testversioner](https://app.rockinfo.com/courses/144) finns en skräddarsydd väg genom din testprocess för certifiering, inklusive det material du behöver för att lyckas med certifieringen. _Använd din Adobe ID om du uppmanas att logga in på guiden för testversioner._
 
 ## Provbeskrivning {#exam-description}
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
 ### Minimal upplevelse {#minimum-experience}
 
-* Ungefär 18 månaders erfarenhet av Adobe [!DNL Marketo Engage] funktioner som behövs för att skapa marknadsföringskampanjer och använda kundbeteendedata
+* Ungefär 18 månaders erfarenhet av Adobe [!DNL Marketo Engage]-funktioner som krävs för att skapa marknadsföringskampanjer och använda kundbeteendedata
 
 Du bör vara en marknadsförare med erfarenhet av:
 
@@ -103,7 +103,7 @@ Dessutom bör du känna till följande verktyg och tekniker:
 * Ge exempel på användning för olika typer av tokens
 * Sammanfatta webbhooks i Marketo och hur de används
 * Identifiera och tillämpa lämplig användning av PMCF
-* Förklara fördelarna med Global Assets och hur du använder dem
+* Förklara fördelarna med Global Assets och hur man använder dem
 * Uppvisa blanketternas funktioner
 * Utföra och analysera en A/B-teststrategi
 * Identifiera var ett program eller en resurs har refererats till med&quot;Används av&quot;
@@ -130,7 +130,7 @@ Dessutom bör du känna till följande verktyg och tekniker:
 * Utifrån resultatet av en kampanj kan du avgöra hur ett program ska skapas för att ge bästa möjliga rapportering
 * I ett scenario kan man undersöka och tilldela lämpliga förvärvsprogram
 
-**Avsnitt 6: Bästa praxis (16 %)**
+**Avsnitt 6: God praxis (16 %)**
 
 * Uppvisa hur relevant poängsättningen är i samarbetet inom marknadsföring och försäljning
 * Fördelarna med mappstrukturen och namnkonventioner
@@ -144,7 +144,7 @@ Dessutom bör du känna till följande verktyg och tekniker:
 
 {{readiness}}
 
-[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e558-readiness-questionnaire-for-adobe-marketo-engage-business-practitioner-expert-exam){target="_blank"}
+[Ta enkäten om onlineberedskap](https://scorpion.caveon.com/launchpad/ad-q-e558-readiness-questionnaire-for-adobe-marketo-engage-business-practitioner-expert-exam){target="_blank"}
 
 <br>
 
@@ -166,15 +166,15 @@ Dessutom bör du känna till följande verktyg och tekniker:
 
 {{study-materials-intro}}
 
-**Gör ett övningsprov**
+**Testa**
 
 {{practice-test}}
 
-**Handbok för testversioner**
+**Handbok för provprogram**
 
 {{exam-prep-guide}}
 
-[Visa guiden Förbered prov](https://app.rockinfo.com/courses/144)
+[Visa guide för testversioner](https://app.rockinfo.com/courses/144)
 
 +++
 
@@ -240,7 +240,7 @@ Dessutom bör du känna till följande verktyg och tekniker:
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.
 

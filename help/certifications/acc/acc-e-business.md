@@ -1,6 +1,6 @@
 ---
 title: Certifiering av expert på affärsverksamhet
-description: Lär dig hur du blir en certifierad expert på Adobe Business Practitioner med [!DNL Campaign Classic].
+description: Lär dig hur du blir en certifierad Adobe Business Practitioner-expert med  [!DNL Campaign Classic].
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Certifieringsresa för Adobe [!DNL Campaign Classic] Affärsexpert
+# Certifieringsresa för Adobe [!DNL Campaign Classic] Business Practitioner Expert
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/253) ger dig en skräddarsydd väg genom testprocessen för certifiering, inklusive ingående studiematerial som du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
+>**Nya studieresurser tillgängliga:** I [handboken för testversioner](https://app.rockinfo.com/courses/253) finns en skräddarsydd väg genom din förberedande process för certifieringstester, inklusive det ingående studiematerialet som du behöver för att lyckas med certifieringen. _Använd din Adobe ID om du uppmanas att logga in på guiden för testversioner._
 
 ## Provbeskrivning {#exam-description}
 
@@ -56,7 +56,7 @@ ht-degree: 0%
 
 Du borde ha:
 
-* Minst 2 år av omfattande Adobe [!DNL Campaign Classic] programvaruupplevelse
+* Minst två års omfattande programvaruupplevelse för Adobe [!DNL Campaign Classic]
 * Flerårig erfarenhet av att utveckla marknadsföringskampanjer och taktiker med hjälp av digitala flerkanalskampanjer
 * Upplev tolkning/översättning av affärskrav till åtgärdbara kampanjprodukter
 * Upplevelser med marknadsföringsstatistik som avkastning, klickfrekvens och konvertering
@@ -132,15 +132,15 @@ Du borde ha:
 
 {{study-materials-intro}}
 
-**Gör ett övningsprov**
+**Testa**
 
 {{practice-test}}
 
-**Handbok för testversioner**
+**Handbok för provprogram**
 
 {{exam-prep-guide}}
 
-[Visa guiden Förbered prov](https://app.rockinfo.com/courses/253)
+[Visa guide för testversioner](https://app.rockinfo.com/courses/253)
 
 +++
 
@@ -195,6 +195,6 @@ Du borde ha:
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.

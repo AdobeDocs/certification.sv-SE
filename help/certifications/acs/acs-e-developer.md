@@ -1,6 +1,6 @@
 ---
 title: Certifiering av utvecklarexpert
-description: Lär dig hur du blir certifierad Adobe Developer Expert Adobe [!DNL Campaign Standard].
+description: Lär dig hur du blir en certifierad Adobe Developer-expert Adobe [!DNL Campaign Standard].
 solution: Campaign,Campaign Standard
 product: Campaign
 role: Developer
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/256) ger dig en skräddarsydd väg genom testprocessen för certifiering, inklusive ingående studiematerial som du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
+>**Nya studieresurser tillgängliga:** I [handboken för testversioner](https://app.rockinfo.com/courses/256) finns en skräddarsydd väg genom din förberedande process för certifieringstester, inklusive det ingående studiematerialet som du behöver för att lyckas med certifieringen. _Använd din Adobe ID om du uppmanas att logga in på guiden för testversioner._
 
 ## Provbeskrivning {#exam-description}
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 Du borde ha:
 
-* Minst två år i Adobe [!DNL Campaign Standard] programvaruupplevelse
+* Minst två års programvaruerfarenhet för Adobe [!DNL Campaign Standard]
 * Minst två års relevant erfarenhet av flerkanaliga digitala marknadsföringskampanjer och webbutveckling (till exempel REST API)
 * Möjlighet att utföra uppgifter i Adobe Campaign, t.ex. mallutveckling, tekniska arbetsflöden, schemautveckling och integreringar, samt att övervaka instansen med hjälp av kontrollpanelen
 * Arbeta i en kanalmiljö (e-post, direktreklam, mobilt och socialt)
@@ -101,7 +101,7 @@ Du borde ha:
 * Identifiera rätt sätt att bygga e-postmeddelanden med hjälp av den kreativa designern
 * Bestäm rätt metod för att skapa anpassade rapporter
 
-**Avsnitt 3: Administration (24%)**
+**Avsnitt 3: Administration (24 %)**
 
 * Bestäm rätt metod för att skapa säkerhetsgrupper och organisationsenheter för användare
 * Identifiera rätt sätt att hantera och distribuera paket
@@ -116,7 +116,7 @@ Du borde ha:
 
 {{readiness}}
 
-[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e306-readiness-questionnaire-for-adobe-campaign-standard-developer-expert-exam){target="_blank"}
+[Ta enkäten om onlineberedskap](https://scorpion.caveon.com/launchpad/ad-q-e306-readiness-questionnaire-for-adobe-campaign-standard-developer-expert-exam){target="_blank"}
 
 <br>
 
@@ -138,15 +138,15 @@ Du borde ha:
 
 {{study-materials-intro}}
 
-**Gör ett övningsprov**
+**Testa**
 
 {{practice-test}}
 
-**Handbok för testversioner**
+**Handbok för provprogram**
 
 {{exam-prep-guide}}
 
-[Handbok för testversioner](https://app.rockinfo.com/courses/256)
+[Handbok för provprogram](https://app.rockinfo.com/courses/256)
 
 +++
 
@@ -201,6 +201,6 @@ Du borde ha:
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.

@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >Nu finns kostnadsfria resurser på begäran som hjälper dig att förbereda dig för ditt prov:
 >
->* **Kurs**: Om du just har börjat eller behöver en uppdaterare, ta [Adobe Marketo Engage Foundations Course](https://app.rockinfo.com/courses/261) för att få förklaringar till viktiga begrepp, produktgenomgångar och kunskapsanalyser. Detta ger en grund för de kunskaper du kan bygga vidare på i din certifieringsresa.
+>* **Kurs**: Om du just har börjat eller behöver en uppdaterare kan du gå till [Adobe Marketo Engage Foundations Course](https://app.rockinfo.com/courses/261) och få förklaringar av viktiga begrepp, produktgenomgångar och kunskapsanalyser. Detta ger en grund för de kunskaper du kan bygga vidare på i din certifieringsresa.
 >
->* **Handbok för testversioner:** The [Handbok för testversioner](https://app.rockinfo.com/courses/247) ger en skräddarsydd väg genom testprocessen, inklusive det djupgående studiematerialet som du behöver för att lyckas med provet.
+>* **Handbok för testversioner:** I [handboken för testversioner](https://app.rockinfo.com/courses/247) finns en skräddarsydd sökväg som du kan använda som förberedelse för proven, inklusive det ingående studiematerialet som du behöver för att kunna genomföra provet.
 >
->_Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
+>_Använd din Adobe ID om du uppmanas att logga in på guiden för testversioner._
 
 ## Provbeskrivning {#exam-description}
 
@@ -89,7 +89,7 @@ Dessutom bör du känna till följande verktyg och tekniker:
 
 {{exam-objectives}}
 
-**Avsnitt 1: Bygga och förvalta program (39 %)**
+**Avsnitt 1: Skapa och hantera program (39 %)**
 
 * Identifiera när var och en av de fyra programtyperna ska användas.
 * Identifiera varför/när du ska använda händelseprogrammet.
@@ -106,7 +106,7 @@ Dessutom bör du känna till följande verktyg och tekniker:
 * Förstå kundpreferenser (prenumeration, kommunikation).
 * Använd vedertagna rutiner för granskning före lansering.
 
-**Avsnitt 2: Byggtillgångar (19 %)**
+**Avsnitt 2: Bygga resurser (19 %)**
 
 * Hantera filer i Design Studio (överföra/ersätta bilder och filer).
 * Skapa/ändra ett formulär med Formulärredigeraren.
@@ -116,7 +116,7 @@ Dessutom bör du känna till följande verktyg och tekniker:
 * Skilj skillnaden mellan utkast och godkända tillgångar.
 * Skilj skillnaden mellan lokala och globala resurser.
 
-**Avsnitt 3: Definiera och inrikta er på målgrupper (33 %)**
+**Avsnitt 3: Definiera och rikta in målgrupper (33 %)**
 
 * Skapa/ändra smarta listor.
 * Förstå flödesstegen för Smart Campaign.
@@ -133,7 +133,7 @@ Dessutom bör du känna till följande verktyg och tekniker:
 
 **Avsnitt 4: Analysera och skapa rapporter (9 %)**
 
-* Förklara standarden Adobe [!DNL Marketo Engage] rapporter och när de ska användas (e-postlänkens prestanda, e-postprestanda, landningssidans prestanda, personprestanda, programprestanda, webbsidans aktivitet osv.)
+* Förklara standardrapporterna för Adobe [!DNL Marketo Engage] och när de ska användas (e-postlänksprestanda, e-postprestanda, landningssidprestanda, personprestanda, programprestanda, webbsidesaktivitet osv.)
 * Sammanställ information och mätvärden på kontrollpanelen (Email Program Dashboard, Engagement Program Dashboard)
 * Jämför mätvärden för e-postinsikter
 
@@ -143,7 +143,7 @@ Dessutom bör du känna till följande verktyg och tekniker:
 
 {{readiness}}
 
-[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam){target="_blank"}
+[Ta enkäten om onlineberedskap](https://scorpion.caveon.com/launchpad/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam){target="_blank"}
 
 <br>
 
@@ -165,7 +165,7 @@ Dessutom bör du känna till följande verktyg och tekniker:
 
 {{study-materials-intro}}
 
-**Gör ett övningsprov**
+**Testa**
 
 {{practice-test}}
 
@@ -173,13 +173,13 @@ Dessutom bör du känna till följande verktyg och tekniker:
 
 {{take-course}}
 
-[Ta en kurs i Adobe Marketo Engage Foundations](https://app.rockinfo.com/courses/261)
+[Ta Adobe Marketo Engage Foundation-kursen](https://app.rockinfo.com/courses/261)
 
-**Handbok för testversioner**
+**Handbok för provprogram**
 
 {{exam-prep-guide}}
 
-[Visa guiden Förbered prov](https://app.rockinfo.com/courses/247)
+[Visa guide för testversioner](https://app.rockinfo.com/courses/247)
 
 +++
 
@@ -245,6 +245,6 @@ Dessutom bör du känna till följande verktyg och tekniker:
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.

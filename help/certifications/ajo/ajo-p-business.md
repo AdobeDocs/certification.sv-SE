@@ -1,6 +1,6 @@
 ---
 title: Professionell certifiering
-description: Lär dig hur du blir certifierad Adobe [!DNL Journey Optimizer] Yrkesverksamma inom affärsverksamhet.
+description: Lär dig hur du blir certifierad Adobe [!DNL Journey Optimizer] Business Practitioner Professional.
 solution: Journey Optimizer
 product: Journey Optimizer
 role: User
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Certifieringsresa för Adobe [!DNL Journey Optimizer] Yrkesverksamma inom affärsverksamhet
+# Certifieringsresa för Adobe [!DNL Journey Optimizer] Business Practitioner Professional
 
 {{intro}}
 
@@ -21,12 +21,12 @@ ht-degree: 0%
 >
 >Kostnadsfria, on-demand-kurser finns nu tillgängliga som hjälp att förbereda dig för ditt prov. Börja din utbildningsresa idag genom att välja den kurs som bäst matchar din upplevelse!
 >
->* The [Adobe Experience Platform Foundations Course](https://app.rockinfo.com/courses/216) introducerar Adobe Experience Cloud, en komplett uppsättning verktyg för digital marknadsföring som bygger på den enda plattform som utformats för personalisering i stor skala.
->* The [Adobe Journey Optimizer Foundations Course](https://app.rockinfo.com/courses/113) ger en grund för kunskaper om det här specifika programmet.
->* The [Adobe Journey Optimizer Business Practitioner Professional Course](https://app.rockinfo.com/courses/107) bygger vidare på Foundations-kursen och hjälper dig att förbereda dig för ett certifieringsprov på professionell nivå.
->* The [Handbok för testversioner](https://app.rockinfo.com/courses/232) ger en skräddarsydd väg genom testprocessen, inklusive det material du behöver för att lyckas med provet.
+>* I [Adobe Experience Platform Foundations Course](https://app.rockinfo.com/courses/216) introduceras Adobe Experience Cloud, en komplett uppsättning verktyg för digital marknadsföring som bygger på den enda plattformen som utformats för personalisering i stor skala.
+>* [Adobe Journey Optimizer Foundations Course](https://app.rockinfo.com/courses/113) ger dig kunskaper om det här specifika programmet.
+>* [Adobe Journey Optimizer Business Practitioner Professional Course](https://app.rockinfo.com/courses/107) bygger på Foundations-kursen och hjälper dig att förbereda dig för certifieringsprovet på professionell nivå.
+>* [Handboken för testprogrammet](https://app.rockinfo.com/courses/232) innehåller en anpassad sökväg genom din provprocess, inklusive det material du behöver för att kunna genomföra provet.
 >
->_Om du uppmanas att logga in använder du din Adobe ID._
+>_Använd din Adobe ID om du uppmanas att logga in._
 
 ## Provbeskrivning {#exam-description}
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 
 ### Målgrupp {#intended-audience}
 
-* Adobe [!DNL Journey Optimizer] företagskonsult
+* Affärskonsult för Adobe [!DNL Journey Optimizer]
 * Marknadsförare
 * Affärskommunikation för automatiserad marknadsföring
 * Kampanjchef
@@ -75,7 +75,7 @@ Kandidaterna ska kunna
 * Använd prenumerationslistor
 * Granska profilattribut och händelser (Läs in en profil i användargränssnittet)
 * Förstå och använda landningssidor
-* Förstå när ni ska använda olika typer av resor/kampanjer och utnyttja kampanjfunktionen i Adobe [!DNL Journey Optimizer] för att skapa en e-postutskrift
+* Lär dig när du ska använda olika typer av resor/kampanjer och kan använda funktionen&quot;kampanjer&quot; i Adobe [!DNL Journey Optimizer] för att skapa en e-postutskrift som skickas en gång
 * Förstå möjligheterna med datakällor, händelser och åtgärder
 * Övervaka och granska reserapporter för att spåra e-postmeddelanden/studsar/felfrekvens/skräppostfrekvenser/domänproblem
 * Skapa och validera grundläggande segmentkriterier
@@ -96,7 +96,7 @@ Kandidaterna ska också kunna
 
 * Skapa en målgrupp (med nya målgruppshanterare)
 * Importera en målgrupp (Överför en CSV-målgrupp)
-* Ladda upp och konvertera automatiskt HTML för e-post (ny HTML-konverterare)
+* Ladda upp och konvertera automatiskt HTML för e-post  (ny HTML-konverterare)
 * Skapa ett innehållsexperiment
 * Mät resultatet av ett innehållsexperiment
 * Tagga/filtrera/sök resor, kampanjer med mera
@@ -116,7 +116,7 @@ Kandidaterna ska också kunna
 
 {{exam-objectives}}
 
-**Avsnitt 1: Optimering av kampanjer och resor (48 %)**
+**Avsnitt 1: Optimering av kampanj och resor (48 %)**
 
 * Identifiera hur en kundresa byggs
 * Bestäm hur en kundresa ska valideras efter ett scenario
@@ -178,18 +178,18 @@ Kandidaterna ska också kunna
 {{take-course}}
 
 [Ta en kurs i Adobe Experience Platform Foundations](https://app.rockinfo.com/courses/216){target="_blank"}
-[Ta en kurs i Adobe Journey Optimizer Foundations](https://app.rockinfo.com/courses/113){target="_blank"}
+[Ta en kurs i Adobe Journey Optimizer Foundations ](https://app.rockinfo.com/courses/113){target="_blank"}
 [Ta Adobe Journey Optimizer Business Practitioner Professional Course](https://app.rockinfo.com/courses/107){target="_blank"}
 
-**Gör ett övningsprov**
+**Testa**
 
 {{practice-test}}
 
-**Handbok för testversioner**
+**Handbok för provprogram**
 
 {{exam-prep-guide}}
 
-[Visa guiden Förbered prov](https://app.rockinfo.com/courses/232)
+[Visa guide för testversioner](https://app.rockinfo.com/courses/232)
 
 +++
 
@@ -244,7 +244,7 @@ Kandidaterna ska också kunna
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.
 

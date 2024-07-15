@@ -1,6 +1,6 @@
 ---
 title: Certifikatförnyelse
-description: Lär dig förnya [!DNL Adobe Analytics] certifiering innan den upphör att gälla.
+description: Lär dig hur du förnyar din [!DNL Adobe Analytics] certifiering innan den upphör att gälla.
 solution: Analytics
 product: Analytics
 role: User,Developer, Data Architect
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Förnya Adobe [!DNL Analytics] certifiering
+# Förnya din certifiering för Adobe [!DNL Analytics]
 
 Din Adobe-certifiering gäller i två år. Om du närmar dig den här tvåårsmärkningen är det dags att förnya din certifiering för att den ska förbli aktiv.
 
@@ -26,11 +26,11 @@ Observera att om din certifiering upphör att gälla måste du göra om certifie
 
 >[!IMPORTANT]
 >
->**Logga in först:** Följande länkar fungerar **endast** efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
+>**Logga in först:** Följande länkar fungerar **endast** efter en **lyckad inloggning** till [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
 ><br>
 >
->**Så här delar du en länk:** Om du vill dela länken till en förnyelseprov eller utvärdering med en kollega, ska du länka till den övergripande sidan för förnyelse av tentamen, inte URL:en för tentamen, för att undvika inloggningsproblem.
+>**Så här delar du en länk:** Om du vill dela länken till ett förnyelseprov eller en utvärdering med en kollega, ska du länka till den övergripande sidan för provförnyelse, inte URL:en för provet i sig, för att undvika inloggningsproblem.
 
 >[!BEGINTABS]
 
@@ -44,9 +44,9 @@ Observera att om din certifiering upphör att gälla måste du göra om certifie
 
 ## Instruktioner för att förnya din certifiering:
 
-* **Steg 1**: Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}och sedan återgå till den här sidan
-* **Steg 2**: Granska testens mål och resurser
-* **Steg 3**: Ta och ta examen
+* **Steg 1**: Logga in på [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} och gå sedan tillbaka till den här sidan
+* **Steg 2**: Granska mål och resurser för provet
+* **Steg 3**: Ta och godkänn provet
 
 ### Gör dig redo
 
@@ -60,7 +60,7 @@ Observera att om din certifiering upphör att gälla måste du göra om certifie
 * Krav: aktuell (inte utgången) Adobe Analytics Developer Professional-certifiering
 * Exempel-ID: AD5-E831
 
-**Tillämpningsområde och mål**
+**Omfång och mål**
 
 Avsnitt 1: Analyser i Adobe Experience Cloud ekosystem (13 %)
 
@@ -109,8 +109,8 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 **Avsnitt 1**
 
-* [Analytics-cookies](https://experienceleague.adobe.com/docs/core-services/interface/administration/ec-cookies/cookies-analytics.html)
-* [Lägga till ett dataelement, en regel och ett bibliotek](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-data-elements-rules.html){target="_blank"}
+* [Analytiska cookies](https://experienceleague.adobe.com/docs/core-services/interface/administration/ec-cookies/cookies-analytics.html)
+* [Lägg till ett dataelement, en regel och ett bibliotek](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-data-elements-rules.html){target="_blank"}
 * [Lägg till inbäddningskoden](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-embed-code.html){target="_blank"}
 
 **Avsnitt 2**
@@ -128,7 +128,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 **Avsnitt 4**
 
 * [Lägg till inbäddningskoden](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-embed-code.html){target="_blank"}
-* [Översikt över tillägget Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/id-service/overview.html){target="_blank"}
+* [Översikt över Adobe Experience Cloud Identity Service-tillägget](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/id-service/overview.html){target="_blank"}
 * [Anmälningsreferens](https://experienceleague.adobe.com/docs/id-service/using/implementation/opt-in-service/api.html){target="_blank"}
 
 **Avsnitt 5**
@@ -140,12 +140,12 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 **Avsnitt 6**
 
 * [Felsöka JavaScript-implementering](https://adobedocs.github.io/analytics-2.0-apis/#/Reports){target="_blank"}
-* [Byt taggmiljöer med Experience Cloud Debugger](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/switch-environments.html){target="_blank"}
+* [Byt taggmiljö med Experience Cloud Debugger](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/switch-environments.html){target="_blank"}
 * [Frågeparametrar för datainsamling](https://experienceleague.adobe.com/docs/analytics/implementation/validate/query-parameters.html){target="_blank"}
 
 ## Förnya din certifiering
 
-Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} först. Om du vill förnya din certifiering klickar du på länken Adobe Analytics Developer Professional Renewal Exam - AD5-E831 nedan.
+Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} först. Om du vill förnya din certifiering klickar du på länken Adobe Analytics Developer Professional Renewal Exam - AD5-E831 nedan.
 
 * [Adobe Analytics Developer Professional Renewal Exam - AD5-E831](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E831){target="_blank"}
 
@@ -155,17 +155,17 @@ Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för h
 
 +++
 
-+++Adobe [!DNL Analytics] Yrkesverksamma inom affärsverksamhet
++++Adobe [!DNL Analytics] Business Practitioner Professional
 
-## Du måste ha följande **aktiv** certifiering att förnya med den här metoden:
+## Du måste ha följande **active**-certifiering för att kunna förnya med den här metoden:
 
-* Adobe [!DNL Analytics] Yrkesverksamma inom affärsverksamhet
+* Adobe [!DNL Analytics] - Business Practitioner Professional
 
 ## Instruktioner för att förnya din certifiering:
 
-* **Steg 1**: Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}och sedan återgå till den här sidan
-* **Steg 2**: Granska testens mål och resurser
-* **Steg 3**: Ta och ta examen
+* **Steg 1**: Logga in på [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} och gå sedan tillbaka till den här sidan
+* **Steg 2**: Granska mål och resurser för provet
+* **Steg 3**: Ta och godkänn provet
 
 ## Gör dig redo
 
@@ -179,7 +179,7 @@ Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för h
 * Krav: aktuell (inte utgången) Adobe Analytics Business Practitioner Professional-certifiering
 * Exempel-ID: AD5-E832
 
-**Tillämpningsområde och mål**
+**Omfång och mål**
 
 Avsnitt 1: Affärsanalys
 
@@ -241,34 +241,34 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 **Avsnitt 2**
 
 * [Dela projekt](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html)
-* [Komponenter - översikt](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html)
-* [Varningsverktyg](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-builder.html)
+* [Komponentöversikt](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html)
+* [Varningsverktyget](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-builder.html)
 * [Skapa ett mobilstyrkort](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/create-scorecard.html)
 
 **Avsnitt 3**
 
 * [Segmentjämförelse](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html)
-* [Bygg mätvärden](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html)
+* [Bygg mått](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html)
 * [Använda nedrullningsbara filter i Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-drop-down-filters.html)
 * [Tagga segment](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-tag.html)
 
 **Avsnitt 4**
 
-* [Felsöka tagningar och datasläppningar](https://experienceleague.adobe.com/docs/analytics/technotes/event/spikes-drops.html)
+* [Felsöka taggar och fall i data](https://experienceleague.adobe.com/docs/analytics/technotes/event/spikes-drops.html)
 * [Anpassade händelser](https://experienceleague.adobe.com/docs/analytics/components/metrics/custom-events.html)
-* [Hämta PDF eller CSV-filer](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html)
-* [A Beginner&#39;s Guide to URL Parameters](https://www.semrush.com/blog/url-parameters/)
+* [Hämta PDF- eller CSV-filer](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html)
+* [En nybörjarhandbok för URL-parametrar](https://www.semrush.com/blog/url-parameters/)
 
 **Avsnitt 5**
 
-* [Bearbetningsregler för marknadsföringskanaler](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/marketing-channels/c-rules.html)
-* [Klassificeringsöversikt](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html)
+* [Bearbetar regler för marknadsföringskanaler](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/marketing-channels/c-rules.html)
+* [Översikt över klassificeringar](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html)
 * [Skapa virtuella rapportsviter](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-workflow/vrs-create.html)
 * [Frågor och svar om sekretesskrav](https://experienceleague.adobe.com/docs/experience-platform/privacy/regulations/faq.html)
 
 ## Förnya din certifiering
 
-Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} först. Om du vill förnya din certifiering klickar du på länken AD5-E832 Adobe Analytics Business Practitioner Professional Renewal Exam (AD5-E832) nedan.
+Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} först. Om du vill förnya din certifiering klickar du på länken AD5-E832 Adobe Analytics Business Practitioner Professional Renewal Exam (AD5-E832) nedan.
 
 * [AD5-E832 Adobe Analytics Business Practitioner Professional Renewal Exam](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E832){target="_blank"}
 
@@ -278,9 +278,9 @@ Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för h
 
 +++
 
->[!TAB Expert och master]
+>[!TAB Expert och mallsida]
 
-## Du måste ha minst ett av följande **aktiv** certifiering att förnya med den här metoden:
+## Du måste ha minst en av följande **active**-certifiering för att kunna förnya med den här metoden:
 
 * Adobe Analytics Developer Expert
 * Adobe Analytics Business Practitioner Expert
@@ -288,19 +288,19 @@ Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för h
 
 ## Instruktioner för hur du förnyar din Adobe Analytics-certifiering
 
-* **Steg 1:** Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}och sedan återgå till den här sidan
+* **Steg 1:** Logga in på [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} och gå sedan tillbaka till den här sidan
 * **Steg 2:** Studera kurserna i Experience League
 * **Steg 3:** Välj bland alternativen nedan för att slutföra förnyelsen.
 
   **Alternativ A:**
-Välj **tre kurser** för att slutföra och genomföra varje kursbedömning med en poäng på 80 procent eller högre. Kursomdömen är kostnadsfria, on-demand, icke-upphandlade och öppna böcker. Du kan upprepa kurserna tills du har klarat utvärderingen till 80 %.
+Välj **tre kurser** för att slutföra och genomföra varje kursbedömning med en poäng på 80 % eller högre. Kursomdömen är kostnadsfria, on-demand, icke-upphandlade och öppna böcker. Du kan upprepa kurserna tills du har klarat utvärderingen till 80 %.
 
   **Alternativ B:**
-Först väljer du **två kurser** för att slutföra och genomföra varje kursbedömning med en poäng på 80 procent eller högre. Kursomdömen är kostnadsfria, on-demand, icke-upphandlade och öppna böcker. Du kan upprepa kurserna tills du har klarat utvärderingen till 80 %.
+Välj först **två kurser** för att slutföra och genomföra varje kursutvärdering med en poängsättning på 80 % eller mer. Kursomdömen är kostnadsfria, on-demand, icke-upphandlade och öppna böcker. Du kan upprepa kurserna tills du har klarat utvärderingen till 80 %.
 
-  Andra, **skicka ett kundreferensformulär** validera ditt fortsatta arbete som en Adobe-certifierad person som leder, hanterar och/eller deltar i ett Adobe Experience Cloud-implementeringsprojekt. Det här formuläret bekräftar att du har deltagit i minst 100 timmars dokumenterat projektengagemang under 2-årsförnyelsen av certifieringen.
+  Därefter **skickar du in ett kundreferensformulär** som validerar ditt fortsatta arbete som en Adobe-certifierad enskild ledare, hanterar och/eller deltar i ett Adobe Experience Cloud-implementeringsprojekt. Det här formuläret bekräftar att du har deltagit i minst 100 timmars dokumenterat projektengagemang under 2-årsförnyelsen av certifieringen.
 
-  [Kundreferensblankett för Adobe Analytics](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA200){target="_blank"}
+  [Kundreferensformulär för Adobe Analytics](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA200){target="_blank"}
 
   Du meddelas via Adobe Digital Experience Certification Program när kundens referens har granskats. Om din referens inte godkänns kan du skicka in den igen tills du har lyckats, så länge som det är innan certifieringen upphör att gälla.
 
@@ -312,10 +312,10 @@ Först väljer du **två kurser** för att slutföra och genomföra varje kursbe
 
 | Kurser för expert och master | Kursutvärdering |
 | ------- | ------- |
-| [Adobe Analytics Attributing Value to Digital Touch points in the Customer Journey](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2){target="_blank"} | [ADR-EA201](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA201){target="_blank"} |
+| [Adobe Analytics Attributing Value to Digital Touch-points in the Customer Journey](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2){target="_blank"} | [ADR-EA201](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA201){target="_blank"} |
 | [Exportera och demokratisera Adobe Analytics-data - Lektion 5 och 6](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing){target="_blank"} | [ADR-EA202](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA202){target="_blank"} |
-| [Filtrera data med anpassad segmentering och datum - lektion 2](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata){target="_blank"} | [ADR-EA203](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA203){target="_blank"} |
-| [Implementering av guidad analys - lektion 5](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1){target="_blank"} | [ADR-EA204](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA204){target="_blank"} |
+| [Filtrera data med anpassad segmentering och datum - Lektion 2](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata){target="_blank"} | [ADR-EA203](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA203){target="_blank"} |
+| [Implementering av guidad analys - Lektion 5](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1){target="_blank"} | [ADR-EA204](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA204){target="_blank"} |
 | [Implementera och mäta intern webbplatssökning - Lektion 3 och 4](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search){target="_blank"} | [ADR-EA205](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA205){target="_blank"} |
 | [Adobe Analytics API:er](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/apis/using-analysis-workspace-to-build-api-2-requests.html){target="_blank"} | [ADR-EA206](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA206){target="_blank"} |
 
@@ -323,6 +323,6 @@ Först väljer du **två kurser** för att slutföra och genomföra varje kursbe
 
 ### Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.

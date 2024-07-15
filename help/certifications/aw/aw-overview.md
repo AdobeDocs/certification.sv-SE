@@ -10,19 +10,19 @@ ht-degree: 14%
 
 ---
 
-# Adobe [!DNL Workfront] Certifieringsöversikt
+# Certifieringsöversikt för Adobe [!DNL Workfront]
 
 ## Alla tillgängliga tentamen för Adobe [!DNL Workfront]
 
 **Professional**
 
-* [Developer (Fusion)](/help/certifications/aw/aw-fusion-p-developer.md) <!--AD0-E902-->
+* [Utvecklare (Fusion)](/help/certifications/aw/aw-fusion-p-developer.md) <!--AD0-E902-->
 * [Projektledare](/help/certifications/aw/aw-p-project-manager.md) <!--AD0-E903-->
 * [Utvecklare (Core)](/help/certifications/aw/aw-core-p-developer-23-12.md) <!--AD0-E908-->
 
 **Expert**
 
 * [Utvecklare (Core)](/help/certifications/aw/aw-core-e-developer-23-08.md) <!--AD0-E907-->
-* [AEM Enhanced Connector](/help/certifications/aw/aw-aem-e-connector.md) <!--AD0-E906-->
+* [AEM Förbättrad koppling](/help/certifications/aw/aw-aem-e-connector.md) <!--AD0-E906-->
 
-Besök [Förnya din certifiering](/help/certifications/renew.md) för att se om det finns något förnyelsealternativ för den här produkten.
+Gå till sidan [Förnya din certifiering](/help/certifications/renew.md) för att se om det finns något förnyelsealternativ för den här produkten.

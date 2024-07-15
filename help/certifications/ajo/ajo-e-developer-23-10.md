@@ -1,6 +1,6 @@
 ---
 title: Expertcertifiering
-description: Lär dig hur du blir certifierad Adobe [!DNL Journey Optimizer] Developer Expert.
+description: Lär dig hur du blir en certifierad Adobe [!DNL Journey Optimizer] Developer Expert.
 solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
@@ -21,11 +21,11 @@ ht-degree: 0%
 >
 >Nu finns kostnadsfria resurser på begäran som hjälper dig att förbereda dig för ditt prov:
 >
->* **Kurs:** Kostnadsfritt, on-demand [Adobe Journey Optimizer Developer Expert Course](https://app.rockinfo.com/courses/147) innehåller förklaringar av viktiga begrepp, praktiska demonstrationer och kunskapsundersökningar.
+>* **Kurs:** Den kostnadsfria [Adobe Journey Optimizer Developer Expert Course](https://app.rockinfo.com/courses/147) innehåller förklaringar av viktiga begrepp, praktiska demonstrationer och kunskapsbaserade kontroller.
 >
->* **Handbok för testversioner:** The [Handbok för testversioner](https://app.rockinfo.com/courses/143) ger en skräddarsydd väg genom testprocessen, inklusive det djupgående studiematerialet som du behöver för att lyckas med provet.
+>* **Handbok för testversioner:** I [handboken för testversioner](https://app.rockinfo.com/courses/143) finns en skräddarsydd sökväg som du kan använda som förberedelse för proven, inklusive det ingående studiematerialet som du behöver för att kunna genomföra provet.
 >
->_Om du uppmanas att logga in använder du din Adobe ID._
+>_Använd din Adobe ID om du uppmanas att logga in._
 
 ## Provbeskrivning {#exam-description}
 
@@ -95,11 +95,11 @@ Adobe Journey Optimizer drivs av Experience Platform. De sökande som vill bli c
 
 * Uppvisa förståelse för att skapa och hantera erbjudanden och komponenter
 * Uppvisa hur man använder testprofiler för att köra erbjudandesimulering
-* Förklara skillnaden mellan erbjudandehubben och Edge API
+* Förklara skillnaden mellan Erbjudandehubben och Edge API
 * Använda processen för att skapa beslut
 * Lägg till erbjudanden i olika kanaler
 
-**Section 4: Content Authoring (22%)**
+**Avsnitt 4: Innehållsredigering (22 %)**
 
 * Uppvisa hur man skapar e-post, SMS i appmeddelanden och push-meddelanden
 * Tolka hjälpfunktioner och personaliseringssyntax för att visa vad som skulle visas
@@ -137,17 +137,17 @@ Adobe Journey Optimizer drivs av Experience Platform. De sökande som vill bli c
 
 {{take-course}}
 
-[Ta en expertkurs i Adobe Journey Optimizer Developer](https://app.rockinfo.com/courses/147)
+[Ta en expertkurs för Adobe Journey Optimizer-utvecklare](https://app.rockinfo.com/courses/147)
 
-**Gör ett övningsprov**
+**Testa**
 
 {{practice-test}}
 
-**Handbok för testversioner**
+**Handbok för provprogram**
 
 {{exam-prep-guide}}
 
-[Visa guiden Förbered prov](https://app.rockinfo.com/courses/143)
+[Visa guide för testversioner](https://app.rockinfo.com/courses/143)
 
 +++
 
@@ -202,6 +202,6 @@ Adobe Journey Optimizer drivs av Experience Platform. De sökande som vill bli c
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.

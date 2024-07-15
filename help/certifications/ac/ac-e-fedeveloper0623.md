@@ -1,6 +1,6 @@
 ---
 title: Ny certifiering från Front End Developer Expert
-description: Lär dig hur du blir certifierad Adobe Developer-expert i Adobe [!DNL Commerce].
+description: Lär dig hur du blir en certifierad Adobe Developer-expert i Adobe [!DNL Commerce].
 solution: Commerce
 product: Magento
 role: Developer
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/139) ger dig en skräddarsydd väg genom din förberedande process för certifieringstester, inklusive det material du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
+>**Nya studieresurser tillgängliga:** I [handboken för testversioner](https://app.rockinfo.com/courses/139) finns en skräddarsydd väg genom din testprocess för certifiering, inklusive det material du behöver för att lyckas med certifieringen. _Använd din Adobe ID om du uppmanas att logga in på guiden för testversioner._
 
 ## Provbeskrivning {#exam-description}
 
@@ -56,7 +56,7 @@ Dessutom bör du vara bekväm med följande tekniker:
 
 * [!DNL Adobe Commerce] - version 2.4.6
 * Grundläggande förståelse av frontdelens struktur och layout
-* Upplevelse och förståelse av HTML, CSS (och preprocessorer), LESS, JavaScript- och UI-komponenter, jQuery, understreck, Require.JS, knockout, även PHP-mallar, DB-kunskaper och innehållshantering
+* Upplevelse och förståelse av HTML, CSS (och preprocessorer), LESS, JavaScript och UI Components, jQuery, Underscore, Require.JS, Knockout, även PHP-mallar, DB-kunskaper och innehållshantering
 * Bekanta dig med plattformen, CMS-block, widgetar, CMS-sidor, kategorisidor, produktsidor, kundvagn och utcheckning samt kontokontrollpanelen
 * Grundläggande förståelse för eller kunskap om administratörskonfigurationer
 * Kunskap om hur du utökar och skriver över format, layouter och JS-filer
@@ -86,7 +86,7 @@ Dessutom bör du vara bekväm med följande tekniker:
 * Uppvisa förmåga att tillämpa översättningar
 * Använd en uppsättning användningsexempel för att identifiera när filer ska placeras i program/kod eller app/design
 
-**Avsnitt 2: XML och mallar för layout (phtml-mallar) (22 %)**
+**Avsnitt 2: Layout-XML och mallar (phtml-mallar) (22 %)**
 
 * Uppvisa möjligheten att använda XML-instruktioner för layout
 * Uppvisa förmåga att skapa nya sidlayouter
@@ -109,7 +109,7 @@ Dessutom bör du vara bekväm med följande tekniker:
 **Avsnitt 4: JavaScript (bildwidgetar, bildbibliotek, kunddatamodul, Blockera mallar) (22 %)**
 
 * Uppvisa förmåga att initiera och anropa JavaScript-komponenter
-* Skilj olika användningsområden för olika JavaScript-komponenter
+* Skilj användningsexempel för olika JavaScript-komponenter
 * Uppvisa hur RequireJS används
 * Uppvisa förmåga att implementera olika typer av mixiner
 * Beskriv hur du lägger till en översättning i JS
@@ -139,7 +139,7 @@ Dessutom bör du vara bekväm med följande tekniker:
 
 {{readiness}}
 
-[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad0-e710-adobe-commerce-front-end-developer-expert-copy-jtnjz6){target="_blank"}
+[Ta enkäten om onlineberedskap](https://scorpion.caveon.com/launchpad/ad0-e710-adobe-commerce-front-end-developer-expert-copy-jtnjz6){target="_blank"}
 
 <br>
 
@@ -161,15 +161,15 @@ Dessutom bör du vara bekväm med följande tekniker:
 
 {{study-materials-intro}}
 
-**Gör ett övningsprov**
+**Testa**
 
 {{practice-test}}
 
-**Handbok för testversioner**
+**Handbok för provprogram**
 
 {{exam-prep-guide}}
 
-[Visa guiden Förbered prov](https://app.rockinfo.com/courses/139)
+[Visa guide för testversioner](https://app.rockinfo.com/courses/139)
 
 +++
 
@@ -224,6 +224,6 @@ Dessutom bör du vara bekväm med följande tekniker:
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.

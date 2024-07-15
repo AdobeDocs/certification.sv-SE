@@ -1,6 +1,6 @@
 ---
 title: Certifiering för utvecklare
-description: Lär dig certifiera dig som [!DNL Adobe Analytics] Developer Professional.
+description: Lär dig hur du blir certifierad som  [!DNL Adobe Analytics] Utvecklare.
 solution: Analytics
 product: Analytics
 role: Developer
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/217) ger dig en skräddarsydd väg genom din förberedande process för certifieringstester, inklusive det material du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
+>**Nya studieresurser tillgängliga:** I [handboken för testversioner](https://app.rockinfo.com/courses/217) finns en skräddarsydd väg genom din testprocess för certifiering, inklusive det material du behöver för att lyckas med certifieringen. _Använd din Adobe ID om du uppmanas att logga in på guiden för testversioner._
 
 ## Provbeskrivning {#exam-description}
 
@@ -53,22 +53,22 @@ ht-degree: 0%
 
 Du borde ha:
 
-* 6-12 månaders erfarenhet inom [!DNL Adobe Analytics] implementering (webb och mobilapp)
+* 6-12 månaders erfarenhet av [!DNL Adobe Analytics]-implementering (webb och mobilapp)
 * Upplevelser som stöder implementeringsteamen inom analys i en bro mellan IT och företaget för att förstå hur affärskraven övergår till en teknisk lösning (SDR), och baserat på krav från analytikern
 * Förstå vilken typ av variabel som behövs, var och hur data ska samlas in, utforma datamodellen (datalagret), konfigurera och underhålla tagghanteringslösningen
 
 Du bör även ha erfarenhet av följande uppgifter:
 
-* Tolka ett SDR (Solutions Design Document) och förstå syftet med alla [!DNL Adobe Analytics] insamlade variabler
+* Tolka ett SDR (Solutions Design Document) och förstå syftet med alla [!DNL Adobe Analytics] variabler som samlats in
 * Understanding and work with Adobe (Experience Platform) Launch
-* Om konfiguration av baslinje [!DNL Adobe Analytics] dimensioner och händelser Sidnamn, länknamn, Activity Map o.s.v., men kommer att arbeta med expertutvecklare för fler kundimplementeringar - Variabelmappning ägs fortfarande av expertnivåutvecklare
+* Om konfigurationen av baslinjens [!DNL Adobe Analytics] dimensioner och händelser Sidnamn, Länknamn, Activity Map och så vidare, men kommer att fungera med expertutvecklare för fler kundimplementeringar - Variabelmappningen ägs fortfarande av utvecklare på expertnivå
 * Skapa och konfigurera regler i Launch efter designen från en AA-expert
 * Testa och validera data som samlas in i variabler och händelser som utlöses med hjälp av webbkonsolfelsökare eller mobilappssystem som charleloggar
 * Förstå vad ett datalager är och veta hur man läser ett JavaScript-objekt
 * Dela rapporter, segment och processen för att begära åtkomst, men inte hur man hanterar användargrupper, styrningsprotokoll och SDR.
 * Tillhandahålla vägledning och konfigurera mobil-/SDK-lösning
 * Förstå det allmänna ramverket bakom videospårning (händelsebaserad) av angiven kunskapsbasdokumentation
-* Utföra grundläggande rapporter från Analysis Workspace och förstå de data som finns tillgängliga från [!DNL Adobe Analytics] Data Warehouse
+* Utför grundläggande rapportering från Analysis Workspace och förstår de datautdata som är tillgängliga från Datan Warehouse [!DNL Adobe Analytics]
 * Grundläggande upplevelse med Adobe Experience Platform Launch (Adobe Launch)
 
 <br>
@@ -81,19 +81,19 @@ Du bör även ha erfarenhet av följande uppgifter:
 
 * Identifiera funktioner och funktionalitet för Adobe Experience Cloud ID.
 * Identifiera användning för Adobe Launch.
-* Identifiera hur man aktiverar/stöder [!DNL Adobe Analytics] i Adobe Experience Cloud Eco-system.
+* Identifiera hur du aktiverar/stöder [!DNL Adobe Analytics]-taggar i Adobe Experience Cloud-ekosystemet.
 
-**Avsnitt 2: Analysstrategi och design som bygger på SDR (12 %)**
+**Avsnitt 2: Analysstrategi och design baserat på ett SDR (12 %)**
 
 * Ange vilka dataobjekt som ska fyllas i med hjälp av en referens för lösningsdesign.
 * Identifiera hur datainhämtningen ska implementeras i ett Tech Spec-dokument.
 
 **Avsnitt 3: Analysimplementering och konfiguration (30 %)**
 
-* Identifiera stegen som ska distribueras [!DNL Adobe Analytics] Kod.
+* Identifiera stegen för att distribuera [!DNL Adobe Analytics]-kod.
 * Identifiera funktioner med minimal driftsättningskod för Analytics-spårning.
-* Identifiera stegen för att konfigurera olika komponenter i [!DNL Adobe Analytics] Gränssnitt.
-* Identifiera funktioner i [!DNL Adobe Analytics] rapportsviten och variabelinställningar.
+* Identifiera stegen för att konfigurera olika komponenter i användargränssnittet för [!DNL Adobe Analytics].
+* Identifiera funktioner i [!DNL Adobe Analytics]-rapportsviten och variabelinställningar.
 * Identifiera egenskaperna för ett datalager och datalagervärden.
 * Identifiera App Measurement-funktioner för att spåra funktioner som länkspårning och e-handelsspårning.
 
@@ -106,15 +106,15 @@ Du bör även ha erfarenhet av följande uppgifter:
 
 **Avsnitt 5: Komponenter i [!DNL Adobe Analytics] (8 %)**
 
-* Identifiera funktionerna i [!DNL Adobe Analytics] API (dataflöde, lagerställe, datakällor, rapporter).
+* Identifiera funktionerna i [!DNL Adobe Analytics] API (datafeed, lagerställe, datakällor, rapporter).
 * Identifiera bearbetningsregelernas egenskaper.
 
 **Avsnitt 6: Testning, validering och felsökning (18 %)**
 
 * Identifiera innebörden av vanliga JavaScript-fel.
-* Identifiera innebörden av vanliga [!DNL Adobe Analytics] variabelfel.
+* Identifiera innebörden av vanliga [!DNL Adobe Analytics]-variabelfel.
 * I ett scenario bör du identifiera de bästa metoderna för testning och felsökningsvalidering som ska följas.
-* Identifiera hur man spårar en [!DNL Adobe Analytics] serversamtal (dvs. Från beacon-begäran till visning i rapporten.)
+* Identifiera hur du spårar ett [!DNL Adobe Analytics]-serversamtal (dvs. Från beacon-begäran till visning i rapporten.)
 
 <br>
 
@@ -122,7 +122,7 @@ Du bör även ha erfarenhet av följande uppgifter:
 
 {{readiness}}
 
-[Ta ett frågeformulär om beredskap online](https://sei.caveon.com/launchpad/ad-q-e213-readiness-questionnaire-for-adobe-analytics-developer-professional-exam){target="_blank"}
+[Ta enkäten om onlineberedskap](https://sei.caveon.com/launchpad/ad-q-e213-readiness-questionnaire-for-adobe-analytics-developer-professional-exam){target="_blank"}
 
 <br>
 
@@ -144,15 +144,15 @@ Du bör även ha erfarenhet av följande uppgifter:
 
 {{study-materials-intro}}
 
-**Gör ett övningsprov**
+**Testa**
 
 {{practice-test}}
 
-**Handbok för testversioner**
+**Handbok för provprogram**
 
 {{exam-prep-guide}}
 
-[Visa guiden Förbered prov](https://app.rockinfo.com/courses/217)
+[Visa handboken för testversioner](https://app.rockinfo.com/courses/217)
 
 +++
 
@@ -207,7 +207,7 @@ Du bör även ha erfarenhet av följande uppgifter:
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.
 

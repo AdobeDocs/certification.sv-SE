@@ -1,6 +1,6 @@
 ---
 title: Certifiering av utvecklarexpert
-description: Lär dig bli en certifierad Adobe Developer-expert på [!DNL Campaign Classic].
+description: Lär dig hur du blir en certifierad Adobe Developer-expert i  [!DNL Campaign Classic].
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: Developer
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/252) ger dig en skräddarsydd väg genom testprocessen för certifiering, inklusive ingående studiematerial som du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
+>**Nya studieresurser tillgängliga:** I [handboken för testversioner](https://app.rockinfo.com/courses/252) finns en skräddarsydd väg genom din förberedande process för certifieringstester, inklusive det ingående studiematerialet som du behöver för att lyckas med certifieringen. _Använd din Adobe ID om du uppmanas att logga in på guiden för testversioner._
 
 ## Provbeskrivning {#exam-description}
 
@@ -44,7 +44,7 @@ ht-degree: 0%
 
 * Teknisk konsult
 * Marknadsföringstekniker
-* Adobe [!DNL Campaign Classic] utvecklare
+* Adobe [!DNL Campaign Classic]-utvecklare
 
 <br>
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 Du borde ha:
 
 * Minst två års erfarenhet av Campaign-programvara
-* Minst tre års kombinerad erfarenhet av JavaScript-programmering, SQL-utveckling inklusive ETL och webbteknik (XML, HTML och webbtjänster)
+* Minst tre års kombinerad erfarenhet av JavaScript-programmering, SQL-utveckling, inklusive ETL, och webbteknik (XML, HTML och web services)
 * Upplevelse som kör en marknadsföringskampanj med digital flerkanalsmarknadsföring
 * Upplevelse med databasarkitektur och kunskap om databasmarknadsföring
 * Möjlighet att kartlägga krav för Campaign-funktionen
@@ -79,9 +79,9 @@ Du borde ha:
 * Använd bästa praxis för att utforma en datamodell utifrån en uppsättning krav
 * Beskriv implementeringen av API:er i Campaign
 * Beskriv de bästa sätten att utveckla med JavaScript i Adobe Campaign
-* Använd JavaScript-bibliotek i arbetsflöden, SOAP-anrop, typologiregler och personaliseringsblock
+* Använd JavaScript-bibliotek i arbetsflöden, SOAP, typologiregler och personaliseringsblock
 * Beskriv de bästa sätten att använda SQL-funktioner i Adobe [!DNL Campaign Classic]
-* I ett scenario, förstå hur du använder SQL-skript i Adobe [!DNL Campaign Classic]
+* Om du har angett ett scenario bör du förstå hur du använder SQL-skript i Adobe [!DNL Campaign Classic]
 * Beskriv vanliga OTB-funktioner
 
 **Avsnitt 3: Åtkomsthantering (8 %)**
@@ -124,7 +124,7 @@ Du borde ha:
 
 {{readiness}}
 
-[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-21ocv4/ad-q-e312-readiness-questionnaire-adobe-campaign-classic-developer-expert-exam){target="_blank"}
+[Ta enkäten om onlineberedskap](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-21ocv4/ad-q-e312-readiness-questionnaire-adobe-campaign-classic-developer-expert-exam){target="_blank"}
 
 <br>
 
@@ -146,15 +146,15 @@ Du borde ha:
 
 {{study-materials-intro}}
 
-**Gör ett övningsprov**
+**Testa**
 
 {{practice-test}}
 
-**Handbok för testversioner**
+**Handbok för provprogram**
 
 {{exam-prep-guide}}
 
-[Visa guiden Förbered prov](https://app.rockinfo.com/courses/252)
+[Visa guide för testversioner](https://app.rockinfo.com/courses/252)
 
 +++
 
@@ -209,6 +209,6 @@ Du borde ha:
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.

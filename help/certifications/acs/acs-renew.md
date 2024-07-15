@@ -1,6 +1,6 @@
 ---
 title: Certifikatförnyelse
-description: Lär dig förnya Adobe [!DNL Campaign Standard] certifiering innan den upphör att gälla.
+description: Lär dig hur du förnyar din Adobe [!DNL Campaign Standard] certifiering innan den upphör att gälla.
 solution: Campaign,Campaign Standard
 product: Campaign
 role: User,Developer
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Förnya Adobe [!DNL Campaign Standard] certifiering
+# Förnya din certifiering för Adobe [!DNL Campaign Standard]
 
 Din Adobe-certifiering gäller i två år. Om du närmar dig den här tvåårsmärkningen är det dags att förnya din certifiering för att den ska förbli aktiv.
 
@@ -26,27 +26,27 @@ Observera att om din certifiering upphör att gälla måste du göra om certifie
 
 >[!IMPORTANT]
 >
->**Logga in först:** Följande länkar fungerar **endast** efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
+>**Logga in först:** Följande länkar fungerar **endast** efter en **lyckad inloggning** till [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
 ><br>
 >
->**Så här delar du en länk:** Om du vill dela länken till en förnyelseprov eller utvärdering med en kollega, ska du länka till den övergripande sidan för förnyelse av tentamen, inte URL:en för tentamen, för att undvika inloggningsproblem.
+>**Så här delar du en länk:** Om du vill dela länken till ett förnyelseprov eller en utvärdering med en kollega, ska du länka till den övergripande sidan för provförnyelse, inte URL:en för provet i sig, för att undvika inloggningsproblem.
 
 >[!BEGINTABS]
 
 >[!TAB Expert]
 
-+++Adobe [!DNL Campaign Standard] Förnyelse av expert på Business Practizer
++++Adobe [!DNL Campaign Standard] Expertförnyelse av Business Practitioner
 
 Du bör vara certifierad (inte utgånget) i:
 
-* Adobe [!DNL Campaign Standard] Yrkesverksamma inom affärsverksamhet
+* Adobe [!DNL Campaign Standard] - expert på affärspraktikant
 
 ## Instruktioner för att förnya din certifiering:
 
-* **Steg 1**: Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}och sedan återgå till den här sidan
-* **Steg 2**: Granska testens mål och resurser
-* **Steg 3**: Ta och ta examen
+* **Steg 1**: Logga in på [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} och gå sedan tillbaka till den här sidan
+* **Steg 2**: Granska mål och resurser för provet
+* **Steg 3**: Ta och godkänn provet
 
 ### Gör dig redo
 
@@ -57,10 +57,10 @@ Du bör vara certifierad (inte utgånget) i:
 * Kostnad: KOSTNADSFRITT/icke-upphandlat
 * Leverans: On-demand
 * Tillgängliga språk: engelska
-* Krav: aktuell (inte utgången) Adobe [!DNL Campaign Standard] Certifiering av expert på affärsverksamhet
+* Förutsättning: aktuell (inte utgången) expertcertifiering för Adobe [!DNL Campaign Standard] Business Practitioner
 * Exempel-ID: AD5-E822
 
-**Tillämpningsområde och mål**
+**Omfång och mål**
 
 Avsnitt 1: Kampanjhantering
 
@@ -94,25 +94,25 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 **Avsnitt 1: Kampanjhantering**
 
-* [Adobe [!DNL Campaign Standard] Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=sv){target="_blank"} (arbeta med marknadsföringsaktiviteter, bygga e-postinnehåll, kommunikationskanaler, leveranser, konfigurera kanaler)
+* [Adobe [!DNL Campaign Standard] Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=sv){target="_blank"} (arbeta med marknadsföringsaktiviteter, skapa e-postinnehåll, kommunikationskanaler, leveranser, konfigurera kanaler)
 
 **Avsnitt 2: Leveranshantering**
 
-* [Adobe [!DNL Campaign Standard] Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=sv){target="_blank"} (bygga e-postinnehåll, förbereda och testa meddelanden, kommunikationskanaler - e-post, programinställningar)
+* [Adobe [!DNL Campaign Standard] Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=sv){target="_blank"} (skapa e-postinnehåll, förbereda och testa meddelanden, kommunikationskanaler - e-post, programinställningar)
 
-**Avsnitt 3: Utformning och genomförande av arbetsflöden**
+**Avsnitt 3: Arbetsflödesdesign och körning**
 
 * [Adobe [!DNL Campaign Standard] Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=sv){target="_blank"} (hantera processer och data, hantera målgrupper, schemalägga meddelanden, lägga till eller utöka en resurs)
 
 **Avsnitt 4: Administration, övervakning och rapportering**
 
-* [Adobe [!DNL Campaign Standard] Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=sv){target="_blank"} (utföra ett arbetsflöde, testa och skicka, anpassa rapporter, profiler och målgrupper, användare och säkerhet)
+* [Adobe [!DNL Campaign Standard] Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=sv){target="_blank"} (kör ett arbetsflöde, testar och skickar, anpassar rapporter, profiler och målgrupper, användare och säkerhet)
 
 ## Förnya din certifiering
 
-Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} först. Klicka sedan på [!DNL Campaign Standard] Förnyelse av affärsman - länk AD5-822 nedan.
+Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} först. Klicka sedan på länken [!DNL Campaign Standard] Business Practitioner förnyelse - AD5-822 nedan om du vill förnya provet.
 
-* [[!DNL Campaign Standard] Förnyelse av affärsman - AD5-822](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E822){target="_blank"}
+* [[!DNL Campaign Standard] Förnyelse av affärspraktiserande - AD5-822](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E822){target="_blank"}
 
 >[!NOTE]
 >
@@ -120,17 +120,17 @@ Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för h
 
 +++
 
-+++Adobe [!DNL Campaign Standard] Expertförnyelse för utvecklare
++++Adobe [!DNL Campaign Standard] förnyelse av utvecklarexpert
 
 Du bör vara certifierad (inte utgånget) i:
 
-* Adobe [!DNL Campaign Standard] Expert på utvecklare
+* Adobe [!DNL Campaign Standard]-utvecklarexpert
 
 ## Instruktioner för att förnya din certifiering:
 
-* **Steg 1**: Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}och sedan återgå till den här sidan
-* **Steg 2**: Granska testens mål och resurser
-* **Steg 3**: Ta och ta examen
+* **Steg 1**: Logga in på [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} och gå sedan tillbaka till den här sidan
+* **Steg 2**: Granska mål och resurser för provet
+* **Steg 3**: Ta och godkänn provet
 
 ### Gör dig redo
 
@@ -141,10 +141,10 @@ Du bör vara certifierad (inte utgånget) i:
 * Kostnad: KOSTNADSFRITT/icke-upphandlat
 * Leverans: On-demand
 * Tillgängliga språk: engelska
-* Krav: aktuell (inte utgången) Adobe [!DNL Campaign Standard] Certifiering av utvecklarexpert
+* Krav: aktuell (inte utgången) Adobe [!DNL Campaign Standard] Developer Expert-certifiering
 * Exempel-ID: AD5-E821
 
-**Tillämpningsområde och mål**
+**Omfång och mål**
 
 Avsnitt 1: Datamodellering och datahantering (30 %)
 
@@ -182,10 +182,10 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 **Avsnitt 1: Datamodellering och datahantering**
 
 * [Skapa en anpassad resurs](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/creating-a-custom-resource.html){target="_blank"}
-* [Skapa eller utöka resursen](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/creating-or-extending-the-resource.html){target="_blank"}
+* [Skapar eller utökar resursen](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/creating-or-extending-the-resource.html){target="_blank"}
 * [Konfigurera en skärmdefinition för en anpassad resurs](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/configuring-a-screen-definition-for-a-custom-resource.html){target="_blank"}
 * [Konfigurera skärmdefinitionen](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-screen-definition.html){target="_blank"}
-* [Länka anpassade resurser](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/linking-custom-resources.html){target="_blank"}
+* [Länkar anpassade resurser](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/linking-custom-resources.html){target="_blank"}
 * [Konfigurerar resursens datastruktur](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-resource-s-data-structure.html#defining-links-with-other-resources){target="_blank"}
 * [Godkännandeprocess](https://one.workfront.com/s/learningpath2/approval-processes-in-the-new-workfront-experience-MCG72NHD2HPJGZBD7ANMBBNORGBM){target="_blank"}
 * [Uppdaterar databasstrukturen](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/updating-the-database-structure.html){target="_blank"}
@@ -204,8 +204,8 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Prenumerationstjänster](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/subscription-services.html){target="_blank"}
 * [Viktiga steg för att skicka ett meddelande](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/about-communication-channels/key-steps-to-send-a-message.html){target="_blank"}
 * [Spåra och övervaka](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/delivery-bestpractices/track-and-monitor.html){target="_blank"}
-* [Sammanfattning av leverans](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/delivery-summary.html){target="_blank"}
-* [Campaign Email Designer](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html#video){target="_blank"}
+* [Leveranssammanfattning](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/delivery-summary.html){target="_blank"}
+* [E-postkampanj för Designer](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html#video){target="_blank"}
 * [Kom igång med dynamisk rapportering](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/get-started-reporting.html){target="_blank"}
 
 **Avsnitt 3: Administration**
@@ -213,10 +213,10 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Hantera grupper och användare](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/managing-groups-and-users.html){target="_blank"}
 * [Organisationsenheter](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/organizational-units.html){target="_blank"}
 * [Hantera paket](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/managing-packages.html){target="_blank"}
-* [Exportera/importera anpassade resurser](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/exporting-importing-custom-resources.html){target="_blank"}
+* [Exporterar/importerar anpassade resurser](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/exporting-importing-custom-resources.html){target="_blank"}
 * [Externa konton](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/external-accounts.html){target="_blank"}
 * [Hantera körningsalternativ](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/managing-execution-options.html?lang=sv){target="_blank"}
-* [Övervaka körning av arbetsflöde](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/monitoring-workflow-execution.html){target="_blank"}
+* [Övervaka arbetsflödeskörning](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/monitoring-workflow-execution.html){target="_blank"}
 * [Varumärke](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/branding.html){target="_blank"}
 * [Om kanalkonfiguration](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html){target="_blank"}
 * [Kom igång med kommunikationskanaler](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/get-started-communication-channels.html){target="_blank"}
@@ -224,9 +224,9 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 ## Förnya din certifiering
 
-Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} först. Klicka sedan på [!DNL Campaign Standard] Förnyelse av utvecklare - länken AD5-821 nedan.
+Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} först. Om du vill förnya din certifiering klickar du på länken [!DNL Campaign Standard] Developer Innovation - AD5-821 nedan.
 
-* [[!DNL Campaign Standard] Förnyelse för utvecklare - AD5-821](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E821){target="_blank"}
+* [[!DNL Campaign Standard] Förnya utvecklare - AD5-821](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E821){target="_blank"}
 
 >[!NOTE]
 >
@@ -240,4 +240,4 @@ Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för h
 
 Har du en fråga om certifiering av Adobe? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.

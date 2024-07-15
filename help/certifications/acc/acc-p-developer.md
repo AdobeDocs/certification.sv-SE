@@ -1,6 +1,6 @@
 ---
 title: Certifiering för utvecklare
-description: Lär dig hur du blir certifierad Adobe Developer Professional i [!DNL Campaign Classic].
+description: Lär dig hur du blir certifierad Adobe Developer Professional i  [!DNL Campaign Classic].
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: Developer
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/250) ger dig en skräddarsydd väg genom testprocessen för certifiering, inklusive ingående studiematerial som du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
+>**Nya studieresurser tillgängliga:** I [handboken för testversioner](https://app.rockinfo.com/courses/250) finns en skräddarsydd väg genom din förberedande process för certifieringstester, inklusive det ingående studiematerialet som du behöver för att lyckas med certifieringen. _Använd din Adobe ID om du uppmanas att logga in på guiden för testversioner._
 
 ## Provbeskrivning {#exam-description}
 
@@ -53,8 +53,8 @@ ht-degree: 0%
 
 Du borde ha:
 
-* Minst ett år i Adobe [!DNL Campaign Classic] programvaruupplevelse
-* Minst ett års kombinerad erfarenhet av JavaScript-programmering, SQL-utveckling inklusive ETL och webbteknik (XML, HTML och webbtjänster)
+* Minst ett års programvaruerfarenhet för Adobe [!DNL Campaign Classic]
+* Minst ett års kombinerad erfarenhet av JavaScript-programmering, SQL-utveckling, inklusive ETL, och webbteknik (XML, HTML och webbtjänster)
 * En grundläggande förståelse för automatiserad marknadsföring
 * Förståelse för relationsdatabasbegrepp
 
@@ -91,7 +91,7 @@ Du borde ha:
 * Identifiera användningsexempel för Content Management
 * Ansök om att få uppdatera OTB-formulären
 
-**Avsnitt 3: Operativ säkerhet (10 %)**
+**Avsnitt 3: Driftsäkerhet (10 %)**
 
 * Beskriv processen för att lägga till användargrupper och roller
 * Använd processen för att översätta användarhanteringsmatrisen med rätt användarrättigheter och hierarki
@@ -134,7 +134,7 @@ Du borde ha:
 
 {{readiness}}
 
-[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-ze1175/ad-q-e313-readiness-questionnaire-for-adobe-campaign-classic-developer-professional-exam){target="_blank"}
+[Ta enkäten om onlineberedskap](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-ze1175/ad-q-e313-readiness-questionnaire-for-adobe-campaign-classic-developer-professional-exam){target="_blank"}
 
 <br>
 
@@ -156,15 +156,15 @@ Du borde ha:
 
 {{study-materials-intro}}
 
-**Gör ett övningsprov**
+**Testa**
 
 {{practice-test}}
 
-**Handbok för testversioner**
+**Handbok för provprogram**
 
 {{exam-prep-guide}}
 
-[Visa guiden Förbered prov](https://app.rockinfo.com/courses/250)
+[Visa guide för testversioner](https://app.rockinfo.com/courses/250)
 
 +++
 
@@ -219,6 +219,6 @@ Du borde ha:
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.

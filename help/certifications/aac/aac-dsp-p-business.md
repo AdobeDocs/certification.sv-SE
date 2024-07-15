@@ -1,6 +1,6 @@
 ---
 title: Yrkescertifiering för Business Practizer
-description: Lär dig hur du blir certifierad som Adobe [!DNL Advertising DSP] Yrkesverksamma inom affärsverksamhet.
+description: Lär dig hur du blir certifierad som Adobe [!DNL Advertising DSP] Business Practitioner Professional.
 solution: Advertising
 product: Advertising Cloud
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Certifieringsresa för Adobe [!DNL Advertising DSP] Yrkesverksamma inom affärsverksamhet
+# Certifieringsresa för Adobe [!DNL Advertising DSP] Business Practitioner Professional
 
 {{intro}}
 
@@ -50,12 +50,12 @@ ht-degree: 0%
 
 Du borde ha:
 
-* 6+ månaders erfarenhet med [!DNL Adobe Advertising]
+* 6+ månaders upplevelse med [!DNL Adobe Advertising]
 * Upplevelser i planering och mätning av nyckeltal för prestandaindikatorer inom medieinköp
 
 Du bör också känna till följande verktyg och tekniker:
 
-* Program för annonstestning/felsökning (VAST INSPECTOR, utvecklingsverktyg för Chrome)
+* Program för annonstestning/felsökning (VAST INSPECTOR, Chrome utvecklarverktyg)
 * Analysverktyg ([!DNL Adobe Analytics], Google Analytics)
 * Taggningsprogram från tredje part (Sizmek, Google tagghanterare)
 * Mediekvalitetsverktyg från tredje part (IAS, MOAT)
@@ -93,7 +93,7 @@ Du bör också känna till följande verktyg och tekniker:
 * Utvärdera resultatet för en kampanj utifrån ett scenario
 * Använd procedurbegrepp för att tilldela prestanda till en kampanj
 
-**Avsnitt 4: Tillhandahålla rekommendationer för kampanjer (10 %)**
+**Avsnitt 4: Ange rekommendationer för kampanjer (10 %)**
 
 * Tillhandahåll uppdateringar till klienter baserat på en kampanj i ett scenario
 * För ett scenario, justera kampanjstrategin baserat på kampanjresultat
@@ -121,23 +121,23 @@ Du bör också känna till följande verktyg och tekniker:
 **Avsnitt 1: Konfigurera kampanjer**
 
 * [Om Audience Management i [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/audiences/audience-about.html){target="_blank"}
-* [Översikt över inventeringsfunktioner i [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/inventory-overview.html){target="_blank"}
+* [Översikt över lagerfunktioner i [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/inventory-overview.html){target="_blank"}
 * [[!DNL Campaign] Inställningar](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/campaigns/campaign-settings.html){target="_blank"}
 * [Placeringsinställningar](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/placements/placement-settings.html){target="_blank"}
 
 **Avsnitt 2: Köra och optimera kampanjer**
 
-* [Hur [!DNL Advertising DSP] Optimerar era kampanjer](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html){target="_blank"}
+* [Hur [!DNL Advertising DSP] optimerar era kampanjer](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html){target="_blank"}
 * [Om anpassade mål](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/custom-goals/custom-goal-about.html){target="_blank"}
-* [Bästa metoder för att konfigurera resultatkampanjer](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/campaign-best-practices-performance.html){target="_blank"}
-* [Om Premium-lager vid behov](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/on-demand/on-demand-inventory-about.html){target="_blank"}
-* [Rapportera med [!DNL Advertising] Marknadsföringskanaler](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.html){target="_blank"}
+* [Bästa metoder för att konfigurera prestandakampanjer](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/campaign-best-practices-performance.html){target="_blank"}
+* [Om Premium-inventering vid behov](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/on-demand/on-demand-inventory-about.html){target="_blank"}
+* [Rapportering med [!DNL Advertising] marknadsföringskanaler](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.html){target="_blank"}
 
 **Avsnitt 3: Rapportering och analys**
 
 * [Webbkonsol](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/web-console.html){target="_blank"}
 
-**Avsnitt 4: Tillhandahålla rekommendationer för kampanjer**
+**Avsnitt 4: Ange rekommendationer för kampanjer**
 
 * [Hur [!DNL Advertising] DSP optimerar era kampanjer](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html){target="_blank"}
 * [Om annonshantering i [!DNL Advertising] DSP](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/ads/ad-about.html){target="_blank"}
@@ -195,6 +195,6 @@ Du bör också känna till följande verktyg och tekniker:
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.

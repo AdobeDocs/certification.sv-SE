@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ---
 
-# Certifieringsresa för [!DNL Adobe Commerce] Affärsexpert
+# Certifieringsresa för [!DNL Adobe Commerce] Business Practitioner Expert
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/140) ger dig en skräddarsydd väg genom din förberedande process för certifieringstester, inklusive det material du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
+>**Nya studieresurser tillgängliga:** I [handboken för testversioner](https://app.rockinfo.com/courses/140) finns en skräddarsydd väg genom din testprocess för certifiering, inklusive det material du behöver för att lyckas med certifieringen. _Använd din Adobe ID om du uppmanas att logga in på guiden för testversioner._
 
 ## Provbeskrivning {#exam-description}
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 ### Minimal upplevelse {#minimum-experience}
 
-Du bör ha cirka 1-3 års [!DNL Commerce] upplevelser och en bred förståelse för e-handelsupplevelsen.
+Du bör ha cirka 1-3 års praktisk [!DNL Commerce]-erfarenhet och en bred förståelse för e-handelsupplevelsen.
 
 Du bör ha erfarenhet av:
 
@@ -83,14 +83,14 @@ Dessutom bör du vara bekväm med följande tekniker:
 **Avsnitt 1: Kärnfunktioner/Allmän konfiguration (46 %)**
 
 * Identifiera funktionerna i Adobe [!DNL Commerce] Open Source Edition och [!DNL Commerce] Edition
-* Skilj skillnaderna mellan alla utgåvor av Adobe [!DNL Commerce] produkter
+* Skilj skillnaderna mellan alla utgåvor av Adobe [!DNL Commerce]-produkter
 * Bestäm hur du använder produkttyper och deras funktioner för att uppfylla kundernas krav
 * Tolka krav och skapa dummies för att avgöra om de kan uppfyllas med inbyggd funktionalitet
 * Uppvisa kunskap om administratörspanelen och var de gemensamma funktionerna finns
-* Uppvisa förmåga att importera/exportera Adobe [!DNL Commerce] enheter
+* Uppvisa möjligheten att importera/exportera [!DNL Commerce]-enheter i Adobe
 * Förstå hur kundvagnen och kassan konfigureras internt
-* Utvärdera de systemspecifika tillgängliga leveransmetoderna i Adobe [!DNL Commerce] och hur de gäller för vanliga användningsområden
-* Så här skapar och publicerar du stiliserat innehåll med Adobe [!DNL Commerce] CMS-funktioner som Page Builder
+* Utvärdera de interna tillgängliga leveransmetoderna i Adobe [!DNL Commerce] och hur de används i vanliga fall
+* Förstå hur du skapar och publicerar stiliserat innehåll med CMS-funktionerna i Adobe [!DNL Commerce], inklusive Page Builder
 * Använda inbyggda verktyg för att hantera orderns livscykel
 * Uppvisa förmåga att konfigurera de olika presentalternativen (presentkort, presentomslag, meddelanden)
 * Konfigurera och ändra transaktionsmeddelanden
@@ -107,15 +107,15 @@ Dessutom bör du vara bekväm med följande tekniker:
 * Rekommendera bästa praxis för SEO med inbyggda funktioner
 * Utvärdera gemensamma mätvärden i Google Analytics och BI
 
-**Avsnitt 4: Tilläggsmoduler och ytterligare produkter (18 %)**
+**Avsnitt 4: Tillägg till moduler och ytterligare produkter (18 %)**
 
 * Beskriv B2B-funktionaliteten och hur den hänger samman med vanliga B2B-scenarier
 * Använd affärskrav för att föreslå en lösning med MSI
-* Förklara fördelarna och hur BI används för Adobe [!DNL Commerce] lösning
+* Förklara fördelarna och hur du använder BI för Adobe [!DNL Commerce]-lösningen
 * Skilj skillnaderna mellan intern sökning och LiveSearch
 * Tillämpa affärskrav för att bestämma hur skatter, avgifter och skattebefrielser ska tillämpas i B2B-miljö
 * Förstå hur man tillämpar skräddarsydda priser för B2B-kunder
-* Förstå skillnaderna mellan Adobe [!DNL Commerce] produktrekommendationer från Adobe Sensei
+* Förstå skillnaderna mellan produktrekommendationer för Adobe [!DNL Commerce] och Adobe Sensei
 
 **Avsnitt 5: Systemarkitektur (10 %)**
 
@@ -126,9 +126,9 @@ Dessutom bör du vara bekväm med följande tekniker:
 
 **Avsnitt 6: Efterlevnad/säkerhet (12 %)**
 
-* Uppvisa hur man säkrar Adobe [!DNL Commerce] dataåtkomst med roller och behörigheter
+* Uppvisa hur du kan skydda dataåtkomst för Adobe [!DNL Commerce] med roller och behörigheter
 * Förstå grunderna för efterlevnad av sekretesslagstiftning och betalningssäkerhet
-* Förklara vanliga säkerhetsaspekter på Adobe [!DNL Commerce] projekt
+* Förklara vanliga säkerhetsaspekter för ett Adobe [!DNL Commerce]-projekt
 * Förstå grunderna i skattelagstiftning och hur man konfigurerar
 
 <br>
@@ -137,7 +137,7 @@ Dessutom bör du vara bekväm med följande tekniker:
 
 {{readiness}}
 
-[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam){target="_blank"}
+[Ta enkäten om onlineberedskap](https://scorpion.caveon.com/launchpad/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam){target="_blank"}
 
 <br>
 
@@ -159,15 +159,15 @@ Dessutom bör du vara bekväm med följande tekniker:
 
 {{study-materials-intro}}
 
-**Gör ett övningsprov**
+**Testa**
 
 {{practice-test}}
 
-**Handbok för testversioner**
+**Handbok för provprogram**
 
 {{exam-prep-guide}}
 
-[Visa guiden Förbered prov](https://app.rockinfo.com/courses/140)
+[Visa guide för testversioner](https://app.rockinfo.com/courses/140)
 
 +++
 
@@ -222,6 +222,6 @@ Dessutom bör du vara bekväm med följande tekniker:
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.

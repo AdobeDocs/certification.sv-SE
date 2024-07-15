@@ -1,6 +1,6 @@
 ---
 title: Certifikatförnyelse
-description: Lär dig förnya Adobe [!DNL Marketo Engage] certifiering innan den upphör att gälla.
+description: Lär dig hur du förnyar din Adobe [!DNL Marketo Engage] certifiering innan den upphör att gälla.
 solution: Marketo Engage
 product: Marketo
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Förnya Adobe [!DNL Marketo Engage] certifiering
+# Förnya din certifiering för Adobe [!DNL Marketo Engage]
 
 Din Adobe-certifiering gäller i två år. Om du närmar dig den här tvåårsmärkningen är det dags att förnya din certifiering för att den ska förbli aktiv.
 
@@ -26,11 +26,11 @@ Observera att om din certifiering upphör att gälla måste du göra om certifie
 
 >[!IMPORTANT]
 >
->**Logga in först:** Följande länkar fungerar **endast** efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
+>**Logga in först:** Följande länkar fungerar **endast** efter en **lyckad inloggning** till [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
 ><br>
 >
->**Så här delar du en länk:** Om du vill dela länken till en förnyelseprov eller utvärdering med en kollega, ska du länka till den övergripande sidan för förnyelse av tentamen, inte URL:en för tentamen, för att undvika inloggningsproblem.
+>**Så här delar du en länk:** Om du vill dela länken till ett förnyelseprov eller en utvärdering med en kollega, ska du länka till den övergripande sidan för provförnyelse, inte URL:en för provet i sig, för att undvika inloggningsproblem.
 
 >[!BEGINTABS]
 
@@ -38,13 +38,13 @@ Observera att om din certifiering upphör att gälla måste du göra om certifie
 
 ## Du bör vara certifierad (inte utgånget) i:
 
-* Adobe [!DNL Marketo Engage] Yrkesverksamma inom affärsverksamhet
+* Adobe [!DNL Marketo Engage] - Business Practitioner Professional
 
 ## Instruktioner för att förnya din certifiering:
 
-* **Steg 1**: Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}och sedan återgå till den här sidan
-* **Steg 2**: Granska testens mål och resurser
-* **Steg 3**: Ta och ta examen
+* **Steg 1**: Logga in på [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} och gå sedan tillbaka till den här sidan
+* **Steg 2**: Granska mål och resurser för provet
+* **Steg 3**: Ta och godkänn provet
 
 ### Gör dig redo
 
@@ -56,9 +56,9 @@ Observera att om din certifiering upphör att gälla måste du göra om certifie
 * Leverans: On-demand/icke-upphandling
 * Tillgängliga språk: engelska
 * Kostnad: KOSTNADSFRITT
-* Exam ID: AD5-E836 - Adobe [!DNL Marketo Engage] Yrkesmässig förnyelse - tentamen
+* Exam ID: AD5-E836 - Adobe [!DNL Marketo Engage] Business Practitioner Professional Renewal Exam
 
-**Tillämpningsområde och mål:**
+**Omfång och mål:**
 
 Avsnitt 1: Bygga och förvalta program (39 %)
 
@@ -77,7 +77,7 @@ Avsnitt 1: Bygga och förvalta program (39 %)
 * Förstå kundpreferenser (prenumeration, kommunikation)
 * Använd god praxis för granskning före lansering
 
-Avsnitt 2: Byggtillgångar (19 %)
+Section 2: Building Assets (19%)
 
 * Hantera filer i Design Studio (överföra/ersätta bilder och filer)
 * Skapa/ändra ett formulär med Formulärredigeraren
@@ -126,14 +126,14 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 * [Förstå engagemangsprogram](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.html){target="_blank"}
 * [Enkel poängsättning](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/quick-wins/simple-scoring.html){target="_blank"}
 * [Aktivera kommunikationslänkar](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/email-setup/enable-communication-limits.html){target="_blank"}
-* [Förstå programmedlemskap](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.html){target="_blank"}
-* [Låt e-postmeddelanden fungera](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.html){target="_blank"}
+* [Om programmedlemskap](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.html){target="_blank"}
+* [Använd e-post](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.html){target="_blank"}
 * [Bästa praxis för smarta listor](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/best-practices-for-smart-lists.html){target="_blank"}
 * [Om händelseprogram](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/understanding-event-programs.html){target="_blank"}
 * [Utnyttja flexibiliteten i standardprogrammen](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/leverage-the-flexibility-of-default-programs.html){target="_blank"}
 * [Schemalägg e-postprogram med mottagartidszon](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.html){target="_blank"}
 * [Klona ett program](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.html){target="_blank"}
-* [Taggar](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.html){target="_blank"}
+* [Förstå taggar](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.html){target="_blank"}
 * [Skapa en programkanal](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/create-a-program-channel.html){target="_blank"}
 * [Förstå periodkostnader](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.html){target="_blank"}
 
@@ -141,35 +141,35 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 * [Lägg till bilder och filer i Marketo](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.html){target="_blank"}
 * [Växla synlighet för ett formulärfält dynamiskt](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.html){target="_blank"}
-* [E-postredigerare v2.0 - översikt](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.html){target="_blank"}
+* [E-postredigeraren v2.0 - översikt](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.html){target="_blank"}
 * [Godkänn, Avgodkänn eller Ta bort en landningssida](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.html){target="_blank"}
 * [Redigera fragment med dynamiskt innehåll](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/snippets/edit-snippets-with-dynamic-content.html){target="_blank"}
 
 **Avsnitt 3**
 
-* [Använda avancerad logik för smarta listregler](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.html){target="_blank"}
-* [Läs om hur du skapar ett e-postprogram för grafiskt innehåll](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/gated-content-offer-learn.html){target="_blank"}
+* [Använder logik för avancerad smart listregel](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.html){target="_blank"}
+* [Läs om hur du skapar ett e-postprogram för grupperat innehåll](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/gated-content-offer-learn.html){target="_blank"}
 * [Skapa och mät ett standardprogram](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs.html){target="_blank"}
-* [Förstå smarta kampanjer i grupp och utlösare](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.html){target="_blank"}
+* [Förstå smarta grupperingar och utlösare](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.html){target="_blank"}
 * [Importera en lista med personer](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/quick-wins/import-a-list-of-people.html){target="_blank"}
 * [Använd ett specifikt datum i ett vänteflödessteg](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.html){target="_blank"}
 * [Åsidosätt personbegränsningar i en smart kampanj](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.html){target="_blank"}
 * [Filtrera resultat för smart kampanj](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.html){target="_blank"}
 * [Skapa en segmentering](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.html){target="_blank"}
-* [Kontrollpanel för databas](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.html){target="_blank"}
-* [Sekretessinställningar](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/understanding-privacy-settings.html){target="_blank"}
+* [Databasinstrumentpanel](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.html){target="_blank"}
+* [Om sekretessinställningar](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/understanding-privacy-settings.html){target="_blank"}
 * [Uppdatera en lista eller smart lista](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/refresh-a-list-or-smart-list.html){target="_blank"}
 * [Använd inbyggda/systemsmarta listor](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.html){target="_blank"}
 
 **Avsnitt 4**
 
 * [Översikt över rapporttyp](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html){target="_blank"}
-* [Prestandarapport för landningssida](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.html){target="_blank"}
+* [Resultatrapport för landningssida](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.html){target="_blank"}
 * [Anpassade Dimensioner för e-postinsikter](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/email-insights/custom-dimensions-for-email-insights.html){target="_blank"}
 
 ### Förnya din certifiering
 
-Kontrollera först att du har loggat in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}. Och sedan förnya Adobe [!DNL Marketo Engage] Certifiering för Business Practitioner Professional, klicka på länken nedan.
+Kontrollera först att du har loggat in på [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. Klicka på länken nedan om du vill förnya certifieringen för din [!DNL Marketo Engage] Business Practitioner Professional på Adobe.
 
 <a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E836" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -186,13 +186,13 @@ Kontrollera först att du har loggat in på [Adobe system för hantering av aute
 
 ## Du bör vara certifierad (inte utgånget) i:
 
-* Adobe [!DNL Marketo Engage] Affärsexpert
+* Adobe [!DNL Marketo Engage] - affärsexpert
 
 ## Instruktioner för att förnya din certifiering:
 
-* **Steg 1**: Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}och sedan återgå till den här sidan
-* **Steg 2**: Granska testens mål och resurser
-* **Steg 3**: Ta och ta examen
+* **Steg 1**: Logga in på [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} och gå sedan tillbaka till den här sidan
+* **Steg 2**: Granska mål och resurser för provet
+* **Steg 3**: Ta och godkänn provet
 
 ### Gör dig redo
 
@@ -204,9 +204,9 @@ Kontrollera först att du har loggat in på [Adobe system för hantering av aute
 * Leverans: On-demand/icke-upphandling
 * Tillgängliga språk: engelska
 * Kostnad: KOSTNADSFRITT
-* Exam ID: AD5-E824 - Adobe [!DNL Marketo Engage] Expert Renewal Exam
+* Exam ID: AD5-E824 - Adobe [!DNL Marketo Engage] Business Practitioner Expert Renewal Exam
 
-**Tillämpningsområde och mål:**
+**Omfång och mål:**
 
 Avsnitt 1: Administration och underhåll (12%)
 
@@ -227,7 +227,7 @@ Avsnitt 2: Marknadsföringsaktiviteter/Kampanjhantering (48 %)
 * Ge exempel på användning för olika typer av tokens
 * Sammanfatta webbhooks i Marketo och hur de används
 * Identifiera och tillämpa lämplig användning av PMCF
-* Förklara fördelarna med Global Assets och hur du använder dem
+* Förklara fördelarna med Global Assets och hur man använder dem
 * Uppvisa blanketternas funktioner
 * Utföra och analysera en A/B-teststrategi
 * Identifiera var ett program eller en resurs har refererats till med&quot;Används av&quot;
@@ -270,46 +270,46 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 **Avsnitt 1: Administration och underhåll**
 
-* [EXPERIENCE LEAGUE - [!DNL Marketo Engage] Produktdokumentation](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Fälthantering, CRM-synkronisering, granskningsspår, användaradministration, arbetsytor och partitioner, smarta listor, anpassat fält)
-* [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Synkroniserar med Salesforce, CRM-integreringar)
+* [Experience League - [!DNL Marketo Engage] Produktdokumentation](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (fälthantering, CRM-synkronisering, granskningsspår, användaradministration, arbetsytor och partitioner, smarta listor, anpassat fält)
+* [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (synkroniserar med Salesforce, CRM-integreringar)
 
 **Avsnitt 2: Marknadsföringsaktiviteter/Kampanjhantering**
 
-* [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Slumpmässigt exempel, Smart Campaign med datavärde som utlöses, Wait Steps, member.webinar url, Campaign Inspector, Filter Logic, Using Tokens in Emails, Lead creation via Form Fill Out, Assets and Workspaces, Managing Forms)
-* [EXPERIENCE LEAGUE - [!DNL Marketo Engage] Produktdokumentation](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Smarta listor, Smarta kampanjer, Forms för efterfrågegenerering, Demand Generation Events, E-postmarknadsföring, skapa program, händelser, granskningsspår, arbeta med program, administrationstaggar, driftsättning, landningssidor, token, administration, ytterligare integreringar, webkrok, anpassade programmedlemsfält, arbetsyta och personpartitioner)
+* [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Slumpmässigt exempel, Smart Campaign med datavärdeeld, Wait Steps, Member.webinar url, Campaign Inspector, Filter Logic, Using Tokens in Emails, Lead creation via Form Fill Out, Assets and Workspaces, Managing Forms)
+* [Experience League - [!DNL Marketo Engage] Produktdokumentation](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (smarta listor, smarta kampanjer, Forms för efterfrågegenerering, efterfrågegenereringshändelser, e-postmarknadsföring, skapa program, händelser, granskningsspår, arbeta med program, administrationstaggar, driftsättning, landningssidor, token, administration, ytterligare integreringar, webkrok, anpassade programmedlemsfält, Workspace och personpartitioner)
 
 **Avsnitt 3: Leadhantering**
 
-* [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Bygg en video om Lead Lifecycle Program, Avbeställ e-post)
-* [EXPERIENCE LEAGUE - [!DNL Marketo Engage] Produktdokumentation](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Smarta kampanjer, Marketo Sales Insight, Intressant ögonblick, Hantera personer i smarta listor, Systemhanterade fält)
+* [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Bygg en Lead Lifecycle Program-video, Avbeställ e-post)
+* [Experience League - [!DNL Marketo Engage] Produktdokumentation](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (smarta kampanjer, Marketo Sales Insight, Intressant ögonblick, Hantera personer i smarta listor, Systemhanterade fält)
 
 **Avsnitt 4: Datahantering**
 
-* [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Upprätthålla en katalog över Leads Bouncing E-mail-artikel, How to Manage Your Marketo Database for Deliverability support blog, Marketo Activities Data Retention Policy - Under Hood-artikeln)
-* [EXPERIENCE LEAGUE - [!DNL Marketo Engage] Produktdokumentation](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Hård och mjuk marknadsföring via e-post, rapporttyper, personalisering, dynamiskt innehåll)
+* [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Upprätthåller en katalog med leads Bouncing Emails-artikel, How to Manage Your Marketo Database for Deliverability support blog, Marketo Activities Data Retention Policy - Under Hood-artikeln)
+* [Experience League - [!DNL Marketo Engage] Produktdokumentation](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (hård- och mjuk e-postmarknadsföring, rapporttyper, Personalization, dynamiskt innehåll)
 
 **Avsnitt 5: Rapportering**
 
-* [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Setting Acquisition best practices article)
-* [EXPERIENCE LEAGUE - [!DNL Marketo Engage] Produktdokumentation](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Rapportering, Performance Insights, Program Performance Report, Editing reports, Program Membership)
+* [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Ställer in bästa praxis för värvning)
+* [Experience League - [!DNL Marketo Engage] Produktdokumentation](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Rapportering, Prestandainsikter, Programresultatrapport, Redigeringsrapporter, Programmedlemskap)
 
 **Avsnitt 6: God praxis**
 
-* [The Definitive Guide to Lead Scoring](https://www.marketo.com/definitive-guides/lead-scoring){target="_blank"}
-* [EXPERIENCE LEAGUE - [!DNL Marketo Engage] Produktdokumentation](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Arbeta med program, e-postmarknadsföring, A/B-testning)
-* [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Lägg märke till din QA-process)
+* [Definitiv guide till poängsättning för leads](https://www.marketo.com/definitive-guides/lead-scoring){target="_blank"}
+* [Experience League - [!DNL Marketo Engage] Produktdokumentation](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Arbeta med program, e-postmarknadsföring, A/B-testning)
+* [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (observera din QA-process)
 
 ### Förnya din certifiering
 
-Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} först. Klicka sedan på Adobe för att förnya certifieringen [!DNL Marketo Engage] Länk till förnyelse av Business Practitioner Expert nedan.
+Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} först. Om du vill förnya din certifiering klickar du på förnyelseränken för Adobe [!DNL Marketo Engage] Business Practitioner Expert nedan.
 
-[!BADGE Ta Adobe [!DNL Marketo Engage] Expertförnyelseprov på affärspraktiserande läkare AD5-E824]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true"}
+[!BADGE Ta en förnyelseexamen från affärsverkets [!DNL Marketo Engage] expert på Adobe AD5-E824]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true"}
 
 >[!NOTE]
 >
 >Det här provet är kostnadsfritt, öppet och obearbetat. Du får ta tentamen upp till tre gånger. Om du inte lyckas efter det tredje försöket måste du vänta **30 dagar** för att försöka igen. Om du inte följer reglerna kan certifieringen återkallas.
 
->[!TAB Master]
+>[!TAB Mallen]
 
 Du bör vara certifierad (inte utgånget) i:
 
@@ -317,9 +317,9 @@ Du bör vara certifierad (inte utgånget) i:
 
 ## Instruktioner för att förnya din certifiering:
 
-* **Steg 1**: Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}och sedan återgå till den här sidan
-* **Steg 2**: Granska testens mål och resurser
-* **Steg 3**: Ta och ta examen
+* **Steg 1**: Logga in på [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} och gå sedan tillbaka till den här sidan
+* **Steg 2**: Granska mål och resurser för provet
+* **Steg 3**: Ta och godkänn provet
 
 ### Gör dig redo
 
@@ -331,9 +331,9 @@ Du bör vara certifierad (inte utgånget) i:
 * Leverans: On-demand/icke-upphandling
 * Tillgängliga språk: engelska
 * Kostnad: KOSTNADSFRITT
-* Exempel-ID: AD5-E834 - Adobe [!DNL Marketo Engage] Architect Master
+* Exam ID: AD5-E834 - Adobe [!DNL Marketo Engage] Architect Master
 
-**Tillämpningsområde och mål:**
+**Omfång och mål:**
 
 Avsnitt 1: Projektledarskap 16 %
 
@@ -382,14 +382,14 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 **Avsnitt 1: Projektledarskap**
 
 * [Champion Blog - Marketo Nation](https://nation.marketo.com/t5/champion-blog/ct-p/champion-program){target="_blank"}
-* [Marketo Product Docs](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"}
+* [Marketo produktdokumentation](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"}
 * [Dokumentation - REST API](https://developers.marketo.com/rest-api/){target="_blank"}
 * [Förstå intäktsmodeller](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.html){target="_blank"}
 
 **Avsnitt 2: Adobe [!DNL Marketo Engage] arkitekturdesign**
 
 * [Instruktioner för hur du skapar en anpassad synkroniseringsregel](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758#:~:text=First%2C%20what%20is%20a%20custom,have%20them%20sync%20to%20Marketo.){target="_blank"}
-* [The Definitive Guide to Lead Scoring](https://business.adobe.com/resources/guides/lead-scoring.html){target="_blank"}
+* [Definitiv guide till poängsättning för leads](https://business.adobe.com/resources/guides/lead-scoring.html){target="_blank"}
 * [E-postskript](https://developers.marketo.com/email-scripting/){target="_blank"}
 * [Inledande konfiguration](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/initial-setup.html){target="_blank"}
 
@@ -402,14 +402,14 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 **Avsnitt 4: Avancerade åtgärder**
 
-* [Marketo Product Docs](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"}
-* [Utelämna mjuka studsar](https://nation.marketo.com/t5/product-discussions/suppressing-soft-bounces-any-email-min-3x-encouraged/m-p/209411#M153533){target="_blank"}
-* [Arbetsytor och personpartitioner](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html){target="_blank"}
+* [Marketo produktdokumentation](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"}
+* [Undertrycker mjuka studsar](https://nation.marketo.com/t5/product-discussions/suppressing-soft-bounces-any-email-min-3x-encouraged/m-p/209411#M153533){target="_blank"}
+* [Arbetsytor och personpartitioner ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html){target="_blank"}
 * [Förstå anpassade Marketo-objekt](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.html){target="_blank"}
 
 ### Förnya din certifiering
 
-Kontrollera först att du har loggat in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}. Och sedan förnya Adobe [!DNL Marketo Engage] Architect Master-certifiering, klicka på länken nedan.
+Kontrollera först att du har loggat in på [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. Om du vill förnya din Adobe [!DNL Marketo Engage]-arkitekturhuvudcertifiering klickar du på länken nedan.
 
 <a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E834" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -427,6 +427,6 @@ Kontrollera först att du har loggat in på [Adobe system för hantering av aute
 
 ### Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.

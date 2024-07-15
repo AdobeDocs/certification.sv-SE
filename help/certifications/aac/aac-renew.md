@@ -1,6 +1,6 @@
 ---
 title: Certifikatförnyelse
-description: Lär dig förnya Adobe [!DNL Advertising] certifiering innan den upphör att gälla.
+description: Lär dig hur du förnyar din Adobe [!DNL Advertising] certifiering innan den upphör att gälla.
 solution: Advertising
 product: Advertising Cloud
 role: User,Developer, Data Architect
@@ -9,12 +9,12 @@ hidefromtoc: true
 exl-id: 8016ac6f-2a30-4a72-bc17-b2ca422c21e8
 source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
 
-# Förnya [!DNL Adobe Advertising] certifiering
+# Förnya din [!DNL Adobe Advertising]-certifiering
 
 När du har klarat en certifieringsprov gäller din certifiering i två år.
 
@@ -22,11 +22,11 @@ Vi är glada att kunna meddela att du nu kan förnya din certifiering via ett ny
 
 >[!IMPORTANT]
 >
->**Logga in först:** Följande länkar fungerar **endast** efter **slutförd inloggning** till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"}.
+>**Logga in först:** Följande länkar fungerar **endast** efter en **lyckad inloggning** till [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
 ><br>
 >
->**Så här delar du en länk:** Om du vill dela länken till en förnyelseprov eller utvärdering med en kollega, ska du länka till den övergripande sidan för förnyelse av tentamen, inte URL:en för tentamen, för att undvika inloggningsproblem.
+>**Så här delar du en länk:** Om du vill dela länken till ett förnyelseprov eller en utvärdering med en kollega, ska du länka till den övergripande sidan för provförnyelse, inte URL:en för provet i sig, för att undvika inloggningsproblem.
 
 >[!BEGINTABS]
 
@@ -42,7 +42,7 @@ Vi är glada att kunna meddela att du nu kan förnya din certifiering via ett ny
 >
 >Expertförnyelse kommer snart.
 
->[!TAB Master]
+>[!TAB Mallen]
 
 >[!NOTE]
 >
@@ -52,6 +52,6 @@ Vi är glada att kunna meddela att du nu kan förnya din certifiering via ett ny
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.

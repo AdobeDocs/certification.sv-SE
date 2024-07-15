@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Certifieringsresa för Adobe [!DNL Workfront] Project Manager Professional
+# Certifieringsresa för Project Manager Professional för Adobe [!DNL Workfront]
 
 {{intro}}
 
@@ -21,11 +21,11 @@ ht-degree: 0%
 >
 >Nu finns kostnadsfria resurser på begäran som hjälper dig att förbereda dig för ditt prov:
 >
->* **Kurs:** The [Adobe Workfront Project Manager - Professionell kurs](https://app.rockinfo.com/courses/230) innehåller förklaringar av viktiga begrepp, praktiska demonstrationer och kunskapsundersökningar.
+>* **Kurs:** [Adobe Workfront Project Manager - Professional-kurs](https://app.rockinfo.com/courses/230) innehåller förklaringar av viktiga begrepp, praktiska demonstrationer och kunskapsbaserade kontroller.
 >
->* **Handbok för testversioner:** The [Handbok för testversioner](https://app.rockinfo.com/courses/229) ger en skräddarsydd väg genom testprocessen, inklusive det material du behöver för att lyckas med provet.
+>* **Handbok för testversioner:** I [handboken för testversioner](https://app.rockinfo.com/courses/229) finns en skräddarsydd sökväg som du kan använda till att förbereda proven, inklusive det material du behöver för att kunna genomföra provet.
 >
->_Om du uppmanas att logga in använder du din Adobe ID._
+>_Använd din Adobe ID om du uppmanas att logga in._
 
 ## Provbeskrivning {#exam-description}
 
@@ -62,7 +62,7 @@ ht-degree: 0%
 Du borde ha:
 
 * En förståelse för arbetsprocessen från en första arbetsbegäran till slutförande eller har exponerats för projekt- eller arbetshantering
-* har genomgått självstudiekurser eller bootläger eller har varit en [!DNL Workfront] användare i 6-12 månader så att de förstår grundläggande funktioner
+* Slutförde självguidad utbildning eller bootläger eller har varit [!DNL Workfront]-användare i 6-12 månader så att de förstår grundläggande funktioner
 * En förståelse för hur man konfigurerar, spårar och övervakar rapportdata
 
 <br>
@@ -79,14 +79,14 @@ Du borde ha:
 * Ange lämpliga aktivitetsinställningar för att planera körningen av en uppgift i en viss tidsram
 * Identifiera sätt att hitta nyckeldata i ett projekt
 * Identifiera olika sätt att spåra projektrisker
-* Identifiera rätt hierarki av objekt i [!DNL Workfront]
+* Identifiera rätt hierarki för objekt i [!DNL Workfront]
 * Identifiera rätt fält för att visa en specifik tilldelad resurs
 * Fastställ inmatnings- eller planeringsrapporter/kontrollpaneler som är till hjälp för personen under arbetsinsatsen eller planeringsfasen i projektet/arbetsprocessen
 
 **Avsnitt 2: Kör (50 %)**
 
 * Identifiera sätt att förstå, använda och mäta milstolpar i ett projekt
-* Skapa [!DNL Workfront] Godkännanden för enstaka användning och när ett godkännande skulle användas
+* Skapa [!DNL Workfront] godkännanden för enstaka användning och när ett godkännande ska användas
 * Identifiera hur olika datumtyper används av systemet
 * Identifiera den information som datumtyperna förmedlar till en projektledare
 * Ange i ett scenario hur olika åtgärdsbegränsningar påverkar projekttidslinjen när de används
@@ -94,14 +94,14 @@ Du borde ha:
 * Beskriv hur du överför ett dokument och genererar ett bevis för ett scenario
 * Identifiera olika sätt att hantera ett projekt
 * Ange planerad avvikelse för en specifik jobbroll i ett enskilt projekt
-* I ett scenario letar du reda på det specifika finansiella elementet i [!DNL Workfront]
+* Om ett scenario har angetts letar du reda på det specifika ekonomiska elementet i [!DNL Workfront]
 * Förklara objektrelationerna i diagrammet utifrån ett Gantt-schema
 * Jämför skillnader mellan villkor och förloppsstatus
 * Identifiera hur [!DNL Workfront] team och [!DNL Workfront] grupper kan användas
 * Beskriv hur intressenter kan få den information de behöver
 * Ange hur datumtyper och varaktigheter påverkar projektvillkoren utifrån ett scenario
 * Fastställ att anpassade statusvärden krävs för ett scenario
-* Identifiera olika typer av rapporter som finns i [!DNL Workfront]
+* Identifiera olika typer av rapporter som är tillgängliga i [!DNL Workfront]
 * Beskriv stegen som krävs för att skapa en anpassad rapport
 
 **Avsnitt 3: Stängning (20 %)**
@@ -117,7 +117,7 @@ Du borde ha:
 
 {{readiness}}
 
-[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional){target="_blank"}
+[Ta enkäten om onlineberedskap](https://scorpion.caveon.com/launchpad/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional){target="_blank"}
 
 <br>
 
@@ -137,13 +137,13 @@ Du borde ha:
 
 **Rekommenderad utbildningskurs**
 
-[Grundläggande teamutbildning för planerare i nya [!DNL Workfront] upplevelse](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/core-team-training-program-for-planners.html){target="_blank"}
+[Grundläggande teamutbildning för planerare i den nya [!DNL Workfront] upplevelsen](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/core-team-training-program-for-planners.html){target="_blank"}
 
 **Studiematerial**
 
 {{study-materials-intro}}
 
-**Gör ett övningsprov**
+**Testa**
 
 {{practice-test}}
 
@@ -151,13 +151,13 @@ Du borde ha:
 
 {{take-course}}
 
-[Ta Adobe Workfront Project Manager - Professional - kurs](https://app.rockinfo.com/courses/230)
+[Ta Adobe Workfront Project Manager - Professional-kurs](https://app.rockinfo.com/courses/230)
 
-**Handbok för testversioner**
+**Handbok för provprogram**
 
 {{exam-prep-guide}}
 
-[Visa guiden Förbered prov](https://app.rockinfo.com/courses/229)
+[Visa guide för testversioner](https://app.rockinfo.com/courses/229)
 
 +++
 
@@ -212,6 +212,6 @@ Du borde ha:
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.

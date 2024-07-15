@@ -1,6 +1,6 @@
 ---
 title: Certifiering för utvecklare
-description: Lär dig hur du blir en certifierad expert på Adobe Business Practitioner i [!DNL Experience Manager Sites].
+description: Lär dig hur du blir en certifierad Adobe Business Practitioner-expert i  [!DNL Experience Manager Sites].
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Developer
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >Nu finns kostnadsfria resurser på begäran som hjälper dig att förbereda dig för ditt prov:
 >
->* **Kurs:** Ta [Adobe Experience Manager Sites for Developers - Professionell kurs](https://app.rockinfo.com/courses/105), som innehåller förklaringar av viktiga begrepp, praktiska demonstrationer och kunskapsbaserade kontroller. Om du just har börjat eller behöver en ny uppgradering, ta [Adobe Experience Manager Foundations-kurs](https://app.rockinfo.com/courses/240), som ger en grund för de kunskaper du kan bygga vidare på i din certifieringsresa.
+>* **Kurs:** Ta [Adobe Experience Manager Sites for Developers - Professional ](https://app.rockinfo.com/courses/105) , som innehåller förklaringar av viktiga begrepp, praktiska demonstrationer och kunskapsbaserade kontroller. Om du just har börjat eller behöver en uppdaterare tar du [Adobe Experience Manager Foundations-kursen](https://app.rockinfo.com/courses/240) som ger dig den kunskap du kan bygga vidare på under din certifieringsresa.
 >
->* **Handbok för testversioner:** The [Handbok för testversioner](https://app.rockinfo.com/courses/121) ger en skräddarsydd väg genom testprocessen, inklusive det material du behöver för att lyckas med provet.
+>* **Handbok för testversioner:** I [handboken för testversioner](https://app.rockinfo.com/courses/121) finns en skräddarsydd sökväg som du kan använda till att förbereda proven, inklusive det material du behöver för att kunna genomföra provet.
 >
 >Om du uppmanas att logga in använder du din Adobe ID.
 
@@ -58,7 +58,7 @@ ht-degree: 0%
 
 Du bör vara programutvecklare och ha:
 
-* 0-12 månaders erfarenhet av AEM [!DNL Platform]
+* 0-12 månaders erfarenhet av att arbeta med AEM [!DNL Platform]
 * Möjlighet att utföra komponentutveckling
 * En grundläggande förståelse av MVC-ramverket, ramverken för livscykeln och biblioteken i AEM
 
@@ -73,7 +73,7 @@ Du bör vara programutvecklare och ha:
 * Identifiera syftet med AEM Dispatcher-konfigurationer och cachelagring
 * Identifiera rätt steg för att konfigurera flera platser i AEM
 * Förklara hur du skapar och hanterar OSGi-konfigurationer
-* Bestäm vilka steg som ska användas för att hantera anpassade ekningsindex
+* Kontrollera hur du hanterar anpassade Oak-index
 * Kontrollera hur du konfigurerar integreringen mellan OTB SAML och IMS
 
 **Avsnitt 2: AEM (40 %)**
@@ -83,7 +83,7 @@ Du bör vara programutvecklare och ha:
 * Om du utgår från ett scenario måste du fastställa rätt steg för att utveckla arbetsflöden
 * I ett scenario kan du beskriva syftet med innehållsfragment eller upplevelsefragment
 
-**Avsnitt 3: Skapa och driftsätta (12 %)**
+**Avsnitt 3: Skapa och distribuera (12 %)**
 
 * Definiera Maven-projektstruktur
 * Konfigurera projekt från arkivtyper
@@ -119,15 +119,15 @@ Du bör vara programutvecklare och ha:
 
 {{take-course}}
 
-[Ta en kurs i Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240)
+[Ta Adobe Experience Manager Foundations-kurs](https://app.rockinfo.com/courses/240)
 
-[Ta Adobe Experience Manager Sites for Developers - Professionell kurs](https://app.rockinfo.com/courses/105)
+[Ta Adobe Experience Manager Sites för utvecklare - Professional-kurs](https://app.rockinfo.com/courses/105)
 
-**Handbok för testversioner**
+**Handbok för provprogram**
 
 {{exam-prep-guide}}
 
-[Visa guiden Förbered prov](https://app.rockinfo.com/courses/121)
+[Visa guide för testversioner](https://app.rockinfo.com/courses/121)
 
 **Exempelfrågor**
 
@@ -188,7 +188,7 @@ Du bör vara programutvecklare och ha:
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.
 

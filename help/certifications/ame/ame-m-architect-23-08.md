@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/248) ger dig en skräddarsydd väg genom testprocessen för certifiering, inklusive ingående studiematerial som du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
+>**Nya studieresurser tillgängliga:** I [handboken för testversioner](https://app.rockinfo.com/courses/248) finns en skräddarsydd väg genom din förberedande process för certifieringstester, inklusive det ingående studiematerialet som du behöver för att lyckas med certifieringen. _Använd din Adobe ID om du uppmanas att logga in på guiden för testversioner._
 
 ## Provbeskrivning {#exam-description}
 
@@ -32,9 +32,9 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->Certifieringen har en förutsättning. Du MÅSTE ha en aktiv (inte utgången) Adobe [!DNL Marketo Engage] Yrkesverksamma inom affärsverksamhet **Expert** Certifiering för Adobe [!DNL Marketo Engage] Arkitektprov, magisterexamen.
+>Certifieringen har en förutsättning. Du MÅSTE ha en aktiv (inte utgången) Adobe [!DNL Marketo Engage] Business Practitioner **Expert** -certifiering för att kunna genomföra huvudprovet för Adobe [!DNL Marketo Engage] Architect.
 
-* Krav: Aktiv (inte utgången) Adobe [!DNL Marketo Engage] Expertcertifiering för Business Practitioner
+* Krav: Aktiv (inte utgången) expertcertifiering för Adobe [!DNL Marketo Engage] Business Practitioner
 * Nivå: Masternivå (3-5 års erfarenhet)
 * Certifiering av praktikanter
 * Löpande poäng: 32/50
@@ -96,7 +96,7 @@ Dessutom bör du känna till följande verktyg och tekniker:
 * Bestäm vem som behöver aktiveras och driftsättas effektivt utifrån en modifierad process
 * Utvärdera en granskning och rekommendera prioriteringar och tidslinje
 
-**Section 2: Marketo Engage Architecture Design (48 %)**
+**Avsnitt 2: Marketo Engage-arkitekturdesign (48 %)**
 
 * Samla krav/behov och rekommendera en lead-hantering och livscykeldesign
 * Granska en befintlig implementering och ge resultat
@@ -133,7 +133,7 @@ Dessutom bör du känna till följande verktyg och tekniker:
 
 {{readiness}}
 
-[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam){target="_blank"}
+[Ta enkäten om onlineberedskap](https://scorpion.caveon.com/launchpad/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam){target="_blank"}
 
 <br>
 
@@ -155,15 +155,15 @@ Dessutom bör du känna till följande verktyg och tekniker:
 
 {{study-materials-intro}}
 
-**Gör ett övningsprov**
+**Testa**
 
 {{practice-test}}
 
-**Handbok för testversioner**
+**Handbok för provprogram**
 
 {{exam-prep-guide}}
 
-[Handbok för testversioner](https://app.rockinfo.com/courses/248)
+[Handbok för provprogram](https://app.rockinfo.com/courses/248)
 
 +++
 
@@ -193,7 +193,7 @@ Dessutom bör du känna till följande verktyg och tekniker:
 
 >[!IMPORTANT]
 >
->Certifieringen har en förutsättning. Du MÅSTE ha en aktiv (inte utgången) Adobe [!DNL Marketo Engage] Yrkesverksamma inom affärsverksamhet **Expert** Certifiering för att ta Adobe [!DNL Marketo Engage] Arkitektprov, magisterexamen.
+>Certifieringen har en förutsättning. Du MÅSTE ha en aktiv (inte utgången) Adobe [!DNL Marketo Engage] Business Practitioner **Expert** -certifiering för att kunna genomföra huvudprovet för Adobe [!DNL Marketo Engage]-arkitekten.
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E560" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -222,6 +222,6 @@ Dessutom bör du känna till följande verktyg och tekniker:
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.

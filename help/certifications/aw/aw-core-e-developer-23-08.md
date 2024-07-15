@@ -1,6 +1,6 @@
 ---
 title: Certifiering av Core Developer Expert
-description: Lär dig hur du blir certifierad Adobe Developer-expert i Adobe [!DNL Workfront].
+description: Lär dig hur du blir en certifierad Adobe Developer-expert i Adobe [!DNL Workfront].
 solution: Workfront
 role: Developer
 badge: label="Prov AD0-E907" type="neutral"
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/241) ger dig en skräddarsydd väg genom din förberedande process för certifieringstester, inklusive det material du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
+>**Nya studieresurser tillgängliga:** I [handboken för testversioner](https://app.rockinfo.com/courses/241) finns en skräddarsydd väg genom din testprocess för certifiering, inklusive det material du behöver för att lyckas med certifieringen. _Använd din Adobe ID om du uppmanas att logga in på guiden för testversioner._
 
 ## Provbeskrivning {#exam-description}
 
@@ -51,9 +51,9 @@ ht-degree: 0%
 
 ### Minimal upplevelse {#minimum-experience}
 
-Du bör ha minst 18-24 månaders erfarenhet av Adobe [!DNL Workfront]och bör kunna
+Du bör ha minst 18-24 månaders erfarenhet av Adobe [!DNL Workfront] och ska kunna:
 
-* Navigera i [!DNL Workfront] system, förstå var funktionerna finns
+* Navigera till systemet [!DNL Workfront] och förstå var dess funktioner finns
 * Konfigurera alla aspekter av systemet
 * Diskutera kraven med kunderna och omvandla dem till en genomförbar lösning.
 * Anpassa och ändra befintliga processer för att förbättra samarbetet
@@ -66,17 +66,17 @@ Du bör ha minst 18-24 månaders erfarenhet av Adobe [!DNL Workfront]och bör ku
 
 {{exam-objectives}}
 
-**Avsnitt 1: Administrering och installation av kärnsystem (17 %)**
+**Avsnitt 1: Administrering och konfigurering av huvudsystem (17 %)**
 
 * Beskriv olika sätt att dela behörigheter och åtkomst effektivt i ett scenario.
 * Om du anger ett scenario måste du identifiera när en gruppstatus kontra en systemstatus ska användas.
 * Uppvisa möjligheterna med att starta med hjälp av en datauppsättning.
 * Om du utgår från ett scenario bör du identifiera de bästa sätten för användare med automatisk etablering.
-* Visa hur grupper och team i en användarprofil kan påverka vad som kan ses eller göras i ett scenario [!DNL Workfront].
+* Om ett scenario anges visar du hur grupper och team i en användarprofil kan påverka vad som kan ses eller göras i [!DNL Workfront].
 * Om ett scenario inträffar bör du rekommendera en Boards-konfiguration för att uppfylla ett anpassat krav.
 * Ange bästa praxis för gruppadministration utifrån ett scenario.
 
-**Avsnitt 2: Intag, anpassade formulär och projektinitiering (13 %)**
+**Avsnitt 2: Inmatning, anpassade formulär och projektinitiering (13 %)**
 
 * Om du utgår från ett scenario, identifiera de konfigurationsområden som behövs för att stödja arbetsallokeringarna.
 * Identifiera hur ett värde skickas till ett anpassat projektformulär i ett scenario.
@@ -94,13 +94,13 @@ Du bör ha minst 18-24 månaders erfarenhet av Adobe [!DNL Workfront]och bör ku
 * I ett scenario bör du tillhandahålla en mekanism som säkerställer att projekten har full personal med hjälp av resurshanteringsverktyg.
 * Om ett scenario inträffar använder du Resurshanteringsverktyg för att avgöra varför en användare är överallokerad.
 
-**Avsnitt 4: Dokumenthantering och -korrektur (13 %)**
+**Avsnitt 4: Dokumenthantering och korrektur (13 %)**
 
 * Visa när dokumenthantering ska användas jämfört med korrektur
 * I ett scenario bör du identifiera de bästa sätten att använda korrekturläsaren, inställningarna och markeringsfunktionerna
 * Visa hur du redigerar och anger behörigheter för en fil i ett scenario
 * Visa hur du konfigurerar extern dokumentlagring med säkerhetsbegränsningar för ett scenario
-* I ett scenario ska du konfigurera en anslutning till AEM as a Cloud Service eller AEM Assets Essentials.
+* Ställ in en anslutning till AEM as a Cloud Service eller AEM Assets Essentials för ett scenario.
 
 **Avsnitt 5: Rapportering (11 %)**
 
@@ -108,26 +108,26 @@ Du bör ha minst 18-24 månaders erfarenhet av Adobe [!DNL Workfront]och bör ku
 * Visa fördelarna med att använda jokervärden med hjälp av en rapport eller ett filter.
 * Identifiera hur du rapporterar överordnade-till-underordnade-relationer med hjälp av intern rapportering.
 * Om du utgår från ett scenario, beskriv hur rapportering underlättar ett effektivt arbetsutförande.
-* I ett scenario, illustrera [!DNL Workfront] Rapportering för att övervaka och förbättra användarnas acceptans.
+* Om ett scenario har angetts kan du illustrera [!DNL Workfront]-rapportering för att övervaka och förbättra användaranpassningen.
 * Om du anger ett scenario ska du bestämma hur en fälttyp ska återges i en rapport. (Fälttyper: formaterad text, bilder, flerval)
 
 **Avsnitt 6: Metod/bästa praxis/användningsfall (22 %)**
 
-* Ange ett scenario inom [!DNL Workfront], visa funktionalitet för att ställa in spårning av produkter som ingår i en enda kampanj.
-* Ange ett scenario inom [!DNL Workfront], visa funktionalitet kring strategisk prioritering och motivering av arbetet.
-* Ange ett scenario inom [!DNL Workfront], visa funktionalitet kring ekonomi, utnyttjande, prognoser, faktureringstariffer/bokföring
-* Ange ett scenario inom [!DNL Workfront], visar funktionaliteten när det gäller att konfigurera arbetsflöden och godkännanden.
+* Om ett scenario anges i [!DNL Workfront], ska du visa funktionaliteten för att ställa in spårning av slutprodukter som ingår i en enskild kampanj.
+* Visa funktionalitet kring strategisk prioritering och motivering av arbetet utifrån ett scenario inom [!DNL Workfront].
+* Visa funktionalitet kring ekonomi, utnyttjande, prognoser, faktureringstariffer/poster för ett scenario inom [!DNL Workfront]
+* Om ett scenario anges i [!DNL Workfront], ska du demonstrera funktionaliteten kring konfiguration av arbetsflöde och godkännanden.
 * I ett scenario rekommenderar du ett ramverk för styrning runt systemadministration när du expanderar en klientinstans.
 * Om du utgår från ett scenario bör du identifiera områden som ska beaktas när du expanderar en kunds instans så att fler team kan samarbeta.
-* Ange ett scenario med [!DNL Workfront] Karteller, identifiera inbyggda funktioner som visar förloppet.
+* I ett scenario där [!DNL Workfront] anslagstavlor används, identifierar du inbyggda funktioner för att visa förloppet.
 * I ett scenario rekommenderar vi ett ramverk för styrning kring system- och gruppadministration.
 
 **Avsnitt 7: Affärskonsult (11 %)**
 
-* Beskriv i ett scenario den process som behövs för att fullt ut stödja insatser för implementering [!DNL Workfront] på en korsfunktionell avdelning.
+* Om ett scenario har angetts beskriver du den process som krävs för att ge fullständigt stöd för implementering av [!DNL Workfront] i en korsfunktionell avdelning.
 * Om du utgår från ett scenario, förklara hur du anpassar ett befintligt arbetsflöde för att hantera en nyligen inträffad förändring i en kritisk, viktig affärsprocess.
 * I ett scenario identifierar du konfigurationsinställningar som är svårast att ändra till en viss instans.
-* Om du utgår från ett scenario bör du identifiera de viktigaste aspekterna av ändringshantering för en [!DNL Workfront] implementering
+* I ett scenario måste du identifiera viktiga aspekter av ändringshantering för en [!DNL Workfront]-implementering
 * Ange en rekommendation för att öka effektiviteten i ett scenario där en kund har flera team.
 
 <br>
@@ -136,7 +136,7 @@ Du bör ha minst 18-24 månaders erfarenhet av Adobe [!DNL Workfront]och bör ku
 
 {{readiness}}
 
-[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert){target="_blank"}
+[Ta enkäten om onlineberedskap](https://scorpion.caveon.com/launchpad/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert){target="_blank"}
 
 <br>
 
@@ -158,11 +158,11 @@ Du bör ha minst 18-24 månaders erfarenhet av Adobe [!DNL Workfront]och bör ku
 
 {{study-materials-intro}}
 
-**Handbok för testversioner**
+**Handbok för provprogram**
 
 {{exam-prep-guide}}
 
-[Visa guiden Förbered prov](https://app.rockinfo.com/courses/241)
+[Visa guide för testversioner](https://app.rockinfo.com/courses/241)
 
 <br>
 
@@ -219,6 +219,6 @@ Du bör ha minst 18-24 månaders erfarenhet av Adobe [!DNL Workfront]och bör ku
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.

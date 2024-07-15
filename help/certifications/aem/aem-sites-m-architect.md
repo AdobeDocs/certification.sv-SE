@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/130) ger dig en skräddarsydd väg genom din förberedande process för certifieringstester, inklusive det material du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
+>**Nya studieresurser tillgängliga:** I [handboken för testversioner](https://app.rockinfo.com/courses/130) finns en skräddarsydd väg genom din testprocess för certifiering, inklusive det material du behöver för att lyckas med certifieringen. _Använd din Adobe ID om du uppmanas att logga in på guiden för testversioner._
 
 ## Provbeskrivning {#exam-description}
 
@@ -56,7 +56,7 @@ Du borde ha:
 
 * Minst tre års erfarenhet som arkitekt i byggandet av AEM Sites
 * Möjlighet att arbeta i Adobe Managed Services och Adobe [!DNL Experience Manager as a Cloud Service]
-* Möjlighet att installera Adobe [!DNL Experience Manager] miljöer och infrastruktur
+* Möjlighet att konfigurera miljöer och infrastruktur för Adobe [!DNL Experience Manager]
 
 Dessutom bör du kunna utföra följande uppgifter:
 
@@ -64,7 +64,7 @@ Dessutom bör du kunna utföra följande uppgifter:
 * Definiera en innehållsmodell för innehåll/resurser som kan uppfylla framtida krav
 * Definierar nödvändiga mallar och komponenter baserat på affärskrav
 * Identifiera när färdiga komponenter/funktionalitet/kärnkomponenter ska användas jämfört med anpassade komponenter
-* Designcache, belastningsbalansering och säkerhetsstrategier (Dispatcher, brandvägg, CDN)
+* Designcachning, belastningsbalansering och säkerhetsstrategier (Dispatcher, brandvägg, CDN)
 * Tillhandahåll högnivåuppskattningar av insatser för inledande installation och leverans av funktioner
 * Fastställa funktion och användningsfall för internationalisering
 * Definiera strategier för stöd för flera webbplatser och flerspråkiga språk
@@ -79,7 +79,7 @@ Dessutom bör du kunna utföra följande uppgifter:
 * Utforma arbetsflödesmodeller för affärsprocesser
 * Fastställa strategier för plattformsprestanda och penetration/säkerhetstestning
 * Återanvänd innehåll i flera kanaler
-* Ta hänsyn till molnbaserade överväganden, som automatisk skalning, replikering, tillgångshantering, konsekvenser och skillnader mellan lokala och hanterade tjänster, Cloud Manager, pakethantering
+* Ta hänsyn till molnbaserade överväganden som automatisk skalning, replikering, tillgångshantering, konsekvenser och skillnader mellan lokala och hanterade tjänster, Cloud Manager, pakethantering
 
 <br>
 
@@ -87,7 +87,7 @@ Dessutom bör du kunna utföra följande uppgifter:
 
 {{exam-objectives}}
 
-**Avsnitt 1: Upptäckt (18 %)**
+**Avsnitt 1: Discovery (18 %)**
 
 * Översätt affärsmål på hög nivå till funktionella krav
 * Utvärdera det aktuella tillståndet för en arkitektur utifrån ett scenario
@@ -121,7 +121,7 @@ Dessutom bör du kunna utföra följande uppgifter:
 
 {{readiness}}
 
-[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ycpz52/ad-q-e117-readiness-questionnaire-for-adobe-aem-architect-master-exam){target="_blank"}
+[Ta enkäten om onlineberedskap](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ycpz52/ad-q-e117-readiness-questionnaire-for-adobe-aem-architect-master-exam){target="_blank"}
 
 <br>
 
@@ -143,11 +143,11 @@ Dessutom bör du kunna utföra följande uppgifter:
 
 {{study-materials-intro}}
 
-**Handbok för testversioner**
+**Handbok för provprogram**
 
 {{exam-prep-guide}}
 
-[Visa guiden Förbered prov](https://app.rockinfo.com/courses/130)
+[Visa guide för testversioner](https://app.rockinfo.com/courses/130)
 
 +++
 
@@ -213,6 +213,6 @@ Dessutom bör du kunna utföra följande uppgifter:
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.

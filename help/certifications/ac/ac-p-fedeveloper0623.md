@@ -1,6 +1,6 @@
 ---
 title: Ny certifiering för frontutvecklare Professional
-description: Så här blir du certifierad Adobe Developer-proffs för Adobe [!DNL Commerce].
+description: Lär dig hur du blir certifierad Adobe Developer Professional för Adobe [!DNL Commerce].
 solution: Commerce
 product: Magento
 role: Developer
@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >Nu finns kostnadsfria resurser på begäran som hjälper dig att förbereda dig för ditt prov:
 >
->* **Kurs**: Om du just har börjat eller behöver en uppdaterare, ta [Adobe Commerce Foundations Course](https://app.rockinfo.com/courses/148) för att få förklaringar till viktiga begrepp, produktgenomgångar och kunskapsanalyser. Detta ger en grund för de kunskaper du kan bygga vidare på i din certifieringsresa.
+>* **Kurs**: Om du just har börjat eller behöver en uppdaterare kan du gå till [Adobe Commerce Foundations Course](https://app.rockinfo.com/courses/148) och få förklaringar av viktiga begrepp, produktgenomgångar och kunskapsanalyser. Detta ger en grund för de kunskaper du kan bygga vidare på i din certifieringsresa.
 >
->* **Handbok för testversioner:** The [Handbok för testversioner](https://app.rockinfo.com/courses/138) ger dig en skräddarsydd väg genom din förberedande process för certifieringstester, inklusive det material du behöver för att lyckas med denna certifiering.
+>* **Handbok för testversioner:** I [handboken för testversioner](https://app.rockinfo.com/courses/138) finns en skräddarsydd sökväg som du kan använda genom att förbereda certifieringstester, inklusive det material du behöver för att lyckas med certifieringen.
 >
->_Om du uppmanas att logga in använder du din Adobe ID._
+>_Använd din Adobe ID om du uppmanas att logga in._
 
 ## Provbeskrivning {#exam-description}
 
@@ -63,7 +63,7 @@ Dessutom bör du känna till följande tekniker:
 
 * En bättre förståelse för Adobe Commerce version 2.4.6
 * Grundläggande förståelse av frontdelens struktur och layout
-* Upplevelse och förståelse av HTML, CSS (och preprocessorer), LESS, JavaScript- och UI-komponenter, jQuery, understreck, Require.JS, knockout, även PHP-mallar, DB-kunskaper och innehållshantering
+* Upplevelse och förståelse av HTML, CSS (och preprocessorer), LESS, JavaScript och UI Components, jQuery, Underscore, Require.JS, Knockout, även PHP-mallar, DB-kunskaper och innehållshantering
 * Bekanta dig med plattformen, CMS-block, widgetar, CMS-sidor, kategorisidor, produktsidor, kundvagn och utcheckning samt kontokontrollpanelen
 * Grundläggande förståelse för eller kunskap om administratörskonfigurationer
 * Kunskap om hur du utökar och skriver över format, layouter och JS-filer
@@ -77,7 +77,7 @@ Dessutom bör du känna till följande tekniker:
 * Så här arbetar du med e-postmallar
 * Grundläggande förståelse för XML
 * Grundläggande förståelse av körklar SEO, optimerings- och prestandateknik
-* Grundläggande förståelse för kanoniska länkar samt sammanslagning av JavaScript och CSS
+* Grundläggande förståelse för kanoniska länkar samt att sammanfoga JavaScript och CSS
 * Grundläggande förståelse för Adobe Commerce molninfrastruktur
 
 <br>
@@ -88,11 +88,11 @@ Dessutom bör du känna till följande tekniker:
 
 **Avsnitt 1: Temahantering (temahierarki, bildkonfiguration, översättningar) (14 %)**
 
-* Beskriv Adobe [!DNL Commerce] temamappstruktur
+* Beskriv temamappstrukturen för Adobe [!DNL Commerce]
 * Uppvisa förmåga att skapa nya eller utöka befintliga teman
 * Uppvisa förmåga att lägga till anpassade översättningsfraser
 
-**Avsnitt 2: XML och mallar för layout (30 %)**
+**Avsnitt 2: Layout-XML och mallar (30 %)**
 
 * Uppvisa förmåga att arbeta med grundläggande XML-instruktioner för layout
 * Uppvisa förmåga att använda befintliga sidlayouter
@@ -104,7 +104,7 @@ Dessutom bör du känna till följande tekniker:
 
 * Beskriv syftet med styles-m.less, styles-l.less, print.less
 * Beskriv skillnaden mellan specifika partiella filer (_extends.less,_extend.less,_theme.less,_widgets.less,_module.less)
-* Visa att du kan åsidosätta eller utöka ett scenario [!DNL Magento] LESS
+* Visa att det går att åsidosätta eller utöka [!DNL Magento] LESS i ett scenario
 * Beskriv de grundläggande begreppen för LESS
 * Förklara hierarkin för format (lib, moduler, teman)
 * Förklara kompilering på både klient- och serversidan
@@ -152,7 +152,7 @@ Dessutom bör du känna till följande tekniker:
 
 {{study-materials-intro}}
 
-**Gör ett övningsprov**
+**Testa**
 
 {{practice-test}}
 
@@ -167,11 +167,11 @@ Dessutom bör du känna till följande tekniker:
 </span>
 </a>
 
-**Handbok för testversioner**
+**Handbok för provprogram**
 
 {{exam-prep-guide}}
 
-[Visa guiden Förbered prov](https://app.rockinfo.com/courses/138)
+[Visa guide för testversioner](https://app.rockinfo.com/courses/138)
 
 +++
 
@@ -226,6 +226,6 @@ Dessutom bör du känna till följande tekniker:
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.

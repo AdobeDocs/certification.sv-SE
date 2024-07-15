@@ -1,6 +1,6 @@
 ---
 title: Yrkescertifiering för Business Practizer
-description: Lär dig hur du blir certifierad som Adobe [!DNL Advertising Search] Yrkesverksamma inom affärsverksamhet.
+description: Lär dig hur du blir certifierad som Adobe [!DNL Advertising Search] Business Practitioner Professional.
 solution: Advertising
 product: Advertising Cloud
 level: Experienced
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ---
 
-# Certifieringsresa för [!DNL Adobe Advertising Search] Yrkesverksamma inom affärsverksamhet
+# Certifieringsresa för [!DNL Adobe Advertising Search] Business Practitioner Professional
 
 {{intro}}
 
@@ -50,8 +50,8 @@ ht-degree: 0%
 Du borde ha:
 
 * Upplev som programledare med 12-24 månaders betald sökresultatbransch
-* Minst 3-6 månader [!DNL Advertising Search] Plattformsupplevelse
-* Upplevelser i [!DNL Advertising Search] och är bekanta med automatiserad sökbudgivning, kampanjhantering,
+* Minst 3-6 månaders plattformsupplevelse av [!DNL Advertising Search]
+* Upplevelsen som arbetar i [!DNL Advertising Search] och känner till automatiserad sökbudgivning, kampanjhantering,
 * En förståelse för Portfolio-teorin
 
 Du bör även ha erfarenhet av att arbeta med följande funktioner:
@@ -114,7 +114,7 @@ Du bör även ha erfarenhet av att arbeta med följande funktioner:
 
 {{readiness}}
 
-[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-2yfz3t/ad-q-e501-readiness-questionnaire-for-adobe-advertising-cloud-search-business-practitioner-professional-exam){target="_blank"}.
+[Ta frågeformuläret om onlineberedskap](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-2yfz3t/ad-q-e501-readiness-questionnaire-for-adobe-advertising-cloud-search-business-practitioner-professional-exam){target="_blank"}.
 
 <br>
 
@@ -136,13 +136,13 @@ Du bör även ha erfarenhet av att arbeta med följande funktioner:
 
 {{study-materials-intro}}
 
-**Avsnitt 1: Portfolio och optimering**
+**Avsnitt 1: Portfolio och optimeringar**
 
 * [Introduktion till Adobe [!DNL Analytics] för Adobe [!DNL Advertising]](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/intro-a4adc.html){target="_blank"}
-* [Översikt [!DNL Analytics] for [!DNL Advertising]](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/overview.html){target="_blank"}
+* [Översikt över [!DNL Analytics] for [!DNL Advertising]](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/overview.html){target="_blank"}
 * [Prestandaoptimering](https://business.adobe.com/in/products/advertising/performance-optimization.html){target="_blank"}
-* [Förstå nyckeltal i förbättrad analys](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/enhanced-analytics/10-kpis-overview.html){target="_blank"}
-* [Lägga till en begränsning i ett smart listfilter](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.html){target="_blank"}
+* [Förstå KPI:er i Förbättrad analys](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/enhanced-analytics/10-kpis-overview.html){target="_blank"}
+* [Lägg till en begränsning i ett smart listfilter](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.html){target="_blank"}
 * [Optimeringsmål och Så här använder du dem](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/optimization/optimization-goals.html){target="_blank"}
 
 **Avsnitt 2: Rapporter, insikter och verktyg**
@@ -150,22 +150,22 @@ Du bör även ha erfarenhet av att arbeta med följande funktioner:
 * [[!DNL Analytics] Verktygshandbok](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
 * [Kom igång med [!DNL Reports & Analytics]](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/getting-started.html){target="_blank"}
 * [[!DNL Campaign] Rapportering](https://business.adobe.com/in/products/campaign/campaign-reporting.html){target="_blank"}
-* [Skapa [!DNL Analytics] Profiler för Adobe [!DNL Advertising] Aktivering och rapportering](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-profiles-a4adc.html){target="_blank"}
-* [Rapportera om [!DNL Advertising] data i Adobe [!DNL Analytics]](https://experienceleague.adobe.com/docs/analytics/integration/advertising-analytics/advertising-analytics-workflow/aa-report-ad-data-an.html){target="_blank"}
-* [Bearbetning av rapporttid](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-report-time-processing.html){target="_blank"}
-* [Adobe [!DNL Analytics] instrumentpaneler Styrkortverktyget](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.html){target="_blank"}
+* [Skapa [!DNL Analytics] profiler för Adobe [!DNL Advertising] Aktivering och rapportering](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-profiles-a4adc.html){target="_blank"}
+* [Rapport om [!DNL Advertising] data i Adobe [!DNL Analytics]](https://experienceleague.adobe.com/docs/analytics/integration/advertising-analytics/advertising-analytics-workflow/aa-report-ad-data-an.html){target="_blank"}
+* [Rapporttid bearbetas](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-report-time-processing.html){target="_blank"}
+* [Adobe [!DNL Analytics] kontrollpaneler Styrkortsverktyget](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.html){target="_blank"}
 
 **Avsnitt 3: Kampanjadministration**
 
 * [Komma igång med [!DNL Campaign] Administration](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/get-started-campaign-administration.html){target="_blank"}
-* [Se vad som får dem att fungera](https://business.adobe.com/in/products/campaign/campaign-management.html){target="_blank"}
+* [Se vad som får det att fungera](https://business.adobe.com/in/products/campaign/campaign-management.html){target="_blank"}
 * [Förbättra sökmarknadsföringen](https://www.adobe.com/content/dam/www/us/en/avstg/search-marketing-management/pdfs/Adobe_Advertising_Cloud_Search_Marketing_Tips_and_Tricks_Sheet.pdf){target="_blank"}
 * [Se hela kundresan på en enda skärm](https://business.adobe.com/in/products/campaign/adobe-campaign.html){target="_blank"}
-* [Förstå smarta kampanjer i grupp och utlösare](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.html){target="_blank"}
+* [Förstå smarta grupperingar och utlösare](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.html){target="_blank"}
 
-**Avsnitt 4: Mätning**
+**Avsnitt 4: Mått**
 
-* [Skapa [!DNL Analytics] Anpassade mått med Adobe [!DNL Advertising] Data](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-custom-metrics-a4adc.html){target="_blank"}
+* [Skapa [!DNL Analytics] anpassade mått med Adobe [!DNL Advertising] Data](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-custom-metrics-a4adc.html){target="_blank"}
 * [Stödraster, stödlinjer och mått i PDF](https://helpx.adobe.com/in/acrobat/using/grids-guides-measurements-pdfs.html){target="_blank"}
 * [Attribution &amp; Measurement](https://business.adobe.com/in/products/advertising/attribution-measurement.html){target="_blank"}
 * [Marketo Measure hjälpdokumentation](https://experienceleague.adobe.com/docs/marketo-measure/using/home.html){target="_blank"}
@@ -224,7 +224,7 @@ Du bör även ha erfarenhet av att arbeta med följande funktioner:
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.
 

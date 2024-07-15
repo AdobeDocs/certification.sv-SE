@@ -1,6 +1,6 @@
 ---
 title: Certifiering av expert på affärsverksamhet
-description: Lär dig hur du blir certifierad som Adobe [!DNL Audience Manager] Business Manager Expert.
+description: Lär dig hur du blir certifierad som Adobe [!DNL Audience Manager] Business Manager-expert.
 solution: Audience Manager
 product: Audience Manager
 role: User,Developer
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Certifieringsresa för [!DNL Adobe Audience Manager] Affärsexpert
+# Certifieringsresa för [!DNL Adobe Audience Manager] Business Practitioner Expert
 
 {{intro}}
 
@@ -73,7 +73,7 @@ Teknik:
 
 Miljö:
 
-* Företag på liten/medelstor/företagsnivå
+* Företag på liten/Medium-/företagsnivå
 * Digital marknadsföring
 * Data och analys
 
@@ -118,7 +118,7 @@ Miljö:
 
 {{readiness}}
 
-[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam){target="_blank"}
+[Ta enkäten om onlineberedskap](https://scorpion.caveon.com/launchpad/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam){target="_blank"}
 
 <br>
 
@@ -142,35 +142,35 @@ Miljö:
 
 **Avsnitt 1: Skapa och syndikera segment**
 
-* [Rapportera dataanvändning från andra och tredje part i Audience Marketplace på segmentnivå](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.html){target="_blank"}
+* [Rapporterar dataanvändning från andra och tredje part i Audience Marketplace på segmentnivå](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.html){target="_blank"}
 * [Använd filter och rekommendationer för att välja data från tredje part i Audience Marketplace](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.html){target="_blank"}
-* [Förstå segmentering](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/personalization/segmentation-overview.html){target="_blank"}
-* [Segment: Syfte, Disposition och Regler](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html){target="_blank"}
+* [Om segmentering](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/personalization/segmentation-overview.html){target="_blank"}
+* [Segment: Syfte, disposition och regler](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html){target="_blank"}
 * [Segmentering och filtrering](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html){target="_blank"}
 * [Startsida för mål](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations-home.html){target="_blank"}
 
 **Avsnitt 2: Skapa spår**
 
-* [Trait Recommendations](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html){target="_blank"}
+* [Anpassa Recommendations](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html){target="_blank"}
 * [Referens för egenskaper för trait och segment](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-and-segment-qualification-reference.html){target="_blank"}
 * [Signaler, egenskaper och segment](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/signal-trait-segment.html){target="_blank"}
-* [Hantering av trait-regler](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/manage-trait-rules.html){target="_blank"}
-* [Skapa regelbaserade eller introduktionskassor](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/create-onboarded-rule-based-traits.html){target="_blank"}
+* [Hantera trait-regler](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/manage-trait-rules.html){target="_blank"}
+* [Skapa regelbaserade eller inbyggda egenskaper](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/create-onboarded-rule-based-traits.html){target="_blank"}
 
-**Avsnitt 3: Rapportering och mätningar**
+**Avsnitt 3: Rapportering och mått**
 
-* [Trendrapport för segment](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-publishers/publisher-segment-trends.html){target="_blank"}
-* [Övervaka och rapportera aktivitetsanvändning](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/setup-and-admin/usage-and-billing/monitoring-and-reporting-on-activity-usage.html){target="_blank"}
+* [Rapport om segmenttrender](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-publishers/publisher-segment-trends.html){target="_blank"}
+* [Övervaka och rapportera om aktivitetsanvändning](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/setup-and-admin/usage-and-billing/monitoring-and-reporting-on-activity-usage.html){target="_blank"}
 * [Trendrapporter](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/trend-reports.html)
 * [Använda Audience Optimization-rapporter för att förstå medieprestanda](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/reports/using-audience-optimization-reports-to-understand-media-performance.html){target="_blank"}
 * [Audience Optimization för utgivare](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-publishers/aor-publishers.html){target="_blank"}
 
 **Avsnitt 4: Felsökning och administration**
 
-* [Experience Platform segmentdelning med [!DNL Audience Manager] och andra Experience Cloud-lösningar](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.html){target="_blank"}
+* [Delning av Experience Platform med [!DNL Audience Manager] och andra Experience Cloud-lösningar](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.html){target="_blank"}
 * [Steg för inhämtning av filbaserade data](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/integrating-offline-data/steps-for-ingesting-file-based-data.html){target="_blank"}
 * [Namn- och innehållskrav för ID-synkroniseringsfiler](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/id-sync-file-based.html){target="_blank"}
-* [Skapa och hantera dataaktivering i [!DNL Audience Manager]](https://experienceleague.adobe.com/docs/courses/using/audiencemanager-u-1-2020-4.html){target="_blank"}
+* [Skapar och hanterar dataaktivering i [!DNL Audience Manager]](https://experienceleague.adobe.com/docs/courses/using/audiencemanager-u-1-2020-4.html){target="_blank"}
 
 **Avsnitt 5: Taxonomi**
 
@@ -182,7 +182,7 @@ Miljö:
 
 <br>
 
-**Gör ett övningsprov**
+**Testa**
 
 {{practice-test}}
 
@@ -239,7 +239,7 @@ Miljö:
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.
 

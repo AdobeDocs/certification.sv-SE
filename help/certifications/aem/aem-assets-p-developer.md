@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >Nu finns kostnadsfria resurser på begäran som hjälper dig att förbereda dig för ditt prov:
 >
->* **Kurs:** Om du just har börjat eller behöver en ny uppgradering, ta [Adobe Experience Manager Foundations-kurs](https://app.rockinfo.com/courses/240) för att få förklaringar till viktiga begrepp, produktgenomgångar och kunskapsanalyser. Kursen ger en grund för de kunskaper du kan bygga vidare på i din certifieringsresa.
+>* **Kurs:** Om du just har börjat eller behöver en uppdaterare kan du gå igenom [Adobe Experience Manager Foundations-kursen](https://app.rockinfo.com/courses/240) för att få information om viktiga begrepp, produktgenomgångar och kunskapsanalyser. Kursen ger en grund för de kunskaper du kan bygga vidare på i din certifieringsresa.
 >
->* **Handbok för testversioner:** The [Handbok för testversioner](https://app.rockinfo.com/courses/120) ger dig en skräddarsydd väg genom din förberedande process för certifieringstester, inklusive det material du behöver för att lyckas med denna certifiering.
+>* **Handbok för testversioner:** I [handboken för testversioner](https://app.rockinfo.com/courses/120) finns en skräddarsydd sökväg som du kan använda genom att förbereda certifieringstester, inklusive det material du behöver för att lyckas med certifieringen.
 >
->_Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
+>_Använd din Adobe ID om du uppmanas att logga in på guiden för testversioner._
 
 ## Provbeskrivning {#exam-description}
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
 ### Minimal upplevelse {#minimum-experience}
 
-Du bör känna dig trygg när du arbetar i Adobe Managed Services och Adobe [!DNL Experience Manager as a Cloud Service]och kan installera Adobe [!DNL Experience Manager] miljöer och infrastruktur.
+Du bör känna dig trygg när du arbetar i Adobe Managed Services och Adobe [!DNL Experience Manager as a Cloud Service] och kan konfigurera miljöer och infrastruktur för Adobe [!DNL Experience Manager].
 
 Du borde ha:
 
@@ -76,7 +76,7 @@ Dessutom bör du ha erfarenhet av följande tekniker och miljöer:
 * Adobe IO CLI
 * Git CLI
 * Verktyg för molnövergång
-* Dispatcher Converter
+* Dispatcher converter
 * Databasuppdaterare
 * Mellanlagring och produktion av dev
 * Dev, sandlåda
@@ -96,28 +96,28 @@ Dessutom bör du ha erfarenhet av följande tekniker och miljöer:
 * Differentiera mellan moln och lokala arbetsflöden
 * Beskriv hur du använder arbetsflödeskonsolen för att övervaka status och förlopp
 
-**Avsnitt 2: Resursorganisation och tillgångskonsol (22 %)**
+**Avsnitt 2: Resursorganisation och resurskonsol (22 %)**
 
-* Uppvisa hur du skapar och organiserar resurser i samlingar
-* Uppvisa hur du organiserar resurser med hjälp av taggar
+* Uppvisa hur du skapar och organiserar Assets i samlingar
+* Uppvisa hur du organiserar Assets med hjälp av taggar
 * Identifiera hur du använder OOTB-sökfilter och -aspekter
 * Beskriv hur du konfigurerar och genererar AEM
 * Beskriv hur du hanterar användarbehörigheter i resursmappar
 
-**Avsnitt 3: Metadata för tillgångar (24 %)**
+**Avsnitt 3: Resursmetadata (24 %)**
 
 * Definiera metadatascheman
 * Bestäm hur du justerar ett lämpligt metadataram utifrån ett scenario
 * I ett scenario avgör du hur metadataprofiler kan användas för att uppfylla kraven
 * Förstå hur Cascading Metadata Schemas fungerar
 
-**Avsnitt 4: Tillgångstyper (18 %)**
+**Avsnitt 4: Resurstyper (18 %)**
 
 * Beskriv vilka OOTB-funktioner som är tillgängliga för tillgångstyper
 * Förklara innehållsfragment och modeller för innehållsfragment
 * Uppvisa hur och när innehållsfragmentvariationer ska användas
 
-**Section 5: Asset feature sets and capabilities (12%)**
+**Avsnitt 5: Tillgångsfunktioner och -funktioner (12 %)**
 
 * Beskriv vanliga användningsområden och fördelarna med att använda Brand Portal
 * Beskriv vanliga användningsområden och fördelarna med att använda Dynamic Media
@@ -129,7 +129,7 @@ Dessutom bör du ha erfarenhet av följande tekniker och miljöer:
 
 {{readiness}}
 
-[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam-copy-b9x6ey/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam){target="_blank"}
+[Ta enkäten om onlineberedskap](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam-copy-b9x6ey/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam){target="_blank"}
 
 <br>
 
@@ -151,17 +151,17 @@ Dessutom bör du ha erfarenhet av följande tekniker och miljöer:
 
 {{take-course}}
 
-[Ta en kurs i Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240)
+[Ta Adobe Experience Manager Foundations-kurs](https://app.rockinfo.com/courses/240)
 
-**Gör ett övningsprov**
+**Testa**
 
 {{practice-test}}
 
-**Handbok för testversioner**
+**Handbok för provprogram**
 
 {{exam-prep-guide}}
 
-[Visa guiden Förbered prov](https://app.rockinfo.com/courses/120)
+[Visa guide för testversioner](https://app.rockinfo.com/courses/120)
 
 
 +++
@@ -217,6 +217,6 @@ Dessutom bör du ha erfarenhet av följande tekniker och miljöer:
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.

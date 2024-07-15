@@ -1,6 +1,6 @@
 ---
 title: Architect Master-certifiering
-description: Lär dig hur du blir certifierad som Adobe [!DNL Audience Manager] Arkitektmästare.
+description: Lär dig hur du blir certifierad som Adobe [!DNL Audience Manager] Architect Master.
 solution: Audience Manager
 product: Audience Manager
 role: Data Architect
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 ### Målgrupp {#intended-audience}
 
-* [!DNL Audience Manager] Konsult
+* [!DNL Audience Manager] konsult
 * Arkitekt med flera lösningar
 * Lead i Adobe
 * Enterprise Architect
@@ -60,7 +60,7 @@ Dessutom bör du kunna utföra följande uppgifter:
 
 * Analysera verksamhetskrav för att förstå befintliga data och de ytterligare data som krävs
 * Utforma och utveckla specifika implementeringar som uppfyller kundernas krav
-* Implementera Adobe [!DNL Audience Manager] använda olika metoder
+* Implementera Adobe [!DNL Audience Manager] med olika metoder
 * Skapa segment
 * Aktivera målgruppssegment för olika molnlösningar för Adobe och andra än Adobe
 * Generera och analysera olika rapporter inom [!DNL Audience Manager]
@@ -72,7 +72,7 @@ Dessutom bör du kunna utföra följande uppgifter:
 
 {{exam-objectives}}
 
-**Mål och omfattning för tentamen**
+**Mål och omfattning för provet**
 
 **Avsnitt 1: Implementeringsanalys (26 %)**
 
@@ -82,7 +82,7 @@ Dessutom bör du kunna utföra följande uppgifter:
 * Identifiera funktioner som besökarprofilens visningsprogram, taggar, RBAC o.s.v. för att anpassa sig till affärsmålen
 * Bestäm hur du utformar och testar pixlar som behövs för att skapa segment och egenskaper
 
-**Avsnitt 2: Lösningens utformning och rekommendationer (18 %)**
+**Avsnitt 2: Lösningsdesign och rekommendationer (18 %)**
 
 * fastställa AAM baserat på kundens användningsmodell för målgrupp och aktivering
 * Tillämpa procedurmässiga koncept för att utnyttja målgruppsidentitetslösningar för att komplettera designarkitekturen
@@ -91,7 +91,7 @@ Dessutom bör du kunna utföra följande uppgifter:
 
 **Avsnitt 3: Segmentering och aktivering (30 %)**
 
-* Använd procedurbegrepp för att skapa destinationer i [!DNL Audience Manager]
+* Använd procedurbegrepp för att skapa mål i [!DNL Audience Manager]
 * Identifiera signaler för att skapa regelbaserade, onboardbaserade och algoritmiska egenskaper
 * Använda procedurbegrepp för att skapa segment med hjälp av frekvens/aktuell tid
 * Bestäm hur du skapar segment med hjälp av regler för profilsammanslagning
@@ -100,10 +100,10 @@ Dessutom bör du kunna utföra följande uppgifter:
 
 **Avsnitt 4: Integritet och datahantering (8 %)**
 
-* Rekommendera [!DNL Audience Manager] funktioner som rör styrning, integritet och säkerhet
+* Rekommendera [!DNL Audience Manager]-funktioner i relation till styrning, sekretess och säkerhet
 * Identifiera policyer för kunddata som är i linje med gällande bestämmelser
 
-**Avsnitt 5: Resultat och rapportering (18 %)**
+**Avsnitt 5: Prestanda och rapportering (18 %)**
 
 * Bestäm hur rapporter ska konfigureras i AAM för att samla in signaler, egenskaper och segmentprestanda enligt verksamhetskrav
 
@@ -113,7 +113,7 @@ Dessutom bör du kunna utföra följande uppgifter:
 
 {{readiness}}
 
-[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-b5z40t/ad-q-e454-readiness-questionnaire-for-adobe-audience-manager-architect-master){target="_blank"}.
+[Ta frågeformuläret om onlineberedskap](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-b5z40t/ad-q-e454-readiness-questionnaire-for-adobe-audience-manager-architect-master){target="_blank"}.
 
 <br>
 
@@ -137,30 +137,30 @@ Dessutom bör du kunna utföra följande uppgifter:
 
 **Avsnitt 1: Implementeringsanalys**
 
-* [[!DNL Audience Manager] Guide](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
+* [[!DNL Audience Manager] Stödlinje](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
 * [Analysintegrering](https://experienceleague.adobe.com/docs/analytics/integration/home.html){target="_blank"}
-* [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
+* [Adobe Experience Cloud identitetstjänst](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
 
 **Avsnitt 2: Lösningsdesign och Recommendations**
 
-* [[!DNL Audience Manager] Guide](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
-* [[!DNL Audience Manager] självstudier](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html){target="_blank"}
+* [[!DNL Audience Manager] Stödlinje](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
+* [[!DNL Audience Manager] självstudiekurser](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html){target="_blank"}
 
 **Avsnitt 3: Segmentering och aktivering**
 
-* [[!DNL Audience Manager] Guide](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
+* [[!DNL Audience Manager] Stödlinje](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
 * [Adobe [!DNL Audience Manager]](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager/ct-p/adobe-audience-manager-community){target="_blank"}
-* [[!DNL Audience Manager] självstudier](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html){target="_blank"}
+* [[!DNL Audience Manager] självstudiekurser](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html){target="_blank"}
 
 **Avsnitt 4: Integritet och datastyrning**
 
-* [[!DNL Audience Manager] Guide](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
+* [[!DNL Audience Manager] Stödlinje](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
 * [[!DNL Audience Manager] REST API](https://bank.demdex.com/portal/swagger/index.html#/Segments%20API){target="_blank"}
 * [Administratörshandbok för analyser](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
 
 **Avsnitt 5: Prestanda och rapportering**
 
-* [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
+* [Adobe Experience Cloud identitetstjänst](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
 
 +++
 
@@ -215,6 +215,6 @@ Dessutom bör du kunna utföra följande uppgifter:
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.

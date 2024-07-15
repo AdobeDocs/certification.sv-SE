@@ -10,14 +10,14 @@ ht-degree: 21%
 
 ---
 
-# Adobe [!DNL Journey Optimizer] Certifieringsöversikt
+# Certifieringsöversikt för Adobe [!DNL Journey Optimizer]
 
 **Professional**
 
-* [Yrkesverksamma inom affärsverksamhet](/help/certifications/ajo/ajo-p-business.md)<!--AD0-E607-->
+* [Affärsdeltagare](/help/certifications/ajo/ajo-p-business.md)<!--AD0-E607-->
 
 **Expert**
 
 * [Utvecklare](/help/certifications/ajo/ajo-e-developer-23-10.md) <!--AD0-E606-->
 
-Besök [Förnya din certifiering](/help/certifications/renew.md) för att se om det finns något förnyelsealternativ för den här produkten.
+Gå till sidan [Förnya din certifiering](/help/certifications/renew.md) för att se om det finns något förnyelsealternativ för den här produkten.

@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >Nu finns kostnadsfria resurser på begäran som hjälper dig att förbereda dig för ditt prov:
 >
->* **Kurs:** Om du just har börjat eller behöver en ny uppgradering, ta [Adobe Experience Manager Foundations-kurs](https://app.rockinfo.com/courses/240) för att få förklaringar till viktiga begrepp, produktgenomgångar och kunskapsanalyser. Kursen ger en grund för de kunskaper du kan bygga vidare på i din certifieringsresa.
+>* **Kurs:** Om du just har börjat eller behöver en uppdaterare kan du gå igenom [Adobe Experience Manager Foundations-kursen](https://app.rockinfo.com/courses/240) för att få information om viktiga begrepp, produktgenomgångar och kunskapsanalyser. Kursen ger en grund för de kunskaper du kan bygga vidare på i din certifieringsresa.
 >
->* **Handbok för testversioner:**  The [Handbok för testversioner](https://app.rockinfo.com/courses/124) ger dig en skräddarsydd väg genom din förberedande process för certifieringstester, inklusive det material du behöver för att lyckas med denna certifiering.
+>* **Handbok för testversioner:** I [handboken för testversioner](https://app.rockinfo.com/courses/124) finns en skräddarsydd sökväg som du kan använda genom att förbereda certifieringstester, inklusive det material du behöver för att lyckas med certifieringen.
 >
->_Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
+>_Använd din Adobe ID om du uppmanas att logga in på guiden för testversioner._
 
 ## Provbeskrivning {#exam-description}
 
@@ -102,13 +102,13 @@ Dessutom bör du känna till följande tekniker och miljöer:
 * Utöka kärnkomponenterna
 * Strukturinnehållsmodellering
 
-**Avsnitt 3: Installation och driftsättning (13 %)**
+**Avsnitt 3: Installation och distribution (13 %)**
 
 * Installera paket
 * Distribuera paket
 * Installera AEM
 
-**Avsnitt 4: Underhåll och användaradministration (12%)**
+**Avsnitt 4: Underhåll och användaradministration (12 %)**
 
 * Hantera användaråtkomst
 * Ändra OSGI-konfigurationer
@@ -138,13 +138,13 @@ Dessutom bör du känna till följande tekniker och miljöer:
 
 {{take-course}}
 
-[Ta en kurs i Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240)
+[Ta Adobe Experience Manager Foundations-kurs](https://app.rockinfo.com/courses/240)
 
-**Handbok för testversioner**
+**Handbok för provprogram**
 
 {{exam-prep-guide}}
 
-[Visa guiden Förbered prov](https://app.rockinfo.com/courses/124)
+[Visa guide för testversioner](https://app.rockinfo.com/courses/124)
 
 
 +++
@@ -200,7 +200,7 @@ Dessutom bör du känna till följande tekniker och miljöer:
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.
 

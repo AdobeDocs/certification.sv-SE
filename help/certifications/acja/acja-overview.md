@@ -3,22 +3,22 @@ title: Customer Journey Analytics Certification Overview
 description: Översikt över certifieringsalternativ för Adobe Customer Journey Analytics
 solution: Customer Journey Analytics
 product: Customer Journey Analytics
-exl-id: 44c88dad-f8f0-4b2c-ab5a-ef0d2a498284
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+exl-id: 8ffdae02-e1b5-4a32-b877-1fbe55c4852e
+source-git-commit: 525cdd6d066c70c74246b1abb6df5c7a12f5e1d2
 workflow-type: tm+mt
 source-wordcount: '39'
-ht-degree: 30%
+ht-degree: 23%
 
 ---
 
-# Adobe [!DNL Customer Journey Analytics] Certifieringsöversikt
+# Certifieringsöversikt för Adobe [!DNL Customer Journey Analytics]
 
 **Professional**
 
-* [Yrkesverksam](/help/certifications/acja/acja-p-business.md)
+* [Affärsdeltagare](/help/certifications/acja/acja-p-business.md)
 
 **Expert**
 
 * [Utvecklare](/help/certifications/acja/acja-e-developer.md) <!--AD0-E604-->
 
-Besök [Förnya din certifiering](/help/certifications/renew.md) för att se om det finns något förnyelsealternativ för den här produkten.
+Gå till sidan [Förnya din certifiering](/help/certifications/renew.md) för att se om det finns något förnyelsealternativ för den här produkten.

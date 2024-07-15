@@ -1,6 +1,6 @@
 ---
 title: Certifiering av expert på affärsverksamhet
-description: Lär dig hur du blir certifierad som Business Practitioner Expert på [!DNL Experience Manager Sites].
+description: Lär dig hur du blir certifierad som Business Practitioner Expert i  [!DNL Experience Manager Sites].
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Certifieringsresa för Adobe [!DNL Experience Manager Sites] Affärsexpert
+# Certifieringsresa för Adobe [!DNL Experience Manager Sites] Business Practitioner Expert
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/127) ger dig en skräddarsydd väg genom din förberedande process för certifieringstester, inklusive det material du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
+>**Nya studieresurser tillgängliga:** I [handboken för testversioner](https://app.rockinfo.com/courses/127) finns en skräddarsydd väg genom din testprocess för certifiering, inklusive det material du behöver för att lyckas med certifieringen. _Använd din Adobe ID om du uppmanas att logga in på guiden för testversioner._
 
 ## Provbeskrivning {#exam-description}
 
@@ -60,7 +60,7 @@ Du borde ha:
 * Upplev AEM funktioner som krävs för att engagera utvecklarna och hitta affärslösningar
 * Möjlighet att använda AEM produkter för att hantera innehåll och skapa digitala upplevelser
 * En förståelse för vilka moduler som finns
-* En djupare inblick i moduler som [!DNL Sites], [!DNL Assets]och [!DNL Forms]
+* En djupare insikt i moduler som [!DNL Sites], [!DNL Assets] och [!DNL Forms]
 
 Dessutom bör du känna till följande tekniker och miljöer:
 
@@ -69,7 +69,7 @@ Dessutom bör du känna till följande tekniker och miljöer:
 * Projekt
 * Forms
 * Upplev fragment och innehållsfragment
-* Skärmar
+* Screens
 * Arbetsflöden
 * Startar
 * CRXDE Lite
@@ -77,7 +77,7 @@ Dessutom bör du känna till följande tekniker och miljöer:
 * Hantering av flera webbplatser
 * Övervakningsverktyg
 * Versioner
-* Personalisering och sammanhangsnav
+* Personalization och sammanhangsnav
 * SPA
 * Taggning
 * Webbläsaranvändning
@@ -123,7 +123,7 @@ Dessutom bör du känna till följande tekniker och miljöer:
 
 {{readiness}}
 
-[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-wdx3m2/ad-q-e121-readiness-questionnaire-for-adobe-aem-business-practitioner-expert-exam){target="_blank"}
+[Ta enkäten om onlineberedskap](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-wdx3m2/ad-q-e121-readiness-questionnaire-for-adobe-aem-business-practitioner-expert-exam){target="_blank"}
 
 <br>
 
@@ -145,15 +145,15 @@ Dessutom bör du känna till följande tekniker och miljöer:
 
 {{study-materials-intro}}
 
-**Gör ett övningsprov**
+**Testa**
 
 {{practice-test}}
 
-**Handbok för testversioner**
+**Handbok för provprogram**
 
 {{exam-prep-guide}}
 
-[Visa guiden Förbered prov](https://app.rockinfo.com/courses/127)
+[Visa guide för testversioner](https://app.rockinfo.com/courses/127)
 
 +++
 
@@ -219,6 +219,6 @@ Dessutom bör du känna till följande tekniker och miljöer:
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.

@@ -1,6 +1,6 @@
 ---
 title: Yrkescertifiering för Business Practizer
-description: Lär dig hur du blir certifierad Business Practitioner Professional i Adobe [!DNL Experience Manager].
+description: Lär dig hur du blir en certifierad Business Practitioner Professional i Adobe [!DNL Experience Manager].
 solution: Experience Manager
 product: Experience Manager
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Certifieringsresa för Adobe [!DNL Experience Manager] Yrkesverksamma inom affärsverksamhet
+# Certifieringsresa för Adobe [!DNL Experience Manager] Business Practitioner Professional
 
 {{intro}}
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >Nu finns kostnadsfria resurser på begäran som hjälper dig att förbereda dig för ditt prov:
 >
->* **Kurs:** Om du just har börjat eller behöver en ny uppgradering, ta [Adobe Experience Manager Foundations-kurs](https://app.rockinfo.com/courses/240) för att få förklaringar till viktiga begrepp, produktgenomgångar och kunskapsanalyser. Kursen ger en grund för de kunskaper du kan bygga vidare på i din certifieringsresa.
+>* **Kurs:** Om du just har börjat eller behöver en uppdaterare kan du gå igenom [Adobe Experience Manager Foundations-kursen](https://app.rockinfo.com/courses/240) för att få information om viktiga begrepp, produktgenomgångar och kunskapsanalyser. Kursen ger en grund för de kunskaper du kan bygga vidare på i din certifieringsresa.
 >
->* **Handbok för testversioner:** The [Handbok för testversioner](https://app.rockinfo.com/courses/122) ger dig en skräddarsydd väg genom din förberedande process för certifieringstester, inklusive det material du behöver för att lyckas med denna certifiering.
+>* **Handbok för testversioner:** I [handboken för testversioner](https://app.rockinfo.com/courses/122) finns en skräddarsydd sökväg som du kan använda genom att förbereda certifieringstester, inklusive det material du behöver för att lyckas med certifieringen.
 >
->_Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
+>_Använd din Adobe ID om du uppmanas att logga in på guiden för testversioner._
 
 ## Provbeskrivning {#exam-description}
 
@@ -62,7 +62,7 @@ Du borde ha:
 * Minst 12 månaders erfarenhet med AEM funktioner som krävs för att engagera utvecklarna för att hitta lösningar
 * Minst 0-12 månaders erfarenhet av att konfigurera, implementera och hantera uppgifter för kontinuerlig integrering/kontinuerlig driftsättning
 
-Du bör känna dig trygg när du arbetar i Adobe Managed Services och Adobe [!DNL Experience Manager] as a Cloud Service, och kan konfigurera Adobe [!DNL Experience Manager] miljöer och infrastruktur.
+Du bör känna dig trygg när du arbetar i Adobe Managed Services och Adobe [!DNL Experience Manager] as a Cloud Service och kan konfigurera miljöer och infrastruktur för Adobe [!DNL Experience Manager].
 
 Dessutom bör du ha:
 
@@ -127,13 +127,13 @@ Dessutom bör du ha:
 
 {{take-course}}
 
-[Ta en kurs i Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240)
+[Ta Adobe Experience Manager Foundations-kurs](https://app.rockinfo.com/courses/240)
 
-**Handbok för testversioner**
+**Handbok för provprogram**
 
 {{exam-prep-guide}}
 
-[Visa guiden Förbered prov](https://app.rockinfo.com/courses/122)
+[Visa guide för testversioner](https://app.rockinfo.com/courses/122)
 
 
 **Exempelfrågor**
@@ -200,6 +200,6 @@ Dessutom bör du ha:
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.

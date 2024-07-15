@@ -1,6 +1,6 @@
 ---
 title: Yrkescertifiering för Business Practizer
-description: Lär dig hur du blir certifierad som Adobe [!DNL Audience Manager] Yrkesverksamma inom affärsverksamhet.
+description: Lär dig hur du blir certifierad som Adobe [!DNL Audience Manager] Business Practitioner Professional.
 solution: Audience Manager
 product: Audience Manager
 role: User
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ---
 
-# Certifieringsresa för Adobe [!DNL Audience Manager] Yrkesverksamma inom affärsverksamhet
+# Certifieringsresa för Adobe [!DNL Audience Manager] Business Practitioner Professional
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/245) ger dig en skräddarsydd väg genom din förberedande process för certifieringstester, inklusive det material du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
+>**Nya studieresurser tillgängliga:** I [handboken för testversioner](https://app.rockinfo.com/courses/245) finns en skräddarsydd väg genom din testprocess för certifiering, inklusive det material du behöver för att lyckas med certifieringen. _Använd din Adobe ID om du uppmanas att logga in på guiden för testversioner._
 
 ## Provbeskrivning {#exam-description}
 
@@ -71,12 +71,12 @@ Ni bör ha en grundläggande förståelse för dataflöden, affärsmål och nyck
 * Identifiera olika typer av destinationer
 * Identifiera olika typer av källor
 
-**Section 2: Trait Creation (16%)**
+**Avsnitt 2: Skapa spår (16 %)**
 
 * Identifiera signaler, egenskaper, segment och målgrupper utifrån ett scenario
 * Identifiera användning av olika typer av egenskaper
 
-**Avsnitt 3: Rapportering och mätningar (16 %)**
+**Avsnitt 3: Rapportering och mått (16 %)**
 
 * Generera rapporter för att mäta aktiverings- eller kampanjmål utifrån ett scenario
 * Jämför målgrupper utifrån matchningsfrekvenser i ett scenario
@@ -91,7 +91,7 @@ Ni bör ha en grundläggande förståelse för dataflöden, affärsmål och nyck
 * Bestäm lämplig struktur för att skapa egenskaper och segment som använder en tydlig och konsekvent nomenklatur
 * Identifiera rätt teknik för att upprätthålla en organiserad plattform med hjälp av en tydlig mappstruktur
 
-**Avsnitt 6: Profilsammanslagning, ID-synkronisering och Audience Marketplace (14 %)**
+**Avsnitt 6: Profilsammanfogning, ID-synkronisering och Audience Marketplace (14 %)**
 
 * Organisera användaregenskaper i en enda enhetlig profil för att skapa hushåll- eller enhetsbaserade målgrupper
 * Identifiera aktivering med Audience Marketplace
@@ -116,11 +116,11 @@ Ni bör ha en grundläggande förståelse för dataflöden, affärsmål och nyck
 
 {{study-materials-intro}}
 
-**Handbok för testversioner**
+**Handbok för provprogram**
 
 {{exam-prep-guide}}
 
-[Visa guiden Förbered prov](https://app.rockinfo.com/courses/245)
+[Visa guide för testversioner](https://app.rockinfo.com/courses/245)
 
 +++
 
@@ -175,7 +175,7 @@ Ni bör ha en grundläggande förståelse för dataflöden, affärsmål och nyck
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.
 

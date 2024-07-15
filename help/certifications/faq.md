@@ -26,9 +26,9 @@ Mer information om Adobe program för certifiering av digitala upplevelser finns
 
 Individuella fördelar: Certifiering är en certifiering som godkänner en individs skicklighet och kompetens i en Adobe-applikation. En kandidat som godkänns i certifieringstest blir Adobe Certified Professional, Expert eller Master.
 
-Certifieringar kräver engagemang, är juridiskt försvarbara och valideras från Adobe i er expertis. Du kan även använda din certifiering på dina sociala profiler genom att hämta ditt märke från [!DNL Credly].
+Certifieringar kräver engagemang, är juridiskt försvarbara och valideras från Adobe i er expertis. Du kan även använda din certifiering på dina sociala profiler genom att hämta din bricka från [!DNL Credly].
 
-Om du vill veta mer om hur du hanterar emblem i [!DNL Credly], go [HÄR](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html){target="_blank"}.
+Om du vill veta mer om hur du hanterar dina emblem i [!DNL Credly] går du till [HERE](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html){target="_blank"}.
 
 +++
 
@@ -49,19 +49,19 @@ Ibland finns det flera versioner av en tentamen. Det är bäst att ta den senast
 
 +++Vad händer om jag har tekniska problem under min provperiod?
 
-[!DNL Examity] har support via chatt, e-post och telefon. Adobe support kan inte hjälpa till med tekniska problem som uppstår under provet.
+[!DNL Examity] har support tillgänglig via chatt, e-post och telefon. Adobe support kan inte hjälpa till med tekniska problem som uppstår under provet.
 
 [!DNL Examity] Support: `adobepartnersupport@examity.com`
 
 Den snabbaste hjälpresursen är via deras chatt. Alla testsökande ska se till att datorn har rätt systemkrav innan de genomför provet.
 
-Mer information finns i [!DNL Examity] sida för att hantera tentamen och teknisk konfiguration.
+Mer information finns på sidan [!DNL Examity] för att hantera tentamen och teknisk konfiguration.
 
 +++
 
 +++Vem kan jag kontakta med certifieringsfrågor eller certifieringsproblem?
 
-Om du har frågor om testregistrering, provbetalningar, testresultat, testcenter, kommentarer på tentamen, frågor om tentamen, testupplevelser, testmiljöer eller frågor om certifieringsportalen kan du kontakta `certif@adobe.com`.
+Om du har frågor om testregistrering, provbetalningar, testleverans, testcenter, kommentarer på tentamen, frågor om tentamen, testupplevelser, testmiljöer eller frågor om certifieringsportalen kan du kontakta `certif@adobe.com`.
 
 +++
 
@@ -77,7 +77,7 @@ Om du inte kan schemalägga om din tentamen, trots att den ligger mer än 48 tim
 
 +++Kan Adobe passa sökande med särskilda krav?
 
-Adobe kan uppfylla vissa särskilda krav. Om du behöver mer tid för att genomföra provet eller något annat uppehåll, kontakta `certif@adobe.com` med din begäran.
+Adobe kan uppfylla vissa särskilda krav. Om du behöver mer tid för att slutföra provet eller någon annan logi kontaktar du `certif@adobe.com` med din förfrågan.
 
 **Din förfrågan måste skickas 2 veckor före ditt provschema.**
 
@@ -93,7 +93,7 @@ För sökande som inte uppfyller certifieringstest på Adobe vid första försö
 
 +++Hur får jag en kopia av min poängrapport?
 
-* Steg 1: Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe/){target="_blank"}, CertMetrics. Logga in med ditt ID eller e-postadress och lösenord.
+* Steg 1: Logga in på [Adobe Credential Management System](https://www.certmetrics.com/adobe/){target="_blank"}, CertMetrics. Logga in med ditt ID eller e-postadress och lösenord.
 * Steg 2: Klicka på Historik.
 * Steg 3: Bläddra igenom transkriberingshistoriken och välj den rapport du vill visa. Du kan skicka rapporten med e-post till dig eller visa den på skärmen.
 
@@ -101,7 +101,7 @@ För sökande som inte uppfyller certifieringstest på Adobe vid första försö
 
 +++Hur spårar jag min certifieringsstatus?
 
-Du kan spåra din certifieringsstatus genom att gå till [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe/){target="_blank"} under fliken Certifikat.
+Du kan spåra din certifieringsstatus genom att gå till [Adobe Credential Management System](https://www.certmetrics.com/adobe/){target="_blank"} på fliken Certifikat.
 
 +++
 
@@ -113,13 +113,13 @@ När du är klar med provet visas resultatet direkt på skärmen. Inom 72 timmar
 
 +++Hur loggar jag in på eller skapar ett Adobe-konto för hantering av autentiseringsuppgifter/certifikatdata?
 
-Du kan [logga in på eller skapa ett konto här](https://www.certmetrics.com/adobe/){target="_blank"}. Här ser du vilka tentamen som är tillgängliga, din tentamen, utgångsdatum för certifieringen och eventuella förmåner som är tillgängliga för dig, t.ex. rabatter.
+Du kan [logga in eller skapa ett konto här](https://www.certmetrics.com/adobe/){target="_blank"}. Här ser du vilka tentamen som är tillgängliga, din tentamen, utgångsdatum för certifieringen och eventuella förmåner som är tillgängliga för dig, t.ex. rabatter.
 
 +++
 
 +++Hur länge varar certifieringarna?
 
-Eftersom vi måste se till att våra Adobe-certifierade individer har de senaste programfunktionerna och -funktionerna är Adobe-certifieringarna **giltigt i två år**.
+Eftersom vi måste se till att våra Adobe-certifierade individer är aktuella med nya programfunktioner är Adobe-certifieringar **giltiga i två år**.
 
 +++
 
@@ -141,7 +141,7 @@ Inte direkt, nej. Men eftersom certifieringen nu måste förnyas vartannat år s
 
 +++
 
->[!TAB Förnyelser via ondemand-prov]
+>[!TAB Förnyelser via ondemand-tentamen]
 
 +++Vad är förnyelse av certifiering? Hur förnyar jag min certifiering?
 
@@ -160,9 +160,9 @@ Ibland avgår vi ett prov för en roll. I så fall varar certifieringen i två �
 
 +++Vad händer om jag inte förnyar min certifiering innan den går ut?
 
-Din certifiering upphör att gälla och visas som förfallen om [!DNL Credly] och alla era sociala profiler. Om din certifiering upphör att gälla kan du inte ta den kortare förnyelseprovet eller förnya via kontinuerlig inlärning.
+Din certifiering upphör att gälla och kommer att visas som utgången i [!DNL Credly] och någon av dina sociala profiler. Om din certifiering upphör att gälla kan du inte ta den kortare förnyelseprovet eller förnya via kontinuerlig inlärning.
 
-Om du vill veta mer om hur du hanterar emblem i [!DNL Credly], go [HÄR](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html){target="_blank"}.
+Om du vill veta mer om hur du hanterar dina emblem i [!DNL Credly] går du till [HERE](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html){target="_blank"}.
 
 +++
 
@@ -170,13 +170,13 @@ Om du vill veta mer om hur du hanterar emblem i [!DNL Credly], go [HÄR](https:/
 
 Du kan förnya din certifiering kostnadsfritt. Detta ger dig ett kostnadseffektivt sätt att upprätthålla din certifiering och hålla dina lösningsfärdigheter uppdaterade.
 
-Om du vill veta mer om hur du förnyar din certifiering går du till [här](https://experienceleague.adobe.com/docs/certification/certification/renew.html){target="_blank"}.
+Mer information om hur du förnyar din certifiering finns [här](https://experienceleague.adobe.com/docs/certification/certification/renew.html){target="_blank"}.
 
 +++
 
 +++Var kan jag se mitt certifieringsförfallodatum? Kan jag få ett meddelande?
 
-Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe/){target="_blank"}. Där ser du när du har uppnått dina uppgifter och när de upphör att gälla. Du bör också kontrollera din profil och bekräfta att din kontakt, sekundära e-post och jobbinformation är korrekta.
+Logga in på [Adobe Credential Management System](https://www.certmetrics.com/adobe/){target="_blank"}. Där ser du när du har uppnått dina uppgifter och när de upphör att gälla. Du bör också kontrollera din profil och bekräfta att din kontakt, sekundära e-post och jobbinformation är korrekta.
 
 Du får ett e-postmeddelande en månad innan certifieringen upphör. Men om du har ändrat jobb och inte har uppdaterat din e-post kanske du inte får något meddelande. Lägg till en andra e-postadress (som Gmail, Hotmail, Yahoo och så vidare) i ditt CertMetrics-konto, så att du får en påminnelse om att certifieringen upphör att gälla, även om du byter företag.
 
@@ -184,7 +184,7 @@ Du får ett e-postmeddelande en månad innan certifieringen upphör. Men om du h
 
 +++Vilken tentamen behöver jag göra för min förnyelse?
 
-Logga in på [Adobe system för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe/){target="_blank"} med Adobe ID klickar du på Certifikat och väljer certifieringsnamnet. Förnyelseprovet listas under **krav på att hålla sig aktuell**.
+Om du vill ta reda på vilken tentamen du ska genomföra loggar du in på [Adobe Credential Management System](https://www.certmetrics.com/adobe/){target="_blank"} med din Adobe ID, klickar på Certifikat och väljer certifieringsnamnet. Förnyelseprovet listas under **krav om att förbli aktuellt**.
 
 +++
 
@@ -200,7 +200,7 @@ Nej, det är inte möjligt att göra om samma prov för förnyelse när du har k
 
 +++
 
->[!TAB Förnyelser via kontinuerlig undervisning]
+>[!TAB Förnyelser via kontinuerlig inlärning]
 
 +++Vad är Adobe certifieringsförnyelseprogram via kontinuerlig inlärning?
 
@@ -216,7 +216,7 @@ Nej, det här förnyelsealternativet gäller endast för Adobe aktivt certifiera
 
 +++Vilka certifieringar erbjuder kontinuerlig utbildning och engagemangsaktiviteter för förnyelse?
 
-För närvarande ingår Analytics, Experience Manager, Commerce och Target i programmet. Vi delar med oss av meddelandena via tillämpliga kanaler när vi utökar dem för andra certifieringar.
+För närvarande ingår Analytics, Experience Manager, Commerce och Target i det här programmet. Vi delar med oss av meddelandena via tillämpliga kanaler när vi utökar dem för andra certifieringar.
 
 +++
 
@@ -240,13 +240,13 @@ Nej. Alla aktiviteter är kostnadsfria och kan nås via Adobe Credential Manager
 
 +++Måste jag godkänna bedömningar och även skicka in ett kundreferensformulär?
 
-Nej, det är valfritt att skicka in ett kundreferensformulär och en av de aktiviteter som de sökande kan slutföra för att förnya sin certifiering. Till exempel: [!DNL Adobe Analytics] certifieringsförnyelse kräver att minst tre aktiviteter från en viss lista slutförs. Listan innehåller sex bedömningar och en kundreferensblankett. Kandidaten kan godkänna två bedömningar och skicka in ett kundreferensformulär som därmed uppfyller de tre minimikraven för förnyelse.
+Nej, det är valfritt att skicka in ett kundreferensformulär och en av de aktiviteter som de sökande kan slutföra för att förnya sin certifiering. Certifieringsförnyelsen för [!DNL Adobe Analytics] kräver till exempel att minst tre aktiviteter från en angiven lista slutförs. Listan innehåller sex bedömningar och en kundreferensblankett. Kandidaten kan godkänna två bedömningar och skicka in ett kundreferensformulär som därmed uppfyller de tre minimikraven för förnyelse.
 
 +++
 
 +++I har tre certifieringar i en lösning. Måste jag uppfylla kraven för varje certifiering?
 
-Nej, du behöver bara uppfylla de krav som anges för lösningen. Certifieringen/certifieringarna förnyas när du har slutfört de nödvändiga aktiviteterna och skickat resultaten till Adobe Credential Manager. Om du till exempel har flera certifikat i [!DNL Adobe Analytics] som affärsverkare, utvecklare och arkitekt behöver du bara utföra tre aktiviteter för att uppfylla förnyelsekraven för alla certifieringar som ska förnyas.
+Nej, du behöver bara uppfylla de krav som anges för lösningen. Certifieringen/certifieringarna förnyas när du har slutfört de nödvändiga aktiviteterna och skickat resultaten till Adobe Credential Manager. Om du till exempel har flera certifieringar i [!DNL Adobe Analytics] som Business Practitioner, Developer och Architect behöver du bara slutföra tre aktiviteter för att uppfylla förnyelsekraven för alla certifieringar som ska förnyas.
 
 +++
 
@@ -319,7 +319,7 @@ All försäljning är slutgiltig. Returer och återbetalningar accepteras inte. 
 
 +++
 
->[!TAB Starta om program]
+>[!TAB Starta om programmet]
 
 >[!NOTE]
 >

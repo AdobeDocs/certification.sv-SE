@@ -1,6 +1,6 @@
 ---
 title: Certifiering av utvecklarexpert
-description: Lär dig hur du blir certifierad Adobe Developer-expert i Adobe [!DNL Commerce].
+description: Lär dig hur du blir en certifierad Adobe Developer-expert i Adobe [!DNL Commerce].
 solution: Commerce
 role: Developer
 level: Experienced
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/141) ger dig en skräddarsydd väg genom din förberedande process för certifieringstester, inklusive det material du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
+>**Nya studieresurser tillgängliga:** I [handboken för testversioner](https://app.rockinfo.com/courses/141) finns en skräddarsydd väg genom din testprocess för certifiering, inklusive det material du behöver för att lyckas med certifieringen. _Använd din Adobe ID om du uppmanas att logga in på guiden för testversioner._
 
 ## Provbeskrivning {#exam-description}
 
@@ -52,7 +52,7 @@ ht-degree: 0%
 
 ### Minimal upplevelse {#minimum-experience}
 
-Du bör ha minst 1-3 års erfarenhet av Adobe [!DNL Commerce] och du är bekant med följande tekniker och miljöer:
+Du bör ha minst 1-3 års erfarenhet av utveckling av Adobe [!DNL Commerce] och du är bekant med följande tekniker och miljöer:
 
 * Adobe [!DNL Commerce] - version 2.4
 * PHP
@@ -71,16 +71,16 @@ Du bör ha minst 1-3 års erfarenhet av Adobe [!DNL Commerce] och du är bekant 
 
 {{exam-objectives}}
 
-**Mål och omfattning för tentamen**
+**Mål och omfattning för provet**
 
 **Avsnitt 1: Adobe [!DNL Commerce] Arkitektur- och anpassningsmetoder (36 %)**
 
-* Uppvisa hur man effektivt använder cache i Adobe [!DNL Commerce]
+* Uppvisa hur du effektivt använder cache i Adobe [!DNL Commerce]
 * Skapa, använda och hantera anpassade tilläggsattribut
 * Rekommendera lösningar för hur du använder teman för anpassade uppdateringar på produkt-/kategorisidor
 * Lägg in observatörer, inställningar och plugin-program korrekt (effekter i sorteringsordning)
-* Uppvisa möjligheten att använda konfigurationslagret i Adobe [!DNL Commerce]
-* Uppvisa kunskap om hur rutter fungerar i Adobe [!DNL Commerce]
+* Uppvisa möjligheten att använda konfigurationsskiktet i Adobe [!DNL Commerce]
+* Uppvisa kunskap om hur vägar fungerar i Adobe [!DNL Commerce]
 * Uppvisa förmåga att anpassa PageBuilder
 * Bestäm vilka effekter och begränsningar som kan uppstå när du konfigurerar flera platser på en enda instans
 * Beskriv funktioner och begränsningar för beroendeinjektion
@@ -88,7 +88,7 @@ Du bör ha minst 1-3 års erfarenhet av Adobe [!DNL Commerce] och du är bekant 
 * Förklara användningsexempel för Git-korrigeringar och filnivåändringar i Composer
 * Skapa nya kommandon i CLI
 * Uppvisa hur man skriver ett integreringstest
-* Identifiera Adobe [!DNL Commerce] säkerhetsfunktion (CSP, escape, formulärnycklar, sanering, reCAPTCHA, indatavalidering)
+* Identifiera säkerhetsfunktionen Adobe [!DNL Commerce] (CSP, escape, formulärnycklar, sanering, reCAPTCHA, indatavalidering)
 * Förklara hur schemaläggningssystemet för CRON fungerar
 * Uppvisa förmåga att läsa in och hantera data
 * Uppvisa förmåga att använda appemulering
@@ -114,7 +114,7 @@ Du bör ha minst 1-3 års erfarenhet av Adobe [!DNL Commerce] och du är bekant 
 * Uppvisa förmåga att hantera index och anpassa prisutdata
 * Förklara hur lager påverkas av flera källor (programnivå)
 
-**Section 5: Customizing Sales Operations (6%)**
+**Avsnitt 5: Anpassa säljåtgärder (6 %)**
 
 * Uppvisa förmåga att utveckla nya betalningsmetoder eller anpassa befintliga betalningsmetoder
 * Uppvisa förmåga att lägga till och anpassa leveransmetoder
@@ -128,9 +128,9 @@ Du bör ha minst 1-3 års erfarenhet av Adobe [!DNL Commerce] och du är bekant 
 
 **Avsnitt 7: Adobe [!DNL Commerce] Molnarkitektur (16 %)**
 
-* Uppvisa kunskap om Adobe [!DNL Commerce] arbetsflöde för arkitektur/miljö
+* Uppvisa kunskap om Adobe [!DNL Commerce]-arkitektur/miljöarbetsflöde
 * Uppvisa kunskap om molnprojektfiler, behörigheter och struktur
-* Uppvisa förmåga att konfigurera flerdomänsbaserade butiker på Adobe [!DNL Commerce] Moln (flera domäner innehåller en blandning av utvecklingsarbete och support)
+* Uppvisa möjligheten att konfigurera flerdomänsbaserade arkiv på Adobe [!DNL Commerce] Cloud (flera domäner, blandning av dev-arbete och support)
 * Uppvisa en allmän kunskap om programtjänster och hur man hanterar dem (YAML, PHP, MariaDB, Redis, RabbitMQ osv.)
 * Identifiera hur du kommer åt olika typer av loggar
 * Uppvisa förmåga att driftsätta ett projekt (de viktigaste distributionsstegen)
@@ -140,7 +140,7 @@ Du bör ha minst 1-3 års erfarenhet av Adobe [!DNL Commerce] och du är bekant 
 * Skilj ut när supporten ska kontaktas *Yaml-filer och -begränsningar (DIY vs supportärenden)
 * Uppvisa grundläggande kunskaper i OOTB - FASTSTLY features configuration and installation
 
-**Avsnitt 8: Konfigurera/konfigurera Adobe [!DNL Commerce] Molnet (10 %)**
+**Avsnitt 8: Konfigurera/konfigurera Adobe [!DNL Commerce] Cloud (10 %)**
 
 * Beskriv hur du konfigurerar/konfigurerar Adobe [!DNL Commerce] Cloud
 * Använd grundläggande molnfelsökningsinformation (hierarki av webbgränssnitt och variabler, konfigurationsprioritet)
@@ -150,7 +150,7 @@ Du bör ha minst 1-3 års erfarenhet av Adobe [!DNL Commerce] och du är bekant 
 * Uppvisa förståelse för förgreningar med hjälp av användargränssnittet
 * Identifiera funktioner i Adobe Commerce Cloud Plan
 
-**Avsnitt 9: [!DNL Commerce] CLI-verktyg i molnet (hantera del) (6 %)**
+**Avsnitt 9: [!DNL Commerce] Molnbaserat CLI-verktyg (hantera del) (6 %)**
 
 * Uppvisa förståelse för att uppdatera molnvariabler med CLI
 * Uppvisa förståelse för miljöhantering med CLI (exklusiva CLI-funktioner: aktivera e-post, Rebase-miljöer, snapshot, db dump, lokal miljökonfiguration)
@@ -163,7 +163,7 @@ Du bör ha minst 1-3 års erfarenhet av Adobe [!DNL Commerce] och du är bekant 
 
 {{readiness}}
 
-[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e716-readiness-questionnaire-for-adobe-commerce-developer-expert/ad-q-e716-readiness-questionnaire-for-adobe-commerce-developer-expert){target="_blank"}
+[Ta enkäten om onlineberedskap](https://scorpion.caveon.com/launchpad/ad-q-e716-readiness-questionnaire-for-adobe-commerce-developer-expert/ad-q-e716-readiness-questionnaire-for-adobe-commerce-developer-expert){target="_blank"}
 
 <br>
 
@@ -185,15 +185,15 @@ Du bör ha minst 1-3 års erfarenhet av Adobe [!DNL Commerce] och du är bekant 
 
 {{study-materials-intro}}
 
-**Gör ett övningsprov**
+**Testa**
 
 {{practice-test}}
 
-**Handbok för testversioner**
+**Handbok för provprogram**
 
 {{exam-prep-guide}}
 
-[Visa guiden Förbered prov](https://app.rockinfo.com/courses/141)
+[Visa guide för testversioner](https://app.rockinfo.com/courses/141)
 
 +++
 
@@ -248,6 +248,6 @@ Du bör ha minst 1-3 års erfarenhet av Adobe [!DNL Commerce] och du är bekant 
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.

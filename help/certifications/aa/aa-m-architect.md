@@ -1,6 +1,6 @@
 ---
 title: Architect Master-certifiering
-description: Lär dig certifiera dig som [!DNL Adobe Analytics] Arkitektmästare.
+description: Lär dig hur du blir certifierad som  [!DNL Adobe Analytics] Architect Master.
 solution: Analytics
 product: Analytics
 level: Experienced
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/223) ger dig en skräddarsydd väg genom din förberedande process för certifieringstester, inklusive det material du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
+>**Nya studieresurser tillgängliga:** I [handboken för testversioner](https://app.rockinfo.com/courses/223) finns en skräddarsydd väg genom din testprocess för certifiering, inklusive det material du behöver för att lyckas med certifieringen. _Använd din Adobe ID om du uppmanas att logga in på guiden för testversioner._
 
 ## Provbeskrivning {#exam-description}
 
@@ -54,9 +54,9 @@ ht-degree: 0%
 
 ### Minimal upplevelse {#minimum-experience}
 
-Du bör ha minst 3-4 års erfarenhet av att designa [!DNL Adobe Analytics] arkitektur, datalagerspecifikationer och tagghantering, liksom en grundläggande förståelse för JavaScript-kod.
+Du bör ha minst 3-4 års erfarenhet av att designa [!DNL Adobe Analytics]-arkitekturen, datalagerspecifikationer och tagghantering, samt en grundläggande förståelse för JavaScript-koden.
 
-Dessutom ansvarar du för att omvandla verksamhetskrav till spårningsspecifikationer och [!DNL Adobe Analytics] och du är bekant med följande tekniker och miljöer:
+Dessutom ansvarar du för att översätta affärskrav till spårningsspecifikationer och [!DNL Adobe Analytics]-variabler, och du är bekant med följande tekniker och miljöer:
 
 * Web Analytics-program
 * Adobe Experience Cloud
@@ -72,7 +72,7 @@ Dessutom ansvarar du för att omvandla verksamhetskrav till spårningsspecifikat
 
 {{exam-objectives}}
 
-**Avsnitt 1: Upptäckt (18 %)**
+**Avsnitt 1: Discovery (18 %)**
 
 * Uppvisa förmåga att granska webbplatser
 * Undersök kundernas behov för att bygga upp affärskrav
@@ -87,7 +87,7 @@ Dessutom ansvarar du för att omvandla verksamhetskrav till spårningsspecifikat
 * Skriv tekniska specifikationer för webbplatsutvecklare
 * Skapa användare/grupper i Experience Cloud
 
-**Avsnitt 3: Efterimplementering (28 %)**
+**Avsnitt 3: Post-implementering (28 %)**
 
 * Validera spårning via webbläsarutvecklingsverktyg och Adobe-rapporter med en uppsättning krav
 * Tillämpa procedurbegrepp för att hantera dataextrahering och relationer
@@ -115,15 +115,15 @@ Dessutom ansvarar du för att omvandla verksamhetskrav till spårningsspecifikat
 
 {{study-materials-intro}}
 
-**Gör ett övningsprov**
+**Testa**
 
 {{practice-test}}
 
-**Handbok för testversioner**
+**Handbok för provprogram**
 
 {{exam-prep-guide}}
 
-[Visa guiden Förbered prov](https://app.rockinfo.com/courses/223)
+[Visa guide för testversioner](https://app.rockinfo.com/courses/223)
 
 +++
 
@@ -178,7 +178,7 @@ Dessutom ansvarar du för att omvandla verksamhetskrav till spårningsspecifikat
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.
 

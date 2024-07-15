@@ -1,6 +1,6 @@
 ---
 title: AEM Forms Backend Developer - professionell certifiering
-description: Lär dig hur du blir certifierad Adobe [!DNL Experience Manager Forms] backend developer Expert.
+description: Lär dig hur du blir en certifierad Adobe [!DNL Experience Manager Forms] backend-utvecklarexpert.
 solution: Experience Manager, Experience Manager Forms
 product: Experience Manager
 role: Developer
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/128) ger dig en skräddarsydd väg genom din förberedande process för certifieringstester, inklusive det material du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
+>**Nya studieresurser tillgängliga:** I [handboken för testversioner](https://app.rockinfo.com/courses/128) finns en skräddarsydd väg genom din testprocess för certifiering, inklusive det material du behöver för att lyckas med certifieringen. _Använd din Adobe ID om du uppmanas att logga in på guiden för testversioner._
 
 ## Provbeskrivning {#exam-description}
 
@@ -73,9 +73,9 @@ Dessutom bör du känna till följande tekniker och miljöer:
 * Möjlighet att integrera med datatjänster
 * Implementering av arbetsflöden
 * Grundläggande förståelse för AEM formulär workbench (JEE) för att skapa långa, dynamiska processer och tjänster.
-* Utveckla JavaScript-klienter med hjälp av GuideBridge API
+* Utveckla JavaScript clientlibs med GuideBridge API
 * Baserat på sign v government vet CAC vilken AEM Forms-miljö som är stationär eller serverbaserad att använda
-* Grundläggande förståelse av Java/J2EE och JavaScript för att skriva logik och anropa olika tjänster.
+* Grundläggande förståelse av Java/J2EE och JavaScript för att skriva logik och ringa olika tjänster.
 * Fyll i ett anpassat formulär i förväg
 * Grundläggande förståelse för eller kunskap om OSGi, Sling-komponenter
 * Användning av dokumenttjänster
@@ -96,7 +96,7 @@ Dessutom bör du känna till följande tekniker och miljöer:
 * Bygg Forms
 * Konfigurera Forms datamodell
 * Anpassa AEM Forms
-* Utveckla och använd JavaScript ClientLib med hjälp av GuideBridge API
+* Utveckla och använda JavaScript ClientLib med hjälp av GuideBridge API
 
 **Avsnitt 2: Processer och arbetsflöden (34 %)**
 
@@ -112,7 +112,7 @@ Dessutom bör du känna till följande tekniker och miljöer:
 * Felsöka och differentiera loggfiler
 * Utföra administrationsaktiviteter
 * Använd Service Pack
-* Konfigurera AEM Dispatcher för Forms
+* Utför AEM Dispatcher-konfiguration för Forms
 * Navigera mellan olika konsoler
 
 **Avsnitt 4: API-slutpunkter och integreringar (8 %)**
@@ -130,7 +130,7 @@ Dessutom bör du känna till följande tekniker och miljöer:
 
 {{readiness}}
 
-[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-x38d6m/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam){target="_blank"}
+[Ta enkäten om onlineberedskap](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-x38d6m/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam){target="_blank"}
 
 <br>
 
@@ -152,15 +152,15 @@ Dessutom bör du känna till följande tekniker och miljöer:
 
 {{study-materials-intro}}
 
-**Gör ett övningsprov**
+**Testa**
 
 {{practice-test}}
 
-**Handbok för testversioner**
+**Handbok för provprogram**
 
 {{exam-prep-guide}}
 
-[Visa guiden Förbered prov](https://app.rockinfo.com/courses/128)
+[Visa guide för testversioner](https://app.rockinfo.com/courses/128)
 
 +++
 
@@ -215,6 +215,6 @@ Dessutom bör du känna till följande tekniker och miljöer:
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.

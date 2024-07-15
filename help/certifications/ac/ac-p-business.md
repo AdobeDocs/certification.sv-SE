@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Certifieringsresa för Adobe [!DNL Commerce] Yrkesverksamma inom affärsverksamhet
+# Certifieringsresa för Adobe [!DNL Commerce] Business Practitioner Professional
 
 {{intro}}
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >Nu finns kostnadsfria resurser på begäran som hjälper dig att förbereda dig för ditt prov:
 >
->* **Kurser**: Ta [Adobe Commerce Business Practitioner Professional Course](https://app.rockinfo.com/courses/219) för förklaringar av viktiga begrepp, praktiska demonstrationer och kunskapsbaserade kontroller. Om du precis har börjat, [Adobe Commerce Foundations Course](https://app.rockinfo.com/courses/148) ger en grund för de kunskaper du kan bygga vidare på i din certifieringsresa.
+>* **Kurser**: Använd [Adobe Commerce Business Practitioner Professional Course](https://app.rockinfo.com/courses/219) för förklaringar av viktiga begrepp, praktiska demonstrationer och kunskapsbaserade kontroller. Om du just har börjat erbjuder [Adobe Commerce Foundations Course](https://app.rockinfo.com/courses/148) en grund för de kunskaper du kan bygga vidare på under din certifieringsresa.
 >
->* **Handbok för testversioner:** The [Handbok för testversioner](https://app.rockinfo.com/courses/137) ger dig en skräddarsydd väg genom din förberedande process för certifieringstester, inklusive det material du behöver för att lyckas med denna certifiering.
+>* **Handbok för testversioner:** I [handboken för testversioner](https://app.rockinfo.com/courses/137) finns en skräddarsydd sökväg som du kan använda genom att förbereda certifieringstester, inklusive det material du behöver för att lyckas med certifieringen.
 >
->_Om du uppmanas att logga in använder du din Adobe ID._
+>_Använd din Adobe ID om du uppmanas att logga in._
 
 ## Provbeskrivning {#exam-description}
 
@@ -62,11 +62,11 @@ ht-degree: 0%
 
 ### Minimal upplevelse {#minimum-experience}
 
-Du bör ha minst 0-12 månaders praktisk erfarenhet med [!DNL Magento Open Source] version 2.4.3 med hjälp av temat LUMA eller BLANK och grundläggande kunskaper i Adobe [!DNL Commerce] version 2.4.3.
+Du bör ha minst 0-12 månaders praktisk erfarenhet av [!DNL Magento Open Source] version 2.4.3 med hjälp av LUMA- eller BLANK-temat och grundläggande kunskaper i Adobe [!DNL Commerce] version 2.4.3.
 
 Dessutom bör du ha en grundläggande förståelse för e-handelsupplevelsen och kunna följande koncept:
 
-* Digital marknadsföring (SEO, CMS, e-postmarknadsföring, säljtekniker [korsförsäljning, merförsäljning], analys, rapportering och övervakning)
+* Digital marknadsföring (SEO, CMS, e-postmarknadsföring, försäljningstekniker [korsförsäljning, merförsäljning], analys, rapportering och övervakning)
 * E-handelsterminologi (försäljnings-/marknadsföringsstrategier som flerkanals- och flerkanalsstrategier)
 * Priser och kampanjer
 * Kundinköpsresa
@@ -86,13 +86,13 @@ Dessutom bör du ha en grundläggande förståelse för e-handelsupplevelsen och
 * Identifiera funktionerna i [!DNL Magento Open Source]
 * Skilja rätt omfång och när de ska användas
 * Uppvisa kunskap om kataloghantering
-* Bearbeta prissättningen med [!DNL Magento Open Source] funktioner
+* Ändra priser med [!DNL Magento Open Source] funktioner
 * Beskriv standardkundresan
 * Beskriv standardorderns livscykel
 * Beskriv de dagliga uppgifter som ingår i butiksunderhåll
 * Förklara olika typer av innehållselement och när de ska användas
 
-**Avsnitt 2: Adobe [!DNL Commerce] grunder (14 %)**
+**Avsnitt 2: Grundläggande om Adobe [!DNL Commerce] (14 %)**
 
 * Identifiera de viktigaste funktionerna i Adobe [!DNL Commerce]
 * Identifiera tjänsttillägg i Adobe [!DNL Commerce]
@@ -109,7 +109,7 @@ Dessutom bör du ha en grundläggande förståelse för e-handelsupplevelsen och
 **Avsnitt 4: Grunderna för efterlevnad/säkerhet (13 %)**
 
 * Förstå grunderna för efterlevnad av sekretesslagstiftning och betalningssäkerhet
-* Identifiera vanliga säkerhetsaspekter av en Adobe [!DNL Commerce] projekt
+* Identifiera vanliga säkerhetsaspekter för ett Adobe [!DNL Commerce]-projekt
 * Identifiera bästa praxis och juridiska krav på tillgänglighet
 
 <br>
@@ -118,7 +118,7 @@ Dessutom bör du ha en grundläggande förståelse för e-handelsupplevelsen och
 
 {{readiness}}
 
-[Ta ett frågeformulär om beredskap online](https://scorpion.caveon.com/launchpad/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam){target="_blank"}
+[Ta enkäten om onlineberedskap](https://scorpion.caveon.com/launchpad/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam){target="_blank"}
 
 <br>
 
@@ -140,7 +140,7 @@ Dessutom bör du ha en grundläggande förståelse för e-handelsupplevelsen och
 
 {{study-materials-intro}}
 
-**Gör ett övningsprov**
+**Testa**
 
 {{practice-test}}
 
@@ -148,15 +148,15 @@ Dessutom bör du ha en grundläggande förståelse för e-handelsupplevelsen och
 
 {{take-course}}
 
-[Ta en kurs i Adobe Commerce Foundations](https://app.rockinfo.com/courses/148)
+[Ta Adobe Commerce Foundation-kursen](https://app.rockinfo.com/courses/148)
 
 [Ta Adobe Commerce Business Practitioner Professional Course](https://app.rockinfo.com/courses/219)
 
-**Handbok för testversioner**
+**Handbok för provprogram**
 
 {{exam-prep-guide}}
 
-[Visa guiden Förbered prov](https://app.rockinfo.com/courses/137)
+[Visa guide för testversioner](https://app.rockinfo.com/courses/137)
 
 +++
 
@@ -211,6 +211,6 @@ Dessutom bör du ha en grundläggande förståelse för e-handelsupplevelsen och
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.

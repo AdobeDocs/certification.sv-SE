@@ -1,6 +1,6 @@
 ---
 title: Arkitekt Master - ny certifiering
-description: Lär dig hur du blir certifierad [!DNL Adobe Target] Arkitektmästare.
+description: Lär dig hur du blir en certifierad  [!DNL Adobe Target] Architect Master.
 solution: Target
 product: Target
 role: Data Architect
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nya studieresurser:** The [Handbok för testversioner](https://app.rockinfo.com/courses/237) ger dig en skräddarsydd väg genom din förberedande process för certifieringstester, inklusive det material du behöver för att lyckas med denna certifiering. _Om du uppmanas att logga in på guiden för testversioner använder du din Adobe ID._
+>**Nya studieresurser tillgängliga:** I [handboken för testversioner](https://app.rockinfo.com/courses/237) finns en skräddarsydd väg genom din testprocess för certifiering, inklusive det material du behöver för att lyckas med certifieringen. _Använd din Adobe ID om du uppmanas att logga in på guiden för testversioner._
 
 ## Provbeskrivning {#exam-description}
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 De sökande som ska genomgå certifieringen är bland annat medlemmar i följande grupper/organisationer:
 
 * Optimeringstekniker/arkitekt för konverteringsgrad
-* Tekniker/arkitekt för personalisering
+* Personalization ingenjör/arkitekt
 * Digital Solution Architect
 * Digital transformationskonsult
 * Lead för upplevelseoptimering
@@ -61,18 +61,18 @@ Du borde ha:
 * Minst tre års erfarenhet av optimering av digital marknadsföring
 * Minst två års erfarenhet (eller fem engagemang) av implementering, driftsättning och felsökning av Adobe Target
 * Upplev integrationen av Target med Adobe Experience Cloud
-* Grundläggande förståelse för JavaScript, HTML, CSS och webbutveckling i gränssnittet
+* Grundläggande förståelse för JavaScript, HTML, CSS och webbutveckling för webben
 * Förtrogenhet med och medvetenhet om Adobe Target API:er/SDK:er, integration på serversidan, rapportering och administration
 * Kunskap om hur man implementerar Adobe Target med ramverk för Single Page Application (SPA), mobil och e-post samt rekommendationer.
 
 Teknik:
 
 * Flera Adobe Experience Cloud-program (Adobe Analytics, Adobe Campaign, Adobe Experience Manager, Adobe Experience Cloud Debugger, Target API:er)
-* JavaScript (Ajax, JQuery och så vidare)
-* Webbläsarbaserade felsökningsverktyg (Chrome developer tools, VEC help), JSON för felsökningssvar från Target
+* JavaScript (Ajax, JQuery osv.)
+* Webbläsarbaserade felsökningsverktyg (Chrome utvecklingsverktyg, VEC-hjälper), JSON för felsökningssvar från Target
 * Felsökningsverktyg för inbyggda program (Charles Proxy, Fiddler)
 * HTML, CSS, HTTP, XML-konfiguration
-* Inbyggda IDE för mobilutveckling, grunderna för iOS-utveckling, grunderna för Android-utveckling
+* Inbyggda utvecklingsmiljöer för mobilutveckling, grunderna för iOS-utveckling, grunderna för Android-utveckling
 * API-verktyg som Postman
 * VEC-hjälp
 
@@ -93,39 +93,40 @@ Miljö:
 
 {{exam-objectives}}
 
-**Avsnitt 1: [!DNL Adobe Target] grundläggande (13 %)**
+**Avsnitt 1: [!DNL Adobe Target] Grundläggande (13 %)**
 
-* Identifiera lämpliga [!DNL Adobe Target] användning för ett visst scenario
-* Förklara grundläggande tekniker i [!DNL Adobe Target] implementering
+* Identifiera lämplig [!DNL Adobe Target]-användning för ett visst scenario
+* Förklara de grundläggande teknikerna i en [!DNL Adobe Target]-implementering
 
-**Avsnitt 2: Integrering med [!DNL Adobe Target] (18 %)**
+**Avsnitt 2: Integrera med [!DNL Adobe Target] (18 %)**
 
-* Använda processen för att integrera [!DNL Adobe Target] med Adobe Analytics (A4T)
-* Använda processen för att integrera [!DNL Adobe Target] till Adobe Experience Manager
+* Använd processen för att integrera [!DNL Adobe Target] med Adobe Analytics (A4T)
+* Använd processen för att integrera [!DNL Adobe Target] i Adobe Experience Manager
 * Beskriv integrationen med Adobe Experience Cloud Solutions och Adobe Experience Platform Solutions
 * Beskriv integrationen med Adobe Experience Cloud Audiences
 
-**Avsnitt 3: [!DNL Adobe Target] administration och styrning (6%)**
+**Avsnitt 3: [!DNL Adobe Target] Administration och styrning (6 %)**
 
-* Definiera en pågående [!DNL Adobe Target] implementeringsstrategi och systemstyrning
+* Definiera en pågående [!DNL Adobe Target]-implementeringsstrategi och systemstyrning
 * Använda processen och bästa praxis för att hantera användare
 * Beskriv de administrativa aspekterna av implementeringsinställningarna
 
-**Avsnitt 4: [!DNL Adobe Target] och kontaktpunkter som stöds (6 %)**
+**Avsnitt 4: [!DNL Adobe Target] och de beröringspunkter som stöds (6 %)**
 
 * Beskriv implementering på klientsidan
 * Beskriv implementering på serversidan
 * Beskriv implementeringskrav för mobiler, e-postmarknadsföring och API:er
 
-**Avsnitt 5: Bruttoanvändning [!DNL Adobe Target] rekommendationer (11 %)**
+**Avsnitt 5: Utnyttja [!DNL Adobe Target] rekommendationer (11 %)**
 
 * Uppvisa förståelse för rekommendationer, kataloger och kriterier
 * Använd processen för att konfigurera Target-rekommendationer
 
-**Avsnitt 6: Arkitekt, utformning och implementering [!DNL Adobe Target] (18 %)**
+**Avsnitt 6: Arkitekt, design och implementering [!DNL Adobe Target] (18 %)**
 
-* Välj rätt implementering av målbegäran (Global, Order Confirm, Hybrid) Utvärdera och utforma en [!DNL Adobe Target] implementering
-* Beskriv implementeringen av [!DNL Adobe Target] i Adobes mobilappar
+* Välj korrekt implementering av målbegäran (Global, Order Confirm, Hybrid)
+Utvärdera och utforma en [!DNL Adobe Target]-implementering
+* Beskriv implementeringen av [!DNL Adobe Target] i inbyggda mobilappar
 
 **Avsnitt 7: Felsökning (28 %)**
 
@@ -133,7 +134,7 @@ Miljö:
 * Felsöka målbegäran och svarsfel
 * Felsöka aktivitetsinställningsfel
 * Förstå integreringsfel
-* Felsökning [!DNL Adobe Target] Recommendations-fel
+* Felsök [!DNL Adobe Target] Recommendations-fel
 
 <br>
 
@@ -155,15 +156,15 @@ Miljö:
 
 {{study-materials-intro}}
 
-**Gör ett övningsprov**
+**Testa**
 
 {{practice-test}}
 
-**Handbok för testversioner**
+**Handbok för provprogram**
 
 {{exam-prep-guide}}
 
-[Visa guiden Förbered prov](https://app.rockinfo.com/courses/237)
+[Visa guide för testversioner](https://app.rockinfo.com/courses/237)
 
 +++
 
@@ -218,6 +219,6 @@ Miljö:
 
 ## Frågor
 
-Visa certifieringen [Vanliga frågor](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.
