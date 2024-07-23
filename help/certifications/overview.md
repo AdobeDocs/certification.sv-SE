@@ -4,10 +4,10 @@ description: Lär dig mer om  [!DNL Experience Cloud] certifiering på Adobe. Ta
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: 70d644fb8bbf20a4826ed187174c0127f98bce89
+source-git-commit: 0b468095d89029882f3b2492d52a4cf03731d4df
 workflow-type: tm+mt
-source-wordcount: '437'
-ht-degree: 3%
+source-wordcount: '477'
+ht-degree: 2%
 
 ---
 
@@ -16,6 +16,11 @@ ht-degree: 3%
 Läs mer om certifiering av Experience Cloud på Adobe och vad certifieringen kan göra för dig.
 
 ![Banderoll](/help/certifications/assets/home_banner_smallwide.png)
+
+>[!WARNING]
+>
+>En del användare har rapporterat att ett fel uppstod när de försökte logga in på Adobe Credential Management System, vilket förhindrar dem från att genomföra en tentamen. Vi arbetar för att lösa det här problemet. Kontakt med berörda användare kommer att ges ytterligare information.
+
 
 Adobe Digital Experience Certification Program har skapats för att du ska kunna bevisa dina färdigheter i Adobe [!DNL Experience Cloud]-produkter. Genom att bli Adobe Certified kan du visa upp din expertis och imponera på både kunder och arbetsgivare.
 

@@ -1,7 +1,7 @@
 ---
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: 0b468095d89029882f3b2492d52a4cf03731d4df
 workflow-type: tm+mt
-source-wordcount: '1802'
+source-wordcount: '1842'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,10 @@ ht-degree: 0%
 <!--divider-->
 
 ## Intro {#intro}
+
+>[!WARNING]
+>
+>En del användare har rapporterat att ett fel uppstod när de försökte logga in på Adobe Credential Management System, vilket förhindrar dem från att genomföra en tentamen. Vi arbetar för att lösa det här problemet. Kontakt med berörda användare kommer att ges ytterligare information.
 
 Den här sidan innehåller information om hur du uppnår certifieringen. Den innehåller en beskrivning av provet, studiematerialet, stegvisa instruktioner om certifieringsprocessen och hur du förnyar din certifiering.
 
