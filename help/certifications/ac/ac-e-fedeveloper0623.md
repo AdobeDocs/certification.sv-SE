@@ -7,9 +7,9 @@ role: Developer
 badge: label="Prov AD0-E720" type="neutral"
 mini-toc-levels: 1
 exl-id: 3d4efb08-cd0c-4e1f-8a85-34fd8791b77b
-source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
+source-git-commit: d0bf65a667035e122f9731c23d207dd35e68487f
 workflow-type: tm+mt
-source-wordcount: '733'
+source-wordcount: '725'
 ht-degree: 0%
 
 ---
@@ -57,7 +57,7 @@ Dessutom bör du vara bekväm med följande tekniker:
 * [!DNL Adobe Commerce] - version 2.4.6
 * Grundläggande förståelse av frontdelens struktur och layout
 * Upplevelse och förståelse av HTML, CSS (och preprocessorer), LESS, JavaScript och UI Components, jQuery, Underscore, Require.JS, Knockout, även PHP-mallar, DB-kunskaper och innehållshantering
-* Bekanta dig med plattformen, CMS-block, widgetar, CMS-sidor, kategorisidor, produktsidor, kundvagn och utcheckning samt kontokontrollpanelen
+* Bekanta dig med plattformen, CMS Blocks, Widgets, CMS pages, Category pages, Product pages, Cart and Checkout samt kontokontrollpanelen
 * Grundläggande förståelse för eller kunskap om administratörskonfigurationer
 * Kunskap om hur du utökar och skriver över format, layouter och JS-filer
 * Utöka överordnad tema/temahierarki
@@ -132,14 +132,6 @@ Dessutom bör du vara bekväm med följande tekniker:
 * Differentiera lämplig användning för driftsättningslägen
 * Definiera konfiguration och användning av Grunt
 * Beskriv ytterligare verktyg som molnet tillhandahåller (snabbt, hämta databas, innehållsdistribution, förgreningar med hjälp av användargränssnittet)
-
-<br>
-
-### Beredskapenkät
-
-{{readiness}}
-
-[Ta enkäten om onlineberedskap](https://scorpion.caveon.com/launchpad/ad0-e710-adobe-commerce-front-end-developer-expert-copy-jtnjz6){target="_blank"}
 
 <br>
 
