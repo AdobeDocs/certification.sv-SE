@@ -7,7 +7,7 @@ badge: label="Prov AD0-E905" type="neutral"
 mini-toc-levels: 1
 exl-id: 08f5386c-901c-44be-9537-48c9ac5d2be2
 hidefromtoc: true
-source-git-commit: dc8dc213ce43e8f521242fc2c3d320f6480d57b1
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '752'
 ht-degree: 0%
@@ -250,4 +250,4 @@ Och du borde ha:
 
 Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.
+Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com).

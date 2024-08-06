@@ -9,7 +9,7 @@ badge: label="Prova AD0-E600 och AD7-E601" type="neutral"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
 hidefromtoc: true
-source-git-commit: dc8dc213ce43e8f521242fc2c3d320f6480d57b1
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '1474'
 ht-degree: 0%
@@ -74,7 +74,7 @@ Du borde ha:
 >
 ><br>
 >
->**Om du redan har schemalagt en tentamen AD0-E600** rekommenderar vi att du avbryter din avtalade tid i Visiity-portalen (se steg 3 nedan) och schemalägger om när den nya tentamen släpps. Kontakta [certifieringssupport](mailto:certif@adobe.com){target="_blank"} om du har frågor.
+>**Om du redan har schemalagt en tentamen AD0-E600** rekommenderar vi att du avbryter din avtalade tid i Visiity-portalen (se steg 3 nedan) och schemalägger om när den nya tentamen släpps. Kontakta [certifieringssupport](mailto:certif@adobe.com) om du har frågor.
 
 AD0-E600-provet avser kunskaper och färdigheter som omfattar grundläggande funktioner och uppgifter som utförs ofta i Adobe [!DNL Experience Platform] på expertnivå.
 
@@ -183,7 +183,7 @@ AD0-E600-provet avser kunskaper och färdigheter som omfattar grundläggande fun
 >
 ><br>
 >
->**Om du redan har schemalagt en tentamen AD0-E600** rekommenderar vi att du avbryter din avtalade tid i Visiity-portalen och schemalägger om när den nya tentamen släpps. Kontakta [certifieringssupport](mailto:certif@adobe.com){target="_blank"} om du har frågor.
+>**Om du redan har schemalagt en tentamen AD0-E600** rekommenderar vi att du avbryter din avtalade tid i Visiity-portalen och schemalägger om när den nya tentamen släpps. Kontakta [certifieringssupport](mailto:certif@adobe.com) om du har frågor.
 
 {{schedule-and-pay}}
 
@@ -211,7 +211,7 @@ AD0-E600-provet avser kunskaper och färdigheter som omfattar grundläggande fun
 >
 ><br>
 >
->**Om du redan har schemalagt en tentamen AD0-E600** rekommenderar vi att du avbryter din avtalade tid i Visiity-portalen och schemalägger om när den nya tentamen släpps. Kontakta [certifieringssupport](mailto:certif@adobe.com){target="_blank"} om du har frågor.
+>**Om du redan har schemalagt en tentamen AD0-E600** rekommenderar vi att du avbryter din avtalade tid i Visiity-portalen och schemalägger om när den nya tentamen släpps. Kontakta [certifieringssupport](mailto:certif@adobe.com) om du har frågor.
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E600" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -244,7 +244,7 @@ AD0-E600-provet avser kunskaper och färdigheter som omfattar grundläggande fun
 >
 ><br>
 >
->**Om du redan har klarat provet AD0-E600 Adobe [!DNL Experience Platform] Technical Foundations och har förberett dig för provet AD7-E601** föreslår vi att du behåller din avtalade tid, eftersom du får din expertcertifiering i Adobe [!DNL Real-Time Customer Data Platform] när du har klarat provet AD7-E601. Kontakta [certifieringssupport](mailto:certif@adobe.com){target="_blank"} om du har frågor.
+>**Om du redan har klarat provet AD0-E600 Adobe [!DNL Experience Platform] Technical Foundations och har förberett dig för provet AD7-E601** föreslår vi att du behåller din avtalade tid, eftersom du får din expertcertifiering i Adobe [!DNL Real-Time Customer Data Platform] när du har klarat provet AD7-E601. Kontakta [certifieringssupport](mailto:certif@adobe.com) om du har frågor.
 
 AD7-E601-provet handlar om att skapa, hantera och förstå kundprofiler, segmentering, destinationer mellan olika källor och andra ämnen. Provet avser den grundläggande kompetens och kunskap som behövs för att använda CDP i realtid för målgruppssegmentering, destinationsexport och aktivering i realtid för enhetliga profiler som följer data- och integritetslagstiftningen. Kandidaterna bör ha erfarenhet av kunddataplatformar (CDP) och kunskaper om Adobe [!DNL Experience Platform].
 
@@ -431,4 +431,4 @@ Avsnitt 3: Destinationer (27 %)
 
 Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.
+Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com).

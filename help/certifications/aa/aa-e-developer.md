@@ -8,7 +8,7 @@ level: Experienced
 badge: label="tentamen AD0-E209" type="neutral"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '651'
 ht-degree: 0%
@@ -230,4 +230,4 @@ Miljö:
 
 Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.
+Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com).

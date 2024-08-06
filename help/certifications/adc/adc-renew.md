@@ -7,7 +7,7 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: d7b3688b-2ed8-4855-951b-80ac1be932eb
-source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%
@@ -46,4 +46,4 @@ Observera att om din certifiering upphör att gälla måste du göra om certifie
 
 Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.
+Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com).

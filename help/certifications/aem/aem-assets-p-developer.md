@@ -7,7 +7,7 @@ role: Developer
 badge: label="Prov AD0-E129" type="neutral"
 mini-toc-levels: 1
 exl-id: 710f6c8b-9a6c-445e-b831-a891b559f208
-source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '564'
 ht-degree: 0%
@@ -65,7 +65,7 @@ Du bör känna dig trygg när du arbetar i Adobe Managed Services och Adobe [!DN
 
 Du borde ha:
 
-* 6 månader+ CMS-upplevelse
+* 6 månader+ CMS
 * 6 månader+ AEM Assets
 * 6 månader+ Java-utvecklarupplevelse
 * Lokalt och molnbaserat
@@ -219,4 +219,4 @@ Dessutom bör du ha erfarenhet av följande tekniker och miljöer:
 
 Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.
+Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com).

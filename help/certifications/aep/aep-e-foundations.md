@@ -9,7 +9,7 @@ hidefromtoc: true
 hide: true
 mini-toc-levels: 1
 exl-id: 5e15b6e5-a9c0-4927-89d8-4a43fbb0e863
-source-git-commit: 03d57783516ef0768e84393d09c97ae95fdd819e
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '1069'
 ht-degree: 0%
@@ -393,4 +393,4 @@ Avsnitt 3: Destinationer (27 %)
 
 Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.
+Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com).

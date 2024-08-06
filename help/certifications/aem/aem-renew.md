@@ -6,7 +6,7 @@ product: Experience Manager
 role: User,Developer,Data Architect
 hidefromtoc: true
 exl-id: e7f1d21d-8e4a-4cbf-b1e5-379c194e0073
-source-git-commit: 8812242b1b5ab339115f9ef3ecb99af7659d9cda
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '2125'
 ht-degree: 0%
@@ -118,7 +118,7 @@ Här följer några förslag på resurser som hjälper dig att förbereda dig:
 
 * [Introduktion till AEM Screens](https://experienceleague.adobe.com/docs/experience-manager-screens/using/overview/introduction.html){target="_blank"}
 * [Stärk din digitala upplevelse med AEM as a Cloud Service](https://blog.developer.adobe.com/empower-your-digital-experience-with-aem-as-a-cloud-service-683d39eb98e3){target="_blank"}
-* [Introduktion till Adobe Experience Manager som headless CMS](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/introduction.html){target="_blank"}
+* [Introduktion till Adobe Experience Manager som Headless CMS](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/introduction.html){target="_blank"}
 * [Hantera produkt-, hjälp- och supportinnehåll från skapande till leverans.](https://business.adobe.com/products/experience-manager/guides/aem-guides.html){target="_blank"}
 * [Översikt över Experience Manager Assets Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html){target="_blank"}
 * [Projektroller och ansvarsområden](https://experienceleague.adobe.com/docs/experience-manager-screens/using/overview/roles-responsibilities.html){target="_blank"}
@@ -415,4 +415,4 @@ Välj först **två kurser** för att slutföra och genomföra varje kursutvärd
 
 Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.
+Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com).

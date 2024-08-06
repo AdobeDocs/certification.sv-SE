@@ -7,7 +7,7 @@ role: Data Architect
 badge: label="Prov AD0-E409" type="neutral"
 mini-toc-levels: 1
 exl-id: 50ef4855-9cf7-4a00-a6f7-1138b32a9634
-source-git-commit: 150bbde0e2f440fffa3d9f53fbba0a58a3652688
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '588'
 ht-degree: 0%
@@ -221,4 +221,4 @@ Miljö:
 
 Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.
+Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com).

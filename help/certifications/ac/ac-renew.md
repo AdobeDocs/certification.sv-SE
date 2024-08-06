@@ -7,7 +7,7 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: 8812242b1b5ab339115f9ef3ecb99af7659d9cda
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '2295'
 ht-degree: 0%
@@ -208,7 +208,7 @@ Adobe [!DNL Commerce] Developer Professional
 
 **Avsnitt 4: Layout/gränssnitt (18 %)**
 
-* Beskriv användningen av CMS-sidor och -block
+* Beskriv hur CMS sidor och block används
 * Ändra layout för ett scenario
 * Ändra sidformat för ett scenario
 * Beskriv temastrukturen
@@ -362,7 +362,7 @@ Adobe [!DNL Commerce] Front-End Developer Professional
 
 **Avsnitt 5: Administratörskonfiguration och PageBuilder (8 %)**
 
-* Uppvisa förmåga att anpassa Page Builder- och CMS-material
+* Uppvisa förmåga att anpassa innehåll i Page Builder och CMS
 * Beskriv steg för att anpassa transaktionsmejl
 
 **Avsnitt 6: Verktyg (CLI och Grunt) (8 %)**
@@ -478,4 +478,4 @@ Välj först **två kurser** för att slutföra och genomföra varje kursutvärd
 
 Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.
+Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com).

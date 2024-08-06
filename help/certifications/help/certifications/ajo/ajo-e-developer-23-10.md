@@ -6,7 +6,7 @@ product: Journey Optimizer
 role: Developer
 badge: label="Prov AD0-E606" type="neutral"
 exl-id: null
-source-git-commit: dc8dc213ce43e8f521242fc2c3d320f6480d57b1
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '650'
 ht-degree: 0%
@@ -211,4 +211,4 @@ Adobe Journey Optimizer drivs av Experience Platform. De sökande som vill bli c
 
 Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.
+Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com).

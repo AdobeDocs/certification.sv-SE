@@ -7,7 +7,7 @@ role: User,Developer,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: af895356-3e6b-424f-a637-a695b916aa47
-source-git-commit: 40d3d5a3cb94048deaf247454641fa4d78088b0a
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '2391'
 ht-degree: 0%
@@ -454,4 +454,4 @@ Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe Credential Ma
 
 Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.
+Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com).

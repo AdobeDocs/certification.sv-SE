@@ -7,7 +7,7 @@ role: Developer
 badge: label="Prov AD0-E603" type="neutral"
 exl-id: 4b405a01-b95c-46de-aaab-9fbacc25c6fc
 hidefromtoc: true
-source-git-commit: dc8dc213ce43e8f521242fc2c3d320f6480d57b1
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '633'
 ht-degree: 2%
@@ -263,4 +263,4 @@ Du bör ha minst ett års erfarenhet av att arbeta med olika CDP- och marknadsf�
 
 Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.
+Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com).

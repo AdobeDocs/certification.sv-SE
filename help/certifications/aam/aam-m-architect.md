@@ -8,7 +8,7 @@ level: Experienced
 badge: label="Prov AD0-E454" type="neutral"
 mini-toc-levels: 1
 exl-id: 6f87f669-f3c2-4a5c-a5f3-e3e73b93cd55
-source-git-commit: dc8dc213ce43e8f521242fc2c3d320f6480d57b1
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '562'
 ht-degree: 0%
@@ -217,4 +217,4 @@ Dessutom bör du kunna utföra följande uppgifter:
 
 Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.
+Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com).

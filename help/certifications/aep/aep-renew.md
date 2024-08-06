@@ -6,7 +6,7 @@ product: Experience Platform
 role: User,Developer,Data Architect
 badge: label="Adobe Journey Optimizer Renewal" type="neutral"
 hidefromtoc: true
-source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
@@ -34,4 +34,4 @@ Vi är glada att kunna meddela att du nu kan förnya din certifiering via ett ny
 
 Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.
+Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com).

@@ -7,7 +7,7 @@ role: Developer
 badge: label="Prov AD0-E721" type="neutral"
 mini-toc-levels: 1
 exl-id: 9bf1ec2a-dcd0-4952-8b0b-d24dd714b739
-source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '708'
 ht-degree: 0%
@@ -64,7 +64,7 @@ Dessutom bör du känna till följande tekniker:
 * En bättre förståelse för Adobe Commerce version 2.4.6
 * Grundläggande förståelse av frontdelens struktur och layout
 * Upplevelse och förståelse av HTML, CSS (och preprocessorer), LESS, JavaScript och UI Components, jQuery, Underscore, Require.JS, Knockout, även PHP-mallar, DB-kunskaper och innehållshantering
-* Bekanta dig med plattformen, CMS-block, widgetar, CMS-sidor, kategorisidor, produktsidor, kundvagn och utcheckning samt kontokontrollpanelen
+* Bekanta dig med plattformen, CMS Blocks, Widgets, CMS pages, Category pages, Product pages, Cart and Checkout samt kontokontrollpanelen
 * Grundläggande förståelse för eller kunskap om administratörskonfigurationer
 * Kunskap om hur du utökar och skriver över format, layouter och JS-filer
 * Utöka överordnad tema/temahierarki
@@ -120,7 +120,7 @@ Dessutom bör du känna till följande tekniker:
 
 **Avsnitt 5: Administratörskonfiguration och Page Builder (6 %)**
 
-* Uppvisa förmåga att anpassa Page Builder- och CMS-material&quot;
+* Uppvisa förmåga att anpassa innehåll i Page Builder och CMS&quot;
 * Använd/schemalägg ett tema för ett specifikt omfång (webbplats, butik, butiksvy)
 * Tillämpa designändringar på kategorier, produkter och CMS-sidor med administratörskonfiguration
 * Beskriv steg för att anpassa transaktionsmejl
@@ -228,4 +228,4 @@ Dessutom bör du känna till följande tekniker:
 
 Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.
+Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com).

@@ -7,7 +7,7 @@ role: User
 badge: label="Prov AD0-E406" type="neutral"
 mini-toc-levels: 1
 exl-id: e907929f-b4a4-45e1-ba2d-f407f46d41c6
-source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '861'
 ht-degree: 0%
@@ -245,4 +245,4 @@ Miljö:
 
 Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.
+Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com).

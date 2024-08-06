@@ -6,7 +6,7 @@ product: Journey Optimizer
 role: User
 badge: label="tentamen AD0-E607" type="neutral"
 exl-id: bc0be483-80c0-4a54-9562-1c2e93501db0
-source-git-commit: a12c353cfa46d2610a90cad52dbbd9ea125af16e
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '931'
 ht-degree: 0%
@@ -246,5 +246,5 @@ Kandidaterna ska också kunna
 
 Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.
+Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com).
 

@@ -8,7 +8,7 @@ role: Data Architect,Developer
 badge: label="Prov AD0-E207" type="neutral"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '391'
 ht-degree: 0%
@@ -87,7 +87,7 @@ Dessutom ansvarar du för att översätta affärskrav till spårningsspecifikati
 * Skriv tekniska specifikationer för webbplatsutvecklare
 * Skapa användare/grupper i Experience Cloud
 
-**Avsnitt 3: Post-implementering (28 %)**
+**Avsnitt 3: Efterimplementering (28 %)**
 
 * Validera spårning via webbläsarutvecklingsverktyg och Adobe-rapporter med en uppsättning krav
 * Tillämpa procedurbegrepp för att hantera dataextrahering och relationer
@@ -180,5 +180,5 @@ Dessutom ansvarar du för att översätta affärskrav till spårningsspecifikati
 
 Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com){target="_blank"}.
+Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com).
 
