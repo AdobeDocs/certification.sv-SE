@@ -7,9 +7,9 @@ role: User
 badge: label="Prov AD0-E408" type="neutral"
 mini-toc-levels: 1
 exl-id: e67e66a3-d3cc-4907-beb4-956940181279
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: 591a2c0a135e1a4acdf6e6fde6961b24044eae0f
 workflow-type: tm+mt
-source-wordcount: '567'
+source-wordcount: '627'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nya studieresurser tillgängliga:** I [handboken för testversioner](https://app.rockinfo.com/courses/235) finns en skräddarsydd väg genom din testprocess för certifiering, inklusive det material du behöver för att lyckas med certifieringen. _Använd din Adobe ID om du uppmanas att logga in på guiden för testversioner._
+>Nu finns kostnadsfria resurser på begäran som hjälper dig att förbereda dig för ditt prov:
+>
+>* **Ny kurs:** Om du just har börjat eller behöver en ny kurs kan du gå igenom [Adobe Target Foundations-kursen](https://app.rockinfo.com/courses/273) för att få information om viktiga begrepp, produktgenomgångar och kunskapsanalyser. Kursen ger en grund för de kunskaper du kan bygga vidare på i din certifieringsresa.
+>
+>* **Handbok för testversioner:** I [handboken för testversioner](https://app.rockinfo.com/courses/235) finns en skräddarsydd sökväg som du kan använda genom att förbereda certifieringstester, inklusive det material du behöver för att lyckas med certifieringen.
+>
+>_Använd din Adobe ID om du uppmanas att logga in._
 
 ## Provbeskrivning {#exam-description}
 
@@ -134,6 +140,12 @@ Du borde ha:
 **Testa**
 
 {{practice-test}}
+
+**Ta en kurs**
+
+{{take-course}}
+
+[Adobe Target Foundations Course](https://app.rockinfo.com/courses/273)
 
 **Handbok för provprogram**
 

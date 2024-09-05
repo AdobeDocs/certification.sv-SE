@@ -8,9 +8,9 @@ level: Experienced
 badge: label="Prov AD0-E213" type="neutral"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: 591a2c0a135e1a4acdf6e6fde6961b24044eae0f
 workflow-type: tm+mt
-source-wordcount: '720'
+source-wordcount: '784'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,16 @@ ht-degree: 0%
 
 {{intro}}
 
+
 >[!NOTE]
 >
->**Nya studieresurser tillgängliga:** I [handboken för testversioner](https://app.rockinfo.com/courses/217) finns en skräddarsydd väg genom din testprocess för certifiering, inklusive det material du behöver för att lyckas med certifieringen. _Använd din Adobe ID om du uppmanas att logga in på guiden för testversioner._
+>Nu finns kostnadsfria resurser på begäran som hjälper dig att förbereda dig för ditt prov:
+>
+>* **Kurs:** Om du just har börjat eller behöver en uppdaterare kan du gå igenom [Adobe Analytics Foundations-kursen](https://app.rockinfo.com/courses/263) för att få information om viktiga begrepp, produktgenomgångar och kunskapsanalyser. Kursen ger en grund för de kunskaper du kan bygga vidare på i din certifieringsresa.
+>
+>* **Handbok för testversioner:** I [handboken för testversioner](https://app.rockinfo.com/courses/217) finns en skräddarsydd sökväg som du kan använda som förberedelse för proven, inklusive det ingående studiematerialet som du behöver för att kunna genomföra provet.
+>
+>_Använd din Adobe ID om du uppmanas att logga in på guiden för testversioner._
 
 ## Provbeskrivning {#exam-description}
 
@@ -147,6 +154,12 @@ Du bör även ha erfarenhet av följande uppgifter:
 **Testa**
 
 {{practice-test}}
+
+**Ta en kurs**
+
+{{take-course}}
+
+[Adobe Analytics Foundations-kurs](https://app.rockinfo.com/courses/263)
 
 **Handbok för provprogram**
 
