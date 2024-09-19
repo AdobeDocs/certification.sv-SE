@@ -1,5 +1,5 @@
 ---
-source-git-commit: 77e59533d17d4bcf02805f69b89e9bfbf44110d2
+source-git-commit: e98d6f96841c0efbe07c33625ac728069393a99e
 workflow-type: tm+mt
 source-wordcount: '1835'
 ht-degree: 0%
@@ -193,7 +193,7 @@ Adobe använder sig av Examity för att administrera proffsiga examina online. I
 
 >[!WARNING]
 >
->Adobe Digital Experience Certification Program förbereder uppgraderingar. På grund av detta kan de sökande för närvarande inte boka in examensbesök efter den 26 september 2024. Schemaläggningen återgår till det normala när uppgraderingarna är klara.
+>Adobe Digital Experience Certification Program förbereder uppgraderingar. På grund av detta kan de sökande för närvarande inte boka in examensbesök efter den 13 oktober 2024. Schemaläggningen återgår till det normala när uppgraderingarna är klara.
 
 <!--divider-->
 
