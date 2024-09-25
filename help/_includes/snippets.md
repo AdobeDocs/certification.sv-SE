@@ -1,7 +1,7 @@
 ---
-source-git-commit: b343d44734e84224e6e266235573a3c29a273721
+source-git-commit: b8d1594007a079fb2f18deb1484634a8fb385177
 workflow-type: tm+mt
-source-wordcount: '1836'
+source-wordcount: '1838'
 ht-degree: 0%
 
 ---
@@ -187,9 +187,7 @@ Adobe använder sig av Examity för att administrera proffsiga examina online. I
 
 * **Ta din tentamen.**
 
->[!NOTE]
->
->Du måste logga in på [Adobe-systemet för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe){target="_blank"} innan du klickar på knappen Undersök nedan.
+**Obs!** Du måste logga in på [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} innan du klickar på knappen Undersök nedan.
 
 >[!WARNING]
 >
