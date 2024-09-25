@@ -1,7 +1,7 @@
 ---
-source-git-commit: e98d6f96841c0efbe07c33625ac728069393a99e
+source-git-commit: b343d44734e84224e6e266235573a3c29a273721
 workflow-type: tm+mt
-source-wordcount: '1835'
+source-wordcount: '1836'
 ht-degree: 0%
 
 ---
@@ -123,13 +123,13 @@ Betala med verifikation: Om du vill köpa en provkupong går du till: Adobe Cert
 
 **Köpa en voucher**
 
-Du kan betala för en tentamen med en verifikation. Om du vill köpa en provvoucher går du till [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}.
+Du kan betala för en tentamen med en verifikation. Om du vill köpa en provvoucher går du till [Adobe Certification Voucher Center](https://certification.adobe.com/certifications/vouchers){target="_blank"}.
 
 Du kan använda verifikationskoden när du schemalägger provet. Se nedan för information om kupongrabatt.
 
 Alla sökande kan få rabatt på massinköp på minst 10 prov när de köper via Adobe Certification Voucher Center.
 
-Mer information om vouchers finns i [Vanliga frågor och svar](https://experienceleague.adobe.com/docs/certification/program/faq.html){target="_blank"}.
+Mer information om vouchers finns i [Vanliga frågor och svar](https://certification.adobe.com/certifications/vouchers?tab=faq-vouchers-tab){target="_blank"}.
 
 **Rabatter**
 
@@ -143,7 +143,7 @@ Det finns massrabatter:
 
 Partnerrabatter: Bronze level Partners och högre får rabatter på alla Adobe-certifieringstester och -klasser. Du kan läsa mer om dessa rabatter och hur du får tillgång till partnerförmåner på Solution Partner Portal.
 
-Kupongrabatter: Alla kandidater kan få rabatt på massinköp på minst 10 prov när de köper via Adobe Certification Voucher Center.
+Kupongrabatter: Alla kandidater kan få rabatt på massinköp på minst 10 prov när de köper via [Adobe Certification Voucher Center](https://certification.adobe.com/certifications/vouchers){target="_blank"}.
 
 Obs! Det går inte att kombinera massrabatter med andra erbjudanden eller rabatter.
 
@@ -183,7 +183,7 @@ Adobe använder sig av Examity för att administrera proffsiga examina online. I
 
 * **Schemalägg, schemalägg om eller avbryt provet.** Observera att du måste avbryta och schemalägga om innan 48 timmar har gått innan den schemalagda provperioden. Kandidaterna måste själva ändra den här avtalade tiden.
 
-* **Betala för provet.** Betala för din certifieringstest antingen med verifikation eller kreditkort i granskningsporten. Om du vill köpa en provvoucher går du till: [Adobe Certification Voucher System](https://market.xvoucher.com/adobe/global){target="_blank"}. Du kan använda verifikationskoden när du schemalägger provet. Om du har en rabatt gäller den i kassan.
+* **Betala för provet.** Betala för din certifieringstest antingen med verifikation eller kreditkort i granskningsporten. Gå till [Adobe Certification Voucher Center](https://certification.adobe.com/certifications/vouchers){target="_blank"} om du vill köpa en provvoucher. Du kan använda verifikationskoden när du schemalägger provet. Om du har en rabatt gäller den i kassan.
 
 * **Ta din tentamen.**
 
