@@ -4,9 +4,9 @@ description: Lär dig certifiera dig på Adobe. Hitta alla resurser ni behöver 
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 8439a5bd025d0bd30b85bc32b1017c00829fe609
+source-git-commit: 818318d0eaee1dec2beb545fd8433f359fec5c33
 workflow-type: tm+mt
-source-wordcount: '1496'
+source-wordcount: '1406'
 ht-degree: 0%
 
 ---
@@ -72,7 +72,7 @@ De flesta certifieringsförnyelser är **kostnadsfria**. För certifieringar som
 
 **Betalar för din tentamen**
 
-Du kan betala för ditt certifieringsprov med hjälp av verifikation eller kreditkort. Gå till [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"} om du vill köpa en provvoucher.
+Du kan betala för ditt certifieringsprov med hjälp av verifikation eller kreditkort. Gå till [Adobe Certification Voucher Center](https://certification.adobe.com/certifications/vouchers){target="_blank"} om du vill köpa en provvoucher.
 
 Du kan använda verifikationskoden när du schemalägger provet. Om du har en rabatt tillämpas den i kassan.
 
@@ -82,7 +82,7 @@ Bronze och högre partners får rabatter på alla Adobe certifieringstester och 
 
 **Andra rabatter**
 
-Dessutom kan alla kandidater få en rabatt på massinköp på minst 10 prov när de köper via [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}.
+Dessutom kan alla kandidater få en rabatt på massinköp på minst 10 prov när de köper via [Adobe Certification Voucher Center](https://certification.adobe.com/certifications/vouchers).
 
 **Massrabattnivåer**
 
@@ -94,6 +94,68 @@ Obs! Det går inte att kombinera massrabatter med andra erbjudanden eller rabatt
 | 25-49 | 25 % |
 | 50+ | 33 % |
 
+>[!TAB Kuponger]
+
+Adobe Digital Experience Certification Program är på väg mot en ny plattform i höst! Den nya certifieringsportalen för Adobe kommer att erbjuda teknisk utbildning och en förbättrad användarupplevelse för certifieringssökande.
+
+Som en del av portalen har vi utformat ett nytt [Adobe Voucher Center](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"} som startas den 23 september 2024. Det nya systemet för inköp och hantering av vouchers är stabilare, enklare att navigera i och har förbättrade rapportalternativ för administratörer.
+
+Alla vouchers som du redan har köpt via Xvoucher kommer att vara tillgängliga på certifieringsportalen för Adobe inom 72 timmar efter den här övergången. När du har loggat in kan du gå till [Adobe Voucher Center](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"} för att visa din aktiva verifikation och verifikationshistorik och köpa nya verifikationer.
+
+**Viktiga datum att komma ihåg:**
+
+**23 september 2024, 12:01 ET**
+* Det går inte längre att köpa kuponger på Xvoucher.
+* Kuponginköp finns i [Adobe Voucher Center](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"}.
+* Det går fortfarande att schemalägga tentamen från [Adobe Credential Management System](https://www.certmetrics.com/adobe/){target="_blank"}.
+
+**25 september 2024 08:00 ET**
+* Verifikationer från ditt Xvoucher-konto visas i [Adobe Voucher Center](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"}.
+
+**Vanliga frågor och svar**
+
++++Vad händer med befintliga vouchers?
+
+Alla vouchers som du redan har köpt via Xvoucher kommer att finnas tillgängliga på Adobe Certification Portal den 25 september 2024 kl. 8.00 ET. Du kan fortfarande använda dessa verifikationer för att schemalägga tentamen. Numren ändras inte ens efter övergången från Xvoucher.
+
++++
+
++++Hur köper jag kuponger på certifieringsportalen för Adobe?
+
+Gå till [Adobe Voucher Center](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"} och lägg till önskat antal vouchers i kundvagnen. Så länge du är inloggad med din partner via e-post kommer din partnerrabatt att att gälla.
+
+Visa den här [videon](https://video.tv.adobe.com/v/3434122){target="_blank"} om du vill ha en demonstration om inköp av voucher.
+
++++
+
++++Hur tilldelar jag och hanterar vouchers för mitt team?
+
+Den här [videon](https://video.tv.adobe.com/v/3434581){target="_blank"} innehåller en detaljerad översikt över administratörsfunktionerna i Adobe Voucher Center.
+
++++
+
++++Var kan jag se mitt teams vouchers?
+
+Teamets vouchers visas i [Adobe Voucher Center](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"}.
+
++++
+
++++Var kan mina teammedlemmar visa sina tilldelade vouchers?
+
+Enskilda personer kan visa sina tilldelade vouchers i sitt [konto](https://certification.adobe.com/user/purchases){target="_blank"} på Adobe-certifieringsportalen.
+
++++
+
++++Hur startar jag min registrering av inköpsorder i det nya systemet?
+
+Se den sista frågan i våra [Voucher FAQ](https://certification.adobe.com/certifications/vouchers?tab=faq-vouchers-tab){target="_blank"}:&quot;Hur betalar vi med en inköpsorder?&quot;
+
++++
+
+**Frågor?**
+
+Besök de detaljerade [Voucher FAQ](https://certification.adobe.com/certifications/vouchers?tab=faq-vouchers-tab){target="_blank"} på vår webbplats.
+
 >[!TAB Certifieringsleverantörer]
 
 Adobe program för certifiering av digitala upplevelser samarbetar med leverantörer för att stödja programmets initiativ och mål. Här är leverantörerna och deras kontaktinformation:
@@ -102,7 +164,6 @@ Adobe program för certifiering av digitala upplevelser samarbetar med leverant�
 | ------- | ------- | ------- |
 | Tillförlitligt | Badge Management System | [Support](https://credlyissuer.zendesk.com/hc/en-us){target="_blank"} |
 | Underbarhet | Testa leveransleverantör (endast onlinebearbetning) | [Email](mailto:support@examity.com){target="_blank"} eller 855-Examity (855-392-6489) |
-| Xvoucher - Adobe Certification Voucher Center | Verifikationscenter för att köpa enskilda eller bulkverifikationer | [E-post](mailto:support@xvoucher.com){target="_blank"} eller [Onlinehjälp](https://help.xvoucher.com/hc/en-us) |
 
 Andra leverantörsresurser:
 
@@ -123,69 +184,6 @@ Användbara videor:
 * [Så här schemalägger du om din testavtalade tid](https://vimeo.com/394507149){target="_blank"}
 * [Så här avbryter du din testtid](https://vimeo.com/394507135){target="_blank"}
 * [Så här testar du online](https://vimeo.com/394506686){target="_blank"}
-
-Vanliga frågor och svar om Adobe Certification Voucher Center (Xvoucher)
-
-+++När upphör tentamen? Hur länge är de bra på?
-
-Adobe-tentamen går ut 12 månader efter köpet. Det går inte att förlänga kuponger efter förfallodatumet. Provregistreringar måste schemaläggas, betalas för och utföras före provkupongens förfallodatum.
-
-+++
-
-+++Kan verifikationer returneras för kredit eller återbetalning?
-
-_All försäljning är slutgiltig._ Returer och återbetalningar accepteras inte. Adobe-provvouchers köps på tentamenivå, inte för specifika tentamina, och det ger flexibilitet.
-
-* Exempel: När du köper 10 provkuponger på Adobe Certified Expert-nivå och distribuerar dem behöver du inte veta i förväg eller planera vem som ska ta vilket expertprov.
-* Administratörer kan tilldela vouchern till en användare och se om vouchern visades, löstes in eller när tentamen var schemalagd eller utfördes.
-
-+++
-
-+++Vilken typ av betalningar accepteras?
-
-Betalning kan göras med (alla större) kreditkort. Betalningar via kreditkort kräver godkännande av ett klickningsavtal online. De olika betalningsalternativen är:
-
-* Tråd, inköpsorder eller ACH: Skapa en inköpsorder i Xvoucher-systemet som kan skrivas ut och skickas till din kontoansvariga avdelning. Denna beställning kommer att godkännas efter mottagandet av överföringen eller kontrollen.
-* Kreditkort: Alla större kreditkort har godkänts.
-* Xwall: Detta subtraherar orderbeloppet från din Xwpallpool.
-
-+++
-
-+++Finns det ett lägsta eller högsta antal kuponger jag kan köpa?
-
-Nej, det finns inget minimum eller maximum. Kundinköpen är endast begränsade baserat på tillgängliga medel, t.ex. kreditkortsgräns eller bankkontosaldo för banköverföringar.
-
-+++
-
-+++Hur lång tid tar det att få tillgång till vouchers efter att jag har gjort min beställning?
-
-Kupongerna blir tillgängliga direkt efter köpet om de betalar med kreditkort eller Xwallall.
-
-* Om du köper för egen del kommer kupongkoder att anges på skärmen och i e-post.
-* Om du köper för andra loggar du in på ditt Xvoucher-konto och distribuerar vouchers till slutanvändarna därifrån.
-* Om du betalar via tråd eller via inköpsorder kommer verifikationsorder att frisläppas när Xvoucher har mottagit medlen.
-
-[Onlinehjälp](https://help.xvoucher.com/){target="_blank"}
-
-+++
-
-+++Hur kommer jag åt mitt Xvoucher-konto?
-
-Logga bara in på ditt konto [här](https://www.xvoucher.com/Login.aspx){target="_blank"}.
-
-+++
-
-+++Hur kommer jag åt min Adobe-voucher?
-
-När du har tilldelats en voucher får du ett e-postmeddelande från support@xvoucher.com med en kupongkod och instruktioner om hur du löser in vouchern. Om du inte har fått något e-postmeddelande bör du kontrollera din skräppostmapp. Om du fortfarande inte kan hitta e-postmeddelandet kan du logga in på ditt Xvoucher-konto.
-
-+++
-
-+++Kan verifikationer returneras för kredit eller återbetalning?
-
-All försäljning är slutgiltig. Returer och återbetalningar accepteras inte. Vouchers för Adobe-prov köps på tentamen, inte för specifika tentamina, vilket ger stor flexibilitet.
-
-+++
 
 >[!TAB Hantera din certifieringsprofil]
 

@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: 70d644fb8bbf20a4826ed187174c0127f98bce89
+source-git-commit: 818318d0eaee1dec2beb545fd8433f359fec5c33
 workflow-type: tm+mt
-source-wordcount: '2485'
+source-wordcount: '2026'
 ht-degree: 1%
 
 ---
@@ -258,71 +258,6 @@ Utvärderingarna bygger på kurserna i Experience League och en översyn av dem 
 
 >[!TAB  Vouchers]
 
-+++När upphör tentamen? Hur länge är de bra på?
-
-Adobe-tentamen går ut 12 månader efter köpet. Det går inte att förlänga kuponger efter förfallodatumet. Provregistreringar måste schemaläggas, betalas för och utföras före provkupongens förfallodatum.
-
-+++
-
-+++Kan verifikationer returneras för kredit eller återbetalning?
-
-_All försäljning är slutgiltig._ Returer och återbetalningar accepteras inte. Adobe-provvouchers köps på tentamenivå, inte för specifika tentamina, och det ger flexibilitet.
-
-* Exempel: När du köper 10 provkuponger på Adobe Certified Expert-nivå och distribuerar dem behöver du inte veta i förväg eller planera vem som ska ta vilket expertprov.
-* Administratörer kan tilldela vouchern till en användare och se om vouchern visades, löstes in eller när tentamen var schemalagd eller utfördes.
-
-+++
-
-+++Vilken typ av betalningar accepteras?
-
-Betalning kan göras med (alla större) kreditkort. Betalningar via kreditkort kräver godkännande av ett klickningsavtal online. De olika betalningsalternativen är:
-
-* Tråd, inköpsorder eller ACH: Skapa en inköpsorder i Xvoucher-systemet som kan skrivas ut och skickas till din kontoansvariga avdelning. Denna beställning kommer att godkännas efter mottagandet av överföringen eller kontrollen.
-* Kreditkort: Alla större kreditkort har godkänts.
-* Xwall: Detta subtraherar orderbeloppet från din Xwpallpool.
-
-+++
-
-+++Finns det ett lägsta eller högsta antal kuponger jag kan köpa?
-
-Nej, det finns inget minimum eller maximum. Kundinköpen är endast begränsade baserat på tillgängliga medel, t.ex. kreditkortsgräns eller bankkontosaldo för banköverföringar.
-
-+++
-
-+++Hur lång tid tar det att få tillgång till vouchers efter att jag har gjort min beställning?
-
-Kupongerna blir tillgängliga direkt efter köpet om de betalar med kreditkort eller Xwallall.
-
-* Om du köper för egen del kommer kupongkoder att anges på skärmen och i e-post.
-* Om du köper för andra loggar du in på ditt Xvoucher-konto och distribuerar vouchers till slutanvändarna därifrån.
-* Om du betalar via tråd eller via inköpsorder kommer verifikationsorder att frisläppas när Xvoucher har mottagit medlen.
-
-[Onlinehjälp](https://help.xvoucher.com/){target="_blank"}
-
-+++
-
-+++Hur kommer jag åt mitt Xvoucher-konto?
-
-Logga bara in på ditt konto [här](https://www.xvoucher.com/Login.aspx){target="_blank"}.
-
-+++
-
-+++Hur kommer jag åt min Adobe-voucher?
-
-När du har tilldelats en voucher får du ett e-postmeddelande från support@xvoucher.com med en kupongkod och instruktioner om hur du löser in vouchern. Om du inte har fått något e-postmeddelande bör du kontrollera din skräppostmapp. Om du fortfarande inte kan hitta e-postmeddelandet kan du logga in på ditt Xvoucher-konto.
-
-+++
-
-+++Kan verifikationer returneras för kredit eller återbetalning?
-
-All försäljning är slutgiltig. Returer och återbetalningar accepteras inte. Vouchers för Adobe-prov köps på tentamen, inte för specifika tentamina, vilket ger stor flexibilitet.
-
-+++
-
->[!TAB Starta om programmet]
-
->[!NOTE]
->
->Omstartsprogrammet avslutades den 20 oktober 2023. Det var ett engångserbjudande som inte kommer att upprepas i framtiden.
+Besök de detaljerade [Voucher FAQ](https://certification.adobe.com/certifications/vouchers?tab=faq-vouchers-tab){target="_blank"} i det nya Adobe Certification Voucher Center.
 
 >[!ENDTABS]
