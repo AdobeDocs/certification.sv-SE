@@ -1,6 +1,6 @@
 ---
 title: Vanliga frågor och svar
-description: Få svar på frågor om certifieringsprogrammet för Adobe Digital Experience Läs mer om fördelarna med certifiering, hur du registrerar dig och vem du kan kontakta.
+description: Få svar på frågor om certifieringsprogrammet för Adobe Digital Experience. Läs mer om fördelarna med certifiering, hur du registrerar dig och vem du kan kontakta.
 role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
