@@ -7,7 +7,7 @@ role: User,Developer,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: af895356-3e6b-424f-a637-a695b916aa47
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
 workflow-type: tm+mt
 source-wordcount: '2391'
 ht-degree: 0%
@@ -15,6 +15,8 @@ ht-degree: 0%
 ---
 
 # Förnya din certifiering för Adobe [!DNL Campaign Classic]
+
+{{renewals-hold}}
 
 Din Adobe-certifiering gäller i två år. Om du närmar dig den här tvåårsmärkningen är det dags att förnya din certifiering för att den ska förbli aktiv.
 

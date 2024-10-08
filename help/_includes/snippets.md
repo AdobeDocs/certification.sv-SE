@@ -1,7 +1,7 @@
 ---
-source-git-commit: b8d1594007a079fb2f18deb1484634a8fb385177
+source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
 workflow-type: tm+mt
-source-wordcount: '1838'
+source-wordcount: '1989'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,16 @@ ht-degree: 0%
 ## Intro {#intro}
 
 Den här sidan innehåller information om hur du uppnår certifieringen. Den innehåller en beskrivning av provet, studiematerialet, stegvisa instruktioner om certifieringsprocessen och hur du förnyar din certifiering.
+
+>[!NOTE]
+>Adobe Digital Experience Certification Program Update
+>
+>**Programmet för certifiering av digitala upplevelser i Adobe är på väg!** Den nya certifieringsportalen för Adobe startar den 22 oktober 2024. Observera följande **viktiga datum:**
+>
+>* **14 oktober 2024:** Schemaläggning av tentamen, övningstester och åtkomst till Adobe Credential Management System är inte tillgängliga när vi migrerar data till den nya portalen
+>* **22 oktober 2024:** Certifieringsportalen för Adobe startas! Din certifieringshistorik kommer att finnas tillgänglig på den nya portalen tillsammans med all testinformation, studieresurser och schemaläggningsfunktioner. Era övningsresultat och coachningsrapporter kommer att finnas tillgängliga på ditt konto den 1 januari 2021.
+>
+>Gå tillbaka hit den 22 oktober för mer information om hur du loggar in på den nya certifieringsportalen för Adobe!
 
 <!--divider-->
 
@@ -240,3 +250,9 @@ Våra kostnadsfria, on-demand-kurser hjälper dig att förbereda dig för ditt p
 ## Handbok för testversioner {#exam-prep-guide}
 
 Den kostnadsfria guiden för testversioner ger en skräddarsydd väg genom testprocessen, inklusive det material du behöver för att lyckas med provet.
+
+## Förnyelser är spärrade {#renewals-hold}
+
+>[!WARNING]
+>
+>Adobe program för certifiering av digitala upplevelser kommer snart att förändras. Om du håller på att förnya din certifiering bör du tänka på att **13 oktober 2024 är det sista datumet då din förnyelse slutförs.**

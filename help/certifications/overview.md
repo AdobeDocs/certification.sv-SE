@@ -4,10 +4,10 @@ description: Lär dig mer om  [!DNL Experience Cloud] certifiering på Adobe. Ta
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
 workflow-type: tm+mt
-source-wordcount: '437'
-ht-degree: 3%
+source-wordcount: '552'
+ht-degree: 2%
 
 ---
 
@@ -16,6 +16,16 @@ ht-degree: 3%
 Läs mer om certifiering av Experience Cloud på Adobe och vad certifieringen kan göra för dig.
 
 ![Banderoll](/help/certifications/assets/home_banner_smallwide.png)
+
+>[!NOTE]
+>Adobe Digital Experience Certification Program Update
+>
+>**Programmet för certifiering av digitala upplevelser i Adobe är på väg!** Den nya certifieringsportalen för Adobe startar den 22 oktober 2024. Observera följande **viktiga datum:**
+>
+>* **14 oktober 2024:** Schemaläggning av tentamen, övningstester och åtkomst till Adobe Credential Management System är inte tillgängliga när vi migrerar data till den nya portalen
+>* **22 oktober 2024:** Certifieringsportalen för Adobe startas! Din certifieringshistorik kommer att finnas tillgänglig på den nya portalen tillsammans med all testinformation, studieresurser och schemaläggningsfunktioner. Era övningsresultat och coachningsrapporter kommer att finnas tillgängliga på ditt konto den 1 januari 2021.
+>
+>Gå tillbaka hit den 22 oktober för mer information om hur du loggar in på den nya certifieringsportalen för Adobe!
 
 Adobe Digital Experience Certification Program har skapats för att du ska kunna bevisa dina färdigheter i Adobe [!DNL Experience Cloud]-produkter. Genom att bli Adobe Certified kan du visa upp din expertis och imponera på både kunder och arbetsgivare.
 

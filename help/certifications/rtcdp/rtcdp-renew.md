@@ -7,7 +7,7 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 4faaca20-9d03-48b2-b3d7-0f964c63000e
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
 workflow-type: tm+mt
 source-wordcount: '692'
 ht-degree: 0%
@@ -15,6 +15,8 @@ ht-degree: 0%
 ---
 
 # Förnya din certifiering för Adobe [!DNL Real-Time CDP]
+
+{{renewals-hold}}
 
 Din Adobe-certifiering gäller i två år. Om du närmar dig den här tvåårsmärkningen är det dags att förnya din certifiering för att den ska förbli aktiv.
 
