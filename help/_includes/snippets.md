@@ -1,7 +1,7 @@
 ---
-source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
+source-git-commit: a6939c76c6440e9de928688b256fd3410046b174
 workflow-type: tm+mt
-source-wordcount: '1989'
+source-wordcount: '1983'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,6 @@ ht-degree: 0%
 Den här sidan innehåller information om hur du uppnår certifieringen. Den innehåller en beskrivning av provet, studiematerialet, stegvisa instruktioner om certifieringsprocessen och hur du förnyar din certifiering.
 
 >[!NOTE]
->Adobe Digital Experience Certification Program Update
 >
 >**Programmet för certifiering av digitala upplevelser i Adobe är på väg!** Den nya certifieringsportalen för Adobe startar den 22 oktober 2024. Observera följande **viktiga datum:**
 >
