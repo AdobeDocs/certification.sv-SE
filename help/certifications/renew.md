@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: e54d11bb-d563-4779-ad42-b749be64611a
-source-git-commit: 839b73b72e72e4460d78028047abc8bf6ada0675
+source-git-commit: ecdd9647a660eb3662f925408a4fd27fb9a3c2d9
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
@@ -38,11 +38,11 @@ Adobe erbjuder olika resurser och verktyg som hjälper dig att förnya din certi
 
 De flesta certifieringar kan förnyas **kostnadsfritt**. Vissa certifieringar har ännu inte något alternativ för kostnadsfri förnyelse. Om du vill förnya dessa certifieringar måste du göra om den fullständiga certifieringstest som krävs.
 
-## Alternativ för kostnadsfri förnyelse
-
-De certifieringar som finns under länkarna nedan kan förnyas kostnadsfritt, antingen genom fortlöpande inlärning eller genom att genomföra ett förnyelseprov på begäran. Om du inte hittar din certifiering här måste du förnya genom att göra om den fullständiga certifieringstexan.
-
 <!-- 
+
+## Free renewal options
+
+The certifications found under the links below can be renewed for free, either through continuous learning or by taking an on-demand renewal exam. If you do not find your certification here, you will need to renew by retaking the full certification exam.
 
 >[!NOTE]
 >
