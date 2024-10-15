@@ -1,7 +1,7 @@
 ---
-source-git-commit: a6939c76c6440e9de928688b256fd3410046b174
+source-git-commit: db72e72c2b642102d1ecb991df04138e6bd7f630
 workflow-type: tm+mt
-source-wordcount: '1983'
+source-wordcount: '1970'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Intro {#intro}
 
-Den här sidan innehåller information om hur du uppnår certifieringen. Den innehåller en beskrivning av provet, studiematerialet, stegvisa instruktioner om certifieringsprocessen och hur du förnyar din certifiering.
+Den här sidan innehåller tidigare information om hur du uppnår certifieringen. Anteckningen innehåller uppdaterad information.
 
 >[!NOTE]
 >
