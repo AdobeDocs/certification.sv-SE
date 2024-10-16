@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: e54d11bb-d563-4779-ad42-b749be64611a
-source-git-commit: ecdd9647a660eb3662f925408a4fd27fb9a3c2d9
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '16'
 ht-degree: 0%
 
 ---
@@ -16,27 +16,29 @@ ht-degree: 0%
 
 {{renewals-hold}}
 
-Om du vill behålla din Adobe-certifiering måste du förnya den vartannat år. Om du inte förnyar din certifiering innan den upphör att gälla måste du göra om den fullständiga certifieringen.
+<!--
 
-Visa aktuella och utgångna certifikat på fliken **Certifikat** i [Adobe-systemet för hantering av autentiseringsuppgifter](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"}.
+To maintain your Adobe certification, you must renew it every 2 years. If you do not renew your certification before it expires, you will need to take the full certification exam again to become re-certified.
 
-## Hur förnyar jag min certifiering?
+View your current and expired certifications under the **Certifications** tab, in the [Adobe Credential Management system](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"}.
 
-Det är enkelt att förnya certifieringen för Adobe! Beroende på vilken certifiering du har kan du slutföra förnyelsen genom att arbeta med kontinuerliga utbildningsaktiviteter och godkänna bedömningar, eller genom att skicka en icke-processad, behovsstyrd jobbrollstest.
+## How do I renew my certification?
 
-## Studieresurser
+Renewing your Adobe certification is easy! Depending on which certification you hold, you will complete your renewal by working through continuous learning activities and passing assessments, or by passing a non-proctored, on-demand job role exam. 
 
-Med Adobe support är förnyandet av en Adobe Experience Cloud-certifiering en enkel process som gör att ni kan behålla er expertis och vara konkurrenskraftiga på den digitala marknaden.
+## Study resources
 
-Adobe erbjuder olika resurser och verktyg som hjälper dig att förnya din certifiering, bland annat:
+With Adobe's support, renewing an Adobe Experience Cloud Certification is a straightforward process that enables you to maintain your expertise and stay competitive in the digital marketplace.
 
-* Tillgång till onlinekurser
-* Självstudiekurser
-* Studiematerial
+Adobe offers various resources and tools to help you renew your certification, including:
 
-## Hur mycket kostar det?
+* Access to online courses
+* Tutorials
+* Study materials
 
-De flesta certifieringar kan förnyas **kostnadsfritt**. Vissa certifieringar har ännu inte något alternativ för kostnadsfri förnyelse. Om du vill förnya dessa certifieringar måste du göra om den fullständiga certifieringstest som krävs.
+## How much does it cost?
+
+Most certifications can be renewed **free of charge**. Some certifications do not yet have a free renewal option. To renew those certifications, you will need to retake the full certification exam.
 
 <!-- 
 
@@ -61,8 +63,4 @@ The certifications found under the links below can be renewed for free, either t
 
 -->
 
-## Frågor
-
-Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
-
-Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com).
+{{questions}}

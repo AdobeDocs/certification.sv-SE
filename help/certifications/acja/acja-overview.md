@@ -4,10 +4,10 @@ description: Översikt över certifieringsalternativ för Adobe Customer Journey
 solution: Customer Journey Analytics
 product: Customer Journey Analytics
 exl-id: 8ffdae02-e1b5-4a32-b877-1fbe55c4852e
-source-git-commit: 525cdd6d066c70c74246b1abb6df5c7a12f5e1d2
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
-source-wordcount: '39'
-ht-degree: 23%
+source-wordcount: '22'
+ht-degree: 40%
 
 ---
 
@@ -21,4 +21,5 @@ ht-degree: 23%
 
 * [Utvecklare](/help/certifications/acja/acja-e-developer.md) <!--AD0-E604-->
 
-Gå till sidan [Förnya din certifiering](/help/certifications/renew.md) för att se om det finns något förnyelsealternativ för den här produkten.
+{{questions}}
+

@@ -4,7 +4,8 @@ description: Lär dig certifiera dig på Adobe. Hitta alla resurser ni behöver 
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 818318d0eaee1dec2beb545fd8433f359fec5c33
+hidefromtoc: true
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
 source-wordcount: '1406'
 ht-degree: 0%

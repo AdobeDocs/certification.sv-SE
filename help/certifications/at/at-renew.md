@@ -7,9 +7,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: abd73bc0-2283-47d8-83fd-3568bc0298d8
-source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
+source-git-commit: d1afe0ec65a75cc3976363920fc74c426833e964
 workflow-type: tm+mt
-source-wordcount: '1211'
+source-wordcount: '14'
 ht-degree: 0%
 
 ---
@@ -18,200 +18,206 @@ ht-degree: 0%
 
 {{renewals-hold}}
 
-Din Adobe-certifiering gäller i två år. Om du närmar dig den här tvåårsmärkningen är det dags att förnya din certifiering för att den ska förbli aktiv.
+<!--
 
-Välj först lämplig nivå på fliken nedan (Professional, Expert eller Master). Granska sedan noggrant vad du behöver göra för att förnya din certifiering.
+Your Adobe certification is valid for two years. If you are nearing this two-year mark, it's time to renew your certification to keep it active. 
 
-Se till att du hinner slutföra alla krav innan certifieringen upphör.
-
-Observera att om din certifiering upphör att gälla innan du har förnyat din prenumeration måste du göra om certifieringsprovet, som INTE är kostnadsfritt.
+First, select the appropriate level on the tab below (Professional, Expert, or Master). Then carefully review what you'll need to do to renew your certification. 
+ 
+Be sure that you provide ample time to complete all the requirements before your certification expires. 
+ 
+It's important to note that if your certification expires before you complete your renewal, you'll have to retake the certification exam, which is NOT free of charge. 
 
 >[!IMPORTANT]
 >
->**Logga in först:** Följande länkar fungerar **endast** efter en **lyckad inloggning** till [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>**Log in first:** The following links will function **only** after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
 ><br>
 >
->**Så här delar du en länk:** Om du vill dela länken till ett förnyelseprov eller en utvärdering med en kollega, ska du länka till den övergripande sidan för provförnyelse, inte URL:en för provet i sig, för att undvika inloggningsproblem.
+>**To share a link:** If you would like to share the link to a renewal exam or assessment with a colleague, please link to the overall exam renewal page,  not the URL of the exam itself, to avoid login issues.
 
 >[!BEGINTABS]
 
 >[!TAB Professional]
 
-+++Adobe [!DNL Target] Prov för yrkesmässig förnyelse av affärspraktikant
++++Adobe [!DNL Target] Business Practitioner Professional Renewal Exam
 
-## Du måste ha följande **aktiva**-certifieringar för att kunna förnya:
+## You must have the following **active** certifications to renew:
 
-* [!DNL Adobe Target] Professional för affärspraktiserande
+* [!DNL Adobe Target] Business Practitioner Professional
 
-## Instruktioner för att förnya din certifiering:
+## Instructions for renewing your certification:
 
-* **Steg 1**: Logga in på [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} och gå sedan tillbaka till den här sidan
-* **Steg 2**: Granska mål och resurser för provet
-* **Steg 3**: Ta och godkänn provet
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
 
-### Gör dig redo
+### Get ready
 
-**Information om tentamen:**
-
-* Nivå: Professionell (0-12 månaders upplevelse)
-* Löpande poäng: 24/31
-* Tid: 62 minuter
-* Leverans: On-demand/icke-upphandling
-* Tillgängliga språk: engelska
-* Kostnad: KOSTNADSFRITT
+**Exam details:**
+  
+* Level: Professional (0-12 months' experience)
+* Passing Score: 24/31
+* Time: 62 minutes
+* Delivery: On-demand / non-proctored
+* Available languages: English
+* Cost: FREE
 * Exam ID: AD5-E838 - Adobe [!DNL Target] Business Practitioner Professional
 
-**Omfång och mål:**
+**Scope and objectives:**
 
-Avsnitt 1: Planering och strategi 26 %
+Section 1: Planning and Strategy 26%
 
-* Identifiera nyckeltal för företag
-* I ett scenario med nyckeltal för företag och dataanalys kan ni identifiera möjligheter till optimering
-* Beskriv hur variabler påverkar en aktivitet
-* Konstruera testhypoteser baserat på ett givet scenario
-* Identifiera hypoteselement
-* Beskriv KPI-baserade primära och sekundära framgångsmått
-* Utvärdera målgruppens behov utifrån ett scenario
-* Beskriv lämpliga analysrapportkällor (t.ex. [!DNL Target] eller Adobe [!DNL Analytics])
+* Identify business KPIs
+* Given a scenario of business KPIs and data analysis, identify opportunities for optimization
+* Describe how variables impact an activity
+* Construct test hypotheses based on a given scenario
+* Identify hypotheses elements
+* Describe KPI-based primary and secondary success metrics
+* Given a scenario, assess audience requirements
+* Describe appropriate analytics reporting sources (i.e., [!DNL Target] or Adobe [!DNL Analytics])
 
-Avsnitt 2: Konfigurera, köra och hantera 45 %
+Section 2: Configuring, Executing and Managing 45%
 
-* Förklara användningen av formulärbaserad Experience Composer jämfört med Visual Experience Composer (VEC)
-* Beskriv procedurer för att skapa en upplevelse med VEC
-* Beskriv procedurer för att skapa en upplevelse med hjälp av formulärbaserad disposition
-* Beskriv procedurer för att hantera upplevelser i en upplevelsedisposition
-* Beskriv arbetsflödet som gäller för att skapa [!DNL Target] aktiviteter
-* Använd procedurer för att skapa en A/B-testaktivitet i ett scenario
-* Använd procedurer för att skapa en XT-aktivitet i ett scenario
-* Använd procedurer för att skapa en MVT-aktivitet i ett scenario
-* Identifiera hur AP används för lösningar
-* Identifiera när rekommendationsaktiviteten ska användas
-* Beskriv procedurer för att skapa en publik i [!DNL Target]
-* Beskriv procedurer för att ange mål och inställningar
-* Beskriv förfaranden för att genomföra verksamhets-QA
-* Beskriv procedurer för att hantera aktiviteter och målgrupper i [!DNL Target]
+* Explain the use of Form-Based Experience Composer vs. the Visual Experience Composer (VEC)
+* Describe procedures to create an experience using VEC
+* Describe procedures to create an experience using Form-Based Composer
+* Describe procedures to manage experiences within an experience composer
+* Describe the workflow that applies to creating [!DNL Target] Activities
+* Given a scenario, apply procedures to create an A/B test activity
+* Given a scenario, apply procedures to create an XT activity
+* Given a scenario, apply procedures to create an MVT activity
+* Identify how AP is used for solutions
+* Identify when to use the Recommendation activity
+* Describe procedures to create an Audience in [!DNL Target]
+* Describe procedures to set Goals and Settings
+* Describe procedures to conduct Activity QA 
+* Describe procedures to manage Activities and Audiences in [!DNL Target] 
 
-Avsnitt 3: Analysera och rapportera 19 %
+Section 3: Analyzing and Reporting 19%
 
-* Beskriv inställningar för att hjälpa dig att ange elementen som visas i en rapport
-* Beskriv skillnaden mellan planering och validering i inställningarna för provstorleksberäkningen för Adobe [!DNL Target]
-* Beskriv vanliga problem i samband med A/B-testning
-* Identifiera hur sammanfattningsrapporter från Automated Personalization skiljer sig från andra rapporter
-* Beskriv funktionerna i Experience Performance-rapporter (MVT)
-* Beskriv de bästa metoderna som ska följas vid körning av A/B-tester
+* Describe settings to help set the elements that appear in a report
+* Describe the difference in Adobe [!DNL Target] Sample Size Calculator settings between planning and validating
+* Describe common problems associated with A/B testing
+* Identify how Automated Personalization Summary reports differ from other reports
+* Describe the features of Experience Performance reports (MVT)
+* Describe best practices that should be followed in A/B testing execution
 
-Avsnitt 4: Frågor och svar och felsökning 10 %
+Section 4: QA and Troubleshooting 10%
 
-* Identifiera kvalificeringsproblem för aktivitet utifrån ett scenario
-* Identifiera funktionerna i felsökningsverktygen för webbläsare (inklusive Experience Cloud Debugger)
-* Identifiera mätvärden och rapporter
+* Given a scenario, identify activity qualification issues
+* Identify the features of browser debugging tools (including Experience Cloud Debugger)
+* Identify metrics and reporting
 
-### Förbered
+### Get prepped
 
-Du behöver inte genomgå någon utbildning innan du kan genomföra provet, och enbart utbildning ger dig inte de kunskaper och färdigheter som krävs för att klara provet. En kombination av utbildning och framgångsrika, arbetsplatsbaserade erfarenheter är avgörande för att du ska få den databas som behövs för att klara provet.
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
-Här följer några förslag på resurser som hjälper dig att förbereda dig:
+Here are some suggested resources to help you prepare:
 
-**Avsnitt 1**
+**Section 1**
 
-* [Resultatvärden](https://experienceleague.adobe.com/docs/target/using/activities/success-metrics/success-metrics.html){target="_blank"}
-* [Villkor](https://experienceleague.adobe.com/docs/target/using/recommendations/criteria/algorithms.html){target="_blank"}
-* [QuickStart för personaliseringstestning och framtagning av färdplan](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/strategy/create-personalization-roadmap-testing-plan.html){target="_blank"}
-* [Bästa tillvägagångssätt för optimering med Adobe Target](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/strategy/target-best-practices-for-optimization.html){target="_blank"}
-* [Ange mått](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/ab-set-metrics.html){target="_blank"}
-* [Skapa en målgrupp som bara är aktiv](https://experienceleague.adobe.com/docs/target/using/audiences/creating-activity-only-audience.html){target="_blank"}
-* [Adobe Analytics som rapportkälla för Adobe Target (A4T)](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html){target="_blank"}
-* [Konfigurera A4T-rapporter i Analysis Workspace för automatisk allokering av aktiviteter](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-allocate-activities.html){target="_blank"}
+* [Success metrics](https://experienceleague.adobe.com/docs/target/using/activities/success-metrics/success-metrics.html){target="_blank"}
+* [Criteria](https://experienceleague.adobe.com/docs/target/using/recommendations/criteria/algorithms.html){target="_blank"}
+* [QuickStart for personalization testing and roadmap creation](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/strategy/create-personalization-roadmap-testing-plan.html){target="_blank"}
+* [Best practices for optimization with Adobe Target](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/strategy/target-best-practices-for-optimization.html){target="_blank"}
+* [Set metrics](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/ab-set-metrics.html){target="_blank"}
+* [Create an activity-only audience](https://experienceleague.adobe.com/docs/target/using/audiences/creating-activity-only-audience.html){target="_blank"}
+* [Adobe Analytics as the reporting source for Adobe Target (A4T)](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html){target="_blank"}
+* [Set up A4T reports in Analysis Workspace for Auto-Allocate activities](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-allocate-activities.html){target="_blank"}
 
-**Avsnitt 2**
+**Section 2**
 
-* [Skapa JSON-erbjudanden](https://experienceleague.adobe.com/docs/target/using/experiences/offers/create-json-offer.html){target="_blank"}
-* [Formulärbaserad Experience Composer](https://experienceleague.adobe.com/docs/target/using/experiences/form-experience-composer.html){target="_blank"}
-* [Skapa en målgrupp som bara är aktiv](https://experienceleague.adobe.com/docs/target/using/audiences/creating-activity-only-audience.html){target="_blank"}
-* [Avancerade inställningar](https://experienceleague.adobe.com/docs/target/using/activities/success-metrics/success-metrics.html#section_7CE95A2FA8F5438E936C365A6D43BC5B){target="_blank"}
-* [Aktivitets-QA](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
-* [Skapa målgrupper i mål](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/create-audience.html){target="_blank"}
-* [Ändringar](https://experienceleague.adobe.com/docs/target/using/experiences/vec/modifications/vec-code-editor.html){target="_blank"}
-* [Formulärbaserad Experience Composer](https://experienceleague.adobe.com/docs/target/using/experiences/form-experience-composer.html){target="_blank"}
-* [Inkludera samma upplevelse på liknande sidor](https://experienceleague.adobe.com/docs/target/using/experiences/vec/temtest.html){target="_blank"}
-* [Mål och inställningar](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/ab-goals-and-settings.html){target="_blank"}
-* [Skapa ett A/B-test](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/test-create-ab.html){target="_blank"}
+* [Create JSON offers](https://experienceleague.adobe.com/docs/target/using/experiences/offers/create-json-offer.html){target="_blank"}
+* [Form-Based Experience Composer](https://experienceleague.adobe.com/docs/target/using/experiences/form-experience-composer.html){target="_blank"}
+* [Create an activity-only audience](https://experienceleague.adobe.com/docs/target/using/audiences/creating-activity-only-audience.html){target="_blank"}
+* [Advanced Settings](https://experienceleague.adobe.com/docs/target/using/activities/success-metrics/success-metrics.html#section_7CE95A2FA8F5438E936C365A6D43BC5B){target="_blank"}
+* [Activity QA](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
+* [Build audiences in Target](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/create-audience.html){target="_blank"}
+* [Modifications](https://experienceleague.adobe.com/docs/target/using/experiences/vec/modifications/vec-code-editor.html){target="_blank"}
+* [Form-Based Experience Composer](https://experienceleague.adobe.com/docs/target/using/experiences/form-experience-composer.html){target="_blank"}
+* [Include the same experience on similar pages](https://experienceleague.adobe.com/docs/target/using/experiences/vec/temtest.html){target="_blank"}
+* [Goals and settings](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/ab-goals-and-settings.html){target="_blank"}
+* [Create an A/B Test](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/test-create-ab.html){target="_blank"}
 * [Experience Targeting (XT)](https://experienceleague.adobe.com/docs/target/using/activities/experience-targeting/experience-target.html){target="_blank"}
-* [Uppskatta den trafik som krävs för en lyckad multivariattestaktivitet](https://experienceleague.adobe.com/docs/target/using/activities/multivariate-test/create-mvt/traffic-estimator.html){target="_blank"}
-* [Hantera undantag](https://experienceleague.adobe.com/docs/target/using/activities/automated-personalization/managing-exclusions.html){target="_blank"}
+* [Estimate the traffic required for a successful Multivariate Test activity](https://experienceleague.adobe.com/docs/target/using/activities/multivariate-test/create-mvt/traffic-estimator.html){target="_blank"}
+* [Manage exclusions](https://experienceleague.adobe.com/docs/target/using/activities/automated-personalization/managing-exclusions.html){target="_blank"}
 
-**Avsnitt 3**
+**Section 3**
 
-* [Rapportinställningar](https://experienceleague.adobe.com/docs/target/using/reports/settings/report-settings.html){target="_blank"}
-* [Hur länge ska du köra ett A/B-test?](https://experienceleague.adobe.com/docs/target/using/activities/abtest/sample-size-determination.html){target="_blank"}
-* [Översikt över automatisk allokering](https://experienceleague.adobe.com/docs/target/using/activities/auto-allocate/automated-traffic-allocation.html#frequent-return-visitors-can-inflate-experience-conversion-rates.){target="_blank"}
-* [Sammanfattningsrapporter för Automated Personalization](https://experienceleague.adobe.com/docs/target/using/reports/personalization-reports/reports-ap.html){target="_blank"}
-* [Sammanfattningsrapport för automatiskt mål](https://experienceleague.adobe.com/docs/target/using/reports/personalization-reports/auto-target-summary-report.html){target="_blank"}
-* [Experience Performance-rapport (MVT)](https://experienceleague.adobe.com/docs/target/using/reports/multivariate-test-reports/experience-performance-report.html){target="_blank"}
-* [Tio vanliga A/B-testfall och hur man undviker dem](https://experienceleague.adobe.com/docs/target/using/activities/abtest/common-ab-testing-pitfalls.html){target="_blank"}
+* [Report settings](https://experienceleague.adobe.com/docs/target/using/reports/settings/report-settings.html){target="_blank"}
+* [How long should you run an A/B test?](https://experienceleague.adobe.com/docs/target/using/activities/abtest/sample-size-determination.html){target="_blank"}
+* [Auto-Allocate overview](https://experienceleague.adobe.com/docs/target/using/activities/auto-allocate/automated-traffic-allocation.html#frequent-return-visitors-can-inflate-experience-conversion-rates.){target="_blank"}
+* [Automated Personalization Summary reports](https://experienceleague.adobe.com/docs/target/using/reports/personalization-reports/reports-ap.html){target="_blank"}
+* [Auto-Target Summary report](https://experienceleague.adobe.com/docs/target/using/reports/personalization-reports/auto-target-summary-report.html){target="_blank"}
+* [Experience Performance report (MVT)](https://experienceleague.adobe.com/docs/target/using/reports/multivariate-test-reports/experience-performance-report.html){target="_blank"}
+* [Ten common A/B testing pitfalls and how to avoid them](https://experienceleague.adobe.com/docs/target/using/activities/abtest/common-ab-testing-pitfalls.html){target="_blank"}
 
-**Avsnitt 4**
+**Section 4**
 
-* [Felsöka aktivitetsfel](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/4.2-troubleshoot-activity-errors.html){target="_blank"}
-* [Testa en Adobe Target-implementering med Adobe Experience Platform Debugger](https://experienceleague.adobe.com/docs/experience-platform/debugger/solutions/target.html){target="_blank"}
-* [Rapportinställningar](https://experienceleague.adobe.com/docs/target/using/reports/settings/report-settings.html){target="_blank"}
+* [Troubleshoot activity errors](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/4.2-troubleshoot-activity-errors.html){target="_blank"}
+* [Test an Adobe Target implementation with Adobe Experience Platform Debugger](https://experienceleague.adobe.com/docs/experience-platform/debugger/solutions/target.html){target="_blank"}
+* [Report settings](https://experienceleague.adobe.com/docs/target/using/reports/settings/report-settings.html){target="_blank"}
 
-### Förnya din certifiering
+### Renew your certification
 
-Kontrollera att du har följt steg 1 ovan och loggat in på [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} först. Klicka på länken [!DNL Target] Business Practitioner Professional Renewal Exam nedan för att förnya din certifiering.
+Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your certification, click on the Adobe [!DNL Target] Business Practitioner Professional Renewal Exam link below.
 
-[!BADGE Ta förfrågan om förnyelse av affärspraktikanten på Adobe [!DNL Target] AD5-E838 Professional]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E838 newtab=true"}
+[!BADGE Take the Adobe [!DNL Target] Business Practitioner Professional Renewal Exam AD5-E838]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E838 newtab=true"} 
 
 >[!NOTE]
 >
->Det här provet är kostnadsfritt, öppet och obearbetat. Du får ta tentamen upp till tre gånger. Om du inte lyckas efter det tredje försöket måste du vänta **30 dagar** för att försöka igen. Om du inte följer reglerna kan certifieringen återkallas.
+>This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
 +++
 
->[!TAB Expert och mallsida]
+>[!TAB Expert and Master]
 
-## Du måste ha minst ett av följande **aktiva**-certifikat för att kunna förnya:
+## You must have at least one of the following **active** certifications to renew:
 
 * [!DNL Adobe Target] Business Practitioner Expert
 * [!DNL Adobe Target] Architect Master
 
-## Instruktioner för att förnya din [!DNL Adobe Target]-certifiering
+## Instructions for renewing your [!DNL Adobe Target] certification
 
-* **Steg 1:** Logga in på [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} och gå sedan tillbaka till den här sidan
-* **Steg 2:** Studera kurserna i Experience League
-* **Steg 3:** Välj bland alternativen nedan för att slutföra förnyelsen.
+* **Step 1:** Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2:** Study the courses in Experience League
+* **Step 3:** Choose from the options below to complete your renewal.
 
-  **Alternativ A:**
-Välj **tre kurser** för att slutföra och genomföra varje kursbedömning med en poäng på 80 % eller högre. Kursomdömen är kostnadsfria, on-demand, icke-upphandlade och öppna böcker. Du kan upprepa kurserna tills du har klarat utvärderingen till 80 %.
+   **Option A:**
+   Select **three courses** to complete and pass each course assessment with a score of 80% or higher. Course assessments are free, on-demand, non-proctored, and open book. You can repeat the courses until you have successfully passed the assessments at 80%.
 
-  **Alternativ B:**
-Välj först **två kurser** för att slutföra och genomföra varje kursutvärdering med en poängsättning på 80 % eller mer. Kursomdömen är kostnadsfria, on-demand, icke-upphandlade och öppna böcker. Du kan upprepa kurserna tills du har klarat utvärderingen till 80 %.
+   **Option B:**
+   First, select **two courses** to complete and pass each course assessment with a score of 80% or higher. Course assessments are free, on-demand, non-proctored, and open book. You can repeat the courses until you have successfully passed the assessments at 80%.
 
-  Därefter **skickar du in ett kundreferensformulär** som validerar ditt fortsatta arbete som en Adobe-certifierad enskild ledare, hanterar och/eller deltar i ett Adobe Experience Cloud-implementeringsprojekt. Det här formuläret bekräftar att du har deltagit i minst 100 timmars dokumenterat projektengagemang under 2-årsförnyelsen av certifieringen.
+   Second, **submit a customer reference form** validating your continued work as an Adobe certified individual leading, managing and/or participating on an Adobe Experience Cloud implementation project. This form affirms that you have participated in at least 100 hours of demonstrated project engagement during your certification renewal 2-year interval. 
 
-  [Kundreferensformulär för [!DNL Adobe Target]](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA400){target="_blank"}
+   [Customer Reference Form for [!DNL Adobe Target]](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA400){target="_blank"}
 
-  Du meddelas via Adobe Digital Experience Certification Program när kundens referens har granskats. Om din referens inte godkänns kan du skicka in den igen tills du har lyckats, så länge som det är innan certifieringen upphör att gälla.
+   You will be notified by the Adobe Digital Experience Certification Program when your customer reference has been reviewed. If your reference is not accepted, you may submit again until you are successful, as long as it is before your certification expires.
 
 >[!NOTE]
 >
->Om du har flera [!DNL Adobe Target] Expert- och Master-certifieringar kan du slutföra förnyelsekraven för endast en certifiering. Resten förnyas automatiskt.
+>If you hold multiple [!DNL Adobe Target] Expert and Master certifications, complete the renewal requirements for just one certification, and the rest will be renewed automatically.
 
-## Kurser och kursbedömningar för expert och master:
+## Courses and Course Assessments for Expert and Master:
 
-| Kurser för expert och master | Kursutvärdering |
+| Courses for Expert and Master | Course Assessment |
 | ------ | ------ |
-| [[!DNL Adobe Target] Beslutsöversikt på enheten](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/on-device-decisioning-overview.html){target="_blank"} | [ADR-EA401](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA401){target="_blank"} |
-| [[!DNL Adobe Target] Innovationer i Personalization Course](https://business.adobe.com/summit/2021/sessions/adobe-target-innovations-in-personalization-s901.html){target="_blank"} | [ADR-EA402](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA402){target="_blank"} |
-| [Implementering av mobilappar och Personalization Course](https://experienceleague.adobe.com/?recommended=Target-D-1-2020.1.mobile){target="_blank"} | [ADR-EA403](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA403){target="_blank"} |
-| [Guided Mobile and IoT Launch for Developers Course](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADR-EA404](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA404){target="_blank"} |
-| [Lansering av guidad webbplats för utvecklarkurs](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADR-EA405](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA405){target="_blank"} |
+| [[!DNL Adobe Target] On-Device Decisioning Overview](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/on-device-decisioning-overview.html){target="_blank"} | [ADR-EA401](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA401){target="_blank"} |
+| [[!DNL Adobe Target] Innovations in Personalization Course](https://business.adobe.com/summit/2021/sessions/adobe-target-innovations-in-personalization-s901.html){target="_blank"} | [ADR-EA402](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA402){target="_blank"} |
+| [Mobile App Implementation and Personalization Course](https://experienceleague.adobe.com/?recommended=Target-D-1-2020.1.mobile){target="_blank"} | [ADR-EA403](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA403){target="_blank"} |
+| [Guided Mobile and IoT Launch for Developers Course](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADR-EA404](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA404){target="_blank"} |
+| [Guided Website Launch for Developers Course](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADR-EA405](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA405){target="_blank"} |
 
 >[!ENDTABS]
 
-## Frågor
+## Questions
 
-Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com).
+Additional questions? [Contact us](mailto:certif@adobe.com).
+
+-->
+
+{{questions}}

@@ -4,10 +4,10 @@ description: Översikt över certifieringsalternativ för Adobe Campaign Classic
 solution: Campaign, Campaign Classic v7
 version: Classic v7
 exl-id: c80ad5d1-6245-4c99-b4ac-97b8dc48e80f
-source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
-source-wordcount: '42'
-ht-degree: 19%
+source-wordcount: '25'
+ht-degree: 32%
 
 ---
 
@@ -27,4 +27,5 @@ ht-degree: 19%
 
 * [Arkitekt](/help/certifications/acc/acc-m-developer.md) <!--AD0-E328-->
 
-Gå till sidan [Förnya din certifiering](/help/certifications/renew.md) för att se om det finns något förnyelsealternativ för den här produkten.
+{{questions}}
+

@@ -3,10 +3,10 @@ title: Journey Optimizer Certification Overview
 description: Översikt över certifieringsalternativ för Adobe Journey Optimizer
 solution: Journey Optimizer
 exl-id: 8676c9b0-fa19-4821-a008-4f7028f95852
-source-git-commit: 488418b73116cc626377d1611b41bdbee9bd8a97
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
-source-wordcount: '37'
-ht-degree: 21%
+source-wordcount: '20'
+ht-degree: 40%
 
 ---
 
@@ -20,4 +20,5 @@ ht-degree: 21%
 
 * [Utvecklare](/help/certifications/ajo/ajo-e-developer-23-10.md) <!--AD0-E606-->
 
-Gå till sidan [Förnya din certifiering](/help/certifications/renew.md) för att se om det finns något förnyelsealternativ för den här produkten.
+{{questions}}
+

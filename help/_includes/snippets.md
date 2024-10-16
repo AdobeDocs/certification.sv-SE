@@ -1,7 +1,7 @@
 ---
-source-git-commit: db72e72c2b642102d1ecb991df04138e6bd7f630
+source-git-commit: d1afe0ec65a75cc3976363920fc74c426833e964
 workflow-type: tm+mt
-source-wordcount: '1970'
+source-wordcount: '2012'
 ht-degree: 0%
 
 ---
@@ -252,6 +252,16 @@ Den kostnadsfria guiden för testversioner ger en skräddarsydd väg genom testp
 
 ## Förnyelser är spärrade {#renewals-hold}
 
->[!WARNING]
+>[!NOTE]
 >
->Adobe program för certifiering av digitala upplevelser kommer snart att förändras. Om du håller på att förnya din certifiering bör du tänka på att **13 oktober 2024 är det sista datumet då din förnyelse slutförs.**
+>Adobe program för certifiering av digitala upplevelser förenklar förnyelseprocessen för certifiering för att göra din upplevelse enklare. När den här nya processen implementeras är **förnyelser tillfälligt spärrade.**
+>
+>* För dem vars certifieringar löper ut mellan den 14 oktober 2024 och den 30 september 2025 förlängs certifieringen till den 1 oktober 2025.
+>
+>* Information om den uppdaterade förnyelseprocessen kommer att delas i början av mars, så att alla certifikatinnehavare har tillräckligt med tid för att förnya sina certifieringar.
+
+<!--divider-->
+
+## Frågor {#questions}
+
+**Frågor?** [Kontakta oss](mailto:certif@adobe.com)

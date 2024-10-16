@@ -4,9 +4,9 @@ description: Lär dig mer om  [!DNL Experience Cloud] certifiering på Adobe. Ta
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
+source-git-commit: d1afe0ec65a75cc3976363920fc74c426833e964
 workflow-type: tm+mt
-source-wordcount: '552'
+source-wordcount: '542'
 ht-degree: 2%
 
 ---
@@ -75,8 +75,4 @@ All information om respektive produktcertifiering finns i innehållsförteckning
 
 Söker du efter Adobe [!DNL Creative Cloud]-certifieringar? Besök webbplatsen [Adobe Certified Professional](https://certifiedprofessional.adobe.com/en/home){target="_blank"} om du vill veta mer om hur du certifierar dig i Creative Cloud-program.
 
-## Frågor
-
-Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
-
-Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com).
+{{questions}}
