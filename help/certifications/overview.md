@@ -4,75 +4,75 @@ description: Lär dig mer om  [!DNL Experience Cloud] certifiering på Adobe. Ta
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: d1afe0ec65a75cc3976363920fc74c426833e964
+source-git-commit: 9838d4a95fe41718059ffd5bc6f374eaabf3a8e1
 workflow-type: tm+mt
-source-wordcount: '542'
-ht-degree: 2%
+source-wordcount: '377'
+ht-degree: 3%
 
 ---
 
-# Välkommen till certifieringen på Adobe!
-
-Läs mer om certifiering av Experience Cloud på Adobe och vad certifieringen kan göra för dig.
-
 ![Banderoll](/help/certifications/assets/home_banner_smallwide.png)
 
->[!NOTE]
->Adobe Digital Experience Certification Program Update
->
->**Programmet för certifiering av digitala upplevelser i Adobe är på väg!** Den nya certifieringsportalen för Adobe startar den 22 oktober 2024. Observera följande **viktiga datum:**
->
->* **14 oktober 2024:** Schemaläggning av tentamen, övningstester och åtkomst till Adobe Credential Management System är inte tillgängliga när vi migrerar data till den nya portalen
->* **22 oktober 2024:** Certifieringsportalen för Adobe startas! Din certifieringshistorik kommer att finnas tillgänglig på den nya portalen tillsammans med all testinformation, studieresurser och schemaläggningsfunktioner. Era övningsresultat och coachningsrapporter kommer att finnas tillgängliga på ditt konto den 1 januari 2021.
->
->Gå tillbaka hit den 22 oktober för mer information om hur du loggar in på den nya certifieringsportalen för Adobe!
+# Adobe program för certifiering av digitala upplevelser har flyttats!
 
-Adobe Digital Experience Certification Program har skapats för att du ska kunna bevisa dina färdigheter i Adobe [!DNL Experience Cloud]-produkter. Genom att bli Adobe Certified kan du visa upp din expertis och imponera på både kunder och arbetsgivare.
+Du hittar oss på den nya [Adobe-certifieringsportalen](https://certification.adobe.com/){target="_blank"}. Läs om portalens funktioner och lär dig hur du kommer igång nedan.
 
-Adobe [!DNL Experience Cloud] är en uppsättning digitala marknadsföringslösningar som gör att företag kan leverera personaliserade kundupplevelser i flera kanaler, inklusive webben, mobiler, e-post och sociala medier. Adobe [!DNL Experience Cloud] innehåller ett antal produkter, till exempel Adobe [!DNL Real-Time CDP], Adobe [!DNL Experience Manager], Adobe [!DNL Commerce], Adobe [!DNL Journey Optimizer], Adobe [!DNL Customer Analytics] med flera.
+## Vad finns på den nya certifieringsportalen för Adobe?
 
-Uppvisa din skicklighet och lyft din karriär till en högre nivå genom att bli Adobe-certifierad.
+Allt du tidigare hittade på den här sidan, och mycket mer!
 
-[**Visa lista över certifieringar per program**](#view-all-certifications)
+* Provplanering
+* Provinformation
+* Studieresurser
+* Praktiska tester
+* Validering och delning av emblem
+* Nya tekniska kurser
+* Nya Adobe Digital Experience Community
+* En ny interaktiv kontrollpanel där du kan spåra och dela med dig av kurs- och certifieringsaktiviteter
 
-## Varför bli certifierad?
+## Vanliga frågor och svar
 
-Det finns många fördelar med att hämta en Adobe [!DNL Experience Cloud]-certifiering:
+### Var ska jag börja?
 
-* **Verifiering av dina färdigheter:** Adobe-certifiering visar för potentiella kunder eller arbetsgivare att du har de kunskaper och färdigheter som krävs för att använda [!DNL Experience Cloud]-lösningar effektivt.
-* **Yrkesutveckling:** Adobe-certifiering hjälper dig att sticka ut på en fullödig arbetsmarknad och ökar dina chanser att bli anställd eller befordrad.
-* **Ökad intjäningspotential:** Certifierade individer tjänar ofta mer än de icke-certifierade motsvarigheterna, eftersom autentiseringsuppgifterna för Adobe bevisar sin kunskapsnivå.
-* **Tillgång till exklusiva resurser:** När du blir Adobe-certifierad får du tillgång till exklusiva resurser som utbildningsmaterial, betaversioner av programvara och supportforum som kan hjälpa dig att hålla dig uppdaterad med den senaste programutvecklingen och trenderna i branschen.
-* **Kostnadsfria övningstester:** Adobe erbjuder kostnadsfria övningsprov som hjälper dig att se till att du är helt redo för din certifieringstest.
-* **Kostnadsfria certifieringsförnyelser:** Adobe-certifieringar är giltiga i två år, och de flesta certifieringar kan förnyas kostnadsfritt genom att antingen genomföra en ondemand-tentamen eller genom att slutföra en uppsättning kontinuerliga utbildningsaktiviteter.
+[Logga in idag](https://certification.adobe.com/){target="_blank"} och verifiera dina profildata.
 
-Adobe program för digital certifiering är avsett för yrkesverksamma inom många olika områden, bland annat utvecklare, yrkesverksamma och arkitekter. Oavsett om du är en erfaren expert eller bara börjar om kan certifieringen hjälpa dig att höja din karriär och ligga steget före konkurrenterna.
+Utforska sedan våra [kurser](https://certification.adobe.com/courses/?/courses){target="_blank"}, [certifieringar](https://certification.adobe.com/certifications){target="_blank"}, [community](https://certification.adobe.com/community/){target="_blank"} och [anpassningsbara kontrollpaneler](https://certification.adobe.com/user/dashboard){target="_blank"}.
 
-## Kom igång
+### Hur schemalägger jag en tentamen?
 
-Lås upp din yrkespotential idag genom att lära dig mer om Adobe Digital Experience Certification Program.
+Du kan nu schemalägga en tentamen på certifieringsportalen för Adobe.
 
-<a href="https://experienceleague.adobe.com/docs/certification/certification/getting-started.html" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6"><span class="spectrum-Button-label has-no-wrap">Kom igång</span></a>
+1. Gå till [Certifieringskatalogen](https://certification.adobe.com/certifications){target="_blank"}.
+2. Hitta ditt prov
+3. Gå till fliken **Schema eller genomför en tentamen**.
+4. I avsnittet **Schemalägg och betala för provet** hittar du länken till provsidan.
+5. Klicka på knappen **Schemalägg tentamen**.
 
-## Visa alla certifieringar {#view-all-certifications}
+### Var hittar jag min certifieringsinformation?
 
-All information om respektive produktcertifiering finns i innehållsförteckningen till vänster och i nedanstående lista:
+Dina aktiva certifieringar har redan migrerats till [ditt konto](https://certification.adobe.com/user/certifications){target="_blank"} på certifieringsportalen i Adobe. Vissa delar av ditt konto kanske inte är fullständigt ifyllda när vi migrerar dina återstående användardata. Tack för ditt tålamod!
 
-* [Adobe [!DNL Analytics]](/help/certifications/aa/aa-overview.md){target="_blank"}
-* [Adobe [!DNL Advertising]](/help/certifications/aac/aac-overview.md){target="_blank"}
-* [Adobe [!DNL Audience Manager]](/help/certifications/aam/aam-overview.md){target="_blank"}
-* [Adobe [!DNL Commerce]](/help/certifications/ac/ac-overview.md){target="_blank"}
-* [Adobe [!DNL Campaign Classic]](/help/certifications/acc/acc-overview.md){target="_blank"}
-* [Adobe [!DNL Campaign Standard]](/help/certifications/acs/acs-overview.md){target="_blank"}
-* [Adobe [!DNL Customer Journey Analytics]](/help/certifications/acja/acja-overview.md){target="_blank"}
-* [Adobe [!DNL Document Cloud]](/help/certifications/adc/adc-overview.md){target="_blank"}
-* [Adobe [!DNL Experience Manager]](/help/certifications/aem/aem-overview.md){target="_blank"}
-* [Adobe [!DNL Journey Optimizer]](/help/certifications/ajo/ajo-overview.md){target="_blank"}
-* [Adobe [!DNL Marketo Engage]](/help/certifications/ame/ame-overview.md){target="_blank"}
-* [Adobe [!DNL Real-Time CDP]](/help/certifications/rtcdp/rtcdp-overview.md){target="_blank"}
-* [Adobe [!DNL Target]](/help/certifications/at/at-overview.md){target="_blank"}
-* [Adobe [!DNL Workfront]](/help/certifications/aw/aw-overview.md){target="_blank"}
+### Var hittar jag mina vouchers?
 
-Söker du efter Adobe [!DNL Creative Cloud]-certifieringar? Besök webbplatsen [Adobe Certified Professional](https://certifiedprofessional.adobe.com/en/home){target="_blank"} om du vill veta mer om hur du certifierar dig i Creative Cloud-program.
+Dina vouchers (inklusive de som överförts från Xvoucher) visas i [ditt konto](https://certification.adobe.com/user/purchases){target="_blank"} på certifieringsportalen för Adobe.
 
-{{questions}}
+### Var finns mitt certifieringsmärke?
+
+Ditt märke finns nu på Adobe Certification Portal.
+
+1. Gå till **Mitt konto** > [Prestationer](https://certification.adobe.com/user/achievements?%2Fuser%2Fachievements){target="_blank"}.
+2. Hitta widgeten **Aktiva certifieringar**.
+
+* Klicka på knappen **Dela** om du vill visa verifieringssidan för ditt emblem. Från den sidan kan du dela till sociala medier.
+
+* Klicka på miniatyrbilden för **emblem** om du vill hämta ditt emblem.
+
+### Var kan jag hitta Adobe Creative Cloud-certifieringar?
+
+Besök webbplatsen [Adobe Certified Professional](https://certifiedprofessional.adobe.com/en/home){target="_blank"} om du vill veta mer om hur du certifierar dig i Creative Cloud-program.
+
+### Frågor?
+
+Visa [instruktionsvideor](https://certification.adobe.com/#){target="_blank"} längst ned på vår hemsida, gå till [Frågor och svar](https://certification.adobe.com/support/faq){target="_blank"} eller [kontakta oss](https://certification.adobe.com/support/contactus){target="_blank"}.
+
+Vi är glada över att du vill utforska det nya hemmet i Adobe Digital Experience Certification Program och ta del av våra nya funktioner!
