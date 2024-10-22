@@ -7,124 +7,184 @@ role: Developer
 badge: label="Prov AD0-E603" type="neutral"
 exl-id: 4b405a01-b95c-46de-aaab-9fbacc25c6fc
 hidefromtoc: true
-source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
+source-git-commit: b6d28322826e854bfcd91a94c07b84edbc7df4f1
 workflow-type: tm+mt
-source-wordcount: '633'
-ht-degree: 2%
+source-wordcount: '349'
+ht-degree: 0%
 
 ---
 
 # Certifieringsresa för Adobe [!DNL Journey Optimizer] Developer Expert
 
-{{intro}}
+>[!NOTE]
+>
+>**Adobe Digital Experience Certification Program har flyttats till den nya [Adobe Certification Portal](https://certification.adobe.com/){target="_blank"}!** Läs om de nya funktionerna och hur du kommer igång nedan.
+
+## Vad finns på den nya certifieringsportalen för Adobe?
+
+Allt du tidigare hittade på den här sidan, och mycket mer!
+
+* Provplanering
+* Provinformation
+* Studieresurser
+* Praktiska tester
+* Validering och delning av emblem
+* Nya tekniska kurser
+* Nya Adobe Digital Experience Community
+* En ny interaktiv kontrollpanel där du kan spåra och dela med dig av kurs- och certifieringsaktiviteter
+
+## Vanliga frågor och svar
+
+### Var ska jag börja?
+
+[Logga in idag](https://certification.adobe.com/){target="_blank"} och verifiera dina profildata.
+
+Utforska sedan våra [kurser](https://certification.adobe.com/courses/?/courses){target="_blank"}, [certifieringar](https://certification.adobe.com/certifications){target="_blank"}, [community](https://certification.adobe.com/community/){target="_blank"} och [anpassningsbara kontrollpaneler](https://certification.adobe.com/user/dashboard){target="_blank"}.
+
+### Hur schemalägger jag en tentamen?
+
+Du kan nu schemalägga en tentamen på certifieringsportalen för Adobe.
+
+1. Gå till [Certifieringskatalogen](https://certification.adobe.com/certifications){target="_blank"}.
+2. Hitta ditt prov
+3. Gå till fliken **Schema eller genomför en tentamen**.
+4. I avsnittet **Schemalägg och betala för provet** hittar du länken till provsidan.
+5. Klicka på knappen **Schemalägg tentamen**.
+
+### Var hittar jag min certifieringsinformation?
+
+Dina aktiva certifieringar har redan migrerats till [ditt konto](https://certification.adobe.com/user/certifications){target="_blank"} på certifieringsportalen i Adobe. Vissa delar av ditt konto kanske inte är fullständigt ifyllda när vi migrerar dina återstående användardata. Tack för ditt tålamod!
+
+### Var hittar jag mina vouchers?
+
+Dina vouchers (inklusive de som överförts från Xvoucher) visas i [ditt konto](https://certification.adobe.com/user/purchases){target="_blank"} på certifieringsportalen för Adobe.
+
+### Var finns mitt certifieringsmärke?
+
+Ditt märke finns nu på Adobe Certification Portal.
+
+1. Gå till **Mitt konto** > [Prestationer](https://certification.adobe.com/user/achievements?%2Fuser%2Fachievements){target="_blank"}.
+2. Hitta widgeten **Aktiva certifieringar**.
+
+* Klicka på knappen **Dela** om du vill visa verifieringssidan för ditt emblem. Från den sidan kan du dela till sociala medier.
+
+* Klicka på miniatyrbilden för **emblem** om du vill hämta ditt emblem.
+
+### Frågor?
+
+Visa [instruktionsvideor](https://certification.adobe.com/#){target="_blank"} längst ned på vår hemsida, gå till [Frågor och svar](https://certification.adobe.com/support/faq){target="_blank"} eller [kontakta oss](https://certification.adobe.com/support/contactus){target="_blank"}.
+
+Vi är glada över att du vill utforska det nya hemmet i Adobe Digital Experience Certification Program och ta del av våra nya funktioner!
+
+<!-- 
 
 >[!NOTE]
 >
->Detta prov, Adobe [!DNL Journey Optimizer] Developer Expert (AD0-E603), har uppdaterats. Om du redan har börjat studera eller är schemalagd att ta den här versionen, vänligen se till att slutföra den före 22 december 2023. Om du precis har börjat rekommenderar vi att du använder den [senaste versionen av denna tentamen](ajo-e-developer-23-10.md).
+>This exam, Adobe [!DNL Journey Optimizer] Developer Expert (AD0-E603), has been updated. If you have already started studying or are scheduled to take this version, please be sure to complete it before December 22, 2023. If you are just getting started, we recommend taking the [newest version of this exam](ajo-e-developer-23-10.md).
 
-## Provbeskrivning {#exam-description}
+## Exam description {#exam-description}
 
 {{exam-description}}
 
 <br>
 
-### Provinformation {#exam-details}
+### Exam details {#exam-details}
 
-* Nivå: Expert (1-3 års erfarenhet)
-* Löpande poäng: 31/51
-* Tid: 110 min
-* Leverans: Bearbetad online (kräver kameraåtkomst)
-* Tillgängliga språk: engelska
-* Kostnad: $225 (global) / $150 (Indien)
+* Level: Expert (1-3 years experience)
+* Passing Score: 31/51
+* Time: 110 mins
+* Delivery: Online proctored (requires camera access)
+* Available languages: English
+* Cost: $225 (global) / $150 (India)
 * Exam ID: AD0-E603
 
 <br>
 
-### Målgrupp {#intended-audience}
+### Intended audience {#intended-audience}
 
-* Dataarkitektur
-* Datatekniker
-* Lösningsarkitekt
+* Data Architect
+* Data Engineer
+* Solution Architect
 * Enterprise Architect
-* Utvecklare av marknadsföringsautomatisering
-* CDP-utvecklare
-* CDP-arkitekt
+* Marketing Automation Developer
+* CDP Developer
+* CDP Architect
 
 <br>
 
-### Minimal upplevelse {#minimum-experience}
+### Minimum experience {#minimum-experience}
 
-Du bör ha minst ett års erfarenhet av att arbeta med olika CDP- och marknadsföringssystem och kunna utföra följande uppgifter:
+You should have at least one year experience working with various CDP and marketing automation systems, and be able to perform the following tasks:
 
-* Konfigurera användarbehörigheter
-* Skapa och hantera sandlådor
-* Varumärkeskonfiguration
-* Förstå designkoncept för scheman
-* Ställa in datakällor och datainhämtning
-* Skapa segment
-* Konfigurera upplevelsehändelser
-* Skapa och hantera erbjudanden
-* Skapa simuleringar (testerbjudanden)
-* Skapa e-post, SMS, i appmeddelanden och push-meddelanden
-* Hantering och personalisering av innehåll med hjälp av hjälpfunktioner
-* Validera, granska och publicera ett meddelande
-* Skapa en flerkanalsresa
-* Reserapportering
-* Testning/validering av resor
+* Configuring user permissions
+* Creating and managing sandboxes
+* Brand configuration
+* Understand Schema design concepts
+* Setting up data sources and data ingestion
+* Creating segments
+* Setting up experience events
+* Creating and managing offers
+* Create simulations (testing offers)
+* Creating email, SMS, in app messages and push notifications
+* Content manipulation and personalization using helper functions
+* Validating, proofing, and publishing a message
+* Creating a multi-channel journey
+* Journey reporting
+* Testing/validating journeys
 
 <br>
 
-### Mål och omfattning för tentamen {#exam-objectives}
+### Exam objectives and scope {#exam-objectives}
 
 {{exam-objectives}}
 
-**Avsnitt 1: Administration och konfiguration (17 %)**
+**Section 1: Administration and Configuration (17%)**
 
-* Identifiera rollerna och vilka behörigheter som gäller för varje roll
-* Beskriv hur du tilldelar/återställer/tar bort en sandlåda
-* Uppvisa förståelse för kanaladministration
-* Uppvisa förståelse för händelser/åtgärder/datakällor
+* Identify the roles and which permissions apply to each role
+* Describe how to assign/reset/delete a sandbox
+* Demonstrate an understanding of Channel Administration
+* Demonstrate an understanding of Events/Actions/Data Sources
 
-**Avsnitt 2: Adobe Experience Platform Foundation (33 %)**
+**Section 2: Adobe Experience Platform Foundation (33%)**
 
-* Uppvisa förståelse för Experience Data Model (XDM)
-* Förklara hur du konfigurerar datakällor och matar in data
-* Uppvisa förståelse för segmenteringstjänster
-* Förklara hur du konfigurerar scheman för AJO
-* Bestäm hur kundprofilen i realtid fungerar i AJO
+* Demonstrate an understanding of Experience Data Model (XDM)
+* Explain how to set up data sources and data ingestion
+* Demonstrate an understanding of segmentation service
+* Explain how to configure schemas for AJO
+* Determine the behavior of the real-time customer profile on AJO
 
-**Avsnitt 3: Offer decisioning (11 %)**
+**Section 3: Offer Decisioning (11%)**
 
-* Uppvisa förståelse för att skapa och hantera erbjudanden och komponenter
-* Uppvisa hur man använder testprofiler för att köra erbjudandesimulering
+* Demonstrate an understanding of creating and managing offers and components
+* Demonstrate how to use test profiles to run offer simulation
 
-**Avsnitt 4: Innehållsredigering (20 %)**
+**Section 4: Content Authoring (20%)**
 
-* Uppvisa en förståelse för hur man skapar e-post, SMS i appmeddelanden och push-meddelanden
-* Uppvisa förståelse för innehållshantering och personalisering med hjälp av hjälpfunktioner
-* Uppvisa förståelse för att validera, granska och publicera ett meddelande
+* Demonstrate an understanding of how to create email, SMS, in app messages and push notifications
+* Demonstrate an understanding of content manipulation and personalization using helper functions
+* Demonstrate an understanding of validating, proofing, and publishing a message
 
-**Avsnitt 5: Journey Orchestration (19 %)**
+**Section 5: Journey Orchestration (19%)**
 
-* Förklara processen att skapa en flerkanalsresa
-* Identifiera var rapportpanelerna ska nås
-* Uppvisa hur man testar och validerar en resa
+* Explain the process of creating a multi-channel journey
+* Identify where to access report dashboards
+* Demonstrate how to test and validate a journey
 
 <br>
 
-### Beredskapenkät
+### Readiness questionnaire
 
 {{readiness}}
 
-[Ta enkäten om onlineberedskap](https://scorpion.caveon.com/launchpad/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam-copy-jnq9sq/ad-q-e603-readiness-questionnaire-for-adobe-journey-optimizer-developer-expert-exam){target="_blank"}
+[Take the online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam-copy-jnq9sq/ad-q-e603-readiness-questionnaire-for-adobe-journey-optimizer-developer-expert-exam){target="_blank"}
 
 <br>
 
-## Så här certifierar du dig {#how-to-get-certified}
+## How to get certified {#how-to-get-certified}
 
 {{how-to-get-certified-intro}}
 
-+++Steg 1: Skapa ditt konto
++++Step 1: Create your account
 
 {{create-your-account}}
 
@@ -132,83 +192,83 @@ Du bör ha minst ett års erfarenhet av att arbeta med olika CDP- och marknadsf�
 
 <br>
 
-+++Steg 2: Förbered dig för provet med dessa kostnadsfria studiematerial
++++Step 2: Prepare for your exam with these free study materials
 
-**Studiematerial**
+**Study Materials**
 
 {{study-materials-intro}}
 
-**Avsnitt 1: Administration och konfiguration**
+**Section 1: Administration and configuration**
 
-* [Adobe [!DNL Journey Optimizer] Dokumentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] Documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 
-   * Åtkomstkontroll
-   * Konfigurerar meddelanden
-   * Händelsekonfiguration
-   * Guardrails
-   * Resor
+    * Access Control
+    * Configuring Messages
+    * Event configuration
+    * Guardrails
+    * Journeys
+  
+* [Sandboxes overview](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html){target="_blank"} 
 
-* [Översikt över sandlådor](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=sv){target="_blank"}
 
+**Section 2: AEP Foundation**
 
-**Avsnitt 2: AEP Foundation**
+* [Adobe [!DNL Experience Platform] Documentation](https://experienceleague.adobe.com/docs/experience-platform.html){target="_blank"} 
 
-* [Adobe [!DNL Experience Platform] Dokumentation](https://experienceleague.adobe.com/docs/experience-platform.html){target="_blank"}
+    * XDM guide
+    * Real-time Customer Profile guide
+    * Platform Identity Service guide
+    * configure a Dataflow
+    * Source Connectors guide
+    * Data Ingestion guide
+    * Segmentation Service guide
+    * Schemas
 
-   * XDM-guide
-   * Kundprofilguide i realtid
-   * Handbok för Platform Identity Service
-   * konfigurera ett dataflöde
-   * Source Connectors guide
-   * Handbok för dataöverföring
-   * Segmenteringstjänstguide
-   * Scheman
+* [Introduction to Adobe [!DNL Experience Platform] course](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1){target="_blank"} 
+* [Getting started with Adobe [!DNL Experience Platform] for Data Engineers course](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2){target="_blank"} 
+* [Data Ingestion for Data Engineers course](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.1.dataingestion){target="_blank"} 
+* [Digital Experience Blueprints](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html){target="_blank"} 
 
-* [Introduktion till Adobe [!DNL Experience Platform] kurs](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1){target="_blank"}
-* [Komma igång med Adobe [!DNL Experience Platform] för datatekniker-kurs](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2){target="_blank"}
-* [Datainmatning för datatekniker-kurs](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.1.dataingestion){target="_blank"}
-* [Digital Experience-utkast](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html){target="_blank"}
+**Section 3: Offer Decisioning**
 
-**Avsnitt 3: Offer decisioning**
+* [Adobe [!DNL Journey Optimizer] Documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 
-* [Adobe [!DNL Journey Optimizer] Dokumentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
+    * Decision management
 
-   * Beslutshantering
+* [Adobe [!DNL Journey Optimizer] Videos and Tutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html){target="_blank"} 
 
-* [Adobe [!DNL Journey Optimizer] Videoklipp och Tutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html){target="_blank"}
+    * Create journeys
 
-   * Skapa resor
+**Section 4: Content Authoring**
 
-**Avsnitt 4: Skapa innehåll**
+* [Adobe [!DNL Journey Optimizer] Documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"} 
 
-* [Adobe [!DNL Journey Optimizer] Dokumentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
+    * Design content
+    * Journeys
+    * Messages
+    * Personalization
+    * Landing pages
 
-   * Designinnehåll
-   * Resor
-   * Meddelanden
-   * Personalisering
-   * Landningssidor
+**Section 5: Journey Orchestration**
 
-**Avsnitt 5: Journey Orchestration**
+* [Adobe [!DNL Journey Optimizer] Documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 
-* [Adobe [!DNL Journey Optimizer] Dokumentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
-
-   * Resor
-   * Spåra och övervaka
-   * Segment
-   * Profiler och identitet
+    * Journeys
+    * Track and monitor
+    * Segments
+    * Profiles and identity
 
 <br>
 
-**Testa**
+**Take a practice test**
 
 {{practice-test}}
 
-+++
++++ 
 
 <br>
 
-+++Steg 3: Schemalägg och betala för prov
++++Step 3: Schedule & pay for exam
 
 {{schedule-and-pay}}
 
@@ -216,7 +276,7 @@ Du bör ha minst ett års erfarenhet av att arbeta med olika CDP- och marknadsf�
 
 <br>
 
-+++Steg 4: Före och efter tentamen
++++Step 4: Before and after the exam
 
 {{before-and-after}}
 
@@ -224,20 +284,20 @@ Du bör ha minst ett års erfarenhet av att arbeta med olika CDP- och marknadsf�
 
 <br>
 
-+++Steg 5: Ta provet
++++Step 5: Take the exam
 
 {{about-certification-exam}}
 
-## Schemalägg eller ta prov AD0-E603
+## Schedule or take exam AD0-E603
 
 >[!NOTE]
 >
->Detta prov, Adobe [!DNL Journey Optimizer] Developer Expert (AD0-E603), har uppdaterats. Om du redan har börjat studera eller är schemalagd att ta den här versionen, vänligen se till att slutföra den före 22 december 2023. Om du precis har börjat rekommenderar vi att du använder den [senaste versionen av denna tentamen](ajo-e-developer-23-10.md).
+>This exam, Adobe [!DNL Journey Optimizer] Developer Expert (AD0-E603), has been updated. If you have already started studying or are scheduled to take this version, please be sure to complete it before December 22, 2023. If you are just getting started, we recommend taking the [newest version of this exam](ajo-e-developer-23-10.md).
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E603" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Gå till portalen för undersökningar
+                    
+ <span class="spectrum-Button-label has-no-wrap">
+   Go to Examity portal
 </span>
 </a>
 
@@ -245,7 +305,7 @@ Du bör ha minst ett års erfarenhet av att arbeta med olika CDP- och marknadsf�
 
 <br>
 
-+++Steg 6: Hantera dina emblem
++++Step 6: Manage your badges
 
 {{manage-your-badges}}
 
@@ -253,14 +313,16 @@ Du bör ha minst ett års erfarenhet av att arbeta med olika CDP- och marknadsf�
 
 <br>
 
-## Förnya din certifiering
+## Renewing your certification
 
 {{renewing-intro}}
 
 <br>
 
-## Frågor
+## Questions
 
-Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com).
+Additional questions? [Contact us](mailto:certif@adobe.com).
+
+-->
