@@ -5,7 +5,7 @@ user-guide-description: L√§r dig mer om  [!DNL Experience Cloud] certifiering p√
 source-git-commit: 488418b73116cc626377d1611b41bdbee9bd8a97
 workflow-type: tm+mt
 source-wordcount: '253'
-ht-degree: 27%
+ht-degree: 28%
 
 ---
 
