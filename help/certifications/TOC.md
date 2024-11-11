@@ -2,7 +2,7 @@
 user-guide-title: Certifiering i Adobe
 breadcrumb-title: Certifiering i Adobe
 user-guide-description: Lär dig mer om  [!DNL Experience Cloud] certifiering på Adobe. Ta reda på vad du kan få ut av certifieringen.
-source-git-commit: 488418b73116cc626377d1611b41bdbee9bd8a97
+source-git-commit: df1be8a0aa3d31a79083a5c174f5692ace506524
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 28%
@@ -34,12 +34,6 @@ ht-degree: 28%
       + Huvud {#aa-master}
          + [Arkitekt](/help/certifications/aa/aa-m-architect.md)
       + [Förnyelse](/help/certifications/aa/aa-renew.md)
-   + Adobe [!DNL Customer Journey Analytics] {#acja}
-      + [Översikt över Customer Journey Analytics](/help/certifications/acja/acja-overview.md)
-      + Professional {#acja-professional}
-         + [Yrkesverksam](/help/certifications/acja/acja-p-business.md)
-      + Expert {#acja-expert}
-         + [Utvecklare](/help/certifications/acja/acja-e-developer.md)
    + Adobe [!DNL Audience Manager] {#aam}
       + [Översikt över Audience Manager](/help/certifications/aam/aam-overview.md)
       + Professional {#aam-professional}
@@ -79,6 +73,12 @@ ht-degree: 28%
       + Huvud {#ac-master}
          + [Arkitekt](/help/certifications/ac/ac-m-architect.md)
       + [Förnyelse](/help/certifications/ac/ac-renew.md)
+   + Adobe [!DNL Customer Journey Analytics] {#acja}
+      + [Översikt över Customer Journey Analytics](/help/certifications/acja/acja-overview.md)
+      + Professional {#acja-professional}
+         + [Yrkesverksam](/help/certifications/acja/acja-p-business.md)
+      + Expert {#acja-expert}
+         + [Utvecklare](/help/certifications/acja/acja-e-developer.md)
    + Adobe [!DNL Document Cloud] {#adc}
       + [Översikt över Document Cloud](/help/certifications/adc/adc-overview.md)
       + Professional {#adc-professional}
@@ -101,6 +101,13 @@ ht-degree: 28%
       + Huvud {#aem-master}
          + [Arkitekt (platser)](/help/certifications/aem/aem-sites-m-architect.md)
       + [Förnyelse](/help/certifications/aem/aem-renew.md)
+   + Adobe [!DNL Journey Optimizer] {#ajo}
+      + [Journey Optimizer - översikt](/help/certifications/ajo/ajo-overview.md)
+      + Professional {#ajo-professional}
+         + [Yrkesverksam](/help/certifications/ajo/ajo-p-business.md)
+      + Expert {#ajo-expert}
+         + [Utvecklare](/help/certifications/ajo/ajo-e-developer-23-10.md)
+      + [Förnyelse](/help/certifications/ajo/ajo-renew.md)
    + Adobe [!DNL Marketo Engage] {#ame}
       + [Översikt över Marketo Engage](/help/certifications/ame/ame-overview.md)
       + Professional {#ame-professional}
@@ -117,13 +124,6 @@ ht-degree: 28%
       + Expert {#rtcdp-expert}
          + [Utvecklare](/help/certifications/rtcdp/rtcdp-e-developer.md)
       + [Förnyelse](/help/certifications/rtcdp/rtcdp-renew.md)
-   + Adobe [!DNL Journey Optimizer] {#ajo}
-      + [Journey Optimizer - översikt](/help/certifications/ajo/ajo-overview.md)
-      + Professional {#ajo-professional}
-         + [Yrkesverksam](/help/certifications/ajo/ajo-p-business.md)
-      + Expert {#ajo-expert}
-         + [Utvecklare](/help/certifications/ajo/ajo-e-developer-23-10.md)
-      + [Förnyelse](/help/certifications/ajo/ajo-renew.md)
    + Adobe [!DNL Target] {#at}
       + [Målöversikt](/help/certifications/at/at-overview.md)
       + Professional {#at-professional}
