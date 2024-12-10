@@ -3,10 +3,10 @@ title: Experience Manager Certification Overview
 description: Översikt över certifieringsalternativ för Adobe Experience Manager
 solution: Experience Manager
 exl-id: abec7565-58dd-46d7-bebc-5676a22201e2
-source-git-commit: 19e2a9d5c40fa94ab5be60fddb6fae488205233a
+source-git-commit: bcf93b87d923a5902a7a93afe0e2eb52c060a1a1
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 10%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,8 @@ Välj nivå och befattning för att hitta mer information om den certifiering du
 **Professional**
 
 * [Affärsansvarig](https://certification.adobe.com/certification/experience-manager-business-practitioner-professional){target="_blank"} <!--AD0-E126-->
-* [Utvecklare (webbplatser)](https://certification.adobe.com/certification/sites-developer-professional){target="_blank"} <!--AD0-E123-->
+* [Utvecklare (webbplatser) - NYTT](https://certification.adobe.com/certification/sites-developer-professional-v2){target="_blank"} <!--AD0-E128-->
+* [Utvecklare (webbplatser) - upphör 10 februari 2025](https://certification.adobe.com/certification/sites-developer-professional){target="_blank"} <!--AD0-E123-->
 * [Utvecklare (Assets)](https://certification.adobe.com/certification/assets-developer-professional){target="_blank"} <!--AD0-E129-->
 * [Back-end Developer (Forms)](https://certification.adobe.com/certification/backend-developer-professional){target="_blank"} <!--AD0-E127-->
 * [Teknisk grund](https://certification.adobe.com/certification/technical-foundations-professional){target="_blank"} <!--AD0-E132-->
