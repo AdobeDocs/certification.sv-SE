@@ -5,87 +5,71 @@ solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
 hidefromtoc: true
-source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
+source-git-commit: a033bd6a57abf06eb6712cf1aca076b39e8a4739
 workflow-type: tm+mt
-source-wordcount: '724'
-ht-degree: 1%
+source-wordcount: '348'
+ht-degree: 2%
 
 ---
 
 # Kom igång {#getting-started}
 
-Adobe är utformade för att validera kunskapen och kompetensen hos yrkesverksamma som arbetar med våra digitala marknadsföringslösningar. Använd följande flikar för att börja lära dig mer om certifieringsprogrammet.
+>[!NOTE]
+>
+>**Adobe Digital Experience Certification Program har flyttats till den nya [Adobe Certification Portal](https://certification.adobe.com/){target="_blank"}!** Läs om de nya funktionerna och hur du kommer igång nedan.
 
->[!BEGINTABS]
+## Vad finns på den nya certifieringsportalen för Adobe?
 
->[!TAB Provtyper]
+Allt du tidigare hittade på den här sidan, och mycket mer!
 
-Lär dig skillnaden mellan de typer av prov du kommer att träffa på under din certifieringsresa.
+* Provplanering
+* Provinformation
+* Studieresurser
+* Praktiska tester
+* Validering och delning av emblem
+* Nya tekniska kurser
+* Nya Adobe Digital Experience Community
+* En ny interaktiv kontrollpanel där du kan spåra och dela med dig av kurs- och certifieringsaktiviteter
 
-| Typ | Beskrivning |
-| ------- | ------- |
-| Certifieringsprov | Certifiering är en certifiering som godkänner en individs skicklighet och kompetens i en Adobe-applikation. En kandidat som godkänns i certifieringstest blir Adobe Certified Professional, Expert eller Master för den produkt och jobbroll som provet baseras på. |
-| tentamen om förnyelse | certifieringarna i Adobe går ut efter två år. Genom att ta och godkänna en förnyelseexamen förlängs certifieringsuppgifterna med ytterligare två år. |
-| Kursbedömning | För vissa lösningar erbjuder Adobe ett alternativ till att klara förnyelseprov för att behålla certifieringsuppgifter. Kandidaterna erbjuds (vanligtvis) 5 till 7 on-demand-kurser att granska. Varje kurs har en kort utvärdering kopplad till den kursen, som kallas _kursbedömning_. Kriteriet för att förnya certifieringen är att godkänna tre bedömningar baserade på kurserna ELLER godkänna två bedömningar och skicka in ett signerat referensformulär för kunden. |
-| Praktisk provning | Ett praktiktest är en fullständig version av ett certifieringsprov som baseras på samma innehåll (provmål) som certifieringsprovet. Även om de inte är samma frågor som du besvarar i samband med certifieringstest, skrivs övningsfrågorna samtidigt som certifieringsprovet. Om du klarar ett övningstest kan du inte garantera att du kommer att klara certifieringsprovet, men det ger en enastående indikation på din beredskap att genomföra provet |
-| Exempelfrågor | För vissa certifieringsprov har Adobe ännu inte fullängdsprov. För dessa prov finns en representativ uppsättning exempelfrågor. |
-| Beredskapenkät | Ett beredskapsfrågeformulär är ett annat verktyg som du kan använda för att bedöma om du är redo att genomföra din certifieringstest. Frågeformuläret för beredskap innehåller bekräftande uppgifter baserade på provens mål. Genom att svara ja eller nej på varje uttalande kan du avgöra om du är redo med avseende på de huvudsakliga innehållsområdena som provet omfattar. |
+## Vanliga frågor och svar
 
-{style="table-layout:auto"}
+### Var ska jag börja?
 
->[!TAB Certifieringsnivåer]
+[Logga in idag](https://certification.adobe.com/){target="_blank"} och verifiera dina profildata.
 
-Adobe [!DNL Experience Cloud] erbjuder tre olika certifieringsnivåer: Professional, Expert och Master. Dessa certifieringar är avsedda att validera kompetensen och kunskapen hos yrkesverksamma som arbetar med Adobe digitala marknadsföringslösningar.
+Utforska sedan våra [kurser](https://certification.adobe.com/courses/?/courses){target="_blank"}, [certifieringar](https://certification.adobe.com/certifications){target="_blank"}, [community](https://certification.adobe.com/community/){target="_blank"} och [anpassningsbara kontrollpaneler](https://certification.adobe.com/user/dashboard){target="_blank"}.
 
-Dessa nivåer avspeglar en utveckling i fråga om kompetens och kunskap, där den professionella certifieringen är grundnivån, där Expert är mellannivån och Master är den högsta certifieringsnivån.
+### Hur schemalägger jag en tentamen?
 
-| Märke | Beskrivning |
-| ------- | ------- |
-| ![Professionellt märke](/help/certifications/assets/professional-badge-Xsmall.png) | **Professionella certifieringar** verifierar att en kandidat har en grundläggande förståelse för Adobe digitala marknadsföringslösningar. Certifieringsprovet omfattar grundläggande begrepp och funktioner i Adobe [!DNL Experience Cloud]. |
-| ![Expert Badge](/help/certifications/assets/expert-badge-Xsmall.png) | **Expertcertifieringar** är till för yrkesverksamma som har en mer avancerad förståelse för Adobe digitala marknadsföringslösningar. Certifieringsprovet omfattar mer komplexa begrepp och funktioner i Adobe [!DNL Experience Cloud], inklusive implementering och felsökning. |
-| ![Master Badge](/help/certifications/assets/master-badge-Xsmall.png) | **Mastercertifikat** är till för yrkesverksamma som har en djupgående förståelse för Adobe digitala marknadsföringslösningar och som har visat sig ha expertis inom flera områden av Adobe [!DNL Experience Cloud]. Certifieringsprovet omfattar avancerade ämnen och scenarier, inklusive komplexa integreringar, anpassningar och felsökning. |
+Du kan nu schemalägga en tentamen på certifieringsportalen för Adobe.
 
-{style="table-layout:auto"}
+1. Gå till [Certifieringskatalogen](https://certification.adobe.com/certifications){target="_blank"}.
+2. Hitta ditt prov
+3. Gå till fliken **Schema eller genomför en tentamen**.
+4. I avsnittet **Schemalägg och betala för provet** hittar du länken till provsidan.
+5. Klicka på knappen **Schemalägg tentamen**.
 
->[!TAB Jobbroller]
+### Var hittar jag min certifieringsinformation?
 
-Adobe certifieringstester är anpassade till tre olika jobbroller. Läs informationen nedan för att hitta rätt certifiering för din karriärväg.
+Dina aktiva certifieringar har redan migrerats till [ditt konto](https://certification.adobe.com/user/certifications){target="_blank"} på certifieringsportalen i Adobe. Vissa delar av ditt konto kanske inte är fullständigt ifyllda när vi migrerar dina återstående användardata. Tack för ditt tålamod!
 
-| Logotyp | Beskrivning |
-| ------- | ------- |
-| ![Business Practitioner Badge](/help/certifications/assets/business_practitioner_blk_small.png) | **Affärskommunikation** ansvarar för att utforma, köra och hantera marknadsföringskampanjer med Adobe [!DNL Experience Cloud] -lösningar. De bör ha en grundläggande förståelse för Adobe digitala marknadsföringslösningar, liksom för upplevelsen inom marknadsföring och reklam. Certifieringen för affärsverkare validerar deras förmåga att effektivt använda Adobe digitala marknadsföringslösningar för att uppnå affärsmålen. |
-| ![Developer Badge](/help/certifications/assets/developer_blk_small.png) | **Utvecklare** ansvarar för att implementera och integrera Adobe [!DNL Experience Cloud]-lösningar i en organisations tekniska stack. De bör ha erfarenhet av programvaruutveckling och kompetens inom webbteknik som HTML, CSS, JavaScript och RESTful API:er. Utvecklarcertifieringen validerar deras förmåga att effektivt implementera och anpassa digitala marknadsföringslösningar från Adobe för att uppfylla verksamhetskrav. |
-| ![Architect Badge](/help/certifications/assets/architect_blk_small.png) | **Arkitekter** ansvarar för att utforma och implementera företagslösningar med Adobe [!DNL Experience Cloud] -lösningar. De bör ha omfattande kunskaper om Adobe digitala marknadsföringslösningar och ha erfarenhet av programvaruarkitektur, integrering och anpassning. Arkitektcertifieringen validerar deras förmåga att utforma och implementera komplexa lösningar med hjälp av Adobe digitala marknadsföringslösningar. |
+### Var hittar jag mina vouchers?
 
-{style="table-layout:auto"}
+Dina vouchers (inklusive de som överförts från Xvoucher) visas i [ditt konto](https://certification.adobe.com/user/purchases){target="_blank"} på certifieringsportalen för Adobe.
 
-<!--
+### Var finns mitt certifieringsmärke?
 
->[!TAB Certification journey]
+Ditt märke finns nu på Adobe Certification Portal.
 
-The Certification Journey Guide is a comprehensive tool designed to provide you with all the information you need to prepare for a certification exam. The guide is divided into three main sections: Get Ready, Get Prepped, and Get Certified.
+1. Gå till **Mitt konto** > [Prestationer](https://certification.adobe.com/user/achievements?%2Fuser%2Fachievements){target="_blank"}.
+2. Hitta widgeten **Aktiva certifieringar**.
 
-| Sections | Description |
-| ------- | ------- |
-|**Get Ready** | Intended to give an overview of the exam, including information about the intended audience, exam details, readiness self-assessment, exam objectives, and scope. This section helps you understand the exam and what you can expect when taking it. The readiness self-assessment is particularly helpful, as it allows you to determine your current level of knowledge and identify areas where you may need to focus your study efforts. |
-| **Get Prepped** | Is where you can find training and resources to help you prepare for the exam. This section includes information about and links to study materials and training courses. |
-| **Get Certified** | Offers valuable information on how to register for the certification exam, including details about the registration process and available payment methods. In addition, this section also provides a clear overview of the exam process. Look to this section for helpful resources, such as a link to the Adobe Certification Prep Portal for exams that offer practice tests, as well as links to register for certification exams. |
+* Klicka på knappen **Dela** om du vill visa verifieringssidan för ditt emblem. Från den sidan kan du dela till sociala medier.
 
-{style="table-layout:auto"}
+* Klicka på miniatyrbilden för **emblem** om du vill hämta ditt emblem.
 
--->
+### Frågor?
 
->[!ENDTABS]
+Visa [instruktionsvideor](https://certification.adobe.com/#){target="_blank"} längst ned på vår hemsida, gå till [Frågor och svar](https://certification.adobe.com/support/faq){target="_blank"} eller [kontakta oss](https://certification.adobe.com/support/contactus){target="_blank"}.
 
-<a href="https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Bli certifierad
-</span>
-</a>
-
-## Frågor
-
-Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
-
-Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com).
+Vi är glada över att du vill utforska det nya hemmet i Adobe Digital Experience Certification Program och ta del av våra nya funktioner!
