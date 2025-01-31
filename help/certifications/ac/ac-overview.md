@@ -4,7 +4,7 @@ description: Översikt över certifieringsalternativ för Adobe Commerce
 solution: Commerce
 product: Magento
 exl-id: 8a9f63f9-b2f9-438f-b1f5-8706b2768626
-source-git-commit: cefdda546e5bc8e5462876a74ef78dd6689e2026
+source-git-commit: 077b8ee1a5f6420ce393dac8074e2abe375e2710
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 8%
@@ -28,7 +28,7 @@ Välj nivå och befattning för att hitta certifierings- och examinationsinforma
 * [Utvecklare - NYTT](https://certification.adobe.com/certification/adobe-commerce-developer-expert-v2){target="_blank"} <!--AD0-E716-->
 * [Utvecklare - upphör 17 februari 2025](https://certification.adobe.com/certification/adobe-commerce-developer-expert){target="_blank"} <!--AD0-E716-->
 * [Front-end-utvecklare - NYTT](https://certification.adobe.com/certification/front-end-developer-expert-v2){target="_blank"} <!--AD0-E727-->
-* [Front-end Developer - upphör 15 mars 2025](https://certification.adobe.com/certification/front-end-developer-expert){target="_blank"} <!--AD0-E720-->
+* [Front-end Developer - Gäller till 30 mars 2025](https://certification.adobe.com/certification/front-end-developer-expert){target="_blank"} <!--AD0-E720-->
 
 **Mallen**
 
