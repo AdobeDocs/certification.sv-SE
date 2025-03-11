@@ -8,7 +8,7 @@ badge: label="Prov AD0-E208" type="neutral"
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: b6d28322826e854bfcd91a94c07b84edbc7df4f1
+source-git-commit: 31982155cb5a87645b8705688ff376d44c7e61dd
 workflow-type: tm+mt
 source-wordcount: '351'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 >
 >**Adobe Digital Experience Certification Program har flyttats till den nya [Adobe Certification Portal](https://certification.adobe.com/){target="_blank"}!** Läs om de nya funktionerna och hur du kommer igång nedan.
 
-## Vad finns på den nya certifieringsportalen för Adobe?
+## Vad finns det i den nya Adobe Certification Portal?
 
 Allt du tidigare hittade på den här sidan, och mycket mer!
 
@@ -44,7 +44,7 @@ Utforska sedan våra [kurser](https://certification.adobe.com/courses/?/courses)
 
 ### Hur schemalägger jag en tentamen?
 
-Du kan nu schemalägga en tentamen på certifieringsportalen för Adobe.
+Nu kan du schemalägga en tentamen på Adobe Certification Portal.
 
 1. Gå till [Certifieringskatalogen](https://certification.adobe.com/certifications){target="_blank"}.
 2. Hitta ditt prov
@@ -54,11 +54,11 @@ Du kan nu schemalägga en tentamen på certifieringsportalen för Adobe.
 
 ### Var hittar jag min certifieringsinformation?
 
-Dina aktiva certifieringar har redan migrerats till [ditt konto](https://certification.adobe.com/user/certifications){target="_blank"} på certifieringsportalen i Adobe. Vissa delar av ditt konto kanske inte är fullständigt ifyllda när vi migrerar dina återstående användardata. Tack för ditt tålamod!
+Dina aktiva certifieringar har redan migrerats till [ditt konto](https://certification.adobe.com/user/certifications){target="_blank"} på Adobe Certification Portal. Vissa delar av ditt konto kanske inte är fullständigt ifyllda när vi migrerar dina återstående användardata. Tack för ditt tålamod!
 
 ### Var hittar jag mina vouchers?
 
-Dina vouchers (inklusive de som överförts från Xvoucher) visas i [ditt konto](https://certification.adobe.com/user/purchases){target="_blank"} på certifieringsportalen för Adobe.
+Dina vouchers (inklusive de som överförts från Xvoucher) visas i [ditt konto](https://certification.adobe.com/user/purchases){target="_blank"} på Adobe Certification Portal.
 
 ### Var finns mitt certifieringsmärke?
 
@@ -75,4 +75,4 @@ Ditt märke finns nu på Adobe Certification Portal.
 
 Visa [instruktionsvideor](https://certification.adobe.com/#){target="_blank"} längst ned på vår hemsida, gå till [Frågor och svar](https://certification.adobe.com/support/faq){target="_blank"} eller [kontakta oss](https://certification.adobe.com/support/contactus){target="_blank"}.
 
-Vi är glada över att du vill utforska det nya hemmet i Adobe Digital Experience Certification Program och ta del av våra nya funktioner!
+Vi är glada över att du vill utforska det nya hemmet i Adobe Digital Experience Certification Program och dra nytta av våra nya funktioner.
