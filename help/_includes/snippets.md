@@ -110,7 +110,7 @@ De här stegen tar dig igenom certifieringsprocessen från början till slut.
 >
 > **Offentligt ID krävs:** Du MÅSTE använda ett foto-ID som din giltiga form av ID. Mjuka kopior eller digitala ID:n tillåts inte. <br><br> **Adobe ID-kontonamn:** Ditt Adobe ID-kontonamn MÅSTE matcha ditt namn på ditt myndighets-ID. Om du vill uppdatera ditt Adobe ID-kontonamn skickar du e-post <certif@adobe.com>. Begär den här korrigeringen **72 timmar i förväg**. Om namnen inte överensstämmer vid tidpunkten för provet måste du registrera dig för en ny tentamen till en extra kostnad.
 
-Du måste ha en Adobe ID för att kunna boka och ta prov. Om du inte har någon Adobe ID kan du skapa en [här](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
+Du måste ha en Adobe ID för att kunna boka och ta prov. Om du inte har någon Adobe ID kan du skapa en [här](https://helpx.adobe.com/se/manage-account/using/create-update-adobe-id.html).
 
 Det är nödvändigt att ha en Adobe ID av tre skäl:
 
@@ -278,7 +278,7 @@ Ditt märke är ett bevis på din kompetens med Adobe Experience Cloud produkter
 
 ## Förnya din certifiering {#renewing-intro}
 
-Certifieringarna upphör att gälla efter två år. Om du vill behålla din certifiering måste du förnya den innan den upphör att gälla. Mer information finns på sidan [Förnya din certifiering](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"}.
+Certifieringarna upphör att gälla efter två år. Om du vill behålla din certifiering måste du förnya den innan den upphör att gälla. Mer information finns på sidan [Förnya din certifiering](https://experienceleague.adobe.com/docs/certification/program/renew.html?lang=sv-SE){target="_blank"}.
 
 <!--divider-->
 
