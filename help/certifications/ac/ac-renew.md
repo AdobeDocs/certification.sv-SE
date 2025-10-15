@@ -131,7 +131,7 @@ Here are some suggested resources to help you prepare:
 * [Google Analytics](https://experienceleague.adobe.com/docs/commerce-admin/marketing/google-tools/google-analytics.html?lang=sv-SE){target="_blank"}
 * [SEO Overview](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/seo-overview.html?lang=sv-SE){target="_blank"}
 * [Enhanced storefront experiences](https://experienceleague.adobe.com/docs/commerce-admin/start/storefront/enhanced-experiences.html?lang=sv-SE){target="_blank"}
-* [PCI compliance](https://business.adobe.com/products/magento/pci-compliance.html){target="_blank"}
+* [PCI compliance](https://business.adobe.com/se/products/magento/pci-compliance.html){target="_blank"}
 * [Learn the difference between omnichannel and multichannel marketing](https://business.adobe.com/blog/basics/omnichannel-vs-multichannel-marketing){target="_blank"}
 
 **Section 4**
