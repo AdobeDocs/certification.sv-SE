@@ -12,7 +12,7 @@ ht-degree: 8%
 
 # Översikt över Adobe [!DNL Workfront] Certification
 
-Välj din nivå och jobbroll för att hitta detaljer om certifieringsprovet, få tillgång till studieresurser och boka in ditt prov. Du kan också utforska hela certifieringskatalogen[ ](https://certification.adobe.com/certifications){target="_blank"}samt [tekniska utbildningskurser](https://certification.adobe.com/courses/?/courses){target="_blank"}.
+Välj din nivå och jobbroll för att hitta detaljer om certifieringsprovet, få tillgång till studieresurser och boka in ditt prov. Du kan också utforska hela certifieringskatalogen[&#x200B; &#x200B;](https://certification.adobe.com/certifications){target="_blank"}samt [tekniska utbildningskurser](https://certification.adobe.com/courses/?/courses){target="_blank"}.
 
 **Kvalificerad legitimation**
 _Observera att den kvalificerade certifieringen inte är en certifiering._
