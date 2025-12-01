@@ -3,9 +3,9 @@ title: Experience Manager Certification Overview
 description: Översikt över certifieringsalternativ för Adobe Experience Manager
 solution: Experience Manager
 exl-id: abec7565-58dd-46d7-bebc-5676a22201e2
-source-git-commit: 51821a1e368916d6bd4d0224be99ee5ae5b97ae1
+source-git-commit: c65a72d11c5f52ba13e41c60dc38314a5555be1c
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '133'
 ht-degree: 6%
 
 ---
@@ -16,7 +16,8 @@ Välj nivå och befattning för att hitta certifierings- och examinationsinforma
 
 **Professional**
 
-* [Affärsdeltagare](https://certification.adobe.com/certification/experience-manager-business-practitioner-professional){target="_blank"} <!--AD0-E126-->
+* [Affärsansvarig - NYTT](https://certification.adobe.com/certification/business-practitioner-professional-v2/539){target="_blank"} <!--AD0-E138-->
+* [Affärsåklagare - förfaller 24 januari 2026](https://certification.adobe.com/certification/experience-manager-business-practitioner-professional){target="_blank"} <!--AD0-E126-->
 * [Utvecklare (webbplatser)](https://certification.adobe.com/certification/sites-developer-professional-v2){target="_blank"} <!--AD0-E128-->
 * [Utvecklare (Assets)](https://certification.adobe.com/certification/assets-developer-professional){target="_blank"} <!--AD0-E129-->
 * [Back-end Developer (Forms)](https://certification.adobe.com/certification/backend-developer-professional){target="_blank"} <!--AD0-E127-->
