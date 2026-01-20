@@ -3,10 +3,10 @@ title: Workfront Certification Overview
 description: Översikt över certifieringsalternativ för Adobe Workfront
 solution: Workfront
 exl-id: 3ab8bdd7-768e-42ab-802a-7107ea56cdfd
-source-git-commit: f2f470a40056cbcf5052262de12cd5f490514ab7
+source-git-commit: 5a731d7198970cc5857ad0a7342a82178511094a
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 7%
+source-wordcount: '85'
+ht-degree: 8%
 
 ---
 
@@ -22,8 +22,7 @@ _Observera att den kvalificerade autentiseringsuppgiften inte är en certifierin
 **Professional**
 
 * [Utvecklare (Fusion)](https://certification.adobe.com/certification/fusion-developer-professional){target="_blank"} <!--AD0-E902-->
-* [Projektledare - NYTT](https://certification.adobe.com/certification/project-manager-certified-professional){target="_blank"} <!--AD0-E911-->
-* [Projektledare - förfaller 17 januari 2026](https://certification.adobe.com/certification/project-manager-professional){target="_blank"} <!--AD0-E903-->
+* [Projektledare](https://certification.adobe.com/certification/project-manager-certified-professional){target="_blank"} <!--AD0-E911-->
 * [Utvecklare (Core) - NYTT](https://certification.adobe.com/certification/core-developer-professionalv2/1321){target="_blank"} <!--AD0-E912-->
 * [Utvecklare (Core) - gäller till 31 januari 2026](https://certification.adobe.com/certification/core-developer-professional){target="_blank"} <!--AD0-E908-->
 
