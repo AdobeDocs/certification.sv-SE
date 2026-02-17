@@ -1,10 +1,10 @@
 ---
 title: Startsida för certifiering
 description: Lär dig mer om  [!DNL Experience Cloud] certifiering på Adobe. Ta reda på vad du kan få ut av certifieringen.
-role: User,Developer,Data Architect
+role: User,Developer
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: 8e6929bf11e7e122e54035c05310e6fa730f1760
+source-git-commit: 162938c6fc6691c2a1f5656a86dc43e5b9a73c24
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 3%
@@ -19,7 +19,7 @@ Du hittar oss på den nya [Adobe-certifieringsportalen](https://certification.ad
 
 ![Banderoll](/help/certifications/assets/home_banner_smallwide.png)
 
-## Vad finns på den nya certifieringsportalen för Adobe?
+## Vad finns det i den nya Adobe Certification Portal?
 
 Allt du tidigare hittade på den här sidan, och mycket mer!
 
@@ -38,11 +38,11 @@ Allt du tidigare hittade på den här sidan, och mycket mer!
 
 [Logga in idag](https://certification.adobe.com/){target="_blank"} och verifiera dina profildata.
 
-Utforska sedan våra [kurser](https://certification.adobe.com/courses/?/courses){target="_blank"}, [certifieringar](https://certification.adobe.com/certifications){target="_blank"}, [community](https://certification.adobe.com/community/){target="_blank"} och [anpassningsbara kontrollpaneler](https://certification.adobe.com/user/dashboard){target="_blank"}.
+Utforska sedan våra [kurser](https://certification.adobe.com/courses/?/courses){target="_blank"}, [certifieringar](https://certification.adobe.com/certifications){target="_blank"}, [community](https://certification.adobe.com/community/){target="_blank"} och [anpassningsbara kontrollpanel](https://certification.adobe.com/user/dashboard){target="_blank"}.
 
 ### Hur schemalägger jag en tentamen?
 
-Du kan nu schemalägga en tentamen på certifieringsportalen för Adobe.
+Nu kan du schemalägga en tentamen på Adobe Certification Portal.
 
 1. Gå till [Certifieringskatalogen](https://certification.adobe.com/certifications){target="_blank"}.
 2. Hitta ditt prov
@@ -52,11 +52,11 @@ Du kan nu schemalägga en tentamen på certifieringsportalen för Adobe.
 
 ### Var hittar jag min certifieringsinformation?
 
-Dina aktiva certifieringar har redan migrerats till [ditt konto](https://certification.adobe.com/user/certifications){target="_blank"} på certifieringsportalen i Adobe. Vissa delar av ditt konto kanske inte är fullständigt ifyllda när vi migrerar dina återstående användardata. Tack för ditt tålamod!
+Dina aktiva certifieringar har redan migrerats till [ditt konto](https://certification.adobe.com/user/certifications){target="_blank"} på Adobe Certification Portal. Vissa delar av ditt konto kanske inte är fullständigt ifyllda när vi migrerar dina återstående användardata. Tack för ditt tålamod!
 
 ### Var hittar jag mina vouchers?
 
-Dina vouchers (inklusive de som överförts från Xvoucher) visas i [ditt konto](https://certification.adobe.com/user/purchases){target="_blank"} på certifieringsportalen för Adobe.
+Dina vouchers (inklusive de som överförts från Xvoucher) visas i [ditt konto](https://certification.adobe.com/user/purchases){target="_blank"} på Adobe Certification Portal.
 
 ### Var finns mitt certifieringsmärke?
 
@@ -71,10 +71,10 @@ Ditt märke finns nu på Adobe Certification Portal.
 
 ### Var kan jag hitta Adobe Creative Cloud-certifieringar?
 
-Besök webbplatsen [Adobe Certified Professional](https://certifiedprofessional.adobe.com/en/home){target="_blank"} om du vill veta mer om hur du certifierar dig i Creative Cloud-program.
+Gå till webbplatsen [Adobe Certified Professional](https://certifiedprofessional.adobe.com/en/home){target="_blank"} om du vill veta mer om hur du certifierar dig i Creative Cloud-program.
 
 ### Frågor?
 
-Visa [instruktionsvideor](https://certification.adobe.com/#){target="_blank"} längst ned på vår hemsida, gå till [Frågor och svar](https://certification.adobe.com/support/faq){target="_blank"} eller [kontakta oss](https://certification.adobe.com/support/contactus){target="_blank"}.
+Visa [instruktionsvideorna](https://certification.adobe.com/#){target="_blank"} längst ned på vår hemsida, besök [Vanliga frågor](https://certification.adobe.com/support/faq){target="_blank"} eller [kontakta oss](https://certification.adobe.com/support/contactus){target="_blank"}.
 
 Vi är glada över att du vill utforska det nya hemmet i Adobe Digital Experience Certification Program och ta del av våra nya funktioner!
