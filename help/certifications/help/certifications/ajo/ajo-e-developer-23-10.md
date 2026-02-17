@@ -7,9 +7,9 @@ role: Developer
 badge: label="Prov AD0-E606" type="neutral"
 hidefromtoc: true
 exl-id: null
-source-git-commit: 307d716211cf1c4b5c9cfe4e2698389bc8fde5f4
+source-git-commit: 3e0e0deed8d03499ce66d954fcd2ce140783c930
 workflow-type: tm+mt
-source-wordcount: '650'
+source-wordcount: '614'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Det här är det senaste Adobe [!DNL Journey Optimizer]-provet för utvecklarexpert (AD0-E606). Om du redan har börjat studera eller har schemalagt den [äldre versionen](ajo-e-developer.md) måste du slutföra den senast 22 december 2023.
+>Det här är den senaste Adobe [!DNL Journey Optimizer] Developer Expert-provet (AD0-E606).
 
 
 ## Provbeskrivning {#exam-description}
@@ -53,7 +53,7 @@ ht-degree: 0%
 * Beslutsfattare
 * Kampanjutvecklare
 * Konsult för slutprodukter
-* Specialist inom RTCDP-segmentering
+* RTCDP segmenteringsspecialist
 * Kampanjarkitekt
 * Kundresespecialist
 * Mobilutvecklare/webbutvecklare
@@ -87,7 +87,7 @@ Adobe Journey Optimizer drivs av Experience Platform. De sökande som vill bli c
 * Ange lämpliga användningsfall för en resetyp utifrån ett scenario
 * Förbered testfall (t.ex. experiment eller flerkanalsresor)
 
-**Avsnitt 3: Offer decisioning (16 %)**
+**Avsnitt 3: Offer Decisioning (16 %)**
 
 * Uppvisa förståelse för att skapa och hantera erbjudanden och komponenter
 * Uppvisa hur man använder testprofiler för att köra erbjudandesimulering
@@ -131,29 +131,29 @@ Adobe Journey Optimizer drivs av Experience Platform. De sökande som vill bli c
 
 **Avsnitt 1: Administration och konfiguration**
 
-* [Experience Platform, Åtkomstkontroll, Handbok för sandlådor](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=sv-SE){target="_blank"}
-* [AJO Guide, Configuration, SMS channel, Journeys](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=sv-SE){target="_blank"}
+* [Experience Platform, åtkomstkontroll, Handbok för sandlådor](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html){target="_blank"}
+* [AJO Guide, Configuration, SMS channel, Journeys](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 * [AJO API:er](https://developer.adobe.com/journey-optimizer-apis/#tag/Suppression/operation/deleteAllSuppressions){target="_blank"}
 
 **Avsnitt 2: Journey Orchestration**
 
-* [AJO Guide, Journeys, Expressions, Track and monitor](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=sv-SE){target="_blank"}
+* [AJO Guide, Journeys, Expressions, Track and monitor](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 
-**Avsnitt 3: Offer decisioning**
+**Avsnitt 3: Offer Decisioning**
 
-* [AJO Guide, Decision management, API reference](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=sv-SE){target="_blank"}
+* [AJO Guide, Decision management, API reference](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 
 **Avsnitt 4: Skapa innehåll**
 
-* [AJO Guide, SMS channel, Privacy, Configuration, Journeys, Expressions, Content Management, Track and Monitor, Push Notification channel](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=sv-SE){target="_blank"}
-* [Journey Optimizer Tutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=sv-SE){target="_blank"}
+* [AJO Guide, SMS channel, Privacy, Configuration, Journeys, Expressions, Content Management, Track and Monitor, Push Notification channel](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
+* [Journey Optimizer-självstudiekurser](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html){target="_blank"}
 
 **Avsnitt 5: Datamodellering**
 
-* [AJO-guide, konfiguration, målgrupper, profiler och identitet, datahantering](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=sv-SE){target="_blank"}
-* [Experience Platform, datauppsättningar, Source Connectors Guide, API Tutorials, Platform Identity Service Guide, Segmenteringsgränssnitt, UI Tutorials](https://experienceleague.adobe.com/docs/experience-platform.html?lang=sv-SE){target="_blank"}
+* [AJO-guide, konfiguration, målgrupper, profiler och identitet, datahantering](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
+* [Experience Platform, datauppsättningar, Source Connectors Guide, API Tutorials, Platform Identity Service Guide, Segmentation UI, UI Tutorials](https://experienceleague.adobe.com/docs/experience-platform.html){target="_blank"}
 
-+++
++++ 
 
 <br>
 
@@ -181,7 +181,7 @@ Adobe Journey Optimizer drivs av Experience Platform. De sökande som vill bli c
 
 >[!NOTE]
 >
->Det här är det senaste Adobe [!DNL Journey Optimizer]-provet för utvecklarexpert (AD0-E606). Om du redan har börjat studera eller har schemalagt den [äldre versionen](ajo-e-developer.md) måste du slutföra den senast 22 december 2023.
+>Det här är den senaste Adobe [!DNL Journey Optimizer] Developer Expert-provet (AD0-E606).
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E606" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -210,6 +210,6 @@ Adobe Journey Optimizer drivs av Experience Platform. De sökande som vill bli c
 
 ## Frågor
 
-Visa certifiering [Frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=sv-SE){target="_blank"}.
+Visa [vanliga frågor och svar](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} om certifiering.
 
 Ytterligare frågor? [Kontakta oss](mailto:certif@adobe.com).
